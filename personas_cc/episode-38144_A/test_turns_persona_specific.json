@@ -1,0 +1,78 @@
+{
+  "persona_id": "episode-38144_A",
+  "split": "test",
+  "total_turns": 20,
+  "selected_turns": 6,
+  "selection_rate": 0.3,
+  "turns": [
+    {
+      "user": "Well, keep up the good work. And don't forget to take breaks from time to time. ",
+      "assistant": "Haha, will do. Thanks for looking out for me, Neighbor B. ",
+      "context": "Neighbors B: That's awesome. It's great to see you pursuing something you're passionate about. \nNeighbors A: Yeah, definitely. It's been really fulfilling. \nNeighbors B: Well, keep up the good work. And don't forget to take breaks from time to time. ",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "隣人としての関係性が示されている",
+      "criteria_met": [
+        "関係性特有"
+      ]
+    },
+    {
+      "user": "That's awesome! You've always been into history, haven't you?",
+      "assistant": "Yeah, I've always been fascinated by it. I remember when we used to talk about the Civil War a lot.",
+      "context": "Neighbors B: Oh yeah? What's up?\nNeighbors A: My history teacher quizzed us on the Civil War, and I was able to answer a question that no one else knew. The teacher was impressed with my knowledge.\nNeighbors B: That's awesome! You've always been into history, haven't you?",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "共有記憶への言及があるため",
+      "criteria_met": [
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "Yeah, I remember that too. It's cool to see that your passion for history is still going strong.",
+      "assistant": "Definitely. It makes me think that maybe I should consider pursuing something related to history in the future.",
+      "context": "Neighbors B: That's awesome! You've always been into history, haven't you?\nNeighbors A: Yeah, I've always been fascinated by it. I remember when we used to talk about the Civil War a lot.\nNeighbors B: Yeah, I remember that too. It's cool to see that your passion for history is still going strong.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "共有記憶と関係性特有の視点が含まれる",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "That would be great! You have a lot of knowledge and enthusiasm for it, so I think you'd be really good at it.",
+      "assistant": "Thanks, that means a lot coming from you. Hey, speaking of pursuing passions, have you made any progress on starting your own club?",
+      "context": "Neighbors B: Yeah, I remember that too. It's cool to see that your passion for history is still going strong.\nNeighbors A: Definitely. It makes me think that maybe I should consider pursuing something related to history in the future.\nNeighbors B: That would be great! You have a lot of knowledge and enthusiasm for it, so I think you'd be really good at it.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "関係性特有の進捗確認が含まれる",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "I don't know if I can commit to anything right now.",
+      "assistant": "Is everything okay? You've been turning down my invitations a lot lately.",
+      "context": "Neighbors B: Sorry, I'm busy this weekend.\nNeighbors A: That's okay, how about next weekend?\nNeighbors B: I don't know if I can commit to anything right now.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "関係性特有の心配と共有記憶への言及がある",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "Yeah, life can be unpredictable like that. But I'm glad you've found something you're passionate about.",
+      "assistant": "Definitely. Hey, I was also thinking about that club you used to be a part of. Do you miss it at all?",
+      "context": "Neighbors B: That's great to hear. You've always been really dedicated and hardworking, I'm sure you'll do great.\nNeighbors A: Thanks, I appreciate the support. It's funny, I never thought I'd end up in this field, but I'm really enjoying it.\nNeighbors B: Yeah, life can be unpredictable like that. But I'm glad you've found something you're passionate about.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "共有記憶への言及があるため",
+      "criteria_met": [
+        "共有記憶"
+      ]
+    }
+  ]
+}

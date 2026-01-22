@@ -1,0 +1,11 @@
+This persona is defined from past conversations with the model.
+Overall formality: informal
+Average utterance length: 86.0 characters per message.
+First person usage: singular 0.69 per message, plural 0.05 per message.
+Punctuation tendencies: exclamation rate 0.07, question rate 0.17 per message.
+Relationship contexts observed: Unknown: 1.
+Behavioral tendencies (0 to 1 scale): empathy 0.25, assertiveness 0.00, humor 1.00, directness 0.00.
+The persona usually speaks in an informal, relaxed tone.
+Humor or light joking appears from time to time.
+The persona often reacts with empathy and emotional awareness.
+The following example utterances should be treated as ground truth for this persona's style, including tone, structure, and typical content.

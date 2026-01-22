@@ -1,0 +1,169 @@
+{
+  "persona_id": "episode-19493_A",
+  "speaker_role": "Employee",
+  "relationship": "Employee and Boss",
+  "total_turns": 23,
+  "turns": [
+    {
+      "turn_id": 24,
+      "session": "fifth",
+      "context": "Employee: I just wanted to make sure that you knew how much I appreciate you and your guidance. It motivates me to work harder and do better.\nBoss: Well, I appreciate your hard work as well, Employee. It's a two-way street, and we both have important roles to play in making this company successful.\nEmployee: I completely agree, Boss. And I'm grateful to be a part of it.",
+      "input": "I completely agree, Boss. And I'm grateful to be a part of it.",
+      "ground_truth": "I can't believe you did that to me. I will never forgive you."
+    },
+    {
+      "turn_id": 25,
+      "session": "fifth",
+      "context": "Employee: I completely agree, Boss. And I'm grateful to be a part of it.\nEmployee: I can't believe you did that to me. I will never forgive you.\nBoss: What did I do exactly?",
+      "input": "What did I do exactly?",
+      "ground_truth": "You know exactly what you did. You crossed a line and I will never forget it."
+    },
+    {
+      "turn_id": 26,
+      "session": "fifth",
+      "context": "Boss: What did I do exactly?\nEmployee: You know exactly what you did. You crossed a line and I will never forget it.\nBoss: I understand that you are upset, but can we talk about this and try to work through it?",
+      "input": "I understand that you are upset, but can we talk about this and try to work through it?",
+      "ground_truth": "I don't think there's anything to work through. You hurt me deeply and I can't just let it go."
+    },
+    {
+      "turn_id": 27,
+      "session": "fifth",
+      "context": "Boss: I understand that you are upset, but can we talk about this and try to work through it?\nEmployee: I don't think there's anything to work through. You hurt me deeply and I can't just let it go.\nBoss: Can you at least tell me what I did wrong? I want to understand where you're coming from.",
+      "input": "Can you at least tell me what I did wrong? I want to understand where you're coming from.",
+      "ground_truth": "You took credit for my idea and presented it to the clients as your own. And then when I confronted you about it, you denied it and made me look like a fool."
+    },
+    {
+      "turn_id": 28,
+      "session": "fifth",
+      "context": "Boss: Can you at least tell me what I did wrong? I want to understand where you're coming from.\nEmployee: You took credit for my idea and presented it to the clients as your own. And then when I confronted you about it, you denied it and made me look like a fool.\nBoss: I remember that incident. And I am truly sorry for what happened. I was under a lot of pressure and I made a bad decision. But I did try to make it up to you by giving you credit for the next project we worked on.",
+      "input": "I remember that incident. And I am truly sorry for what happened. I was under a lot of pressure and I made a bad decision. But I did try to make it up to you by giving you credit for the next project we worked on.",
+      "ground_truth": "I appreciate that, but it doesn't change how I feel. I don't know if I can ever trust you again."
+    },
+    {
+      "turn_id": 29,
+      "session": "fifth",
+      "context": "Boss: I remember that incident. And I am truly sorry for what happened. I was under a lot of pressure and I made a bad decision. But I did try to make it up to you by giving you credit for the next project we worked on.\nEmployee: I appreciate that, but it doesn't change how I feel. I don't know if I can ever trust you again.\nBoss: That is completely understandable. All I can say is that I am genuinely sorry and I hope you can find it in your heart to forgive me someday.",
+      "input": "That is completely understandable. All I can say is that I am genuinely sorry and I hope you can find it in your heart to forgive me someday.",
+      "ground_truth": "I'll think about it. But for now, I can't pretend like everything is okay between us."
+    },
+    {
+      "turn_id": 30,
+      "session": "fifth",
+      "context": "Boss: That is completely understandable. All I can say is that I am genuinely sorry and I hope you can find it in your heart to forgive me someday.\nEmployee: I'll think about it. But for now, I can't pretend like everything is okay between us.\nBoss: Fair enough. Just know that I am here if you ever want to talk about it or work through it. I value you as an employee and as a person. ",
+      "input": "Fair enough. Just know that I am here if you ever want to talk about it or work through it. I value you as an employee and as a person. ",
+      "ground_truth": "*silence* "
+    },
+    {
+      "turn_id": 31,
+      "session": "fifth",
+      "context": "Boss: Fair enough. Just know that I am here if you ever want to talk about it or work through it. I value you as an employee and as a person. \nEmployee: *silence* \nBoss: Is there anything else you would like to talk about?",
+      "input": "Is there anything else you would like to talk about?",
+      "ground_truth": "No, that's all for now. "
+    },
+    {
+      "turn_id": 32,
+      "session": "fifth",
+      "context": "Boss: Is there anything else you would like to talk about?\nEmployee: No, that's all for now. \nBoss: Alright, let's touch base again in a few days and see how you're feeling. ",
+      "input": "Alright, let's touch base again in a few days and see how you're feeling. ",
+      "ground_truth": "Okay. "
+    },
+    {
+      "turn_id": 33,
+      "session": "fifth",
+      "context": "Employee: No, that's all for now. \nBoss: Alright, let's touch base again in a few days and see how you're feeling. \nEmployee: Okay. ",
+      "input": "Okay. ",
+      "ground_truth": "I just can't believe that some people can be so careless and not think about their actions."
+    },
+    {
+      "turn_id": 34,
+      "session": "fifth",
+      "context": "Employee: Okay. \nEmployee: I just can't believe that some people can be so careless and not think about their actions.\nBoss: Is there something that specifically happened to make you feel that way?",
+      "input": "Is there something that specifically happened to make you feel that way?",
+      "ground_truth": "Yeah, I was just thinking about a project I worked on recently where one of the team members made a mistake that caused a huge delay. It could have been avoided if they just took a little more time to double check their work."
+    },
+    {
+      "turn_id": 35,
+      "session": "fifth",
+      "context": "Boss: Is there something that specifically happened to make you feel that way?\nEmployee: Yeah, I was just thinking about a project I worked on recently where one of the team members made a mistake that caused a huge delay. It could have been avoided if they just took a little more time to double check their work.\nBoss: That does sound frustrating. Have you talked to them about it?",
+      "input": "That does sound frustrating. Have you talked to them about it?",
+      "ground_truth": "Yes, and they apologized, but it's still frustrating. It's important to think before you act, especially when it comes to work."
+    },
+    {
+      "turn_id": 36,
+      "session": "fifth",
+      "context": "Boss: That does sound frustrating. Have you talked to them about it?\nEmployee: Yes, and they apologized, but it's still frustrating. It's important to think before you act, especially when it comes to work.\nBoss: You're absolutely right. It's important to take the time to ensure we are doing things the right way. And it's also important to be forgiving when others make mistakes. We all make them from time to time.",
+      "input": "You're absolutely right. It's important to take the time to ensure we are doing things the right way. And it's also important to be forgiving when others make mistakes. We all make them from time to time.",
+      "ground_truth": "I know, but it's hard when it affects other people's work and projects."
+    },
+    {
+      "turn_id": 37,
+      "session": "fifth",
+      "context": "Boss: You're absolutely right. It's important to take the time to ensure we are doing things the right way. And it's also important to be forgiving when others make mistakes. We all make them from time to time.\nEmployee: I know, but it's hard when it affects other people's work and projects.\nBoss: Of course. But we can't dwell on it forever. We have to learn from our mistakes and move forward. ",
+      "input": "Of course. But we can't dwell on it forever. We have to learn from our mistakes and move forward. ",
+      "ground_truth": "You're right. Thanks for putting it into perspective. "
+    },
+    {
+      "turn_id": 38,
+      "session": "fifth",
+      "context": "Employee: I know, but it's hard when it affects other people's work and projects.\nBoss: Of course. But we can't dwell on it forever. We have to learn from our mistakes and move forward. \nEmployee: You're right. Thanks for putting it into perspective. ",
+      "input": "You're right. Thanks for putting it into perspective. ",
+      "ground_truth": "I just got paid for the roofing job I did last week. I charged $50 and now I have $50!"
+    },
+    {
+      "turn_id": 39,
+      "session": "fifth",
+      "context": "Employee: You're right. Thanks for putting it into perspective. \nEmployee: I just got paid for the roofing job I did last week. I charged $50 and now I have $50!\nBoss: Congratulations! That's great to hear.",
+      "input": "Congratulations! That's great to hear.",
+      "ground_truth": "Thanks! It's a good feeling to earn some extra money and also to learn new skills."
+    },
+    {
+      "turn_id": 40,
+      "session": "fifth",
+      "context": "Boss: Congratulations! That's great to hear.\nEmployee: Thanks! It's a good feeling to earn some extra money and also to learn new skills.\nBoss: Absolutely. It's always good to diversify our skills and add new experiences to our repertoire.",
+      "input": "Absolutely. It's always good to diversify our skills and add new experiences to our repertoire.",
+      "ground_truth": "Plus, it's satisfying to work with your hands and see the tangible result of your labor."
+    },
+    {
+      "turn_id": 41,
+      "session": "fifth",
+      "context": "Boss: Absolutely. It's always good to diversify our skills and add new experiences to our repertoire.\nEmployee: Plus, it's satisfying to work with your hands and see the tangible result of your labor.\nBoss: I couldn't agree more. And who knows? Maybe you'll discover a new passion or interest in the process.",
+      "input": "I couldn't agree more. And who knows? Maybe you'll discover a new passion or interest in the process.",
+      "ground_truth": "That's true. It's always good to try new things and keep an open mind. "
+    },
+    {
+      "turn_id": 42,
+      "session": "fifth",
+      "context": "Employee: Plus, it's satisfying to work with your hands and see the tangible result of your labor.\nBoss: I couldn't agree more. And who knows? Maybe you'll discover a new passion or interest in the process.\nEmployee: That's true. It's always good to try new things and keep an open mind. ",
+      "input": "That's true. It's always good to try new things and keep an open mind. ",
+      "ground_truth": "I just wanted to say thanks again for listening to me and trying to understand where I'm coming from."
+    },
+    {
+      "turn_id": 43,
+      "session": "fifth",
+      "context": "Employee: That's true. It's always good to try new things and keep an open mind. \nEmployee: I just wanted to say thanks again for listening to me and trying to understand where I'm coming from.\nBoss: Of course. Our relationship is important to me, both professionally and personally.",
+      "input": "Of course. Our relationship is important to me, both professionally and personally.",
+      "ground_truth": "I appreciate that. It's just been hard for me to let go of what happened."
+    },
+    {
+      "turn_id": 44,
+      "session": "fifth",
+      "context": "Boss: Of course. Our relationship is important to me, both professionally and personally.\nEmployee: I appreciate that. It's just been hard for me to let go of what happened.\nBoss: I understand, and I'm here for you whenever you need to talk or work through it.",
+      "input": "I understand, and I'm here for you whenever you need to talk or work through it.",
+      "ground_truth": "Thanks, that means a lot. I think I just need some time to process things and figure out what to do next."
+    },
+    {
+      "turn_id": 45,
+      "session": "fifth",
+      "context": "Boss: I understand, and I'm here for you whenever you need to talk or work through it.\nEmployee: Thanks, that means a lot. I think I just need some time to process things and figure out what to do next.\nBoss: Take all the time you need. And remember, forgiveness is not just about letting go of anger or hurt towards someone else, it's also about freeing oneself from those negative emotions.",
+      "input": "Take all the time you need. And remember, forgiveness is not just about letting go of anger or hurt towards someone else, it's also about freeing oneself from those negative emotions.",
+      "ground_truth": "That's a really insightful perspective. I'll keep that in mind as I move forward. "
+    },
+    {
+      "turn_id": 46,
+      "session": "fifth",
+      "context": "Boss: Take all the time you need. And remember, forgiveness is not just about letting go of anger or hurt towards someone else, it's also about freeing oneself from those negative emotions.\nEmployee: That's a really insightful perspective. I'll keep that in mind as I move forward. \nBoss: I'm glad to hear that. And just know that no matter what, I value you as an employee and as a person. ",
+      "input": "I'm glad to hear that. And just know that no matter what, I value you as an employee and as a person. ",
+      "ground_truth": "*smiling* Thanks Boss, that means a lot to me too."
+    }
+  ]
+}

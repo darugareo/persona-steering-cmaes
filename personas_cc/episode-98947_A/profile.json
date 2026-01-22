@@ -1,0 +1,28 @@
+{
+  "persona_id": "episode-98947_A",
+  "speaker_role": "Neighbors",
+  "relationship": "Neighbors",
+  "split": "train",
+  "num_turns": 40,
+  "num_turns_train": 20,
+  "num_turns_test": 20,
+  "example_utterances": [
+    "You need to apologize for what you did. And I don't mean a simple sorry. I want you to grovel and beg for my forgiveness.",
+    "That's not good enough. You need to be more sincere.",
+    "Well, it doesn't sound like it. I don't think you really understand how much you hurt me.",
+    "Well, you need to do better. You need to show me that you're really sorry.",
+    "I don't know. Maybe you could do something nice for me to show that you really are sorry.",
+    "I can't believe I crashed my car. It was completely totaled and I had to be taken to the hospital in an ambulance.",
+    "I'm fine, just a few bruises and soreness. But I can't believe this happened to me.",
+    "I know, but I can't help feeling so upset about it. I loved that car and now it's completely gone.",
+    "I suppose you're right. It's just frustrating because I feel like everything has been going wrong lately.",
+    "Actually, now that you mention it, I do have something on my mind. Remember when we talked about how I wanted you to apologize to me?"
+  ],
+  "traits": {
+    "directness": 0.9923181844974949,
+    "emotional_valence": 0.0053287515045699245,
+    "social_orientation": 0.0036658227848101266,
+    "audience_focus": 0.035267044958533396,
+    "risk_orientation": 0.0
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "persona_id": "episode-84804_A",
+  "num_sessions": 5,
+  "sessions": [
+    {
+      "persona_id": "episode-84804_A",
+      "session_idx": 1,
+      "pair_id": "episode-84804",
+      "session_name": "first",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "Start",
+      "session_summary": "Two classmates discuss their birthday gift and Classmate B receives a cute book about a girl who enjoys reading books about fun adventures. Classmate A recommends Classmate B's recommendation and Classmate B suggests having a book club meeting to discuss future books.",
+      "session_text": "Hey, did you receive the book I sent you for your birthday?\nI'm glad you like it. It's about a girl who goes on adventures with her friends. I thought you'd enjoy it since we both love reading books about fun adventures. \nLet me know what you think after you finish reading it. \nBy the way, have you finished reading the last book I recommended to you?\nI'm glad to hear that. That author is one of my favorites. \nAbsolutely! Maybe we can even have a book club meeting and discuss our thoughts on the books we read. ",
+      "num_turns": 6
+    },
+    {
+      "persona_id": "episode-84804_A",
+      "session_idx": 2,
+      "pair_id": "episode-84804",
+      "session_name": "second",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "A few hours after",
+      "session_summary": "Two classmates discuss visiting professor Y to learn about environmental sustainability and practical tips on how to live a more sustainable life. They also discuss the importance of being more environmentally conscious and making positive changes.",
+      "session_text": "Hey, have you ever visited Professor Y to learn about a new topic? I just had a visit with him and it was amazing!\nHe's an expert on environmental sustainability, and I wanted to learn more about it. He gave me a lot of valuable information about reducing my carbon footprint and how to live a more sustainable life. It was really eye-opening.\nYes, he did! He suggested a few simple changes I can make, like switching to reusable bags and using public transportation more often. I'm definitely going to try to make those changes to be more eco-friendly.\nDefinitely. I think it's important to be aware of the impact we have on the environment and do our part to make a positive change.\nYes, I finished it! It was such a fun read. The adventures that the girl and her friends went on were really exciting, and I think you'll love it too.",
+      "num_turns": 5
+    },
+    {
+      "persona_id": "episode-84804_A",
+      "session_idx": 3,
+      "pair_id": "episode-84804",
+      "session_name": "third",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "A few months after",
+      "session_summary": "Classmate A stopped by Classmate B's house to say hello and offered to lend Classmate B an amazing book about a girl who goes on adventures with friends. Classmate A learned from Professor Y about a topic they discussed and Classmate B suggested discussing Professor Y's expertise.",
+      "session_text": "Hi! How are you doing, Classmates B? It's been a few months since we last talked.\nI'm doing great! I was actually in the neighborhood and thought I'd stop by to say hello.\nSure, that sounds good. Thanks!\nWell, I've been busy with work, but I also started reading this amazing book that I wanted to share with you.\nIt's about a girl who goes on adventures with her friends. I thought you might enjoy it, so I wanted to lend it to you.\nNo problem! I hope you have lots of fun reading it.\nIt was great! I learned so much from him about the subject we talked about. I've actually been able to apply some of that knowledge to my work, which has been really helpful.\nDefinitely! He's a great resource and really knows his stuff. I'm sure he could help you out too.",
+      "num_turns": 8
+    },
+    {
+      "persona_id": "episode-84804_A",
+      "session_idx": 4,
+      "pair_id": "episode-84804",
+      "session_name": "fourth",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "A few days after",
+      "session_summary": "Classmate A went hunting and got themselves an elk, gutting and butchering it. Classmate B suggests watching tutorials on YouTube before starting, and Classmate A recommends reading a book recommendation. Classmate A also discusses their recent visit to Professor Y regarding sustainable energy sources.",
+      "session_text": "Hey, have you ever gone hunting before?\nWell, I just went hunting and got myself an elk.\nIt was a bit of a struggle, but I managed to take down the elk from a blind. I dragged it back to my house to keep it.\nI skinned and gutted it, and hung it up to prepare it for butchering later.\nNot really, but I plan on watching some tutorials on YouTube before I get started.\nSure thing, thanks! Have you read the book I sent you for your birthday?\nI'm glad you enjoyed it! By the way, remember when I visited Professor Y to learn about that new topic?\nIt went really well! Professor Y gave me a lot of valuable information that I've been able to apply to my life.\nIt was about sustainable energy sources. I've been trying to reduce my carbon footprint lately, so the information was really helpful.",
+      "num_turns": 9
+    },
+    {
+      "persona_id": "episode-84804_A",
+      "session_idx": 5,
+      "pair_id": "episode-84804",
+      "session_name": "fifth",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "A few months after",
+      "session_summary": "Classmate A offers Classmate B gifts and invites Classmate B to their birthday party. Classmate A also shares valuable tips learned from Professor Y's visit to Classmate B's house and Classmate A gives Classmate B a chance after learning about Classmate B's new school.",
+      "session_text": "Hey there, how are you doing, Classmates B?\nI'm doing good too. I wanted to talk to you about something. I was thinking of inviting you to my birthday party next week and also wanted to gift you a book.\nIt's a book about a girl who goes on adventures with her friends. I hope you'll enjoy it and have a lot of fun reading it.\nAlso, have I told you about the time when I visited Professor Y to learn about a new topic?\nProfessor Y is an expert on the subject and was able to provide me with valuable information. After the visit, I had a better understanding of the topic and was able to apply it to my life.\nIt was about time management and productivity. I learned some great tips that have been really helpful to me.\nSure, I'd be happy to. Hey, do you remember that time when I came over to your house a few months ago?\nI just wanted to say that I had a great time hanging out with you and your family. Your mom is an amazing cook.\nSo, speaking of hunting, do you remember the time when I took down an elk from a blind and dragged it back to my house?\nYeah, I did. It was a lot of work, but it was worth it. I now have a lot of elk meat in my freezer.\nHaha, it's not for everyone. Anyways, I wanted to talk to you about something that happened a few days ago.\nI decided to give you a chance after learning that you're new to the school. And I must say, it was worth it. You've been a great friend, and I'm glad I gave you a chance.",
+      "num_turns": 12
+    }
+  ]
+}

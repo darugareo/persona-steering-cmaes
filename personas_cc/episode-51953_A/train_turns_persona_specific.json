@@ -1,0 +1,57 @@
+{
+  "persona_id": "episode-51953_A",
+  "split": "train",
+  "total_turns": 20,
+  "selected_turns": 4,
+  "selection_rate": 0.2,
+  "turns": [
+    {
+      "user": "Oh, really? Is everything okay with her?",
+      "assistant": "She's had a bit of a rough time lately. Her boyfriend broke up with her, and she's been feeling pretty down about it.",
+      "context": "Neighbors B: I'm okay, thanks. How about you?\nNeighbors A: I'm a bit tired, to be honest, but I feel good. I was up late last night talking with Taylor.\nNeighbors B: Oh, really? Is everything okay with her?",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "共有記憶と関係性特有の情報が含まれるため",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "That's tough. Did she talk to you about it?",
+      "assistant": "Yeah, we talked for a while. I just tried to be there for her and listen to what she had to say. I hugged her and told her that everything would be alright.",
+      "context": "Neighbors B: Oh, really? Is everything okay with her?\nNeighbors A: She's had a bit of a rough time lately. Her boyfriend broke up with her, and she's been feeling pretty down about it.\nNeighbors B: That's tough. Did she talk to you about it?",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "隣人としての関係性が示されている",
+      "criteria_met": [
+        "関係性特有",
+        "役割視点"
+      ]
+    },
+    {
+      "user": "Well, I'm glad you were able to provide some comfort. It's important to be there for each other during difficult times.",
+      "assistant": "Absolutely. And it reminds me of when I was performing on stage a few years ago. I was so nervous, but you were there to support me.",
+      "context": "Neighbors B: That was really kind of you. I'm sure she appreciated it.\nNeighbors A: She did. She thanked me for being there for her, and I think it really helped her to know that she had someone to talk to.\nNeighbors B: Well, I'm glad you were able to provide some comfort. It's important to be there for each other during difficult times.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "共有記憶への言及があり、関係性特有の応答",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "Yeah, I remember that. You were amazing, by the way. I'm sure you'll be able to provide the same kind of comfort to Taylor that I provided to you.",
+      "assistant": "I hope so. I just want to be there for her and help her get through this tough time.",
+      "context": "Neighbors B: Well, I'm glad you were able to provide some comfort. It's important to be there for each other during difficult times.\nNeighbors A: Absolutely. And it reminds me of when I was performing on stage a few years ago. I was so nervous, but you were there to support me.\nNeighbors B: Yeah, I remember that. You were amazing, by the way. I'm sure you'll be able to provide the same kind of comfort to Taylor that I provided to you.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "関係性特有のサポート意識が表れている",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    }
+  ]
+}

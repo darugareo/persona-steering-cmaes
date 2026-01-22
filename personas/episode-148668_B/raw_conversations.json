@@ -1,0 +1,76 @@
+{
+  "persona_id": "episode-148668_B",
+  "num_sessions": 5,
+  "sessions": [
+    {
+      "persona_id": "episode-148668_B",
+      "session_idx": 1,
+      "pair_id": "episode-148668",
+      "session_name": "first",
+      "speaker_role": "B",
+      "split": "train",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "Start",
+      "session_summary": "Classmate A expresses frustration with Classmate B's behavior and expresses feelings of being constantly invading their personal space. Classmate B offers support and suggests discussing alternative options for Classmate A's situation.",
+      "session_text": "Sure, what's up?\nOh, I'm sorry. What specifically?\nI had no idea. I'll definitely be more mindful of that in the future.\nI understand. I do get competitive in class sometimes, but I never meant to make you feel that way.\nWell, I'm here to listen and talk it out with you. Maybe we can come up with a solution together.\nI completely understand. Maybe we can sit further apart in class or take different routes to our classes.\nOf course, anytime.",
+      "num_turns": 7
+    },
+    {
+      "persona_id": "episode-148668_B",
+      "session_idx": 2,
+      "pair_id": "episode-148668",
+      "session_name": "second",
+      "speaker_role": "B",
+      "split": "train",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "A few hours after",
+      "session_summary": "Classmate A won a trip to the Bahamas in a contest and Classmate B advised them to buy a bathing suit. Classmate A has been making hurtful comments about classmates and Classmate B apologized for not being around them.",
+      "session_text": "No, I haven't. Why do you ask?\nWhoa, that's amazing! Congratulations!\nYou should definitely buy one then! What kind of bathing suit are you looking for?\nHmm, well I personally prefer one-pieces, but it really depends on what you feel comfortable in. Have you shopped for bathing suits before?\nI understand. You could always try going to a store that specializes in swimwear. They might have a lot of options for you to choose from.\nNo problem. Hey, speaking of trips, have you thought any more about the school field trip we're going on next month?\nWhy not?\nAh, I see. Is there anything in particular that's bothering you?\nWhat do you mean?\nI'm sorry, I didn't realize. Can you give me some examples?\nOh, I remember now. I didn't mean to offend anyone, but you're right, it was insensitive of me. I'll make sure to be more mindful in the future.\nI understand. I'll do my best to make it up to you and be a better friend.",
+      "num_turns": 12
+    },
+    {
+      "persona_id": "episode-148668_B",
+      "session_idx": 3,
+      "pair_id": "episode-148668",
+      "session_name": "third",
+      "speaker_role": "B",
+      "split": "train",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "A few days after",
+      "session_summary": "Classmate A expresses excitement about their date and Classmate B offers to help Classmate A pick out the perfect swimsuit. Classmate A hasn't bought yet due to work commitments and Classmate B offers to help Classmate A pick out the perfect swimsuit.",
+      "session_text": "Me too,. You seem like a really cool person.\nSame here. By the way, have you bought the new bathing suit for your Bahamas trip yet?\nWell, I can help you pick something out if you want. I used to work at a clothing store, so I know a thing or two about fashion.\nAwesome, let's go shopping together this weekend then. And we can grab some lunch while we're at it.\nNo problem,. I'm happy to help.",
+      "num_turns": 5
+    },
+    {
+      "persona_id": "episode-148668_B",
+      "session_idx": 4,
+      "pair_id": "episode-148668",
+      "session_name": "fourth",
+      "speaker_role": "B",
+      "split": "train",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "A couple of years after",
+      "session_summary": "Two classmates discuss their decision to pursue a degree in psychology and how they feel passionate about it. They also discuss past experiences dating and friendships, including winning trips to the Bahamas and finding love for dogs.",
+      "session_text": "Oh wow, that's great news! What made you decide to do that?\nI totally agree. Have you looked into any specific schools or programs yet?\nThat's awesome. I'm sure you'll find the right fit for you. And hey, if you need any help with anything, don't hesitate to ask.\nOf course, how could I forget? That was such a cool opportunity.\nNo way, that's amazing! How did you two meet?\nThat's so cool. I'm happy for you. And speaking of relationships, do you remember when we met up in the park and bonded over our shared love of dogs a few days after that trip?\nYeah, I know what you mean. But hey, on a brighter note, do you wanna grab lunch sometime and catch up some more?",
+      "num_turns": 7
+    },
+    {
+      "persona_id": "episode-148668_B",
+      "session_idx": 5,
+      "pair_id": "episode-148668",
+      "session_name": "fifth",
+      "speaker_role": "B",
+      "split": "train",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "A few weeks after",
+      "session_summary": "Two classmates discuss their favorite paintings, including one called \"Starry Night Over the Rhone\" by Vincent van Gogh. They also discuss their recent trip to the Bahamas and Classmate A's passion for psychology.",
+      "session_text": "Which painting are you looking at?\nYeah, I have. It's one of my favorite paintings.\nVan Gogh had such a unique style. It's amazing how he captured the essence of nature and infused it with his own emotions.\nYeah, I went to the contemporary art museum last weekend. It was really interesting to see how artists are pushing the boundaries of traditional art forms.\nDefinitely! It's always good to broaden your horizons and see new things. Speaking of new things, have you heard any updates on your upcoming trip to the Bahamas?\nOoh, that sounds like fun. I'm sure you'll have an amazing time.\nYeah, I remember. That was such a great day. It's crazy to think how much has changed since then.\nReally? What kind of plans?\nThat's really impressive! You definitely have the passion and dedication to succeed in that field.",
+      "num_turns": 9
+    }
+  ]
+}

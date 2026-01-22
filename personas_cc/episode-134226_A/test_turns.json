@@ -1,0 +1,155 @@
+{
+  "persona_id": "episode-134226_A",
+  "speaker_role": "Husband",
+  "relationship": "Husband and Wife",
+  "total_turns": 21,
+  "turns": [
+    {
+      "turn_id": 22,
+      "session": "fourth",
+      "context": "Wife: Yeah, that was an amazing trip. I loved that you were willing to try everything, even if it was outside of your comfort zone.\nHusband: Well, I think life is too short to not try new things and have fun. I always want to make the most of our time together.\nWife: Me too. That's one of the things I love about you - you always know how to have a good time no matter what we're doing.",
+      "input": "Me too. That's one of the things I love about you - you always know how to have a good time no matter what we're doing.",
+      "ground_truth": "Hey, can we talk for a minute?"
+    },
+    {
+      "turn_id": 23,
+      "session": "fourth",
+      "context": "Wife: Me too. That's one of the things I love about you - you always know how to have a good time no matter what we're doing.\nHusband: Hey, can we talk for a minute?\nWife: Sure, what's on your mind?",
+      "input": "Sure, what's on your mind?",
+      "ground_truth": "I just wanted to check in and make sure we're on the same page. I feel like things have been moving pretty fast between us lately and I want to make sure we're both comfortable with where we're at in our relationship."
+    },
+    {
+      "turn_id": 24,
+      "session": "fourth",
+      "context": "Wife: Sure, what's on your mind?\nHusband: I just wanted to check in and make sure we're on the same page. I feel like things have been moving pretty fast between us lately and I want to make sure we're both comfortable with where we're at in our relationship.\nWife: I agree, it's important to make sure we're both happy and comfortable. I think we are on the same page, but if there's anything you're uncertain about we should talk about it.",
+      "input": "I agree, it's important to make sure we're both happy and comfortable. I think we are on the same page, but if there's anything you're uncertain about we should talk about it.",
+      "ground_truth": "Well, there was something on my mind from a couple of years ago. When you got kicked out of the club, I was disappointed for you. I know you were hoping to dance and meet new people."
+    },
+    {
+      "turn_id": 25,
+      "session": "fourth",
+      "context": "Wife: I agree, it's important to make sure we're both happy and comfortable. I think we are on the same page, but if there's anything you're uncertain about we should talk about it.\nHusband: Well, there was something on my mind from a couple of years ago. When you got kicked out of the club, I was disappointed for you. I know you were hoping to dance and meet new people.\nWife: Yeah, that was a bummer. But honestly, I wasn't too upset about it. I've always preferred quieter evenings at home with you anyway.",
+      "input": "Yeah, that was a bummer. But honestly, I wasn't too upset about it. I've always preferred quieter evenings at home with you anyway.",
+      "ground_truth": "That's good to hear. I just want to make sure we're both happy with the ways we spend our time together."
+    },
+    {
+      "turn_id": 26,
+      "session": "fourth",
+      "context": "Husband: Well, there was something on my mind from a couple of years ago. When you got kicked out of the club, I was disappointed for you. I know you were hoping to dance and meet new people.\nWife: Yeah, that was a bummer. But honestly, I wasn't too upset about it. I've always preferred quieter evenings at home with you anyway.\nHusband: That's good to hear. I just want to make sure we're both happy with the ways we spend our time together.",
+      "input": "That's good to hear. I just want to make sure we're both happy with the ways we spend our time together.",
+      "ground_truth": "You know, I've been thinking about something else. You always say I'm a cool person and I love trying new things, but I don't want you to feel like you have to keep up with me if it's not your thing."
+    },
+    {
+      "turn_id": 27,
+      "session": "fourth",
+      "context": "Husband: That's good to hear. I just want to make sure we're both happy with the ways we spend our time together.\nHusband: You know, I've been thinking about something else. You always say I'm a cool person and I love trying new things, but I don't want you to feel like you have to keep up with me if it's not your thing.\nWife: Don't worry about me, I'm happy just watching and supporting you. Plus, you always make things fun no matter what we're doing.",
+      "input": "Don't worry about me, I'm happy just watching and supporting you. Plus, you always make things fun no matter what we're doing.",
+      "ground_truth": "Thanks, that means a lot. Speaking of the house, have you noticed how clean it is?"
+    },
+    {
+      "turn_id": 28,
+      "session": "fourth",
+      "context": "Wife: Don't worry about me, I'm happy just watching and supporting you. Plus, you always make things fun no matter what we're doing.\nHusband: Thanks, that means a lot. Speaking of the house, have you noticed how clean it is?\nWife: Yes, it looks great! Did you do all of this?",
+      "input": "Yes, it looks great! Did you do all of this?",
+      "ground_truth": "Yeah, I dusted all the furniture, washed the windows, vacuumed the carpets, and even mopped the floors."
+    },
+    {
+      "turn_id": 29,
+      "session": "fourth",
+      "context": "Wife: Yes, it looks great! Did you do all of this?\nHusband: Yeah, I dusted all the furniture, washed the windows, vacuumed the carpets, and even mopped the floors.\nWife: Wow, that's a lot of work. Thank you for taking care of the house, it looks fantastic.",
+      "input": "Wow, that's a lot of work. Thank you for taking care of the house, it looks fantastic.",
+      "ground_truth": "It's my pleasure, I'm just happy when things are clean and organized."
+    },
+    {
+      "turn_id": 30,
+      "session": "fifth",
+      "context": "Husband: Yeah, I dusted all the furniture, washed the windows, vacuumed the carpets, and even mopped the floors.\nWife: Wow, that's a lot of work. Thank you for taking care of the house, it looks fantastic.\nHusband: It's my pleasure, I'm just happy when things are clean and organized.",
+      "input": "It's my pleasure, I'm just happy when things are clean and organized.",
+      "ground_truth": "Hey, can I talk to you about something?"
+    },
+    {
+      "turn_id": 31,
+      "session": "fifth",
+      "context": "Husband: It's my pleasure, I'm just happy when things are clean and organized.\nHusband: Hey, can I talk to you about something?\nWife: Of course, what's on your mind?",
+      "input": "Of course, what's on your mind?",
+      "ground_truth": "I feel like things between us are moving too fast. I just want to make sure we're on the same page."
+    },
+    {
+      "turn_id": 32,
+      "session": "fifth",
+      "context": "Wife: Of course, what's on your mind?\nHusband: I feel like things between us are moving too fast. I just want to make sure we're on the same page.\nWife: What do you mean by that?",
+      "input": "What do you mean by that?",
+      "ground_truth": "Well, I don't want to feel like we're rushing into things without really knowing each other. I want us to take things slow and make sure we're both comfortable with where we're at in our relationship."
+    },
+    {
+      "turn_id": 33,
+      "session": "fifth",
+      "context": "Wife: What do you mean by that?\nHusband: Well, I don't want to feel like we're rushing into things without really knowing each other. I want us to take things slow and make sure we're both comfortable with where we're at in our relationship.\nWife: I understand where you're coming from. I feel the same way. We should definitely take things at a pace that we're both comfortable with.",
+      "input": "I understand where you're coming from. I feel the same way. We should definitely take things at a pace that we're both comfortable with.",
+      "ground_truth": "You remember when you got thrown out of that club a couple of years ago? I felt really disappointed for you."
+    },
+    {
+      "turn_id": 34,
+      "session": "fifth",
+      "context": "Wife: I understand where you're coming from. I feel the same way. We should definitely take things at a pace that we're both comfortable with.\nHusband: You remember when you got thrown out of that club a couple of years ago? I felt really disappointed for you.\nWife: Yeah, that was a tough night. I just wanted to go out and dance and meet new people, but it didn't work out the way I wanted it to.",
+      "input": "Yeah, that was a tough night. I just wanted to go out and dance and meet new people, but it didn't work out the way I wanted it to.",
+      "ground_truth": "I know. I wish we could have had a better time together that night. Maybe we can plan a fun night out soon?"
+    },
+    {
+      "turn_id": 35,
+      "session": "fifth",
+      "context": "Wife: Yeah, that was a tough night. I just wanted to go out and dance and meet new people, but it didn't work out the way I wanted it to.\nHusband: I know. I wish we could have had a better time together that night. Maybe we can plan a fun night out soon?\nWife: That sounds great. I'm always up for a good time.",
+      "input": "That sounds great. I'm always up for a good time.",
+      "ground_truth": "You know what I love about you? You're always willing to try new things and have a good time."
+    },
+    {
+      "turn_id": 36,
+      "session": "fifth",
+      "context": "Wife: That sounds great. I'm always up for a good time.\nHusband: You know what I love about you? You're always willing to try new things and have a good time.\nWife: That's definitely true. Life is too short not to try new things and have fun.",
+      "input": "That's definitely true. Life is too short not to try new things and have fun.",
+      "ground_truth": "I couldn't agree more. I love that we can always have a good time together, no matter what we're doing."
+    },
+    {
+      "turn_id": 37,
+      "session": "fifth",
+      "context": "Husband: You know what I love about you? You're always willing to try new things and have a good time.\nWife: That's definitely true. Life is too short not to try new things and have fun.\nHusband: I couldn't agree more. I love that we can always have a good time together, no matter what we're doing.",
+      "input": "I couldn't agree more. I love that we can always have a good time together, no matter what we're doing.",
+      "ground_truth": "I've been doing some cleaning around the house lately. I feel really happy when everything is clean and organized."
+    },
+    {
+      "turn_id": 38,
+      "session": "fifth",
+      "context": "Husband: I couldn't agree more. I love that we can always have a good time together, no matter what we're doing.\nHusband: I've been doing some cleaning around the house lately. I feel really happy when everything is clean and organized.\nWife: I appreciate all the work you do around the house. It definitely makes things easier for both of us when everything is clean.",
+      "input": "I appreciate all the work you do around the house. It definitely makes things easier for both of us when everything is clean.",
+      "ground_truth": "I'm glad you appreciate it. It gives me a sense of accomplishment to know that I'm contributing to our home in that way."
+    },
+    {
+      "turn_id": 39,
+      "session": "fifth",
+      "context": "Husband: I've been doing some cleaning around the house lately. I feel really happy when everything is clean and organized.\nWife: I appreciate all the work you do around the house. It definitely makes things easier for both of us when everything is clean.\nHusband: I'm glad you appreciate it. It gives me a sense of accomplishment to know that I'm contributing to our home in that way.",
+      "input": "I'm glad you appreciate it. It gives me a sense of accomplishment to know that I'm contributing to our home in that way.",
+      "ground_truth": "I had a really interesting conversation with a stranger today."
+    },
+    {
+      "turn_id": 40,
+      "session": "fifth",
+      "context": "Husband: I'm glad you appreciate it. It gives me a sense of accomplishment to know that I'm contributing to our home in that way.\nHusband: I had a really interesting conversation with a stranger today.\nWife: Oh yeah? What was it about?",
+      "input": "Oh yeah? What was it about?",
+      "ground_truth": "We talked about a lot of things. Life, work, relationships. They had some really interesting perspectives on things."
+    },
+    {
+      "turn_id": 41,
+      "session": "fifth",
+      "context": "Wife: Oh yeah? What was it about?\nHusband: We talked about a lot of things. Life, work, relationships. They had some really interesting perspectives on things.\nWife: That does sound intriguing. What did you learn from the conversation?",
+      "input": "That does sound intriguing. What did you learn from the conversation?",
+      "ground_truth": "Mostly just that there's so much to learn from other people. I love having conversations with people who have different perspectives and experiences than me."
+    },
+    {
+      "turn_id": 42,
+      "session": "fifth",
+      "context": "Wife: That does sound intriguing. What did you learn from the conversation?\nHusband: Mostly just that there's so much to learn from other people. I love having conversations with people who have different perspectives and experiences than me.\nWife: That's one of the many things I love about you. You're always learning and growing, and you're open to new ideas. ",
+      "input": "That's one of the many things I love about you. You're always learning and growing, and you're open to new ideas. ",
+      "ground_truth": "And you're always there to support me in that. I'm so grateful for you."
+    }
+  ]
+}

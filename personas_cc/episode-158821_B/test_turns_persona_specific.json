@@ -1,0 +1,89 @@
+{
+  "persona_id": "episode-158821_B",
+  "split": "test",
+  "total_turns": 20,
+  "selected_turns": 7,
+  "selection_rate": 0.35,
+  "turns": [
+    {
+      "user": "Yeah, it's really exciting to be able to do things on my own. I feel like such a grown-up.",
+      "assistant": "Speaking of grown-up things, how is your mom's florist shop doing these days?",
+      "context": "Neighbors A: It went really well, actually. I was able to find everything I needed and even got a little lost in the store, but I managed to ask for help and found my way around.\nNeighbors B: I'm so proud of you for going by yourself. You're growing up so fast!\nNeighbors A: Yeah, it's really exciting to be able to do things on my own. I feel like such a grown-up.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "共有記憶である母の花屋について言及しているため",
+      "criteria_met": [
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "It's doing okay, I guess. She's been struggling a bit since the shop was vandalized a few months ago. The repairs cost more than the insurance payout, so she's in debt now.",
+      "assistant": "That's really tough. Is there anything we can do to help?",
+      "context": "Neighbors A: Yeah, it's really exciting to be able to do things on my own. I feel like such a grown-up.\nNeighbors B: Speaking of grown-up things, how is your mom's florist shop doing these days?\nNeighbors A: It's doing okay, I guess. She's been struggling a bit since the shop was vandalized a few months ago. The repairs cost more than the insurance payout, so she's in debt now.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "隣人としての助け合いの視点が含まれる",
+      "criteria_met": [
+        "役割視点"
+      ]
+    },
+    {
+      "user": "Actually, she's been thinking about hosting a local flower show to try and generate some more business. Maybe we could help spread the word and invite people to come check it out?",
+      "assistant": "That sounds like a great idea! Let's plan to do that. And hey, while we're on the topic of caring for others, I wanted to tell you how much I admire you for being such a great nurse.",
+      "context": "Neighbors A: It's doing okay, I guess. She's been struggling a bit since the shop was vandalized a few months ago. The repairs cost more than the insurance payout, so she's in debt now.\nNeighbors B: That's really tough. Is there anything we can do to help?\nNeighbors A: Actually, she's been thinking about hosting a local flower show to try and generate some more business. Maybe we could help spread the word and invite people to come check it out?",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "関係性特有の感謝と役割視点が含まれる",
+      "criteria_met": [
+        "関係性特有",
+        "役割視点"
+      ]
+    },
+    {
+      "user": "Great. I'm really looking forward to getting to know you better.",
+      "assistant": "Me too. And speaking of getting to know each other, how's your florist shop doing?",
+      "context": "Neighbors A: How about 1 pm?\nNeighbors B: Sounds good to me.\nNeighbors A: Great. I'm really looking forward to getting to know you better.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "フローリスト店の話題は近所特有の共有記憶。",
+      "criteria_met": [
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "It's going well, thanks for asking. But I actually had a bit of a setback recently. The shop was vandalized and I had to spend a lot of money on repairs.",
+      "assistant": "That's terrible. Is there anything I can do to help?",
+      "context": "Neighbors A: Great. I'm really looking forward to getting to know you better.\nNeighbors B: Me too. And speaking of getting to know each other, how's your florist shop doing?\nNeighbors A: It's going well, thanks for asking. But I actually had a bit of a setback recently. The shop was vandalized and I had to spend a lot of money on repairs.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "隣人としての助け合いの視点が含まれるため",
+      "criteria_met": [
+        "役割視点"
+      ]
+    },
+    {
+      "user": "Thank you. It's definitely challenging, but it's also really rewarding to be able to make a difference in people's lives.",
+      "assistant": "I can imagine. And hey, remember when you were telling me about your son going to the grocery store by himself? How is he doing?",
+      "context": "Neighbors A: No, it's alright. I'll manage. But thank you for offering. It really means a lot to me.\nNeighbors B: Of course. And I wanted to say that I think it's really amazing that you're a nurse. You must have such a caring nature to be able to do that kind of work.\nNeighbors A: Thank you. It's definitely challenging, but it's also really rewarding to be able to make a difference in people's lives.",
+      "persona_specific": true,
+      "specificity_confidence": 5,
+      "specificity_reason": "共有記憶への言及があり、関係性特有の応答。",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "Thanks again. I really appreciate your kind words. I honestly feel like I was put on this earth to make a difference, and nursing is my way of doing that.",
+      "assistant": "Well, you're definitely making a difference. And I'm really looking forward to our coffee date this weekend.",
+      "context": "Neighbors A: That's great to hear. It's so important to find something you're passionate about. I feel the same way about my nursing work.\nNeighbors B: Yeah, I can tell you really care about your patients. That's such an admirable quality.\nNeighbors A: Thanks again. I really appreciate your kind words. I honestly feel like I was put on this earth to make a difference, and nursing is my way of doing that.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "コーヒーデートは関係性特有の共有記憶。",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    }
+  ]
+}

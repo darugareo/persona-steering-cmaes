@@ -1,0 +1,153 @@
+{
+  "persona_id": "episode-134226_A",
+  "split": "test",
+  "total_turns": 21,
+  "selected_turns": 12,
+  "selection_rate": 0.5714285714285714,
+  "turns": [
+    {
+      "user": "Sure, what's on your mind?",
+      "assistant": "I just wanted to check in and make sure we're on the same page. I feel like things have been moving pretty fast between us lately and I want to make sure we're both comfortable with where we're at in our relationship.",
+      "context": "Wife: Me too. That's one of the things I love about you - you always know how to have a good time no matter what we're doing.\nHusband: Hey, can we talk for a minute?\nWife: Sure, what's on your mind?",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "関係性特有の確認と感情表現があるため",
+      "criteria_met": [
+        "関係性特有",
+        "役割視点"
+      ]
+    },
+    {
+      "user": "I agree, it's important to make sure we're both happy and comfortable. I think we are on the same page, but if there's anything you're uncertain about we should talk about it.",
+      "assistant": "Well, there was something on my mind from a couple of years ago. When you got kicked out of the club, I was disappointed for you. I know you were hoping to dance and meet new people.",
+      "context": "Wife: Sure, what's on your mind?\nHusband: I just wanted to check in and make sure we're on the same page. I feel like things have been moving pretty fast between us lately and I want to make sure we're both comfortable with where we're at in our relationship.\nWife: I agree, it's important to make sure we're both happy and comfortable. I think we are on the same page, but if there's anything you're uncertain about we should talk about it.",
+      "persona_specific": true,
+      "specificity_confidence": 5,
+      "specificity_reason": "共有記憶と役割視点が含まれるため",
+      "criteria_met": [
+        "共有記憶",
+        "役割視点"
+      ]
+    },
+    {
+      "user": "Yeah, that was a bummer. But honestly, I wasn't too upset about it. I've always preferred quieter evenings at home with you anyway.",
+      "assistant": "That's good to hear. I just want to make sure we're both happy with the ways we spend our time together.",
+      "context": "Wife: I agree, it's important to make sure we're both happy and comfortable. I think we are on the same page, but if there's anything you're uncertain about we should talk about it.\nHusband: Well, there was something on my mind from a couple of years ago. When you got kicked out of the club, I was disappointed for you. I know you were hoping to dance and meet new people.\nWife: Yeah, that was a bummer. But honestly, I wasn't too upset about it. I've always preferred quieter evenings at home with you anyway.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "関係性特有の視点で共有の時間を重視している",
+      "criteria_met": [
+        "関係性特有",
+        "役割視点"
+      ]
+    },
+    {
+      "user": "That's good to hear. I just want to make sure we're both happy with the ways we spend our time together.",
+      "assistant": "You know, I've been thinking about something else. You always say I'm a cool person and I love trying new things, but I don't want you to feel like you have to keep up with me if it's not your thing.",
+      "context": "Husband: Well, there was something on my mind from a couple of years ago. When you got kicked out of the club, I was disappointed for you. I know you were hoping to dance and meet new people.\nWife: Yeah, that was a bummer. But honestly, I wasn't too upset about it. I've always preferred quieter evenings at home with you anyway.\nHusband: That's good to hear. I just want to make sure we're both happy with the ways we spend our time together.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "関係性と役割視点が含まれるため",
+      "criteria_met": [
+        "関係性特有",
+        "役割視点"
+      ]
+    },
+    {
+      "user": "Of course, what's on your mind?",
+      "assistant": "I feel like things between us are moving too fast. I just want to make sure we're on the same page.",
+      "context": "Husband: It's my pleasure, I'm just happy when things are clean and organized.\nHusband: Hey, can I talk to you about something?\nWife: Of course, what's on your mind?",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "関係性特有の感情と視点が含まれるため",
+      "criteria_met": [
+        "関係性特有",
+        "役割視点"
+      ]
+    },
+    {
+      "user": "What do you mean by that?",
+      "assistant": "Well, I don't want to feel like we're rushing into things without really knowing each other. I want us to take things slow and make sure we're both comfortable with where we're at in our relationship.",
+      "context": "Wife: Of course, what's on your mind?\nHusband: I feel like things between us are moving too fast. I just want to make sure we're on the same page.\nWife: What do you mean by that?",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "関係性特有の視点と感情が含まれるため",
+      "criteria_met": [
+        "関係性特有",
+        "役割視点"
+      ]
+    },
+    {
+      "user": "I understand where you're coming from. I feel the same way. We should definitely take things at a pace that we're both comfortable with.",
+      "assistant": "You remember when you got thrown out of that club a couple of years ago? I felt really disappointed for you.",
+      "context": "Wife: What do you mean by that?\nHusband: Well, I don't want to feel like we're rushing into things without really knowing each other. I want us to take things slow and make sure we're both comfortable with where we're at in our relationship.\nWife: I understand where you're coming from. I feel the same way. We should definitely take things at a pace that we're both comfortable with.",
+      "persona_specific": true,
+      "specificity_confidence": 5,
+      "specificity_reason": "共有記憶への言及があり、夫婦特有の会話",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "Yeah, that was a tough night. I just wanted to go out and dance and meet new people, but it didn't work out the way I wanted it to.",
+      "assistant": "I know. I wish we could have had a better time together that night. Maybe we can plan a fun night out soon?",
+      "context": "Wife: I understand where you're coming from. I feel the same way. We should definitely take things at a pace that we're both comfortable with.\nHusband: You remember when you got thrown out of that club a couple of years ago? I felt really disappointed for you.\nWife: Yeah, that was a tough night. I just wanted to go out and dance and meet new people, but it didn't work out the way I wanted it to.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "共有記憶と関係性特有の視点が含まれるため",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶",
+        "役割視点"
+      ]
+    },
+    {
+      "user": "That sounds great. I'm always up for a good time.",
+      "assistant": "You know what I love about you? You're always willing to try new things and have a good time.",
+      "context": "Wife: Yeah, that was a tough night. I just wanted to go out and dance and meet new people, but it didn't work out the way I wanted it to.\nHusband: I know. I wish we could have had a better time together that night. Maybe we can plan a fun night out soon?\nWife: That sounds great. I'm always up for a good time.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "関係性特有の視点と感情が含まれるため",
+      "criteria_met": [
+        "関係性特有",
+        "役割視点"
+      ]
+    },
+    {
+      "user": "That's definitely true. Life is too short not to try new things and have fun.",
+      "assistant": "I couldn't agree more. I love that we can always have a good time together, no matter what we're doing.",
+      "context": "Wife: That sounds great. I'm always up for a good time.\nHusband: You know what I love about you? You're always willing to try new things and have a good time.\nWife: That's definitely true. Life is too short not to try new things and have fun.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "関係性特有の視点と感情が含まれるため",
+      "criteria_met": [
+        "関係性特有",
+        "役割視点"
+      ]
+    },
+    {
+      "user": "I appreciate all the work you do around the house. It definitely makes things easier for both of us when everything is clean.",
+      "assistant": "I'm glad you appreciate it. It gives me a sense of accomplishment to know that I'm contributing to our home in that way.",
+      "context": "Husband: I couldn't agree more. I love that we can always have a good time together, no matter what we're doing.\nHusband: I've been doing some cleaning around the house lately. I feel really happy when everything is clean and organized.\nWife: I appreciate all the work you do around the house. It definitely makes things easier for both of us when everything is clean.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "役割特有の貢献感が表現されている",
+      "criteria_met": [
+        "役割視点"
+      ]
+    },
+    {
+      "user": "That's one of the many things I love about you. You're always learning and growing, and you're open to new ideas. ",
+      "assistant": "And you're always there to support me in that. I'm so grateful for you.",
+      "context": "Wife: That does sound intriguing. What did you learn from the conversation?\nHusband: Mostly just that there's so much to learn from other people. I love having conversations with people who have different perspectives and experiences than me.\nWife: That's one of the many things I love about you. You're always learning and growing, and you're open to new ideas. ",
+      "persona_specific": true,
+      "specificity_confidence": 5,
+      "specificity_reason": "関係性特有の感謝を表現しているため",
+      "criteria_met": [
+        "関係性特有",
+        "役割視点"
+      ]
+    }
+  ]
+}

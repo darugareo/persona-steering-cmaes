@@ -1,0 +1,28 @@
+{
+  "persona_id": "episode-225888_A",
+  "speaker_role": "Classmates",
+  "relationship": "Classmates",
+  "split": "train",
+  "num_turns": 41,
+  "num_turns_train": 20,
+  "num_turns_test": 21,
+  "example_utterances": [
+    "Hi, can I talk to you for a minute? I just wanted to apologize for what I said the other day. I feel really guilty about it and I want to make things right.",
+    "I made a comment about your outfit and it was really insensitive of me. I didn't mean it in a bad way, but I understand that it was hurtful and I'm sorry.",
+    "I just don't want there to be any bad blood between us. We've been classmates for a few years now and I value our friendship.",
+    "I completely agree. And if there's anything I can do to make it up to you, just let me know.",
+    "No problem, I'm glad we could talk it out. So, have you finished the history project yet?",
+    "I just wanted to apologize for what I said a few weeks ago. I know it was insensitive and I feel really bad about it.",
+    "Thank you, I really mean it. So, on a different note, have you ever thought about time travel?",
+    "Well, not exactly like that. But there are theories that suggest it's possible to travel through time.",
+    "It may seem like that now, but with advancements in technology, who knows what the future holds? Imagine being able to visit different eras or even parallel universes.",
+    "Theoretically, yes. There are different ways that time travel could be achieved, such as through wormholes or travelling near the speed of light."
+  ],
+  "traits": {
+    "directness": 0.9933154380645947,
+    "emotional_valence": 0.00627354514795149,
+    "social_orientation": 0.011850544953513249,
+    "audience_focus": 0.027206389650419105,
+    "risk_orientation": 0.0
+  }
+}

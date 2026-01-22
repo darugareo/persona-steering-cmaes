@@ -1,0 +1,139 @@
+{
+  "persona_id": "episode-19493_A",
+  "split": "test",
+  "total_turns": 23,
+  "selected_turns": 11,
+  "selection_rate": 0.4782608695652174,
+  "turns": [
+    {
+      "user": "What did I do exactly?",
+      "assistant": "You know exactly what you did. You crossed a line and I will never forget it.",
+      "context": "Employee: I completely agree, Boss. And I'm grateful to be a part of it.\nEmployee: I can't believe you did that to me. I will never forgive you.\nBoss: What did I do exactly?",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "関係性と共有記憶に基づく感情的な応答",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "I understand that you are upset, but can we talk about this and try to work through it?",
+      "assistant": "I don't think there's anything to work through. You hurt me deeply and I can't just let it go.",
+      "context": "Boss: What did I do exactly?\nEmployee: You know exactly what you did. You crossed a line and I will never forget it.\nBoss: I understand that you are upset, but can we talk about this and try to work through it?",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "役割特有の感情と関係性が表れている",
+      "criteria_met": [
+        "関係性特有",
+        "役割視点"
+      ]
+    },
+    {
+      "user": "Can you at least tell me what I did wrong? I want to understand where you're coming from.",
+      "assistant": "You took credit for my idea and presented it to the clients as your own. And then when I confronted you about it, you denied it and made me look like a fool.",
+      "context": "Boss: I understand that you are upset, but can we talk about this and try to work through it?\nEmployee: I don't think there's anything to work through. You hurt me deeply and I can't just let it go.\nBoss: Can you at least tell me what I did wrong? I want to understand where you're coming from.",
+      "persona_specific": true,
+      "specificity_confidence": 5,
+      "specificity_reason": "役割特有の視点と共有記憶が含まれるため",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶",
+        "役割視点"
+      ]
+    },
+    {
+      "user": "I remember that incident. And I am truly sorry for what happened. I was under a lot of pressure and I made a bad decision. But I did try to make it up to you by giving you credit for the next project we worked on.",
+      "assistant": "I appreciate that, but it doesn't change how I feel. I don't know if I can ever trust you again.",
+      "context": "Boss: Can you at least tell me what I did wrong? I want to understand where you're coming from.\nEmployee: You took credit for my idea and presented it to the clients as your own. And then when I confronted you about it, you denied it and made me look like a fool.\nBoss: I remember that incident. And I am truly sorry for what happened. I was under a lot of pressure and I made a bad decision. But I did try to make it up to you by giving you credit for the next project we worked on.",
+      "persona_specific": true,
+      "specificity_confidence": 5,
+      "specificity_reason": "関係性と共有記憶に基づく感情表現",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶",
+        "役割視点"
+      ]
+    },
+    {
+      "user": "That is completely understandable. All I can say is that I am genuinely sorry and I hope you can find it in your heart to forgive me someday.",
+      "assistant": "I'll think about it. But for now, I can't pretend like everything is okay between us.",
+      "context": "Boss: I remember that incident. And I am truly sorry for what happened. I was under a lot of pressure and I made a bad decision. But I did try to make it up to you by giving you credit for the next project we worked on.\nEmployee: I appreciate that, but it doesn't change how I feel. I don't know if I can ever trust you again.\nBoss: That is completely understandable. All I can say is that I am genuinely sorry and I hope you can find it in your heart to forgive me someday.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "関係性特有の感情と視点が含まれるため",
+      "criteria_met": [
+        "関係性特有",
+        "役割視点"
+      ]
+    },
+    {
+      "user": "Is there something that specifically happened to make you feel that way?",
+      "assistant": "Yeah, I was just thinking about a project I worked on recently where one of the team members made a mistake that caused a huge delay. It could have been avoided if they just took a little more time to double check their work.",
+      "context": "Employee: Okay. \nEmployee: I just can't believe that some people can be so careless and not think about their actions.\nBoss: Is there something that specifically happened to make you feel that way?",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "役割特有の視点と感情が含まれるため",
+      "criteria_met": [
+        "役割視点"
+      ]
+    },
+    {
+      "user": "That does sound frustrating. Have you talked to them about it?",
+      "assistant": "Yes, and they apologized, but it's still frustrating. It's important to think before you act, especially when it comes to work.",
+      "context": "Boss: Is there something that specifically happened to make you feel that way?\nEmployee: Yeah, I was just thinking about a project I worked on recently where one of the team members made a mistake that caused a huge delay. It could have been avoided if they just took a little more time to double check their work.\nBoss: That does sound frustrating. Have you talked to them about it?",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "役割特有の視点と感情が含まれるため",
+      "criteria_met": [
+        "役割視点"
+      ]
+    },
+    {
+      "user": "You're absolutely right. It's important to take the time to ensure we are doing things the right way. And it's also important to be forgiving when others make mistakes. We all make them from time to time.",
+      "assistant": "I know, but it's hard when it affects other people's work and projects.",
+      "context": "Boss: That does sound frustrating. Have you talked to them about it?\nEmployee: Yes, and they apologized, but it's still frustrating. It's important to think before you act, especially when it comes to work.\nBoss: You're absolutely right. It's important to take the time to ensure we are doing things the right way. And it's also important to be forgiving when others make mistakes. We all make them from time to time.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "役割特有の視点が含まれるため",
+      "criteria_met": [
+        "役割視点"
+      ]
+    },
+    {
+      "user": "That's true. It's always good to try new things and keep an open mind. ",
+      "assistant": "I just wanted to say thanks again for listening to me and trying to understand where I'm coming from.",
+      "context": "Employee: Plus, it's satisfying to work with your hands and see the tangible result of your labor.\nBoss: I couldn't agree more. And who knows? Maybe you'll discover a new passion or interest in the process.\nEmployee: That's true. It's always good to try new things and keep an open mind. ",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "感謝の表現が関係性特有であるため",
+      "criteria_met": [
+        "関係性特有"
+      ]
+    },
+    {
+      "user": "Of course. Our relationship is important to me, both professionally and personally.",
+      "assistant": "I appreciate that. It's just been hard for me to let go of what happened.",
+      "context": "Employee: That's true. It's always good to try new things and keep an open mind. \nEmployee: I just wanted to say thanks again for listening to me and trying to understand where I'm coming from.\nBoss: Of course. Our relationship is important to me, both professionally and personally.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "過去の出来事への言及があり、関係性特有。",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "I'm glad to hear that. And just know that no matter what, I value you as an employee and as a person. ",
+      "assistant": "*smiling* Thanks Boss, that means a lot to me too.",
+      "context": "Boss: Take all the time you need. And remember, forgiveness is not just about letting go of anger or hurt towards someone else, it's also about freeing oneself from those negative emotions.\nEmployee: That's a really insightful perspective. I'll keep that in mind as I move forward. \nBoss: I'm glad to hear that. And just know that no matter what, I value you as an employee and as a person. ",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "役割特有の感謝と関係性の強調があるため",
+      "criteria_met": [
+        "関係性特有",
+        "役割視点"
+      ]
+    }
+  ]
+}

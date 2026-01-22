@@ -1,0 +1,28 @@
+{
+  "persona_id": "episode-16276_B",
+  "speaker_role": "Boss",
+  "relationship": "Employee and Boss",
+  "split": "train",
+  "num_turns": 43,
+  "num_turns_train": 21,
+  "num_turns_test": 22,
+  "example_utterances": [
+    "I understand, but is there anything specific that's worrying you?",
+    "It's okay, don't worry about it. I know that things come up sometimes. Just make sure you're on time for this meeting.",
+    "Have you talked to anyone about this? Maybe we can work together to address any concerns you have.",
+    "Well, let's discuss your job performance and any specific areas you feel you could improve in. We can also set some goals to help you improve.",
+    "Of course, that's what I'm here for. Let's have a productive meeting today and work together to ensure your success in this role.",
+    "Oh, that's water under the bridge now. I appreciate you being here on time today.",
+    "Winning is always a great feeling. It's important to celebrate our victories.",
+    "Glad to hear that. Is there anything else on your mind that we should discuss?",
+    "Alright then, keep up the good work and don't hesitate to reach out if you need anything.",
+    "That sounds like a lot of fun. What did you guys do?"
+  ],
+  "traits": {
+    "directness": 0.9954226101767085,
+    "emotional_valence": 0.02214563103071777,
+    "social_orientation": 0.015486275055748238,
+    "audience_focus": 0.07449678776672251,
+    "risk_orientation": 0.0
+  }
+}

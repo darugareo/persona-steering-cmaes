@@ -1,0 +1,155 @@
+{
+  "persona_id": "episode-51953_A",
+  "speaker_role": "Neighbors",
+  "relationship": "Neighbors",
+  "total_turns": 21,
+  "turns": [
+    {
+      "turn_id": 21,
+      "session": "fourth",
+      "context": "Neighbors B: Yeah, I remember that. You were amazing, by the way. I'm sure you'll be able to provide the same kind of comfort to Taylor that I provided to you.\nNeighbors A: I hope so. I just want to be there for her and help her get through this tough time.\nNeighbors B: I'm sure you will. Let me know if there's anything I can do to help.",
+      "input": "I'm sure you will. Let me know if there's anything I can do to help.",
+      "ground_truth": "Hey, have you seen a woman walking a dog around here?"
+    },
+    {
+      "turn_id": 22,
+      "session": "fourth",
+      "context": "Neighbors B: I'm sure you will. Let me know if there's anything I can do to help.\nNeighbors A: Hey, have you seen a woman walking a dog around here?\nNeighbors B: No, I haven't. Why do you ask?",
+      "input": "No, I haven't. Why do you ask?",
+      "ground_truth": "Well, earlier today, I asked if I could pet her dog and then I took off with the dog while she wasn't looking!"
+    },
+    {
+      "turn_id": 23,
+      "session": "fourth",
+      "context": "Neighbors B: No, I haven't. Why do you ask?\nNeighbors A: Well, earlier today, I asked if I could pet her dog and then I took off with the dog while she wasn't looking!\nNeighbors B: What?! That's terrible! Why would you do something like that?",
+      "input": "What?! That's terrible! Why would you do something like that?",
+      "ground_truth": "I don't know, I just thought it would be funny. But now I feel really bad about it."
+    },
+    {
+      "turn_id": 24,
+      "session": "fourth",
+      "context": "Neighbors B: What?! That's terrible! Why would you do something like that?\nNeighbors A: I don't know, I just thought it would be funny. But now I feel really bad about it.\nNeighbors B: You should feel bad about it! That's not funny at all, that's stealing! You should go and find that woman and give her back her dog.",
+      "input": "You should feel bad about it! That's not funny at all, that's stealing! You should go and find that woman and give her back her dog.",
+      "ground_truth": "You're right. I'll go and look for her now. "
+    },
+    {
+      "turn_id": 25,
+      "session": "fourth",
+      "context": "Neighbors B: You should feel bad about it! That's not funny at all, that's stealing! You should go and find that woman and give her back her dog.\nNeighbors A: You're right. I'll go and look for her now. \nNeighbors B: Good, I'm glad you realize how wrong that was. It's important to always be honest and respectful to others, even if it seems like a harmless prank. ",
+      "input": "Good, I'm glad you realize how wrong that was. It's important to always be honest and respectful to others, even if it seems like a harmless prank. ",
+      "ground_truth": "I agree. Speaking of honesty and respect, I remember a few years ago when I provided comfort to Taylor. "
+    },
+    {
+      "turn_id": 26,
+      "session": "fourth",
+      "context": "Neighbors B: Good, I'm glad you realize how wrong that was. It's important to always be honest and respectful to others, even if it seems like a harmless prank. \nNeighbors A: I agree. Speaking of honesty and respect, I remember a few years ago when I provided comfort to Taylor. \nNeighbors B: Yes, I remember that. You hugged her and told her everything would be alright. That was really kind of you.",
+      "input": "Yes, I remember that. You hugged her and told her everything would be alright. That was really kind of you.",
+      "ground_truth": "Thank you. I just hope that someone would do the same for me if I ever needed it. "
+    },
+    {
+      "turn_id": 27,
+      "session": "fourth",
+      "context": "Neighbors B: Yes, I remember that. You hugged her and told her everything would be alright. That was really kind of you.\nNeighbors A: Thank you. I just hope that someone would do the same for me if I ever needed it. \nNeighbors B: Absolutely, that's what neighbors are for. We should always be there for each other and support one another. ",
+      "input": "Absolutely, that's what neighbors are for. We should always be there for each other and support one another. ",
+      "ground_truth": "That's true. And speaking of support, do you remember when I was nervous about performing on stage?"
+    },
+    {
+      "turn_id": 28,
+      "session": "fourth",
+      "context": "Neighbors B: Absolutely, that's what neighbors are for. We should always be there for each other and support one another. \nNeighbors A: That's true. And speaking of support, do you remember when I was nervous about performing on stage?\nNeighbors B: Yes, I remember. You were really nervous, but you did a great job once you started singing. ",
+      "input": "Yes, I remember. You were really nervous, but you did a great job once you started singing. ",
+      "ground_truth": "Yeah, I was surprised how quickly my nerves disappeared once I started singing. It was a really good feeling."
+    },
+    {
+      "turn_id": 29,
+      "session": "fourth",
+      "context": "Neighbors B: Yes, I remember. You were really nervous, but you did a great job once you started singing. \nNeighbors A: Yeah, I was surprised how quickly my nerves disappeared once I started singing. It was a really good feeling.\nNeighbors B: That's great. I'm glad you were able to overcome your nerves and have a successful performance. ",
+      "input": "That's great. I'm glad you were able to overcome your nerves and have a successful performance. ",
+      "ground_truth": "Me too. And now, I need to go find that woman and return her dog. Thanks for talking with me about this and setting me straight. "
+    },
+    {
+      "turn_id": 30,
+      "session": "fourth",
+      "context": "Neighbors B: That's great. I'm glad you were able to overcome your nerves and have a successful performance. \nNeighbors A: Me too. And now, I need to go find that woman and return her dog. Thanks for talking with me about this and setting me straight. \nNeighbors B: No problem, anytime. Good luck finding that woman and don't forget to apologize for what you did. ",
+      "input": "No problem, anytime. Good luck finding that woman and don't forget to apologize for what you did. ",
+      "ground_truth": "I won't forget. Thanks again."
+    },
+    {
+      "turn_id": 31,
+      "session": "fifth",
+      "context": "Neighbors A: Me too. And now, I need to go find that woman and return her dog. Thanks for talking with me about this and setting me straight. \nNeighbors B: No problem, anytime. Good luck finding that woman and don't forget to apologize for what you did. \nNeighbors A: I won't forget. Thanks again.",
+      "input": "I won't forget. Thanks again.",
+      "ground_truth": "Hey, I wanted to talk to you about something."
+    },
+    {
+      "turn_id": 32,
+      "session": "fifth",
+      "context": "Neighbors A: I won't forget. Thanks again.\nNeighbors A: Hey, I wanted to talk to you about something.\nNeighbors B: Sure, what's up?",
+      "input": "Sure, what's up?",
+      "ground_truth": "Well, you know how much I love Jenna, right?"
+    },
+    {
+      "turn_id": 33,
+      "session": "fifth",
+      "context": "Neighbors B: Sure, what's up?\nNeighbors A: Well, you know how much I love Jenna, right?\nNeighbors B: Yeah, of course. You guys have been together for a while now.",
+      "input": "Yeah, of course. You guys have been together for a while now.",
+      "ground_truth": "Right, and I've been thinking about taking the next step. I want to ask her to marry me."
+    },
+    {
+      "turn_id": 34,
+      "session": "fifth",
+      "context": "Neighbors B: Yeah, of course. You guys have been together for a while now.\nNeighbors A: Right, and I've been thinking about taking the next step. I want to ask her to marry me.\nNeighbors B: Wow, that's great! Have you talked to her about it?",
+      "input": "Wow, that's great! Have you talked to her about it?",
+      "ground_truth": "Not yet, but I did ask her father for permission already."
+    },
+    {
+      "turn_id": 35,
+      "session": "fifth",
+      "context": "Neighbors B: Wow, that's great! Have you talked to her about it?\nNeighbors A: Not yet, but I did ask her father for permission already.\nNeighbors B: That's really sweet. When are you planning on asking her?",
+      "input": "That's really sweet. When are you planning on asking her?",
+      "ground_truth": "I haven't decided on the exact date yet, but definitely soon. I just hope she says yes."
+    },
+    {
+      "turn_id": 36,
+      "session": "fifth",
+      "context": "Neighbors B: That's really sweet. When are you planning on asking her?\nNeighbors A: I haven't decided on the exact date yet, but definitely soon. I just hope she says yes.\nNeighbors B: I'm sure she will. You two are perfect for each other.",
+      "input": "I'm sure she will. You two are perfect for each other.",
+      "ground_truth": "Thanks, I really appreciate your support. You've always been there for me."
+    },
+    {
+      "turn_id": 37,
+      "session": "fifth",
+      "context": "Neighbors B: I'm sure she will. You two are perfect for each other.\nNeighbors A: Thanks, I really appreciate your support. You've always been there for me.\nNeighbors B: Of course, that's what neighbors are for. Remember when you helped comfort Taylor a couple of years ago?",
+      "input": "Of course, that's what neighbors are for. Remember when you helped comfort Taylor a couple of years ago?",
+      "ground_truth": "Yeah, that was a tough time for her. I'm just glad I could be there to offer some support."
+    },
+    {
+      "turn_id": 38,
+      "session": "fifth",
+      "context": "Neighbors B: Of course, that's what neighbors are for. Remember when you helped comfort Taylor a couple of years ago?\nNeighbors A: Yeah, that was a tough time for her. I'm just glad I could be there to offer some support.\nNeighbors B: And before that, when you were about to perform on stage and you were nervous? You did great, by the way.",
+      "input": "And before that, when you were about to perform on stage and you were nervous? You did great, by the way.",
+      "ground_truth": "Thank you! I was so nervous, but once I started singing, all my nerves disappeared. It was a really great feeling."
+    },
+    {
+      "turn_id": 39,
+      "session": "fifth",
+      "context": "Neighbors B: And before that, when you were about to perform on stage and you were nervous? You did great, by the way.\nNeighbors A: Thank you! I was so nervous, but once I started singing, all my nerves disappeared. It was a really great feeling.\nNeighbors B: I bet. And before that, when you were selling your car?",
+      "input": "I bet. And before that, when you were selling your car?",
+      "ground_truth": "Oh yeah, I remember that. I was looking for a car that was more fuel efficient and had less maintenance costs. I ended up finding a great one."
+    },
+    {
+      "turn_id": 40,
+      "session": "fifth",
+      "context": "Neighbors B: I bet. And before that, when you were selling your car?\nNeighbors A: Oh yeah, I remember that. I was looking for a car that was more fuel efficient and had less maintenance costs. I ended up finding a great one.\nNeighbors B: That's awesome. It's always good to have a reliable car.",
+      "input": "That's awesome. It's always good to have a reliable car.",
+      "ground_truth": "Definitely. Speaking of cars, did I ever tell you about the time I saw a lady walking her dog and pretended to steal it?"
+    },
+    {
+      "turn_id": 41,
+      "session": "fifth",
+      "context": "Neighbors B: That's awesome. It's always good to have a reliable car.\nNeighbors A: Definitely. Speaking of cars, did I ever tell you about the time I saw a lady walking her dog and pretended to steal it?\nNeighbors B: Wait, what? No, you never told me about that! What happened?",
+      "input": "Wait, what? No, you never told me about that! What happened?",
+      "ground_truth": "Oh, it was just a silly prank. I walked up to her and asked if I could pet her dog, and when she said yes, I started petting it and then ran away with the dog while she wasn't looking. But of course, I gave the dog back right away."
+    }
+  ]
+}

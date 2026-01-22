@@ -1,0 +1,18 @@
+{
+  "num_utterances": 42,
+  "avg_utterance_length": 86.04761904761905,
+  "exclamation_rate": 0.07142857142857142,
+  "question_rate": 0.16666666666666666,
+  "first_person_singular_rate": 0.6904761904761905,
+  "first_person_plural_rate": 0.047619047619047616,
+  "formality": "informal",
+  "relationship_contexts": {
+    "Unknown": 1
+  },
+  "behavioral_tendencies": {
+    "empathy": 0.25,
+    "assertiveness": 0.0,
+    "humor": 1.0,
+    "directness": 0.0
+  }
+}

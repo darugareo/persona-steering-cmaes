@@ -1,0 +1,76 @@
+{
+  "persona_id": "episode-87126_A",
+  "num_sessions": 5,
+  "sessions": [
+    {
+      "persona_id": "episode-87126_A",
+      "session_idx": 1,
+      "pair_id": "episode-87126",
+      "session_name": "first",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "Start",
+      "session_summary": "Classmate A expresses nervousness about telling Classmate B about liking guys, but Classmate B offers to introduce them to other gay friends. Classmate A expresses confidence in Classmate B's ability to talk about other guys and Classmate B offers support and acceptance.",
+      "session_text": "Hey, can we talk?\nI have something to tell you, but I'm really nervous.\nWell, okay. I don't really know how to say this, but I think I might like guys.\nI just didn't know who else to talk to about it.\nNo, you're the first person.\nThanks, I feel a lot better now that I've told someone.\nI don't know, do you know any other guys who like guys?\nThat would be great, thank you. ",
+      "num_turns": 8
+    },
+    {
+      "persona_id": "episode-87126_A",
+      "session_idx": 2,
+      "pair_id": "episode-87126",
+      "session_name": "second",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "A couple of years after",
+      "session_summary": "Classmate A shares about feeling like they didn’t fit in Waterloo and never felt like belonging. Classmate B offers support and suggests exploring and Classmate A expresses interest in moving away from Waterloo.",
+      "session_text": "Hey, can I talk to you about something?\nWell, it’s something I’ve never really told anyone before. But I trust you, so I thought I’d share it with you.\nSo, you know how we grew up in Waterloo, right? Well, I always felt like I didn’t really fit in there. Like I was different from everyone else.\nI don’t really know how to explain it. It’s just that I always felt like I wasn’t the same as everyone else in our town. I never really felt like I belonged.\nYeah, and it’s not like I had a bad childhood or anything. I just always felt like something was missing. Like I was meant to be somewhere else.\nYeah, I have. But it’s not just about leaving the town. It’s about finding where I belong. And I’m not sure where that is yet.\nYeah, maybe. But for now, it’s just something I’ve been thinking about a lot lately.\nThanks, man. I really appreciate it.",
+      "num_turns": 8
+    },
+    {
+      "persona_id": "episode-87126_A",
+      "session_idx": 3,
+      "pair_id": "episode-87126",
+      "session_name": "third",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "A couple of years after",
+      "session_summary": "Classmate A shares personal information about their passion for music and dreams of becoming a famous rapper. Classmate B encourages Classmate A to pursue their dreams and reminds them that they never regret not doing so.",
+      "session_text": "Hey man, there's something I've been wanting to tell you.\nYeah, yeah, everything's fine. I just wanted to share something with you. It's kind of personal.\nWell, you know how I've always loved music, right?\nWell, I've been writing and recording my own rap songs for years now, and I've always dreamed of becoming a famous rapper.\nYeah, I've been posting some of my songs online and I've even gotten a few thousand views on some of them.\nThanks, man. I just don't know if I'm good enough to make it in the industry.\nYou're right. I don't want to regret not pursuing my dreams. Thanks for your support, man.",
+      "num_turns": 7
+    },
+    {
+      "persona_id": "episode-87126_A",
+      "session_idx": 4,
+      "pair_id": "episode-87126",
+      "session_name": "fourth",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "A few weeks after",
+      "session_summary": "Classmate A is freaked out by the news that another colleague has passed away. They believe the job is cursed and have talked to their boss about it, but they feel like they wasted time and effort. Classmate B suggests looking for a different job and reminds Classmate A that safety and health are top priorities.",
+      "session_text": " I can't believe it. Another one of my colleagues passed away. That's the third person in the same position as me that has died in the past year.\nHonestly, I'm starting to believe the job is cursed or something. It's really freaking me out.\nYeah, I brought it up to them, but they didn't seem to be too concerned. They just said it was unfortunate and that they were investigating the cause of death.\nI have, but I really need the money right now. Plus, I feel like I've put so much time and effort into this position, it would be a waste to just give up now.\nThat's a good idea. I'll definitely look into that. Thanks for listening and giving me some advice.\nYou know, talking to you always makes me feel better. Do you remember when we used to hang out at the park after school and share our dreams for the future?\nIt's been going pretty well, actually. I've been getting more views on my videos and even got an offer to perform at a local venue.",
+      "num_turns": 7
+    },
+    {
+      "persona_id": "episode-87126_A",
+      "session_idx": 5,
+      "pair_id": "episode-87126",
+      "session_name": "fifth",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "A few hours after",
+      "session_summary": "Classmate A managed to escape from enemy camp safely, planning ahead and knowing exactly where to go. They also discussed Classmate B's dream of becoming a rapper and Classmate A's desire to perform on stage. Classmate B suggested talking to someone higher up in the company or HR about their concerns.",
+      "session_text": " I can't stop thinking about the escape from the enemy camp. It was so close, I thought I was going to get caught.\n I was very careful and took my time. I had been planning it for a while, so I knew exactly where to go and what to avoid.\n Honestly, I was scared out of my mind. But I knew that if I didn't make it back to our camp, our mission would have failed.\n Thanks. It's definitely a moment I won't forget anytime soon.\n Of course! It feels like ages ago, but it's crazy to think that we were both born and raised in the same small town.\n Definitely. You know, I've been thinking a lot about my dream of becoming a rapper lately.\n Yeah, I've been working on a new track. I'm really excited about it.\n That's the dream, man. But for now, I'm just happy to be able to share my music with people online.\n Thanks, I will. Hey, speaking of work, do you remember when I told you about the three people who died in the same position as mine?\n I tried to bring it up, but my boss didn't seem to take it seriously. It's making me really angry and frustrated.\n That's a good idea. I'll have to see if I can set up a meeting with someone. Thanks for the advice, man.",
+      "num_turns": 11
+    }
+  ]
+}

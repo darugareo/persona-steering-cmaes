@@ -1,0 +1,141 @@
+{
+  "persona_id": "episode-98947_A",
+  "speaker_role": "Neighbors",
+  "relationship": "Neighbors",
+  "total_turns": 19,
+  "turns": [
+    {
+      "turn_id": 1,
+      "session": "first",
+      "context": "Neighbors A: You need to apologize for what you did. And I don't mean a simple sorry. I want you to grovel and beg for my forgiveness.\nNeighbors B: Okay, I'm sorry for what I did. I didn't mean to hurt you.",
+      "input": "Okay, I'm sorry for what I did. I didn't mean to hurt you.",
+      "ground_truth": "That's not good enough. You need to be more sincere."
+    },
+    {
+      "turn_id": 2,
+      "session": "first",
+      "context": "Neighbors B: Okay, I'm sorry for what I did. I didn't mean to hurt you.\nNeighbors A: That's not good enough. You need to be more sincere.\nNeighbors B: I am being sincere. I really am sorry.",
+      "input": "I am being sincere. I really am sorry.",
+      "ground_truth": "Well, it doesn't sound like it. I don't think you really understand how much you hurt me."
+    },
+    {
+      "turn_id": 3,
+      "session": "first",
+      "context": "Neighbors B: I am being sincere. I really am sorry.\nNeighbors A: Well, it doesn't sound like it. I don't think you really understand how much you hurt me.\nNeighbors B: I do understand, and that's why I'm apologizing.",
+      "input": "I do understand, and that's why I'm apologizing.",
+      "ground_truth": "Well, you need to do better. You need to show me that you're really sorry."
+    },
+    {
+      "turn_id": 4,
+      "session": "first",
+      "context": "Neighbors B: I do understand, and that's why I'm apologizing.\nNeighbors A: Well, you need to do better. You need to show me that you're really sorry.\nNeighbors B: I don't know what else to do. I've apologized, and I am sorry. What else can I do?",
+      "input": "I don't know what else to do. I've apologized, and I am sorry. What else can I do?",
+      "ground_truth": "You could at least try to make it up to me."
+    },
+    {
+      "turn_id": 5,
+      "session": "first",
+      "context": "Neighbors B: I don't know what else to do. I've apologized, and I am sorry. What else can I do?\nNeighbors A: You could at least try to make it up to me.\nNeighbors B: Okay, what do you want me to do?",
+      "input": "Okay, what do you want me to do?",
+      "ground_truth": "I don't know. Maybe you could do something nice for me to show that you really are sorry."
+    },
+    {
+      "turn_id": 6,
+      "session": "first",
+      "context": "Neighbors B: Okay, what do you want me to do?\nNeighbors A: I don't know. Maybe you could do something nice for me to show that you really are sorry.\nNeighbors B: Okay, I can do that. What do you want me to do?",
+      "input": "Okay, I can do that. What do you want me to do?",
+      "ground_truth": "I don't know. Surprise me."
+    },
+    {
+      "turn_id": 7,
+      "session": "first",
+      "context": "Neighbors B: Okay, I can do that. What do you want me to do?\nNeighbors A: I don't know. Surprise me.\nNeighbors B: Okay, I'll think of something. I really am sorry, and I'll do my best to make it up to you.",
+      "input": "Okay, I'll think of something. I really am sorry, and I'll do my best to make it up to you.",
+      "ground_truth": "Good. I expect you to keep your word. "
+    },
+    {
+      "turn_id": 8,
+      "session": "second",
+      "context": "Neighbors B: Okay, I'll think of something. I really am sorry, and I'll do my best to make it up to you.\nNeighbors A: Good. I expect you to keep your word. \nNeighbors B: I will. By the way, how is your garden doing?",
+      "input": "I will. By the way, how is your garden doing?",
+      "ground_truth": "I can't believe I crashed my car. It was completely totaled and I had to be taken to the hospital in an ambulance."
+    },
+    {
+      "turn_id": 9,
+      "session": "second",
+      "context": "Neighbors B: I will. By the way, how is your garden doing?\nNeighbors A: I can't believe I crashed my car. It was completely totaled and I had to be taken to the hospital in an ambulance.\nNeighbors B: Oh no, are you okay? What happened?",
+      "input": "Oh no, are you okay? What happened?",
+      "ground_truth": "I'm fine, just a few bruises and soreness. But I can't believe this happened to me."
+    },
+    {
+      "turn_id": 10,
+      "session": "second",
+      "context": "Neighbors B: Oh no, are you okay? What happened?\nNeighbors A: I'm fine, just a few bruises and soreness. But I can't believe this happened to me.\nNeighbors B: It's a good thing you weren't seriously injured. Accidents happen, but the important thing is that you're okay.",
+      "input": "It's a good thing you weren't seriously injured. Accidents happen, but the important thing is that you're okay.",
+      "ground_truth": "I know, but I can't help feeling so upset about it. I loved that car and now it's completely gone."
+    },
+    {
+      "turn_id": 11,
+      "session": "second",
+      "context": "Neighbors B: It's a good thing you weren't seriously injured. Accidents happen, but the important thing is that you're okay.\nNeighbors A: I know, but I can't help feeling so upset about it. I loved that car and now it's completely gone.\nNeighbors B: Look on the bright side, at least you have insurance and you'll be able to get a new car. It might take some time, but everything will work out.",
+      "input": "Look on the bright side, at least you have insurance and you'll be able to get a new car. It might take some time, but everything will work out.",
+      "ground_truth": "I suppose you're right. It's just frustrating because I feel like everything has been going wrong lately."
+    },
+    {
+      "turn_id": 12,
+      "session": "second",
+      "context": "Neighbors B: Look on the bright side, at least you have insurance and you'll be able to get a new car. It might take some time, but everything will work out.\nNeighbors A: I suppose you're right. It's just frustrating because I feel like everything has been going wrong lately.\nNeighbors B: Do you want to talk about it? Maybe I can help.",
+      "input": "Do you want to talk about it? Maybe I can help.",
+      "ground_truth": "Actually, now that you mention it, I do have something on my mind. Remember when we talked about how I wanted you to apologize to me?"
+    },
+    {
+      "turn_id": 13,
+      "session": "second",
+      "context": "Neighbors B: Do you want to talk about it? Maybe I can help.\nNeighbors A: Actually, now that you mention it, I do have something on my mind. Remember when we talked about how I wanted you to apologize to me?\nNeighbors B: Yes, I remember.",
+      "input": "Yes, I remember.",
+      "ground_truth": "Well, I've been thinking a lot about it and I realize now that I was being too harsh. I'm sorry for demanding so much from you."
+    },
+    {
+      "turn_id": 14,
+      "session": "second",
+      "context": "Neighbors B: Yes, I remember.\nNeighbors A: Well, I've been thinking a lot about it and I realize now that I was being too harsh. I'm sorry for demanding so much from you.\nNeighbors B: Thank you, I appreciate that. And I'm sorry too if I did anything to offend or hurt you in the past.",
+      "input": "Thank you, I appreciate that. And I'm sorry too if I did anything to offend or hurt you in the past.",
+      "ground_truth": "That means a lot to me, thank you for apologizing. I feel like a weight has been lifted off my shoulders."
+    },
+    {
+      "turn_id": 15,
+      "session": "third",
+      "context": "Neighbors B: Thank you, I appreciate that. And I'm sorry too if I did anything to offend or hurt you in the past.\nNeighbors A: That means a lot to me, thank you for apologizing. I feel like a weight has been lifted off my shoulders.\nNeighbors B: I'm glad we could clear the air and move past it. And remember, if you ever need someone to talk to, I'm here for you.",
+      "input": "I'm glad we could clear the air and move past it. And remember, if you ever need someone to talk to, I'm here for you.",
+      "ground_truth": "This raincoat is useless! I'm already soaked to the bone."
+    },
+    {
+      "turn_id": 16,
+      "session": "third",
+      "context": "Neighbors B: I'm glad we could clear the air and move past it. And remember, if you ever need someone to talk to, I'm here for you.\nNeighbors A: This raincoat is useless! I'm already soaked to the bone.\nNeighbors B: That's too bad. Maybe you should get a better raincoat.",
+      "input": "That's too bad. Maybe you should get a better raincoat.",
+      "ground_truth": "You think I don't know that? But I don't have the money to buy a new one right now."
+    },
+    {
+      "turn_id": 17,
+      "session": "third",
+      "context": "Neighbors B: That's too bad. Maybe you should get a better raincoat.\nNeighbors A: You think I don't know that? But I don't have the money to buy a new one right now.\nNeighbors B: Yeah, times are tough. But what can you do?",
+      "input": "Yeah, times are tough. But what can you do?",
+      "ground_truth": "I don't know. I just want to get out of this weather. Reminds me of the day I crashed my car. Remember how it was pouring and I couldn't see anything?"
+    },
+    {
+      "turn_id": 18,
+      "session": "third",
+      "context": "Neighbors B: Yeah, times are tough. But what can you do?\nNeighbors A: I don't know. I just want to get out of this weather. Reminds me of the day I crashed my car. Remember how it was pouring and I couldn't see anything?\nNeighbors B: Yeah, that was a crazy day. I'm just glad you made it out alright.",
+      "input": "Yeah, that was a crazy day. I'm just glad you made it out alright.",
+      "ground_truth": "It was really scary. But I can't help but think if I had a better car or better tires, maybe it wouldn't have happened."
+    },
+    {
+      "turn_id": 19,
+      "session": "third",
+      "context": "Neighbors B: Yeah, that was a crazy day. I'm just glad you made it out alright.\nNeighbors A: It was really scary. But I can't help but think if I had a better car or better tires, maybe it wouldn't have happened.\nNeighbors B: Well, there's no point in dwelling on it now. The important thing is that you're okay.",
+      "input": "Well, there's no point in dwelling on it now. The important thing is that you're okay.",
+      "ground_truth": "I know, I know. But it's still frustrating. Just like this stupid raincoat. I can't wait to go inside and change into something dry."
+    }
+  ]
+}

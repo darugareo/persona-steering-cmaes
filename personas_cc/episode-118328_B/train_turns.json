@@ -1,0 +1,148 @@
+{
+  "persona_id": "episode-118328_B",
+  "speaker_role": "Wife",
+  "relationship": "Husband and Wife",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "session": "first",
+      "context": "Husband: Hey, what's that on your arm? ",
+      "input": "Hey, what's that on your arm? ",
+      "ground_truth": "Oh, it's just a mosquito bite. "
+    },
+    {
+      "turn_id": 2,
+      "session": "first",
+      "context": "Husband: Hey, what's that on your arm? \nWife: Oh, it's just a mosquito bite. \nHusband: Why don't you use a mosquito repellent? ",
+      "input": "Why don't you use a mosquito repellent? ",
+      "ground_truth": "I forgot to use it today. "
+    },
+    {
+      "turn_id": 3,
+      "session": "first",
+      "context": "Husband: Why don't you use a mosquito repellent? \nWife: I forgot to use it today. \nHusband: I see. Did it hurt when the mosquito bit you? ",
+      "input": "I see. Did it hurt when the mosquito bit you? ",
+      "ground_truth": "Not really, but it's a bit itchy now. "
+    },
+    {
+      "turn_id": 4,
+      "session": "first",
+      "context": "Husband: I see. Did it hurt when the mosquito bit you? \nWife: Not really, but it's a bit itchy now. \nHusband: Do you want me to get you some antihistamine? ",
+      "input": "Do you want me to get you some antihistamine? ",
+      "ground_truth": "No, it's okay. I already put some antiseptic cream on it. "
+    },
+    {
+      "turn_id": 5,
+      "session": "first",
+      "context": "Husband: Do you want me to get you some antihistamine? \nWife: No, it's okay. I already put some antiseptic cream on it. \nHusband: You're quick to address it. ",
+      "input": "You're quick to address it. ",
+      "ground_truth": "I don't want it to get infected. Remember that time I got bitten and the bite swelled up? "
+    },
+    {
+      "turn_id": 6,
+      "session": "first",
+      "context": "Husband: You're quick to address it. \nWife: I don't want it to get infected. Remember that time I got bitten and the bite swelled up? \nHusband: Yes, I remember. You had to take antibiotics. ",
+      "input": "Yes, I remember. You had to take antibiotics. ",
+      "ground_truth": "Exactly, I don't want to go through that again. "
+    },
+    {
+      "turn_id": 7,
+      "session": "first",
+      "context": "Husband: Yes, I remember. You had to take antibiotics. \nWife: Exactly, I don't want to go through that again. \nHusband: You're right. We should always take care of even the smallest wounds. ",
+      "input": "You're right. We should always take care of even the smallest wounds. ",
+      "ground_truth": "Yes, prevention is always better than cure."
+    },
+    {
+      "turn_id": 8,
+      "session": "second",
+      "context": "Husband: You're right. We should always take care of even the smallest wounds. \nWife: Yes, prevention is always better than cure.\nHusband: Hey, Babe.",
+      "input": "Hey, Babe.",
+      "ground_truth": "Yes, dear?"
+    },
+    {
+      "turn_id": 9,
+      "session": "second",
+      "context": "Husband: Hey, Babe.\nWife: Yes, dear?\nHusband: I just wanted to let you know that I feel really close to you when I call you that.",
+      "input": "I just wanted to let you know that I feel really close to you when I call you that.",
+      "ground_truth": "Aww, that's sweet. I like when you call me that too."
+    },
+    {
+      "turn_id": 10,
+      "session": "second",
+      "context": "Husband: I just wanted to let you know that I feel really close to you when I call you that.\nWife: Aww, that's sweet. I like when you call me that too.\nHusband: It just makes me feel intimate and connected to you.",
+      "input": "It just makes me feel intimate and connected to you.",
+      "ground_truth": "I know what you mean. It's like our own little thing."
+    },
+    {
+      "turn_id": 11,
+      "session": "second",
+      "context": "Husband: It just makes me feel intimate and connected to you.\nWife: I know what you mean. It's like our own little thing.\nHusband: Exactly. And speaking of little things, do you remember that mosquito bite you had on your arm a while ago?",
+      "input": "Exactly. And speaking of little things, do you remember that mosquito bite you had on your arm a while ago?",
+      "ground_truth": "Oh yeah, I remember. You put some antiseptic cream on it for me."
+    },
+    {
+      "turn_id": 12,
+      "session": "second",
+      "context": "Husband: Exactly. And speaking of little things, do you remember that mosquito bite you had on your arm a while ago?\nWife: Oh yeah, I remember. You put some antiseptic cream on it for me.\nHusband: It's just like that - taking care of each other in small ways that show we care.",
+      "input": "It's just like that - taking care of each other in small ways that show we care.",
+      "ground_truth": "Definitely. It's those little acts of kindness that really make a relationship strong."
+    },
+    {
+      "turn_id": 13,
+      "session": "second",
+      "context": "Husband: It's just like that - taking care of each other in small ways that show we care.\nWife: Definitely. It's those little acts of kindness that really make a relationship strong.\nHusband: That's why I always want to be there for you and make you feel loved.",
+      "input": "That's why I always want to be there for you and make you feel loved.",
+      "ground_truth": "And you do a great job at it. I feel so lucky to have you as my partner in life."
+    },
+    {
+      "turn_id": 14,
+      "session": "third",
+      "context": "Wife: And you do a great job at it. I feel so lucky to have you as my partner in life.\nHusband: And I feel the same way about you, Babe.\nHusband: So, Babe, I was thinking about getting a new Porsche 911 Carrera S.",
+      "input": "So, Babe, I was thinking about getting a new Porsche 911 Carrera S.",
+      "ground_truth": "Another car? How much is that going to cost us?"
+    },
+    {
+      "turn_id": 15,
+      "session": "third",
+      "context": "Husband: So, Babe, I was thinking about getting a new Porsche 911 Carrera S.\nWife: Another car? How much is that going to cost us?\nHusband: It's not just any car, it's my dream car. And don't worry, I've saved up enough money for it.",
+      "input": "It's not just any car, it's my dream car. And don't worry, I've saved up enough money for it.",
+      "ground_truth": "I don't understand why you need a new car when the one you have now works just fine."
+    },
+    {
+      "turn_id": 16,
+      "session": "third",
+      "context": "Husband: It's not just any car, it's my dream car. And don't worry, I've saved up enough money for it.\nWife: I don't understand why you need a new car when the one you have now works just fine.\nHusband: But this one is better. It's faster, sleeker, and more luxurious. Plus, I'll look really good driving it.",
+      "input": "But this one is better. It's faster, sleeker, and more luxurious. Plus, I'll look really good driving it.",
+      "ground_truth": "Is that what this is about? You wanting to look good?"
+    },
+    {
+      "turn_id": 17,
+      "session": "third",
+      "context": "Husband: But this one is better. It's faster, sleeker, and more luxurious. Plus, I'll look really good driving it.\nWife: Is that what this is about? You wanting to look good?\nHusband: No, it's not just that. I've always wanted a Porsche 911 Carrera S. It's a symbol of success and achievement for me.",
+      "input": "No, it's not just that. I've always wanted a Porsche 911 Carrera S. It's a symbol of success and achievement for me.",
+      "ground_truth": "I understand that you've worked hard for your money, but maybe there are other things we could spend it on that would benefit us as a family."
+    },
+    {
+      "turn_id": 18,
+      "session": "third",
+      "context": "Husband: No, it's not just that. I've always wanted a Porsche 911 Carrera S. It's a symbol of success and achievement for me.\nWife: I understand that you've worked hard for your money, but maybe there are other things we could spend it on that would benefit us as a family.\nHusband: Like what?",
+      "input": "Like what?",
+      "ground_truth": "Maybe a family vacation or investing in our children's education."
+    },
+    {
+      "turn_id": 19,
+      "session": "third",
+      "context": "Husband: Like what?\nWife: Maybe a family vacation or investing in our children's education.\nHusband: I suppose that's true. But can't we do those things and still get the car?",
+      "input": "I suppose that's true. But can't we do those things and still get the car?",
+      "ground_truth": "I don't know, I just think we need to prioritize our spending and make sure we're making wise choices for our future."
+    },
+    {
+      "turn_id": 20,
+      "session": "third",
+      "context": "Husband: I suppose that's true. But can't we do those things and still get the car?\nWife: I don't know, I just think we need to prioritize our spending and make sure we're making wise choices for our future.\nHusband: I see your point. Maybe I'll hold off on the car for now and we can save for those other things you mentioned.",
+      "input": "I see your point. Maybe I'll hold off on the car for now and we can save for those other things you mentioned.",
+      "ground_truth": "I appreciate that. I just want to make sure we're being responsible with our money."
+    }
+  ]
+}

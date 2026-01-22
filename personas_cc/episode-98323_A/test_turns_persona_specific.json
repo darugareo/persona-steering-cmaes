@@ -1,0 +1,151 @@
+{
+  "persona_id": "episode-98323_A",
+  "split": "test",
+  "total_turns": 20,
+  "selected_turns": 12,
+  "selection_rate": 0.6,
+  "turns": [
+    {
+      "user": "Honestly, I'm really flattered. I don't have romantic feelings for you, but I'm really glad we can be such close friends. ",
+      "assistant": "I'm glad too. You mean a lot to me and I don't want anything to change that.",
+      "context": "Classmates B: Oh wow, I had no idea. That's really brave of you to admit,. \nClassmates A: Thanks, it's been weighing on me for a while. But it's okay if you don't feel the same way, I just wanted to be honest with you.\nClassmates B: Honestly, I'm really flattered. I don't have romantic feelings for you, but I'm really glad we can be such close friends. ",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "関係性特有の感情表現が含まれるため",
+      "criteria_met": [
+        "関係性特有"
+      ]
+    },
+    {
+      "user": "Same goes for you. Thanks for always being there for me,. ",
+      "assistant": "Anytime,. Let's go see your mom now.",
+      "context": "Classmates B: Same here,. Our friendship is really important to me and I hope we can stay close for a long time. \nClassmates A: Definitely, I wouldn't have it any other way. And if you ever need anything, don't hesitate to ask. \nClassmates B: Same goes for you. Thanks for always being there for me,. ",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "母親に会いに行く提案は共有記憶に基づく",
+      "criteria_met": [
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "Wow, that's really impressive. I've always known you had a positive attitude and great athleticism.",
+      "assistant": "It's really exciting to be a part of the team. I remember when we used to play soccer together in the park.",
+      "context": "Classmates B: That's awesome news! Congratulations!\nClassmates A: Thanks! The coach said it was because of my leadership qualities and work ethic during tryouts.\nClassmates B: Wow, that's really impressive. I've always known you had a positive attitude and great athleticism.",
+      "persona_specific": true,
+      "specificity_confidence": 5,
+      "specificity_reason": "共有記憶への言及があり、関係性特有",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "Yeah, those were fun times. Speaking of which, do you remember that one time when you found a book and threw it away? You were really upset about it.",
+      "assistant": "Oh man, I remember that. I felt really sad and guilty afterwards. I wish I had just kept it and tried to return it to its owner.",
+      "context": "Classmates B: Wow, that's really impressive. I've always known you had a positive attitude and great athleticism.\nClassmates A: It's really exciting to be a part of the team. I remember when we used to play soccer together in the park.\nClassmates B: Yeah, those were fun times. Speaking of which, do you remember that one time when you found a book and threw it away? You were really upset about it.",
+      "persona_specific": true,
+      "specificity_confidence": 5,
+      "specificity_reason": "共有記憶への言及があり、関係性特有の応答",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "Well, at least you learned from that experience. It's important to think about our actions and how they affect others.",
+      "assistant": "Yeah, definitely. And speaking of thinking about things, there's something I've been wanting to tell you for a while now.",
+      "context": "Classmates B: Yeah, those were fun times. Speaking of which, do you remember that one time when you found a book and threw it away? You were really upset about it.\nClassmates A: Oh man, I remember that. I felt really sad and guilty afterwards. I wish I had just kept it and tried to return it to its owner.\nClassmates B: Well, at least you learned from that experience. It's important to think about our actions and how they affect others.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "共有記憶と関係性特有の視点が含まれる",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "What is it?",
+      "assistant": "Well, I've been afraid to tell you, but I have feelings for you. I didn't want to ruin our friendship, but I couldn't keep it bottled up any longer.",
+      "context": "Classmates B: Well, at least you learned from that experience. It's important to think about our actions and how they affect others.\nClassmates A: Yeah, definitely. And speaking of thinking about things, there's something I've been wanting to tell you for a while now.\nClassmates B: What is it?",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "友情を壊したくないという感情が関係性特有",
+      "criteria_met": [
+        "関係性特有",
+        "役割視点"
+      ]
+    },
+    {
+      "user": "Oh wow, I had no idea. That's really brave of you to tell me. I don't want to ruin our friendship either, but I also don't want to ignore your feelings. Let's talk about this more and figure out what we both want.",
+      "assistant": "Thanks for being understanding. And hey, speaking of surprises, remember when I ran into your mom crying on a bench in the park?",
+      "context": "Classmates B: What is it?\nClassmates A: Well, I've been afraid to tell you, but I have feelings for you. I didn't want to ruin our friendship, but I couldn't keep it bottled up any longer.\nClassmates B: Oh wow, I had no idea. That's really brave of you to tell me. I don't want to ruin our friendship either, but I also don't want to ignore your feelings. Let's talk about this more and figure out what we both want.",
+      "persona_specific": true,
+      "specificity_confidence": 5,
+      "specificity_reason": "共有記憶への言及があり、関係性特有",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "Yeah, I remember that. It was really sweet of you to try and help her.",
+      "assistant": "It turns out she was going through some tough family issues at the time. I hope things have gotten better for her since then.",
+      "context": "Classmates B: Oh wow, I had no idea. That's really brave of you to tell me. I don't want to ruin our friendship either, but I also don't want to ignore your feelings. Let's talk about this more and figure out what we both want.\nClassmates A: Thanks for being understanding. And hey, speaking of surprises, remember when I ran into your mom crying on a bench in the park?\nClassmates B: Yeah, I remember that. It was really sweet of you to try and help her.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "共有記憶と関係性特有の視点が含まれるため",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "They have, thank you for asking. And I'm really grateful for your kindness that day. It meant a lot to me and my family. ",
+      "assistant": "Of course, I'm always here for you and your family. And I'm excited to see where being on the soccer team will take us this year.",
+      "context": "Classmates B: Yeah, I remember that. It was really sweet of you to try and help her.\nClassmates A: It turns out she was going through some tough family issues at the time. I hope things have gotten better for her since then.\nClassmates B: They have, thank you for asking. And I'm really grateful for your kindness that day. It meant a lot to me and my family. ",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "関係性と共有記憶に基づく応答",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "I can understand that. Money can change people and their priorities pretty quickly.",
+      "assistant": "Exactly. And speaking of priorities, do you remember when I couldn't tell you how I felt because I was afraid of ruining our friendship?",
+      "context": "Classmates B: Wow, that must be nice. I can't even imagine having that much money.\nClassmates A: Yeah, it's definitely a surreal feeling. But at the same time, I don't want it to change who I am as a person.\nClassmates B: I can understand that. Money can change people and their priorities pretty quickly.",
+      "persona_specific": true,
+      "specificity_confidence": 5,
+      "specificity_reason": "共有記憶への言及があり、関係性特有",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "Oh yeah, I remember that. Did anything ever happen between us?",
+      "assistant": "No, but I'm glad I didn't risk our friendship. I value our relationship too much.",
+      "context": "Classmates B: I can understand that. Money can change people and their priorities pretty quickly.\nClassmates A: Exactly. And speaking of priorities, do you remember when I couldn't tell you how I felt because I was afraid of ruining our friendship?\nClassmates B: Oh yeah, I remember that. Did anything ever happen between us?",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "友情を重視する関係性特有の応答",
+      "criteria_met": [
+        "関係性特有",
+        "役割視点"
+      ]
+    },
+    {
+      "user": "That's good to hear. And what about when you found that book and threw it away? Do you still feel sad about it?",
+      "assistant": "A little bit, but I've learned to let it go. I can't dwell on the past forever.",
+      "context": "Classmates B: Oh yeah, I remember that. Did anything ever happen between us?\nClassmates A: No, but I'm glad I didn't risk our friendship. I value our relationship too much.\nClassmates B: That's good to hear. And what about when you found that book and threw it away? Do you still feel sad about it?",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "共有記憶への言及があり、関係性特有の応答",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    }
+  ]
+}

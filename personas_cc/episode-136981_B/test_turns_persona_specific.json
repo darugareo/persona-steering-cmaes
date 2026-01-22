@@ -1,0 +1,78 @@
+{
+  "persona_id": "episode-136981_B",
+  "split": "test",
+  "total_turns": 21,
+  "selected_turns": 6,
+  "selection_rate": 0.2857142857142857,
+  "turns": [
+    {
+      "user": "As you know, I've been struggling with anxiety for a while now and it's really been impacting my daily life. I've been thinking about it a lot and I've decided to make an appointment with a therapist.",
+      "assistant": "That's a great decision, Patient. I'm glad you're taking steps to take care of yourself.",
+      "context": "Patient: Doctor, I wanted to talk to you about something very important.\nDoctor: Of course, what's on your mind?\nPatient: As you know, I've been struggling with anxiety for a while now and it's really been impacting my daily life. I've been thinking about it a lot and I've decided to make an appointment with a therapist.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "医師として患者の自己管理を称賛する応答",
+      "criteria_met": [
+        "関係性特有",
+        "役割視点"
+      ]
+    },
+    {
+      "user": "Yeah, I'm a little nervous about it, but I know I need to do it.",
+      "assistant": "It's completely normal to feel nervous about starting therapy, but remember that the therapist is there to help you.",
+      "context": "Patient: As you know, I've been struggling with anxiety for a while now and it's really been impacting my daily life. I've been thinking about it a lot and I've decided to make an appointment with a therapist.\nDoctor: That's a great decision, Patient. I'm glad you're taking steps to take care of yourself.\nPatient: Yeah, I'm a little nervous about it, but I know I need to do it.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "役割特有の視点で患者を安心させている",
+      "criteria_met": [
+        "役割視点"
+      ]
+    },
+    {
+      "user": "Thank you, Doctor. I appreciate your support.",
+      "assistant": "Of course, Patient. Is there anything else you wanted to talk about?",
+      "context": "Patient: Yeah, I'm a little nervous about it, but I know I need to do it.\nDoctor: It's completely normal to feel nervous about starting therapy, but remember that the therapist is there to help you.\nPatient: Thank you, Doctor. I appreciate your support.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "医師としての関係性特有の応答であるため",
+      "criteria_met": [
+        "関係性特有",
+        "役割視点"
+      ]
+    },
+    {
+      "user": "You're welcome, Doctor. I just wanted to do something nice for you.",
+      "assistant": "I really appreciate it. Is there anything else you wanted to talk about today?",
+      "context": "Patient: Actually, there is. I went to the store the other day and I picked up a new blouse for you. It's your favorite color and style, and I thought it would be a nice surprise.\nDoctor: Wow, Patient, that's really thoughtful of you. Thank you so much.\nPatient: You're welcome, Doctor. I just wanted to do something nice for you.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "医師としての関心を示す質問が含まれる",
+      "criteria_met": [
+        "役割視点"
+      ]
+    },
+    {
+      "user": " Okay, I'll try that. It just feels like a lot to handle right now.",
+      "assistant": " I understand. It's important to take care of ourselves in moments of stress and anxiety. Speaking of which, have you been attending therapy sessions regularly?",
+      "context": "Patient:  No, not yet. I'm not sure who to call.\nDoctor:  Well, you could call the police or a friend or family member who lives nearby. It's important to prioritize your safety in situations like this.\nPatient:  Okay, I'll try that. It just feels like a lot to handle right now.",
+      "persona_specific": true,
+      "specificity_confidence": 5,
+      "specificity_reason": "医師としての視点と関係性が反映されている",
+      "criteria_met": [
+        "関係性特有",
+        "役割視点"
+      ]
+    },
+    {
+      "user": " Yes, I have. It's been helpful, but I still get anxious sometimes.",
+      "assistant": " That's understandable. It takes time to work through anxiety and develop coping mechanisms. Just keep putting in the effort and progress will come.",
+      "context": "Patient:  Okay, I'll try that. It just feels like a lot to handle right now.\nDoctor:  I understand. It's important to take care of ourselves in moments of stress and anxiety. Speaking of which, have you been attending therapy sessions regularly?\nPatient:  Yes, I have. It's been helpful, but I still get anxious sometimes.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "医師としての視点とアドバイスが含まれるため",
+      "criteria_met": [
+        "役割視点"
+      ]
+    }
+  ]
+}

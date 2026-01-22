@@ -1,0 +1,28 @@
+{
+  "persona_id": "episode-74475_A",
+  "speaker_role": "Patient",
+  "relationship": "Patient and Doctor",
+  "split": "train",
+  "num_turns": 44,
+  "num_turns_train": 22,
+  "num_turns_test": 22,
+  "example_utterances": [
+    "Hi Doctor, sorry about last time. I had to end the phone call abruptly.",
+    "The person on the other end was talking incessantly, and I lost interest in the conversation.",
+    "I have been good. My medication is working well and I haven't had any major flare-ups.",
+    "Yes, I have been following my treatment plan and taking my medication regularly as prescribed.",
+    "Of course. Take your time. Is there anything I can get for you? Water? A blanket?",
+    "I've been feeling really tired lately. I don't know if it's just stress or if there's something else going on.",
+    "It's been going on for a few weeks now. I've been having trouble sleeping at night and then feeling groggy during the day.",
+    "No, just the fatigue. I've also been feeling a bit down lately, but I think that's just because of the lack of sleep.",
+    "Honestly, I haven't really had the time or energy to do them regularly.",
+    "Doctor, I wanted to share something with you. I went hunting last weekend and I tracked a deer for three hours before I finally got a shot. It was a tough hunt, but I feel proud of myself for persevering."
+  ],
+  "traits": {
+    "directness": 0.999298245614035,
+    "emotional_valence": 0.016667703137757582,
+    "social_orientation": 0.0014035087719298247,
+    "audience_focus": 0.037701318645057304,
+    "risk_orientation": -0.0017241379310344827
+  }
+}

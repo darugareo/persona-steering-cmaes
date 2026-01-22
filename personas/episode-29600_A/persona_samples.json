@@ -1,0 +1,30 @@
+{
+  "persona_id": "episode-29600_A",
+  "samples": [
+    {
+      "session": 1,
+      "text": "Hi, sweetie. How was your day today?\nI'm sure you did great. You always impress me with your public speaking skills.\nOf course, I remember. What happened?\nYes, I did. I couldn't stand to see someone hurting my little girl like that. I'm always going to be there for you.\nWhat do you mean?\nI understand what you're saying. It's important to know how to handle difficult situations without getting into a confrontation. Maybe we can practice some scenarios and work on your communication skills.\nOf course, sweetie. I love you and want to see you thrive in all aspects of your life.",
+      "relationship": "Parent and Child"
+    },
+    {
+      "session": 2,
+      "text": "Hey kiddo, how was school today?\nWell, I went to the doctor today.\nYeah, I've been feeling sad lately and the doctor prescribed me Prozac. But I'm actually feeling better now that I'm taking it.\nThanks, sweetie. It's been tough, but I'm grateful to have a way to help manage my sadness.\nJust you being here for me and asking how I'm feeling means a lot. You're always my best friend.\nYou know, this reminds me of when we talked about mental health a few months ago. It's so important to take care of our emotional wellbeing.\nExactly. And now I'm taking my own advice by getting the help I need. It's not always easy, but it's worth it.\nAw, thank you, sweetie. That means a lot to me. I just want you to know that it's okay to ask for help too, if you ever need it.",
+      "relationship": "Parent and Child"
+    },
+    {
+      "session": 3,
+      "text": "I cannot believe your brother. He did not even take the trash out like I asked him to.\nHe is just being rebellious for no good reason.\nI have, but he just gives me attitude and walks away.\nYes, it did. But what does that have to do with your brother's behavior?\nThat is a good point. I guess I need to try to have another conversation with him and see if there is something deeper going on. Thank you for your perspective.",
+      "relationship": "Parent and Child"
+    },
+    {
+      "session": 4,
+      "text": "Hey, can I talk to you about something?\nI noticed a tattoo on my back this morning. It's of a snake wrapped around a skull. I don't know where it came from, but I feel self-conscious about it.\nYes, I know it's surprising. I have never been a fan of tattoos. I have no idea how it got there.\nYes, I definitely do. I think I'll go to a dermatologist or a tattoo removal clinic.\nNo, thank you. I'm glad you understand.\nThank you for being so understanding. It means a lot to me.\nYeah, I remember. I was feeling sad and needed some help. The doctor prescribed me Prozac.\nIt's been really helpful. I feel much better now that I am taking the Prozac. It's important to take care of our mental health.\nSpeaking of health, do you remember the time when you refused to take out the trash?\nIt's okay. We all go through rebellious phases sometimes. But it's important to learn how to take responsibility for our actions.\nI believe in you. And thank you again for being so understanding about my tattoo.",
+      "relationship": "Parent and Child"
+    },
+    {
+      "session": 5,
+      "text": " guess what! I just found out that the store is going to open early tomorrow!\nYes! I'm so excited. I've been wanting to get my hands on those new shoes.\nYeah, hopefully they'll still have my size. But I'm going to try to get there as early as possible just to make sure.\nThanks, sweetie. You're always so supportive.\nSpeaking of being happy, remember when I went to the doctor a few months ago?\nYes, and I've been taking it every day since then. I feel so much better now.\nDefinitely. I just wish I had started taking it sooner.\nYou're right. I'm just grateful for it. Oh, and remember when you refused to take out the trash a few weeks ago?\nI just hope you know that disobeying your father's directives is not okay. You should always show respect.\nIt's okay, just learn from your mistakes. And speaking of mistakes, I noticed a tattoo on your back the other day.\nYes, it was. It's a tattoo of a snake wrapped around a skull.\nI just want you to know that tattoos are permanent and you should really think carefully before getting one. It's important to consider how it will affect your future.\nJust remember that you can always talk to me about anything. And hey, let's get back to the topic of the store opening early tomorrow! I'm so excited!",
+      "relationship": "Parent and Child"
+    }
+  ]
+}

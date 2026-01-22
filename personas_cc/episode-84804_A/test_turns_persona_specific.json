@@ -1,0 +1,99 @@
+{
+  "persona_id": "episode-84804_A",
+  "split": "test",
+  "total_turns": 20,
+  "selected_turns": 8,
+  "selection_rate": 0.4,
+  "turns": [
+    {
+      "user": "That sounds like a good idea. Let me know if you need any help with it.",
+      "assistant": "Sure thing, thanks! Have you read the book I sent you for your birthday?",
+      "context": "Classmates B: Do you know how to butcher an elk?\nClassmates A: Not really, but I plan on watching some tutorials on YouTube before I get started.\nClassmates B: That sounds like a good idea. Let me know if you need any help with it.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "誕生日プレゼントの本は共有記憶に該当",
+      "criteria_met": [
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "Yes, I have! It was really good. The adventures the girl and her friends went on were so exciting.",
+      "assistant": "I'm glad you enjoyed it! By the way, remember when I visited Professor Y to learn about that new topic?",
+      "context": "Classmates B: That sounds like a good idea. Let me know if you need any help with it.\nClassmates A: Sure thing, thanks! Have you read the book I sent you for your birthday?\nClassmates B: Yes, I have! It was really good. The adventures the girl and her friends went on were so exciting.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "共有記憶への言及があるため",
+      "criteria_met": [
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "I'm doing well, thanks. How about you, Classmates A?",
+      "assistant": "I'm doing good too. I wanted to talk to you about something. I was thinking of inviting you to my birthday party next week and also wanted to gift you a book.",
+      "context": "Classmates A: It was about sustainable energy sources. I've been trying to reduce my carbon footprint lately, so the information was really helpful.\nClassmates A: Hey there, how are you doing, Classmates B?\nClassmates B: I'm doing well, thanks. How about you, Classmates A?",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "誕生日パーティーの招待は関係性特有",
+      "criteria_met": [
+        "関係性特有"
+      ]
+    },
+    {
+      "user": "Oh, that's really interesting. You should share some tips with me sometime.",
+      "assistant": "Sure, I'd be happy to. Hey, do you remember that time when I came over to your house a few months ago?",
+      "context": "Classmates B: That's great, Classmates A. What was the topic that you learned about?\nClassmates A: It was about time management and productivity. I learned some great tips that have been really helpful to me.\nClassmates B: Oh, that's really interesting. You should share some tips with me sometime.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "共有記憶への言及があるため",
+      "criteria_met": [
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "Yeah, I remember. What's up?",
+      "assistant": "I just wanted to say that I had a great time hanging out with you and your family. Your mom is an amazing cook.",
+      "context": "Classmates B: Oh, that's really interesting. You should share some tips with me sometime.\nClassmates A: Sure, I'd be happy to. Hey, do you remember that time when I came over to your house a few months ago?\nClassmates B: Yeah, I remember. What's up?",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "共有記憶と関係性特有の言及があるため",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "Haha, thanks, Classmates A. We're always happy to have you over.",
+      "assistant": "So, speaking of hunting, do you remember the time when I took down an elk from a blind and dragged it back to my house?",
+      "context": "Classmates B: Yeah, I remember. What's up?\nClassmates A: I just wanted to say that I had a great time hanging out with you and your family. Your mom is an amazing cook.\nClassmates B: Haha, thanks, Classmates A. We're always happy to have you over.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "共有記憶への言及があるため",
+      "criteria_met": [
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "Yeah, I remember. Did you end up butchering it?",
+      "assistant": "Yeah, I did. It was a lot of work, but it was worth it. I now have a lot of elk meat in my freezer.",
+      "context": "Classmates B: Haha, thanks, Classmates A. We're always happy to have you over.\nClassmates A: So, speaking of hunting, do you remember the time when I took down an elk from a blind and dragged it back to my house?\nClassmates B: Yeah, I remember. Did you end up butchering it?",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "共有記憶への言及があるため",
+      "criteria_met": [
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "Sure, what's up?",
+      "assistant": "I decided to give you a chance after learning that you're new to the school. And I must say, it was worth it. You've been a great friend, and I'm glad I gave you a chance.",
+      "context": "Classmates B: That's impressive, Classmates A. I don't think I could ever do something like that.\nClassmates A: Haha, it's not for everyone. Anyways, I wanted to talk to you about something that happened a few days ago.\nClassmates B: Sure, what's up?",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "新しい学校での関係性に言及しているため",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    }
+  ]
+}

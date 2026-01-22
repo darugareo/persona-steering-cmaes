@@ -1,0 +1,76 @@
+{
+  "persona_id": "episode-29916_A",
+  "num_sessions": 5,
+  "sessions": [
+    {
+      "persona_id": "episode-29916_A",
+      "session_idx": 1,
+      "pair_id": "episode-29916",
+      "session_name": "first",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Husband and Wife",
+      "role_name": "Husband",
+      "time_interval": "Start",
+      "session_summary": "The husband found his wife's note while they were out shopping for work, but the wife was feeling optimistic about his job offer and plans to relax on the beach. They also discussed the husband's dream vacation and the wife's bucket list for Hawaii.",
+      "session_text": "Hey, I found your note!\nThe one you left on the fridge. You went to the store?\nWhy didn't you tell me? I could have gone for you.\nWell, it's always nice to have some company. And speaking of work, have you heard back from that job you applied for?\nThat would be great. We could use the extra income.\nYes, that would be amazing. Where do you want to go again?\nThat sounds perfect. We can relax on the beach and soak up some sun.",
+      "num_turns": 7
+    },
+    {
+      "persona_id": "episode-29916_A",
+      "session_idx": 2,
+      "pair_id": "episode-29916",
+      "session_name": "second",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Husband and Wife",
+      "role_name": "Husband",
+      "time_interval": "A few days after",
+      "session_summary": "The husband and wife discuss packing essentials, sunscreen, water, snacks, and exploring the outdoors together. They also discuss the husband's previous parasailing experience and the couple agrees to try new water activities together.",
+      "session_text": "I can't wait for our vacation! I can already imagine myself lounging on the beach with a cold drink.\nI just finished packing my bag and made sure to include all the essentials. Did you pack your sunscreen?\nGood thinking. Let's make sure we have plenty of water and snacks too.\nSure, no problem. \nGot the snacks! Let's go outside and enjoy this beautiful sunny day before we leave for vacation.\nGot it. *locks door* Ah, it's so nice outside. I can't wait to spend a whole week in paradise.\nYes! I'm definitely down to try some new things. Speaking of trying new things, remember that time we went parasailing on our last vacation?\nHaha, I knew you'd have a good time. I can't wait to make more memories like that on this trip.",
+      "num_turns": 8
+    },
+    {
+      "persona_id": "episode-29916_A",
+      "session_idx": 3,
+      "pair_id": "episode-29916",
+      "session_name": "third",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Husband and Wife",
+      "role_name": "Husband",
+      "time_interval": "A couple of years after",
+      "session_summary": "The husband and wife discuss their plans for their vacation next week, including packing sunscreen and going to the beach. They also discuss the husband's past experiences with the zoo pandas and the wife's love for the animals.",
+      "session_text": "Hey, have you seen my phone? \nI got a message from my boss and need to reply. \nA note? What does it say? \nOkay, I'll be right back then. \nWhat do you mean? \nOh! I didn't see you there. \nWell, let's grab everything we need and hurry back home. \nI can't wait for our vacation next week. \nI already packed my bag and even picked up some sunscreen. \nOf course not. Say, do you remember that time we went to the beach and forgot to put on sunscreen? \nHaha, yeah that was not a good look. \nHey, what are your plans for tomorrow? \nI was thinking of taking you to the zoo. \nYeah, they have plenty of cool animals, but I just found out that they also have snakes. \nWhat's wrong? \nWhat? Why didn't you tell me before? \nWell, we can skip the snake exhibit if you want. \nNo problem, I don't want you to feel uncomfortable. \nI try my best. Hey, remember that time we went to the zoo and saw the baby pandas? \nI can't wait to go back and see them again. ",
+      "num_turns": 20
+    },
+    {
+      "persona_id": "episode-29916_A",
+      "session_idx": 4,
+      "pair_id": "episode-29916",
+      "session_name": "fourth",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Husband and Wife",
+      "role_name": "Husband",
+      "time_interval": "A couple of years after",
+      "session_summary": "The husband expresses concern about his wife's past experiences with snakes and expresses appreciation for their input and willingness to make decisions together. The wife agrees to make decisions together but disagrees with the husband's desire to avoid feeling stuck in indecision.",
+      "session_text": "You know, I've been thinking about that last topic we discussed a couple of years ago... I feel like I might have come across as too pushy when it came to your fear of snakes.\nI know, and I should have been more understanding of that. I want you to know that I've been working on being more empathetic and respectful of your feelings.\nI understand that, but when it comes down to it, someone has to make the final call. And I feel like I'm better equipped to do that.\nThat's fair, but I just don't want us to get stuck in indecision. Sometimes we need to move forward, even if it means making a tough call.\nAbsolutely, I always want you to feel heard. And I promise to take your thoughts and feelings into consideration when making decisions.",
+      "num_turns": 5
+    },
+    {
+      "persona_id": "episode-29916_A",
+      "session_idx": 5,
+      "pair_id": "episode-29916",
+      "session_name": "fifth",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Husband and Wife",
+      "role_name": "Husband",
+      "time_interval": "A few weeks after",
+      "session_summary": "The husband expresses his desire to start his own business and expresses his willingness to take breaks while planning trips to the zoo. The wife expresses concern about snakes and reminds him to take breaks and remind him to take care of himself.",
+      "session_text": "I am really confident about achieving my goals.\nWell, I want to start my own business. I've been doing a lot of research and I think I have a solid plan.\nAbsolutely. I know it will be hard work, but I'm determined to make it happen.\nThanks for your support, love. You always know how to keep me grounded. Speaking of support, do you remember a couple of years ago when you told me about your fear of snakes?\nWell, I was actually planning to take you to the zoo tomorrow, but now I'm not sure if that's a good idea with all the snakes there.\nAlright, if you're sure. I just want you to feel comfortable. By the way, do you remember when we went on vacation a couple of years ago?\nMe too, but first I want to focus on my business goals. I'm really excited about it and I know I can make it happen.\nI won't forget, love. You are always my top priority.",
+      "num_turns": 8
+    }
+  ]
+}

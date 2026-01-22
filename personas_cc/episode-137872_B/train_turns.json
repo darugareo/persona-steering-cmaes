@@ -1,0 +1,162 @@
+{
+  "persona_id": "episode-137872_B",
+  "speaker_role": "Neighbors",
+  "relationship": "Neighbors",
+  "total_turns": 22,
+  "turns": [
+    {
+      "turn_id": 1,
+      "session": "first",
+      "context": "Neighbors A: Hey, I told you a secret the other day, and you didn't even react. Do you not care about it or did you already know?",
+      "input": "Hey, I told you a secret the other day, and you didn't even react. Do you not care about it or did you already know?",
+      "ground_truth": "Oh, sorry about that. I must have been preoccupied with something else. What was the secret again?"
+    },
+    {
+      "turn_id": 2,
+      "session": "first",
+      "context": "Neighbors A: Hey, I told you a secret the other day, and you didn't even react. Do you not care about it or did you already know?\nNeighbors B: Oh, sorry about that. I must have been preoccupied with something else. What was the secret again?\nNeighbors A: Ugh, never mind. It's not important. I just thought you would have been more interested.",
+      "input": "Ugh, never mind. It's not important. I just thought you would have been more interested.",
+      "ground_truth": "Wait, now you're making me curious. Can you please tell me again?"
+    },
+    {
+      "turn_id": 3,
+      "session": "first",
+      "context": "Neighbors A: Ugh, never mind. It's not important. I just thought you would have been more interested.\nNeighbors B: Wait, now you're making me curious. Can you please tell me again?\nNeighbors A: No, it's fine. I don't want to bother you with it if you're not interested.",
+      "input": "No, it's fine. I don't want to bother you with it if you're not interested.",
+      "ground_truth": "Are you sure? I'm interested now."
+    },
+    {
+      "turn_id": 4,
+      "session": "first",
+      "context": "Neighbors A: No, it's fine. I don't want to bother you with it if you're not interested.\nNeighbors B: Are you sure? I'm interested now.\nNeighbors A: Well, the thing is, I don't think you even care.",
+      "input": "Well, the thing is, I don't think you even care.",
+      "ground_truth": "Why would you say that? Of course I care about what you have to say."
+    },
+    {
+      "turn_id": 5,
+      "session": "first",
+      "context": "Neighbors A: Well, the thing is, I don't think you even care.\nNeighbors B: Why would you say that? Of course I care about what you have to say.\nNeighbors A: It's just that when I first told you, you didn't seem to react at all. It made me think you already knew or just didn't care.",
+      "input": "It's just that when I first told you, you didn't seem to react at all. It made me think you already knew or just didn't care.",
+      "ground_truth": "I'm sorry if I gave you that impression. I really do care about what you have to say, so please tell me the secret."
+    },
+    {
+      "turn_id": 6,
+      "session": "first",
+      "context": "Neighbors A: It's just that when I first told you, you didn't seem to react at all. It made me think you already knew or just didn't care.\nNeighbors B: I'm sorry if I gave you that impression. I really do care about what you have to say, so please tell me the secret.\nNeighbors A: Alright, fine. But if it turns out you already knew, I'm going to be really annoyed.",
+      "input": "Alright, fine. But if it turns out you already knew, I'm going to be really annoyed.",
+      "ground_truth": "I assure you, I didn't know anything. So please, go ahead and tell me."
+    },
+    {
+      "turn_id": 7,
+      "session": "second",
+      "context": "Neighbors A: Alright, fine. But if it turns out you already knew, I'm going to be really annoyed.\nNeighbors B: I assure you, I didn't know anything. So please, go ahead and tell me.\nNeighbors A: Hey there, Neighbors B. How are you doing today?",
+      "input": "Hey there, Neighbors B. How are you doing today?",
+      "ground_truth": "I'm doing well, thanks for asking. How about you?"
+    },
+    {
+      "turn_id": 8,
+      "session": "second",
+      "context": "Neighbors A: Hey there, Neighbors B. How are you doing today?\nNeighbors B: I'm doing well, thanks for asking. How about you?\nNeighbors A: I'm doing great! I just love living in this neighborhood and everyone is so friendly.",
+      "input": "I'm doing great! I just love living in this neighborhood and everyone is so friendly.",
+      "ground_truth": "Yes, it's a really nice community. I've been living here for a few years now and I still love it."
+    },
+    {
+      "turn_id": 9,
+      "session": "second",
+      "context": "Neighbors A: I'm doing great! I just love living in this neighborhood and everyone is so friendly.\nNeighbors B: Yes, it's a really nice community. I've been living here for a few years now and I still love it.\nNeighbors A: That's good to hear. I'm really happy to be a part of it. By the way, have you noticed anything interesting happening around the neighborhood lately?",
+      "input": "That's good to hear. I'm really happy to be a part of it. By the way, have you noticed anything interesting happening around the neighborhood lately?",
+      "ground_truth": "Not really, what do you mean?"
+    },
+    {
+      "turn_id": 10,
+      "session": "second",
+      "context": "Neighbors A: That's good to hear. I'm really happy to be a part of it. By the way, have you noticed anything interesting happening around the neighborhood lately?\nNeighbors B: Not really, what do you mean?\nNeighbors A: Well, I've been seeing a lot of new faces lately. Do you think there's something going on that I don't know about?",
+      "input": "Well, I've been seeing a lot of new faces lately. Do you think there's something going on that I don't know about?",
+      "ground_truth": "Hmm, I haven't really noticed anything out of the ordinary. Maybe some people are just moving in and out."
+    },
+    {
+      "turn_id": 11,
+      "session": "second",
+      "context": "Neighbors A: Well, I've been seeing a lot of new faces lately. Do you think there's something going on that I don't know about?\nNeighbors B: Hmm, I haven't really noticed anything out of the ordinary. Maybe some people are just moving in and out.\nNeighbors A: Ah, I see. Maybe I'm just being overly curious. Anyway, have you had a chance to meet any of your other neighbors recently?",
+      "input": "Ah, I see. Maybe I'm just being overly curious. Anyway, have you had a chance to meet any of your other neighbors recently?",
+      "ground_truth": "Not really, I try to keep to myself for the most part. But I have had some friendly conversations here and there."
+    },
+    {
+      "turn_id": 12,
+      "session": "second",
+      "context": "Neighbors A: Ah, I see. Maybe I'm just being overly curious. Anyway, have you had a chance to meet any of your other neighbors recently?\nNeighbors B: Not really, I try to keep to myself for the most part. But I have had some friendly conversations here and there.\nNeighbors A: Oh, okay. Well, if you ever want to hang out with some of the neighbors, let me know. I'm always up for meeting new people.",
+      "input": "Oh, okay. Well, if you ever want to hang out with some of the neighbors, let me know. I'm always up for meeting new people.",
+      "ground_truth": "Thanks, I'll keep that in mind. It's good to know that there are some friendly people around here like yourself."
+    },
+    {
+      "turn_id": 13,
+      "session": "second",
+      "context": "Neighbors A: Oh, okay. Well, if you ever want to hang out with some of the neighbors, let me know. I'm always up for meeting new people.\nNeighbors B: Thanks, I'll keep that in mind. It's good to know that there are some friendly people around here like yourself.\nNeighbors A: Of course! That's what makes this neighborhood so great. We all look out for each other and try to make each other's lives a little better. ",
+      "input": "Of course! That's what makes this neighborhood so great. We all look out for each other and try to make each other's lives a little better. ",
+      "ground_truth": "That's true, it's definitely one of the best things about living here."
+    },
+    {
+      "turn_id": 14,
+      "session": "third",
+      "context": "Neighbors A: Of course! That's what makes this neighborhood so great. We all look out for each other and try to make each other's lives a little better. \nNeighbors B: That's true, it's definitely one of the best things about living here.\nNeighbors A: You know, I've been thinking about something lately.",
+      "input": "You know, I've been thinking about something lately.",
+      "ground_truth": "Oh yeah? What's that?"
+    },
+    {
+      "turn_id": 15,
+      "session": "third",
+      "context": "Neighbors A: You know, I've been thinking about something lately.\nNeighbors B: Oh yeah? What's that?\nNeighbors A: I was just thinking about how much I love using my imagination. Like, I'm always coming up with new stories and adventures in my head.",
+      "input": "I was just thinking about how much I love using my imagination. Like, I'm always coming up with new stories and adventures in my head.",
+      "ground_truth": "That's really cool! What kind of stories do you come up with?"
+    },
+    {
+      "turn_id": 16,
+      "session": "third",
+      "context": "Neighbors A: I was just thinking about how much I love using my imagination. Like, I'm always coming up with new stories and adventures in my head.\nNeighbors B: That's really cool! What kind of stories do you come up with?\nNeighbors A: Oh, all sorts of things. Sometimes I pretend I'm a superhero, or a knight in shining armor.",
+      "input": "Oh, all sorts of things. Sometimes I pretend I'm a superhero, or a knight in shining armor.",
+      "ground_truth": "That sounds like a lot of fun."
+    },
+    {
+      "turn_id": 17,
+      "session": "third",
+      "context": "Neighbors A: Oh, all sorts of things. Sometimes I pretend I'm a superhero, or a knight in shining armor.\nNeighbors B: That sounds like a lot of fun.\nNeighbors A: It is! I just love being able to create my own little world in my head. It's like I can go anywhere or do anything.",
+      "input": "It is! I just love being able to create my own little world in my head. It's like I can go anywhere or do anything.",
+      "ground_truth": "I can definitely understand the appeal of that."
+    },
+    {
+      "turn_id": 18,
+      "session": "third",
+      "context": "Neighbors A: It is! I just love being able to create my own little world in my head. It's like I can go anywhere or do anything.\nNeighbors B: I can definitely understand the appeal of that.\nNeighbors A: Yeah. And the best part is, I can always come up with new adventures and stories, so it never gets boring.",
+      "input": "Yeah. And the best part is, I can always come up with new adventures and stories, so it never gets boring.",
+      "ground_truth": "That's true. So, have you ever thought about writing down some of your stories?"
+    },
+    {
+      "turn_id": 19,
+      "session": "third",
+      "context": "Neighbors A: Yeah. And the best part is, I can always come up with new adventures and stories, so it never gets boring.\nNeighbors B: That's true. So, have you ever thought about writing down some of your stories?\nNeighbors A: Actually, I have! I've been thinking about starting a little journal where I can write down all my ideas.",
+      "input": "Actually, I have! I've been thinking about starting a little journal where I can write down all my ideas.",
+      "ground_truth": "That's a great idea. Who knows, maybe one day you could even turn your stories into a book or a movie."
+    },
+    {
+      "turn_id": 20,
+      "session": "third",
+      "context": "Neighbors A: Actually, I have! I've been thinking about starting a little journal where I can write down all my ideas.\nNeighbors B: That's a great idea. Who knows, maybe one day you could even turn your stories into a book or a movie.\nNeighbors A: Ha, wouldn't that be something? Maybe one day. But for now, I'm just happy to have my own little world to escape to whenever I want.",
+      "input": "Ha, wouldn't that be something? Maybe one day. But for now, I'm just happy to have my own little world to escape to whenever I want.",
+      "ground_truth": "That's awesome. Hey, speaking of worlds, remember when we talked about Neighbors A and how everyone likes him?"
+    },
+    {
+      "turn_id": 21,
+      "session": "third",
+      "context": "Neighbors A: Ha, wouldn't that be something? Maybe one day. But for now, I'm just happy to have my own little world to escape to whenever I want.\nNeighbors B: That's awesome. Hey, speaking of worlds, remember when we talked about Neighbors A and how everyone likes him?\nNeighbors A: Yeah, what about it?",
+      "input": "Yeah, what about it?",
+      "ground_truth": "I was just thinking, Neighbors A seems like the kind of guy who would be really good at coming up with fun, creative activities for the neighborhood. Maybe you could collaborate with him on some ideas!"
+    },
+    {
+      "turn_id": 22,
+      "session": "fourth",
+      "context": "Neighbors B: I was just thinking, Neighbors A seems like the kind of guy who would be really good at coming up with fun, creative activities for the neighborhood. Maybe you could collaborate with him on some ideas!\nNeighbors A: That's a great idea. I'll have to talk to him and see if he's interested in doing something like that. Thanks for the suggestion, Neighbors B!\nNeighbors A: I have something to tell you, Neighbors B.",
+      "input": "I have something to tell you, Neighbors B.",
+      "ground_truth": "What is it, Neighbors A?"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "persona_id": "episode-98323_A",
+  "speaker_role": "Classmates",
+  "relationship": "Classmates",
+  "split": "train",
+  "num_turns": 40,
+  "num_turns_train": 20,
+  "num_turns_test": 20,
+  "example_utterances": [
+    "I found a really good book yesterday, but I threw it away by mistake. Now I feel so sad.",
+    "It was a mystery novel that I had been wanting to read for so long.",
+    "I went back to where I threw it away, but it was already gone. Someone must have picked it up.",
+    "Yeah, ever since I was little, books have been my escape from reality.",
+    "Haha, yeah. I still do that sometimes. But now I also appreciate how much books can teach us too.",
+    "And that's why I feel like I lost a part of myself when I lost that book.",
+    "I don't know what to do. I can't tell him how I feel.",
+    "No, it's not that. I'm just scared of his response. What if he doesn't feel the same way?",
+    "I know, but I don't want to ruin our friendship. What if it becomes awkward between us?",
+    "Yeah, I guess that's a good idea. And who knows, maybe he feels the same way about me."
+  ],
+  "traits": {
+    "directness": 0.998165137614679,
+    "emotional_valence": 0.0037694441349580094,
+    "social_orientation": 0.005921133250006127,
+    "audience_focus": 0.03040334090500572,
+    "risk_orientation": 0.0
+  }
+}

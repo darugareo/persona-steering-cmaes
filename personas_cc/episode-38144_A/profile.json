@@ -1,0 +1,28 @@
+{
+  "persona_id": "episode-38144_A",
+  "speaker_role": "Neighbors",
+  "relationship": "Neighbors",
+  "split": "train",
+  "num_turns": 41,
+  "num_turns_train": 20,
+  "num_turns_test": 21,
+  "example_utterances": [
+    "Hi, sorry I missed your call earlier. I was in a meeting and couldn't answer.",
+    "I'm doing alright, thanks for asking. How about you?",
+    "Yeah, I know how that feels. Speaking of work, did you ever hear back from that job you applied for?",
+    "Definitely! I'll keep my fingers crossed for you too. But anyways, I'm just glad we finally caught up. It's been a while since we've had a chance to chat.",
+    "Yes, that would be great. Let's make plans for next week. I'll text you so we can figure out a time and place.",
+    "Hey, sorry I missed your call the other day. It was really busy at work.",
+    "Things are good, just trying to stay focused on work and staying busy. Trying not to think about certain things.",
+    "Oh, just some past relationships that I want to forget about. You know how it is.",
+    "Exactly. It's been a struggle, but I'm trying to stay positive and keep moving forward.",
+    "Actually, I have. I'm thinking about taking a trip somewhere soon."
+  ],
+  "traits": {
+    "directness": 0.9944673851170778,
+    "emotional_valence": 0.015217962671161572,
+    "social_orientation": 0.007239819004524887,
+    "audience_focus": 0.038074723241394624,
+    "risk_orientation": 0.0
+  }
+}

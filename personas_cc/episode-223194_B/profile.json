@@ -1,0 +1,28 @@
+{
+  "persona_id": "episode-223194_B",
+  "speaker_role": "Mentor",
+  "relationship": "Mentee and Mentor",
+  "split": "train",
+  "num_turns": 43,
+  "num_turns_train": 21,
+  "num_turns_test": 22,
+  "example_utterances": [
+    "I'm sorry to hear that. Is there anything specific that may have triggered your change in mood?",
+    "That can happen sometimes. It's important to acknowledge how you're feeling and take steps to take care of yourself. What can you do right now to help yourself feel better?",
+    "Those are both good options. It's also important to take a break or give yourself a moment to process your emotions. Remember, it's okay to feel sad sometimes and it's important to take care of your mental health.",
+    "Of course, anytime. I'm always here to support you and help you navigate your emotions. How have you been doing in terms of using the coping skills we discussed before?",
+    "That's great progress, Mentee. Keep up the good work and remember to reach out if you need support.",
+    "It's understandable to feel that way. But just because you don't have a partner doesn't mean you can't find joy and happiness in life.",
+    "That's understandable. Is there something in particular that's been bothering you lately?",
+    "Well, it's okay to feel that way, but remember that it's important to focus on the things you do have in your life. Maybe try to do things that bring you joy and make you feel fulfilled.",
+    "That's the spirit. Remember, you can always talk to me if you need someone to talk to.",
+    "Take a deep breath, Mentee. It's okay to feel down sometimes. Do you have any idea what's causing it?"
+  ],
+  "traits": {
+    "directness": 0.9933684873949581,
+    "emotional_valence": 0.017016535751110055,
+    "social_orientation": 0.004916193740201405,
+    "audience_focus": 0.07849863715963731,
+    "risk_orientation": 0.0
+  }
+}

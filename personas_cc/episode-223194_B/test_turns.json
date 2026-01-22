@@ -1,0 +1,162 @@
+{
+  "persona_id": "episode-223194_B",
+  "speaker_role": "Mentor",
+  "relationship": "Mentee and Mentor",
+  "total_turns": 22,
+  "turns": [
+    {
+      "turn_id": 22,
+      "session": "third",
+      "context": "Mentee: I haven't really thought about it before. Maybe I should make a list of that too?\nMentor: That's a great place to start, Mentee. Knowing what you want is the first step in attracting the right person into your life.\nMentee: Mentor, I've been feeling lost again lately. And I remembered what you told me a while ago about setting goals for myself.",
+      "input": "Mentor, I've been feeling lost again lately. And I remembered what you told me a while ago about setting goals for myself.",
+      "ground_truth": "That's right, Mentee. Have you thought about what you want to achieve?"
+    },
+    {
+      "turn_id": 23,
+      "session": "third",
+      "context": "Mentee: Mentor, I've been feeling lost again lately. And I remembered what you told me a while ago about setting goals for myself.\nMentor: That's right, Mentee. Have you thought about what you want to achieve?\nMentee: Yes, I've been thinking about it a lot. And I realized that I want to start my own business.",
+      "input": "Yes, I've been thinking about it a lot. And I realized that I want to start my own business.",
+      "ground_truth": "That's exciting, Mentee! What kind of business do you want to start?"
+    },
+    {
+      "turn_id": 24,
+      "session": "third",
+      "context": "Mentee: Yes, I've been thinking about it a lot. And I realized that I want to start my own business.\nMentor: That's exciting, Mentee! What kind of business do you want to start?\nMentee: I want to start a bakery. I've always loved baking, and I think it would be great to share my passion with others.",
+      "input": "I want to start a bakery. I've always loved baking, and I think it would be great to share my passion with others.",
+      "ground_truth": "That's a great idea, Mentee! Have you started working on a plan to make it a reality?"
+    },
+    {
+      "turn_id": 25,
+      "session": "third",
+      "context": "Mentee: I want to start a bakery. I've always loved baking, and I think it would be great to share my passion with others.\nMentor: That's a great idea, Mentee! Have you started working on a plan to make it a reality?\nMentee: I've started doing some research on what it takes to start a bakery. And I've even started practicing some new recipes.",
+      "input": "I've started doing some research on what it takes to start a bakery. And I've even started practicing some new recipes.",
+      "ground_truth": "That's fantastic, Mentee! Keep working towards your goal, and remember that I'm here to support you every step of the way."
+    },
+    {
+      "turn_id": 26,
+      "session": "fourth",
+      "context": "Mentee: I've started doing some research on what it takes to start a bakery. And I've even started practicing some new recipes.\nMentor: That's fantastic, Mentee! Keep working towards your goal, and remember that I'm here to support you every step of the way.\nMentee: Hey, Mentor. How are you doing today?",
+      "input": "Hey, Mentor. How are you doing today?",
+      "ground_truth": "I'm doing well, thanks for asking. How about you? How are you feeling?"
+    },
+    {
+      "turn_id": 27,
+      "session": "fourth",
+      "context": "Mentee: Hey, Mentor. How are you doing today?\nMentor: I'm doing well, thanks for asking. How about you? How are you feeling?\nMentee: Well, my attitude has been fluctuating. I've had moments where I feel really happy, and then moments where I just feel sad. I don't know what's wrong with me.",
+      "input": "Well, my attitude has been fluctuating. I've had moments where I feel really happy, and then moments where I just feel sad. I don't know what's wrong with me.",
+      "ground_truth": "Have you tried identifying any potential triggers for these emotions?"
+    },
+    {
+      "turn_id": 28,
+      "session": "fourth",
+      "context": "Mentee: Well, my attitude has been fluctuating. I've had moments where I feel really happy, and then moments where I just feel sad. I don't know what's wrong with me.\nMentor: Have you tried identifying any potential triggers for these emotions?\nMentee: I'm not really sure. I mean, I've just been feeling like something is off or missing in my life.",
+      "input": "I'm not really sure. I mean, I've just been feeling like something is off or missing in my life.",
+      "ground_truth": "Have you thought about what that could be?"
+    },
+    {
+      "turn_id": 29,
+      "session": "fourth",
+      "context": "Mentee: I'm not really sure. I mean, I've just been feeling like something is off or missing in my life.\nMentor: Have you thought about what that could be?\nMentee: Not really. I just know that I feel like I want something more, but I don't know what that is.",
+      "input": "Not really. I just know that I feel like I want something more, but I don't know what that is.",
+      "ground_truth": "Well, have you tried doing things that make you feel happy and fulfilled? Maybe exploring new hobbies or spending time with friends and family who make you feel good?"
+    },
+    {
+      "turn_id": 30,
+      "session": "fourth",
+      "context": "Mentee: Not really. I just know that I feel like I want something more, but I don't know what that is.\nMentor: Well, have you tried doing things that make you feel happy and fulfilled? Maybe exploring new hobbies or spending time with friends and family who make you feel good?\nMentee: I haven't really thought about that. I've just been feeling so stuck and lost.",
+      "input": "I haven't really thought about that. I've just been feeling so stuck and lost.",
+      "ground_truth": "It's okay to feel that way, Mentee. But it's important to remember that you have the power to change it. Maybe take some time to reflect on what truly makes you happy and go from there."
+    },
+    {
+      "turn_id": 31,
+      "session": "fourth",
+      "context": "Mentor: Well, have you tried doing things that make you feel happy and fulfilled? Maybe exploring new hobbies or spending time with friends and family who make you feel good?\nMentee: I haven't really thought about that. I've just been feeling so stuck and lost.\nMentor: It's okay to feel that way, Mentee. But it's important to remember that you have the power to change it. Maybe take some time to reflect on what truly makes you happy and go from there.",
+      "input": "It's okay to feel that way, Mentee. But it's important to remember that you have the power to change it. Maybe take some time to reflect on what truly makes you happy and go from there.",
+      "ground_truth": "So, Mentee. How was your walk along the beach the other day?"
+    },
+    {
+      "turn_id": 32,
+      "session": "fourth",
+      "context": "Mentor: It's okay to feel that way, Mentee. But it's important to remember that you have the power to change it. Maybe take some time to reflect on what truly makes you happy and go from there.\nMentor: So, Mentee. How was your walk along the beach the other day?\nMentee: It was really beautiful, Mentor. The colors of the sunset were just so amazing. But you know what? I wished I could share that moment with someone special.",
+      "input": "It was really beautiful, Mentor. The colors of the sunset were just so amazing. But you know what? I wished I could share that moment with someone special.",
+      "ground_truth": "That's understandable. But it's important to remember that you can still enjoy those moments alone too. You don't necessarily need someone else to validate the experience."
+    },
+    {
+      "turn_id": 33,
+      "session": "fourth",
+      "context": "Mentee: It was really beautiful, Mentor. The colors of the sunset were just so amazing. But you know what? I wished I could share that moment with someone special.\nMentor: That's understandable. But it's important to remember that you can still enjoy those moments alone too. You don't necessarily need someone else to validate the experience.\nMentee: Yeah, I know. But it would still be nice to have that person to share it with.",
+      "input": "Yeah, I know. But it would still be nice to have that person to share it with.",
+      "ground_truth": "Mentee, I know we've talked about this before but I wanted to check in again. Have you thought about what goals you want to achieve in your life?"
+    },
+    {
+      "turn_id": 34,
+      "session": "fourth",
+      "context": "Mentee: Yeah, I know. But it would still be nice to have that person to share it with.\nMentor: Mentee, I know we've talked about this before but I wanted to check in again. Have you thought about what goals you want to achieve in your life?\nMentee: I have, actually. I sat down and made a list of things I want to accomplish and how I plan on achieving them.",
+      "input": "I have, actually. I sat down and made a list of things I want to accomplish and how I plan on achieving them.",
+      "ground_truth": "That's great to hear! Have you started taking any action steps towards those goals?"
+    },
+    {
+      "turn_id": 35,
+      "session": "fourth",
+      "context": "Mentor: That's great to hear! Have you started taking any action steps towards those goals?\nMentee: Yes, I have. I've been taking small steps every day to get closer to achieving them.\nMentee: Hey, Mentor. I just wanted to give you back your watch. I'm really glad I was able to make you happy, and that we can be friends again.",
+      "input": "Hey, Mentor. I just wanted to give you back your watch. I'm really glad I was able to make you happy, and that we can be friends again.",
+      "ground_truth": "Thank you, Mentee. I appreciate it. And I'm glad we can move forward too. Is there anything else you wanted to talk about?"
+    },
+    {
+      "turn_id": 36,
+      "session": "fourth",
+      "context": "Mentee: Hey, Mentor. I just wanted to give you back your watch. I'm really glad I was able to make you happy, and that we can be friends again.\nMentor: Thank you, Mentee. I appreciate it. And I'm glad we can move forward too. Is there anything else you wanted to talk about?\nMentee: Not really. I just wanted to let you know how I was feeling about it.",
+      "input": "Not really. I just wanted to let you know how I was feeling about it.",
+      "ground_truth": "I appreciate that. And I'm happy to have you as a mentee and a friend."
+    },
+    {
+      "turn_id": 37,
+      "session": "fifth",
+      "context": "Mentee: Not really. I just wanted to let you know how I was feeling about it.\nMentor: I appreciate that. And I'm happy to have you as a mentee and a friend.\nMentee: You know, Mentor, I never realized how good it feels to give a massage until now. Your neck is so soft, and I can feel the tension melting away.",
+      "input": "You know, Mentor, I never realized how good it feels to give a massage until now. Your neck is so soft, and I can feel the tension melting away.",
+      "ground_truth": "It does feel good, Mentee. I'm glad you're enjoying it."
+    },
+    {
+      "turn_id": 38,
+      "session": "fifth",
+      "context": "Mentee: You know, Mentor, I never realized how good it feels to give a massage until now. Your neck is so soft, and I can feel the tension melting away.\nMentor: It does feel good, Mentee. I'm glad you're enjoying it.\nMentee: I've been feeling a lot more relaxed lately, and I think it's because I've been taking better care of my own body. I've been doing things like stretching and meditation, and now that I'm adding massage to the mix, I feel really good.",
+      "input": "I've been feeling a lot more relaxed lately, and I think it's because I've been taking better care of my own body. I've been doing things like stretching and meditation, and now that I'm adding massage to the mix, I feel really good.",
+      "ground_truth": "That's great, Mentee. I'm glad you're finding ways to take care of yourself. Remember, it's important to prioritize self-care, especially when things get stressful."
+    },
+    {
+      "turn_id": 39,
+      "session": "fifth",
+      "context": "Mentee: I've been feeling a lot more relaxed lately, and I think it's because I've been taking better care of my own body. I've been doing things like stretching and meditation, and now that I'm adding massage to the mix, I feel really good.\nMentor: That's great, Mentee. I'm glad you're finding ways to take care of yourself. Remember, it's important to prioritize self-care, especially when things get stressful.\nMentee: Yeah, you're right. Speaking of stress, I remember a few years ago when I was feeling really down, and I wasn't sure what was wrong. You helped me through that, and I'm so grateful for your support.",
+      "input": "Yeah, you're right. Speaking of stress, I remember a few years ago when I was feeling really down, and I wasn't sure what was wrong. You helped me through that, and I'm so grateful for your support.",
+      "ground_truth": "I remember that time well, Mentee. It was a difficult period for you, but I'm glad I was able to be there for you. And I'm always here if you need someone to talk to."
+    },
+    {
+      "turn_id": 40,
+      "session": "fifth",
+      "context": "Mentee: Yeah, you're right. Speaking of stress, I remember a few years ago when I was feeling really down, and I wasn't sure what was wrong. You helped me through that, and I'm so grateful for your support.\nMentor: I remember that time well, Mentee. It was a difficult period for you, but I'm glad I was able to be there for you. And I'm always here if you need someone to talk to.\nMentee: Thank you, Mentor. And I also remember the time we walked along the beach and watched the sunset. It was so beautiful, and I felt so lucky to be there. I wish I could experience that again.",
+      "input": "Thank you, Mentor. And I also remember the time we walked along the beach and watched the sunset. It was so beautiful, and I felt so lucky to be there. I wish I could experience that again.",
+      "ground_truth": "Ah yes, I remember that evening too. It was such a peaceful moment. If you ever want to do something like that again, just let me know."
+    },
+    {
+      "turn_id": 41,
+      "session": "fifth",
+      "context": "Mentee: Thank you, Mentor. And I also remember the time we walked along the beach and watched the sunset. It was so beautiful, and I felt so lucky to be there. I wish I could experience that again.\nMentor: Ah yes, I remember that evening too. It was such a peaceful moment. If you ever want to do something like that again, just let me know.\nMentee: Actually, that reminds me of something else. You once suggested that I make a list of my goals and figure out how to achieve them. I've been thinking about that a lot lately, and I think it's time for me to start taking action towards those goals.",
+      "input": "Actually, that reminds me of something else. You once suggested that I make a list of my goals and figure out how to achieve them. I've been thinking about that a lot lately, and I think it's time for me to start taking action towards those goals.",
+      "ground_truth": "That's great to hear, Mentee. What kind of goals are you thinking about?"
+    },
+    {
+      "turn_id": 42,
+      "session": "fifth",
+      "context": "Mentee: Actually, that reminds me of something else. You once suggested that I make a list of my goals and figure out how to achieve them. I've been thinking about that a lot lately, and I think it's time for me to start taking action towards those goals.\nMentor: That's great to hear, Mentee. What kind of goals are you thinking about?\nMentee: Well, one of them is to start a small business. I've always wanted to be my own boss and work for myself. I think it's time for me to start putting a plan in place and making it happen.",
+      "input": "Well, one of them is to start a small business. I've always wanted to be my own boss and work for myself. I think it's time for me to start putting a plan in place and making it happen.",
+      "ground_truth": "That's a big goal, but I believe in you, Mentee. Remember, it's important to break big goals down into smaller, more manageable steps. That way, you can make progress every day and stay motivated."
+    },
+    {
+      "turn_id": 43,
+      "session": "fifth",
+      "context": "Mentee: Well, one of them is to start a small business. I've always wanted to be my own boss and work for myself. I think it's time for me to start putting a plan in place and making it happen.\nMentor: That's a big goal, but I believe in you, Mentee. Remember, it's important to break big goals down into smaller, more manageable steps. That way, you can make progress every day and stay motivated.\nMentee: Thanks for the encouragement, Mentor. And you know what? I feel really happy right now. It's like giving you a massage has not only helped you relax, but it's also helped me feel more positive and energized.",
+      "input": "Thanks for the encouragement, Mentor. And you know what? I feel really happy right now. It's like giving you a massage has not only helped you relax, but it's also helped me feel more positive and energized.",
+      "ground_truth": "That's the power of touch, Mentee. It's amazing how something as simple as a massage can have such a big impact on our wellbeing. And I'm glad we can share this moment together as friends."
+    }
+  ]
+}

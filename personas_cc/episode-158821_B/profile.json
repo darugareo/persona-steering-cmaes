@@ -1,0 +1,28 @@
+{
+  "persona_id": "episode-158821_B",
+  "speaker_role": "Neighbors",
+  "relationship": "Neighbors",
+  "split": "train",
+  "num_turns": 40,
+  "num_turns_train": 20,
+  "num_turns_test": 20,
+  "example_utterances": [
+    "Of course, I couldn't turn down the invitation. Your house is lovely.",
+    "Oh, things have been pretty good. Just busy with work as usual. How about you?",
+    "Time sure does fly. But it's a joy to watch them grow and learn.",
+    "No, I haven't heard about that. That sounds interesting though. What kind of classes are they offering?",
+    "That sounds like a great opportunity. I'll have to check it out.",
+    "Hey, good to see you again. I'm doing well, thanks. How about you?",
+    "Oh no, I'm so sorry to hear that. Is everything okay now?",
+    "That's really tough. Is there anything I can do to help?",
+    "Absolutely, I'd be happy to spread the word and maybe even pick up a bouquet myself sometime soon.",
+    "Yes, it was beautiful! And speaking of that visit, I was actually thinking of inviting you over this weekend. We could catch up over some coffee."
+  ],
+  "traits": {
+    "directness": 0.9952380952380953,
+    "emotional_valence": 0.02650358091542465,
+    "social_orientation": 0.006776556776556778,
+    "audience_focus": 0.059764072639422725,
+    "risk_orientation": 0.0
+  }
+}

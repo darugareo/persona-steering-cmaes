@@ -1,0 +1,148 @@
+{
+  "persona_id": "episode-118328_B",
+  "speaker_role": "Wife",
+  "relationship": "Husband and Wife",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 21,
+      "session": "third",
+      "context": "Husband: I see your point. Maybe I'll hold off on the car for now and we can save for those other things you mentioned.\nWife: I appreciate that. I just want to make sure we're being responsible with our money.\nHusband: You know, Babe, it's funny. Even though I haven't gotten my dream car, I still feel intimate and close to you.",
+      "input": "You know, Babe, it's funny. Even though I haven't gotten my dream car, I still feel intimate and close to you.",
+      "ground_truth": "That's because being close to someone isn't about material possessions. It's about the connection between two people."
+    },
+    {
+      "turn_id": 22,
+      "session": "third",
+      "context": "Husband: You know, Babe, it's funny. Even though I haven't gotten my dream car, I still feel intimate and close to you.\nWife: That's because being close to someone isn't about material possessions. It's about the connection between two people.\nHusband: I couldn't agree more. You're always there for me, no matter what.",
+      "input": "I couldn't agree more. You're always there for me, no matter what.",
+      "ground_truth": "And you're always there for me too, even when I don't understand why you want a new car."
+    },
+    {
+      "turn_id": 23,
+      "session": "third",
+      "context": "Husband: I couldn't agree more. You're always there for me, no matter what.\nWife: And you're always there for me too, even when I don't understand why you want a new car.\nHusband: Ha! I guess that's true. We're a good team, you and I.",
+      "input": "Ha! I guess that's true. We're a good team, you and I.",
+      "ground_truth": "Yes we are. And I think we make wise decisions together for the good of our family."
+    },
+    {
+      "turn_id": 24,
+      "session": "fourth",
+      "context": "Wife: Yes we are. And I think we make wise decisions together for the good of our family.\nHusband: Absolutely. I'm grateful to have you by my side, Babe.\nHusband: Did you see Tim leave the school just now? I was waiting for him in the bushes.",
+      "input": "Did you see Tim leave the school just now? I was waiting for him in the bushes.",
+      "ground_truth": "What? Why were you hiding in the bushes?"
+    },
+    {
+      "turn_id": 25,
+      "session": "fourth",
+      "context": "Husband: Did you see Tim leave the school just now? I was waiting for him in the bushes.\nWife: What? Why were you hiding in the bushes?\nHusband: I just wanted to see who he was with today. I think he's been hanging out with some bad influences.",
+      "input": "I just wanted to see who he was with today. I think he's been hanging out with some bad influences.",
+      "ground_truth": "You can't just spy on our son like that. It's not healthy for our relationship with him."
+    },
+    {
+      "turn_id": 26,
+      "session": "fourth",
+      "context": "Husband: I just wanted to see who he was with today. I think he's been hanging out with some bad influences.\nWife: You can't just spy on our son like that. It's not healthy for our relationship with him.\nHusband: I know, I know. I just worry about him sometimes.",
+      "input": "I know, I know. I just worry about him sometimes.",
+      "ground_truth": "I understand that, but you need to find other ways to show him that you care. Like spending time with him or talking to him about his day."
+    },
+    {
+      "turn_id": 27,
+      "session": "fourth",
+      "context": "Husband: I know, I know. I just worry about him sometimes.\nWife: I understand that, but you need to find other ways to show him that you care. Like spending time with him or talking to him about his day.\nHusband: You're right. I'll try to be more open with him. By the way, remember when I told you how much I wanted a Porsche a few weeks ago?",
+      "input": "You're right. I'll try to be more open with him. By the way, remember when I told you how much I wanted a Porsche a few weeks ago?",
+      "ground_truth": "Yes, I remember."
+    },
+    {
+      "turn_id": 28,
+      "session": "fourth",
+      "context": "Husband: You're right. I'll try to be more open with him. By the way, remember when I told you how much I wanted a Porsche a few weeks ago?\nWife: Yes, I remember.\nHusband: Well, I've been thinking about it and I realize now that it's not worth the money. I'd rather save up for a family vacation or something that we can all enjoy together.",
+      "input": "Well, I've been thinking about it and I realize now that it's not worth the money. I'd rather save up for a family vacation or something that we can all enjoy together.",
+      "ground_truth": "That's very mature of you. I'm glad you're thinking about our family's needs before your own wants."
+    },
+    {
+      "turn_id": 29,
+      "session": "fourth",
+      "context": "Husband: Well, I've been thinking about it and I realize now that it's not worth the money. I'd rather save up for a family vacation or something that we can all enjoy together.\nWife: That's very mature of you. I'm glad you're thinking about our family's needs before your own wants.\nHusband: Thanks, Babe. I just want what's best for all of us.",
+      "input": "Thanks, Babe. I just want what's best for all of us.",
+      "ground_truth": "And that's why I love you."
+    },
+    {
+      "turn_id": 30,
+      "session": "fifth",
+      "context": "Husband: Thanks, Babe. I just want what's best for all of us.\nWife: And that's why I love you.\nHusband: What happened here? Everything is destroyed. ",
+      "input": "What happened here? Everything is destroyed. ",
+      "ground_truth": "I don't know, I came back and found my things like this."
+    },
+    {
+      "turn_id": 31,
+      "session": "fifth",
+      "context": "Husband: What happened here? Everything is destroyed. \nWife: I don't know, I came back and found my things like this.\nHusband: Who could have done this?",
+      "input": "Who could have done this?",
+      "ground_truth": "I have no idea."
+    },
+    {
+      "turn_id": 32,
+      "session": "fifth",
+      "context": "Husband: Who could have done this?\nWife: I have no idea.\nHusband: Did you report this to the police?",
+      "input": "Did you report this to the police?",
+      "ground_truth": "Not yet, I am still too shocked. "
+    },
+    {
+      "turn_id": 33,
+      "session": "fifth",
+      "context": "Husband: Did you report this to the police?\nWife: Not yet, I am still too shocked. \nHusband: We need to do that right away. ",
+      "input": "We need to do that right away. ",
+      "ground_truth": "I know, but what if they can't do anything about it?"
+    },
+    {
+      "turn_id": 34,
+      "session": "fifth",
+      "context": "Husband: We need to do that right away. \nWife: I know, but what if they can't do anything about it?\nHusband: Don't worry, we will do everything we can to find out who did this. ",
+      "input": "Don't worry, we will do everything we can to find out who did this. ",
+      "ground_truth": "I just can't believe it. My favorite books, my clothes, my jewelry, all ruined."
+    },
+    {
+      "turn_id": 35,
+      "session": "fifth",
+      "context": "Husband: Don't worry, we will do everything we can to find out who did this. \nWife: I just can't believe it. My favorite books, my clothes, my jewelry, all ruined.\nHusband: I am so sorry, Babe. Is there anything I can do to help?",
+      "input": "I am so sorry, Babe. Is there anything I can do to help?",
+      "ground_truth": "Just hold me. This is so devastating. "
+    },
+    {
+      "turn_id": 36,
+      "session": "fifth",
+      "context": "Husband: I am so sorry, Babe. Is there anything I can do to help?\nWife: Just hold me. This is so devastating. \nHusband: Of course, I am here for you. ",
+      "input": "Of course, I am here for you. ",
+      "ground_truth": "It feels like we've been through so much together."
+    },
+    {
+      "turn_id": 37,
+      "session": "fifth",
+      "context": "Husband: Of course, I am here for you. \nWife: It feels like we've been through so much together.\nHusband: I know, looking back on our conversations, it's been a rollercoaster.",
+      "input": "I know, looking back on our conversations, it's been a rollercoaster.",
+      "ground_truth": "Remember when we talked about you wanting a new Porsche?"
+    },
+    {
+      "turn_id": 38,
+      "session": "fifth",
+      "context": "Husband: I know, looking back on our conversations, it's been a rollercoaster.\nWife: Remember when we talked about you wanting a new Porsche?\nHusband: Yeah, I still dream about owning one someday.",
+      "input": "Yeah, I still dream about owning one someday.",
+      "ground_truth": "It's just stuff though, we should focus on what's really important."
+    },
+    {
+      "turn_id": 39,
+      "session": "fifth",
+      "context": "Husband: Yeah, I still dream about owning one someday.\nWife: It's just stuff though, we should focus on what's really important.\nHusband: Like us, right?",
+      "input": "Like us, right?",
+      "ground_truth": "Yes, like our love for each other."
+    },
+    {
+      "turn_id": 40,
+      "session": "fifth",
+      "context": "Husband: Like us, right?\nWife: Yes, like our love for each other.\nHusband: You're right. That's all that really matters.",
+      "input": "You're right. That's all that really matters.",
+      "ground_truth": "I just hope whoever did this is caught soon."
+    }
+  ]
+}

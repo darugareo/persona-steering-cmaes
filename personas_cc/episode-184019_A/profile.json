@@ -1,0 +1,28 @@
+{
+  "persona_id": "episode-184019_A",
+  "speaker_role": "Husband",
+  "relationship": "Husband and Wife",
+  "split": "train",
+  "num_turns": 41,
+  "num_turns_train": 20,
+  "num_turns_test": 21,
+  "example_utterances": [
+    "I really appreciated you keeping watch while I took a nap on the side of the road when we ran out of gas earlier.",
+    "Yes, a little bit. But honestly, I'm still pretty tired from all the driving today.",
+    "That's a good idea. I don't want to put either of us in a dangerous situation by driving when we're too tired.",
+    "Speaking of safety, do you remember that time when we got a flat tire on the way to your parents' house and had to pull over on that busy highway?",
+    "It was lucky that we had a spare tire and were able to change it quickly. But I remember feeling so anxious when we were stuck on the side of the road with cars whizzing past us.",
+    "You're definitely more prepared than I am. Thank goodness for your foresight.",
+    "Agreed. And let's also try to take more breaks and switch drivers on our future road trips. I don't want to put your safety, or mine, at risk.",
+    "I don't know, just been in the mood to dance lately.",
+    "That sounds perfect. It'll be nice to spend some quality time together.",
+    "Oh yeah, I remember. I was so tired from driving all day."
+  ],
+  "traits": {
+    "directness": 0.9984,
+    "emotional_valence": 0.009737654675707773,
+    "social_orientation": 0.018540306700626428,
+    "audience_focus": 0.0340501427965887,
+    "risk_orientation": 0.0
+  }
+}

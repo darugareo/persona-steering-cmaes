@@ -1,0 +1,28 @@
+{
+  "persona_id": "episode-36796_A",
+  "speaker_role": "Patient",
+  "relationship": "Patient and Doctor",
+  "split": "train",
+  "num_turns": 45,
+  "num_turns_train": 22,
+  "num_turns_test": 23,
+  "example_utterances": [
+    "Doctor, I'm feeling really stressed because I have to attend a conference for work. I've never been to one before and I don't want to make any mistakes.",
+    "Yes, that's exactly how I feel. I'm not sure what to expect.",
+    "That's a good point. I'll make a checklist and make sure I have everything I need.",
+    "That's reassuring. I'll definitely keep that in mind.",
+    "Thank you, doctor. Those are all great tips. I feel a lot better now, knowing that I have a plan.",
+    "Doctor, I must admit something that's been bothering me lately.",
+    "During our last few sessions, I stopped looking at you. It's nothing personal, but I was trying to avoid temptation. I didn't want to be tempted by your good looks and charming personality.",
+    "I know, and I didn't want to jeopardize our progress by letting my attraction get in the way.",
+    "It's not just one thing, but rather a combination of factors. You're intelligent, caring, and confident, which are all attractive qualities. But I know that we can have a successful therapeutic relationship without crossing any inappropriate lines.",
+    "Actually, there is. I feel stressed because I have to attend a conference next week, and I've never been to one before. I want to make a good impression, but I'm not sure what to expect."
+  ],
+  "traits": {
+    "directness": 0.9971338009171837,
+    "emotional_valence": 0.007117976677267909,
+    "social_orientation": 0.0009161388617651417,
+    "audience_focus": 0.017644019034023344,
+    "risk_orientation": 0.0
+  }
+}

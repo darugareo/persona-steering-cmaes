@@ -1,0 +1,76 @@
+{
+  "persona_id": "episode-158821_B",
+  "num_sessions": 5,
+  "sessions": [
+    {
+      "persona_id": "episode-158821_B",
+      "session_idx": 1,
+      "pair_id": "episode-158821",
+      "session_name": "first",
+      "speaker_role": "B",
+      "split": "train",
+      "relationship": "Neighbors",
+      "role_name": "Neighbors",
+      "time_interval": "Start",
+      "session_summary": "Neighbors A thanks Neighbor B for inviting them over to their house. They discuss their busy schedules, including housework, gardening, gardening, and fitness classes. They also catch up on Neighbor B's new community center opening up down the street.",
+      "session_text": "Of course, I couldn't turn down the invitation. Your house is lovely.\nJust some water, please.\nOh, things have been pretty good. Just busy with work as usual. How about you?\nThat sounds like a full plate.\nThey're doing great! They grow up too fast though.\nTime sure does fly. But it's a joy to watch them grow and learn.\nNo, I haven't heard about that. That sounds interesting though. What kind of classes are they offering?\nThat sounds like a great opportunity. I'll have to check it out. \nAgreed. Thanks for telling me about it. \nYou too, Neighbor A. Let's do this again sometime. \nYou too!",
+      "num_turns": 11
+    },
+    {
+      "persona_id": "episode-158821_B",
+      "session_idx": 2,
+      "pair_id": "episode-158821",
+      "session_name": "second",
+      "speaker_role": "B",
+      "split": "train",
+      "relationship": "Neighbors",
+      "role_name": "Neighbors",
+      "time_interval": "A few weeks after",
+      "session_summary": "Neighbor A apologizes for having to spend money on repairs to their florist shop due to slow business. Neighbor B offers to spread the word and invite them over over coffee.",
+      "session_text": "Hey, good to see you again. I'm doing well, thanks. How about you?\nOh no, I'm so sorry to hear that. Is everything okay now?\nThat's really tough. Is there anything I can do to help?\nAbsolutely, I'd be happy to spread the word and maybe even pick up a bouquet myself sometime soon.\nYes, it was beautiful! And speaking of that visit, I was actually thinking of inviting you over this weekend. We could catch up over some coffee.",
+      "num_turns": 5
+    },
+    {
+      "persona_id": "episode-158821_B",
+      "session_idx": 3,
+      "pair_id": "episode-158821",
+      "session_name": "third",
+      "speaker_role": "B",
+      "split": "train",
+      "relationship": "Neighbors",
+      "role_name": "Neighbors",
+      "time_interval": "A couple of years after",
+      "session_summary": "Neighbor A expresses gratitude for Neighbor B's supportive community and supportive job description. Neighbor A expresses gratitude for Neighbor B's resilience and support system.",
+      "session_text": "That's wonderful to hear! I remember you telling me about your job as a nurse a while back. You're really good at taking care of others.\nI can imagine. Speaking of struggles, how are things going with your florist shop? I remember you telling me about the vandalism a few years ago.\nThat's good to hear. You're really resilient and I admire that about you. How do you juggle both your job as a nurse and running a business?\nYou're amazing, Neighbors A. I'm so glad to call you my neighbor.",
+      "num_turns": 4
+    },
+    {
+      "persona_id": "episode-158821_B",
+      "session_idx": 4,
+      "pair_id": "episode-158821",
+      "session_name": "fourth",
+      "speaker_role": "B",
+      "split": "train",
+      "relationship": "Neighbors",
+      "role_name": "Neighbors",
+      "time_interval": "A few months after",
+      "session_summary": "Neighbor A went to the grocery store alone and found everything they needed. They also discussed Neighbor B's struggling florist shop and suggested hosting a local flower show to generate more business. Neighbor A also expressed appreciation for Neighbor B's nursery skills.",
+      "session_text": "Oh, that's great! How did it go?\nI'm so proud of you for going by yourself. You're growing up so fast!\nSpeaking of grown-up things, how is your mom's florist shop doing these days?\nThat's really tough. Is there anything we can do to help?\nThat sounds like a great idea! Let's plan to do that. And hey, while we're on the topic of caring for others, I wanted to tell you how much I admire you for being such a great nurse.",
+      "num_turns": 5
+    },
+    {
+      "persona_id": "episode-158821_B",
+      "session_idx": 5,
+      "pair_id": "episode-158821",
+      "session_name": "fifth",
+      "speaker_role": "B",
+      "split": "train",
+      "relationship": "Neighbors",
+      "role_name": "Neighbors",
+      "time_interval": "A few days after",
+      "session_summary": "Two neighbors catch up and discuss their friendship. They discuss their hobbies and passions, including nursing, grocery shopping, and grocery shopping.",
+      "session_text": "Oh, thank you so much. That's really kind of you.\nReally? What about?\nWow, thank you. That's really nice of you to say.\nYeah, that sounds great. I'd like that.\nSure, Saturday works for me. What time?\nSounds good to me.\nMe too. And speaking of getting to know each other, how's your florist shop doing?\nThat's terrible. Is there anything I can do to help?\nOf course. And I wanted to say that I think it's really amazing that you're a nurse. You must have such a caring nature to be able to do that kind of work.\nI can imagine. And hey, remember when you were telling me about your son going to the grocery store by himself? How is he doing?\nI bet. It sounds like you're doing a great job raising him.\nSure, I'm happy to share. I work as a graphic designer for a marketing company. It's fun work, but also very demanding.\nDefinitely not. But I wouldn't have it any other way. I love what I do.\nYeah, I can tell you really care about your patients. That's such an admirable quality.\nWell, you're definitely making a difference. And I'm really looking forward to our coffee date this weekend.",
+      "num_turns": 15
+    }
+  ]
+}

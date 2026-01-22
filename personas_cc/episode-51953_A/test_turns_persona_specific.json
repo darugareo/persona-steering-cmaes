@@ -1,0 +1,113 @@
+{
+  "persona_id": "episode-51953_A",
+  "split": "test",
+  "total_turns": 21,
+  "selected_turns": 9,
+  "selection_rate": 0.42857142857142855,
+  "turns": [
+    {
+      "user": "Good, I'm glad you realize how wrong that was. It's important to always be honest and respectful to others, even if it seems like a harmless prank. ",
+      "assistant": "I agree. Speaking of honesty and respect, I remember a few years ago when I provided comfort to Taylor. ",
+      "context": "Neighbors B: You should feel bad about it! That's not funny at all, that's stealing! You should go and find that woman and give her back her dog.\nNeighbors A: You're right. I'll go and look for her now. \nNeighbors B: Good, I'm glad you realize how wrong that was. It's important to always be honest and respectful to others, even if it seems like a harmless prank. ",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "共有記憶への言及があるため",
+      "criteria_met": [
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "Yes, I remember that. You hugged her and told her everything would be alright. That was really kind of you.",
+      "assistant": "Thank you. I just hope that someone would do the same for me if I ever needed it. ",
+      "context": "Neighbors B: Good, I'm glad you realize how wrong that was. It's important to always be honest and respectful to others, even if it seems like a harmless prank. \nNeighbors A: I agree. Speaking of honesty and respect, I remember a few years ago when I provided comfort to Taylor. \nNeighbors B: Yes, I remember that. You hugged her and told her everything would be alright. That was really kind of you.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "共有記憶と関係性特有の視点が含まれるため",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "Absolutely, that's what neighbors are for. We should always be there for each other and support one another. ",
+      "assistant": "That's true. And speaking of support, do you remember when I was nervous about performing on stage?",
+      "context": "Neighbors B: Yes, I remember that. You hugged her and told her everything would be alright. That was really kind of you.\nNeighbors A: Thank you. I just hope that someone would do the same for me if I ever needed it. \nNeighbors B: Absolutely, that's what neighbors are for. We should always be there for each other and support one another. ",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "共有記憶への言及があり、関係性特有の応答。",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "Yes, I remember. You were really nervous, but you did a great job once you started singing. ",
+      "assistant": "Yeah, I was surprised how quickly my nerves disappeared once I started singing. It was a really good feeling.",
+      "context": "Neighbors B: Absolutely, that's what neighbors are for. We should always be there for each other and support one another. \nNeighbors A: That's true. And speaking of support, do you remember when I was nervous about performing on stage?\nNeighbors B: Yes, I remember. You were really nervous, but you did a great job once you started singing. ",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "共有記憶への言及があるため",
+      "criteria_met": [
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "Yeah, of course. You guys have been together for a while now.",
+      "assistant": "Right, and I've been thinking about taking the next step. I want to ask her to marry me.",
+      "context": "Neighbors B: Sure, what's up?\nNeighbors A: Well, you know how much I love Jenna, right?\nNeighbors B: Yeah, of course. You guys have been together for a while now.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "関係性特有の共有記憶があるため",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "I'm sure she will. You two are perfect for each other.",
+      "assistant": "Thanks, I really appreciate your support. You've always been there for me.",
+      "context": "Neighbors B: That's really sweet. When are you planning on asking her?\nNeighbors A: I haven't decided on the exact date yet, but definitely soon. I just hope she says yes.\nNeighbors B: I'm sure she will. You two are perfect for each other.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "関係性特有のサポートを示しているため",
+      "criteria_met": [
+        "関係性特有"
+      ]
+    },
+    {
+      "user": "Of course, that's what neighbors are for. Remember when you helped comfort Taylor a couple of years ago?",
+      "assistant": "Yeah, that was a tough time for her. I'm just glad I could be there to offer some support.",
+      "context": "Neighbors B: I'm sure she will. You two are perfect for each other.\nNeighbors A: Thanks, I really appreciate your support. You've always been there for me.\nNeighbors B: Of course, that's what neighbors are for. Remember when you helped comfort Taylor a couple of years ago?",
+      "persona_specific": true,
+      "specificity_confidence": 5,
+      "specificity_reason": "共有記憶と関係性特有の視点が含まれる",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "And before that, when you were about to perform on stage and you were nervous? You did great, by the way.",
+      "assistant": "Thank you! I was so nervous, but once I started singing, all my nerves disappeared. It was a really great feeling.",
+      "context": "Neighbors B: Of course, that's what neighbors are for. Remember when you helped comfort Taylor a couple of years ago?\nNeighbors A: Yeah, that was a tough time for her. I'm just glad I could be there to offer some support.\nNeighbors B: And before that, when you were about to perform on stage and you were nervous? You did great, by the way.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "共有記憶と関係性特有の応答であるため",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "I bet. And before that, when you were selling your car?",
+      "assistant": "Oh yeah, I remember that. I was looking for a car that was more fuel efficient and had less maintenance costs. I ended up finding a great one.",
+      "context": "Neighbors B: And before that, when you were about to perform on stage and you were nervous? You did great, by the way.\nNeighbors A: Thank you! I was so nervous, but once I started singing, all my nerves disappeared. It was a really great feeling.\nNeighbors B: I bet. And before that, when you were selling your car?",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "共有記憶に基づく応答であるため",
+      "criteria_met": [
+        "共有記憶"
+      ]
+    }
+  ]
+}

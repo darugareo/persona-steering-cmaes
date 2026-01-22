@@ -1,0 +1,28 @@
+{
+  "persona_id": "episode-118328_B",
+  "speaker_role": "Wife",
+  "relationship": "Husband and Wife",
+  "split": "train",
+  "num_turns": 40,
+  "num_turns_train": 20,
+  "num_turns_test": 20,
+  "example_utterances": [
+    "No, it's okay. I already put some antiseptic cream on it.",
+    "I don't want it to get infected. Remember that time I got bitten and the bite swelled up?",
+    "Aww, that's sweet. I like when you call me that too.",
+    "I know what you mean. It's like our own little thing.",
+    "Oh yeah, I remember. You put some antiseptic cream on it for me.",
+    "Definitely. It's those little acts of kindness that really make a relationship strong.",
+    "And you do a great job at it. I feel so lucky to have you as my partner in life.",
+    "I don't understand why you need a new car when the one you have now works just fine.",
+    "Is that what this is about? You wanting to look good?",
+    "I understand that you've worked hard for your money, but maybe there are other things we could spend it on that would benefit us as a family."
+  ],
+  "traits": {
+    "directness": 0.996590909090909,
+    "emotional_valence": 0.007338034695473369,
+    "social_orientation": 0.015431180968564145,
+    "audience_focus": 0.039854258360099856,
+    "risk_orientation": 0.0
+  }
+}

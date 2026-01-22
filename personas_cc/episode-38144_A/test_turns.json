@@ -1,0 +1,148 @@
+{
+  "persona_id": "episode-38144_A",
+  "speaker_role": "Neighbors",
+  "relationship": "Neighbors",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 21,
+      "session": "third",
+      "context": "Neighbors B: You got this. I'm excited to see where your club goes.\nNeighbors A: Thanks, Neighbor B. I'll definitely keep you updated on my progress. \nNeighbors B: I'd love that. And hey, speaking of progress, how's that hobby project of yours going? ",
+      "input": "I'd love that. And hey, speaking of progress, how's that hobby project of yours going? ",
+      "ground_truth": "It's been going pretty well, actually. I'm still trying to work out the kinks, but I'm really happy with how it's coming along. "
+    },
+    {
+      "turn_id": 22,
+      "session": "third",
+      "context": "Neighbors B: I'd love that. And hey, speaking of progress, how's that hobby project of yours going? \nNeighbors A: It's been going pretty well, actually. I'm still trying to work out the kinks, but I'm really happy with how it's coming along. \nNeighbors B: That's awesome. It's great to see you pursuing something you're passionate about. ",
+      "input": "That's awesome. It's great to see you pursuing something you're passionate about. ",
+      "ground_truth": "Yeah, definitely. It's been really fulfilling. "
+    },
+    {
+      "turn_id": 23,
+      "session": "third",
+      "context": "Neighbors B: That's awesome. It's great to see you pursuing something you're passionate about. \nNeighbors A: Yeah, definitely. It's been really fulfilling. \nNeighbors B: Well, keep up the good work. And don't forget to take breaks from time to time. ",
+      "input": "Well, keep up the good work. And don't forget to take breaks from time to time. ",
+      "ground_truth": "Haha, will do. Thanks for looking out for me, Neighbor B. "
+    },
+    {
+      "turn_id": 24,
+      "session": "fourth",
+      "context": "Neighbors B: Well, keep up the good work. And don't forget to take breaks from time to time. \nNeighbors A: Haha, will do. Thanks for looking out for me, Neighbor B. \nNeighbors B: Anytime, Neighbor A. That's what neighbors are for, right?",
+      "input": "Anytime, Neighbor A. That's what neighbors are for, right?",
+      "ground_truth": "Hey, how's it going?"
+    },
+    {
+      "turn_id": 25,
+      "session": "fourth",
+      "context": "Neighbors B: Anytime, Neighbor A. That's what neighbors are for, right?\nNeighbors A: Hey, how's it going?\nNeighbors B: Not bad, just wanted to check in and see how you're doing.",
+      "input": "Not bad, just wanted to check in and see how you're doing.",
+      "ground_truth": "I'm doing pretty well! Actually, something really exciting happened in class today."
+    },
+    {
+      "turn_id": 26,
+      "session": "fourth",
+      "context": "Neighbors B: Not bad, just wanted to check in and see how you're doing.\nNeighbors A: I'm doing pretty well! Actually, something really exciting happened in class today.\nNeighbors B: Oh yeah? What's up?",
+      "input": "Oh yeah? What's up?",
+      "ground_truth": "My history teacher quizzed us on the Civil War, and I was able to answer a question that no one else knew. The teacher was impressed with my knowledge."
+    },
+    {
+      "turn_id": 27,
+      "session": "fourth",
+      "context": "Neighbors B: Oh yeah? What's up?\nNeighbors A: My history teacher quizzed us on the Civil War, and I was able to answer a question that no one else knew. The teacher was impressed with my knowledge.\nNeighbors B: That's awesome! You've always been into history, haven't you?",
+      "input": "That's awesome! You've always been into history, haven't you?",
+      "ground_truth": "Yeah, I've always been fascinated by it. I remember when we used to talk about the Civil War a lot."
+    },
+    {
+      "turn_id": 28,
+      "session": "fourth",
+      "context": "Neighbors B: That's awesome! You've always been into history, haven't you?\nNeighbors A: Yeah, I've always been fascinated by it. I remember when we used to talk about the Civil War a lot.\nNeighbors B: Yeah, I remember that too. It's cool to see that your passion for history is still going strong.",
+      "input": "Yeah, I remember that too. It's cool to see that your passion for history is still going strong.",
+      "ground_truth": "Definitely. It makes me think that maybe I should consider pursuing something related to history in the future."
+    },
+    {
+      "turn_id": 29,
+      "session": "fourth",
+      "context": "Neighbors B: Yeah, I remember that too. It's cool to see that your passion for history is still going strong.\nNeighbors A: Definitely. It makes me think that maybe I should consider pursuing something related to history in the future.\nNeighbors B: That would be great! You have a lot of knowledge and enthusiasm for it, so I think you'd be really good at it.",
+      "input": "That would be great! You have a lot of knowledge and enthusiasm for it, so I think you'd be really good at it.",
+      "ground_truth": "Thanks, that means a lot coming from you. Hey, speaking of pursuing passions, have you made any progress on starting your own club?"
+    },
+    {
+      "turn_id": 30,
+      "session": "fourth",
+      "context": "Neighbors B: That would be great! You have a lot of knowledge and enthusiasm for it, so I think you'd be really good at it.\nNeighbors A: Thanks, that means a lot coming from you. Hey, speaking of pursuing passions, have you made any progress on starting your own club?\nNeighbors B: Actually, yeah. I've been doing some research and reaching out to people who might be interested in joining. It's been challenging, but I'm feeling pretty optimistic about it.",
+      "input": "Actually, yeah. I've been doing some research and reaching out to people who might be interested in joining. It's been challenging, but I'm feeling pretty optimistic about it.",
+      "ground_truth": "That's great to hear! I know you have a lot of experience and expertise, so I'm sure you'll be able to make it successful."
+    },
+    {
+      "turn_id": 31,
+      "session": "fifth",
+      "context": "Neighbors B: Actually, yeah. I've been doing some research and reaching out to people who might be interested in joining. It's been challenging, but I'm feeling pretty optimistic about it.\nNeighbors A: That's great to hear! I know you have a lot of experience and expertise, so I'm sure you'll be able to make it successful.\nNeighbors B: Thanks, I appreciate the support. It's exciting to think about the possibilities of what we can achieve when we follow our passions.",
+      "input": "Thanks, I appreciate the support. It's exciting to think about the possibilities of what we can achieve when we follow our passions.",
+      "ground_truth": "Hey, do you want to grab lunch this weekend?"
+    },
+    {
+      "turn_id": 32,
+      "session": "fifth",
+      "context": "Neighbors B: Thanks, I appreciate the support. It's exciting to think about the possibilities of what we can achieve when we follow our passions.\nNeighbors A: Hey, do you want to grab lunch this weekend?\nNeighbors B: Sorry, I'm busy this weekend.",
+      "input": "Sorry, I'm busy this weekend.",
+      "ground_truth": "That's okay, how about next weekend?"
+    },
+    {
+      "turn_id": 33,
+      "session": "fifth",
+      "context": "Neighbors B: Sorry, I'm busy this weekend.\nNeighbors A: That's okay, how about next weekend?\nNeighbors B: I don't know if I can commit to anything right now.",
+      "input": "I don't know if I can commit to anything right now.",
+      "ground_truth": "Is everything okay? You've been turning down my invitations a lot lately."
+    },
+    {
+      "turn_id": 34,
+      "session": "fifth",
+      "context": "Neighbors B: I don't know if I can commit to anything right now.\nNeighbors A: Is everything okay? You've been turning down my invitations a lot lately.\nNeighbors B: It's not you, it's just that I've been dealing with some stuff and haven't really had the energy to socialize.",
+      "input": "It's not you, it's just that I've been dealing with some stuff and haven't really had the energy to socialize.",
+      "ground_truth": "I totally understand, if you ever want to talk about anything, I'm here for you."
+    },
+    {
+      "turn_id": 35,
+      "session": "fifth",
+      "context": "Neighbors B: It's not you, it's just that I've been dealing with some stuff and haven't really had the energy to socialize.\nNeighbors A: I totally understand, if you ever want to talk about anything, I'm here for you.\nNeighbors B: Thanks, I appreciate it. Actually, I've been thinking about starting my own business, and it's been stressing me out a bit.",
+      "input": "Thanks, I appreciate it. Actually, I've been thinking about starting my own business, and it's been stressing me out a bit.",
+      "ground_truth": "That's really cool, I think you'd be great at it! Have you thought about what kind of business you want to start?"
+    },
+    {
+      "turn_id": 36,
+      "session": "fifth",
+      "context": "Neighbors B: Thanks, I appreciate it. Actually, I've been thinking about starting my own business, and it's been stressing me out a bit.\nNeighbors A: That's really cool, I think you'd be great at it! Have you thought about what kind of business you want to start?\nNeighbors B: Yeah, I have some ideas for a tech startup, but it's all still in the planning stages.",
+      "input": "Yeah, I have some ideas for a tech startup, but it's all still in the planning stages.",
+      "ground_truth": "That's awesome, I'm excited for you. If you ever need any help or want to bounce ideas off of someone, I'm here."
+    },
+    {
+      "turn_id": 37,
+      "session": "fifth",
+      "context": "Neighbors B: Yeah, I have some ideas for a tech startup, but it's all still in the planning stages.\nNeighbors A: That's awesome, I'm excited for you. If you ever need any help or want to bounce ideas off of someone, I'm here.\nNeighbors B: Thanks, I might take you up on that offer. And speaking of starting something new, how's your new job going?",
+      "input": "Thanks, I might take you up on that offer. And speaking of starting something new, how's your new job going?",
+      "ground_truth": "It's going pretty well, thanks for asking. It's definitely a learning curve but I'm liking the challenge."
+    },
+    {
+      "turn_id": 38,
+      "session": "fifth",
+      "context": "Neighbors B: Thanks, I might take you up on that offer. And speaking of starting something new, how's your new job going?\nNeighbors A: It's going pretty well, thanks for asking. It's definitely a learning curve but I'm liking the challenge.\nNeighbors B: That's great to hear. You've always been really dedicated and hardworking, I'm sure you'll do great.",
+      "input": "That's great to hear. You've always been really dedicated and hardworking, I'm sure you'll do great.",
+      "ground_truth": "Thanks, I appreciate the support. It's funny, I never thought I'd end up in this field, but I'm really enjoying it."
+    },
+    {
+      "turn_id": 39,
+      "session": "fifth",
+      "context": "Neighbors B: That's great to hear. You've always been really dedicated and hardworking, I'm sure you'll do great.\nNeighbors A: Thanks, I appreciate the support. It's funny, I never thought I'd end up in this field, but I'm really enjoying it.\nNeighbors B: Yeah, life can be unpredictable like that. But I'm glad you've found something you're passionate about.",
+      "input": "Yeah, life can be unpredictable like that. But I'm glad you've found something you're passionate about.",
+      "ground_truth": "Definitely. Hey, I was also thinking about that club you used to be a part of. Do you miss it at all?"
+    },
+    {
+      "turn_id": 40,
+      "session": "fifth",
+      "context": "Neighbors B: Yeah, life can be unpredictable like that. But I'm glad you've found something you're passionate about.\nNeighbors A: Definitely. Hey, I was also thinking about that club you used to be a part of. Do you miss it at all?\nNeighbors B: Not really, I'm pretty happy doing my own thing now. Plus, I think my new business venture is taking up enough of my time as it is.",
+      "input": "Not really, I'm pretty happy doing my own thing now. Plus, I think my new business venture is taking up enough of my time as it is.",
+      "ground_truth": "That makes sense. It's cool to see you pursuing your passions and goals. I'm excited for both of us to keep growing and thriving."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "persona_id": "episode-140544_B",
+  "speaker_role": "Mentor",
+  "relationship": "Mentee and Mentor",
+  "split": "train",
+  "num_turns": 40,
+  "num_turns_train": 20,
+  "num_turns_test": 20,
+  "example_utterances": [
+    "Of course, Mentee! I love helping people with their projects, especially when they're eager to learn and do well. What can I say, I'm a bit of a nerd when it comes to this stuff.",
+    "I'm glad to hear that! I know how tough it can be to take on a big project, especially when you're not sure where to start or what to do. That's why I'm always happy to offer suggestions and guidance whenever I can.",
+    "It's my pleasure, Mentee. I remember what it was like when I was starting out, and how much I appreciated anyone who was willing to lend a helping hand. So, if you ever need any more assistance or have any questions, don't hesitate to reach out.",
+    "I'm so happy to hear that, Mentee! Time management is such an important skill, not just for projects, but for life in general. I'm glad that the tips we talked about are helping you out. What ones have been the most helpful so far?",
+    "Hmm, that does seem impulsive. What made you decide to do it?",
+    "I understand that feeling, but it's important to consider the effects of our actions. Do you have enough money to cover all the expenses for the trip?",
+    "Well, it's always a good idea to plan your finances ahead of time so that you don't end up overspending and regretting it later.",
+    "It's okay, we all make impulsive decisions sometimes. What can you do now to ensure you don't overspend while in Vegas?",
+    "Great ideas! And remember, it's important to learn from our mistakes and make better decisions in the future.",
+    "Of course, that's what I'm here for! Do you want to talk about anything else related to your project or any new ideas you have?"
+  ],
+  "traits": {
+    "directness": 0.9979180642624165,
+    "emotional_valence": 0.018776326844722142,
+    "social_orientation": 0.015116617500715874,
+    "audience_focus": 0.0450590690077902,
+    "risk_orientation": 0.0
+  }
+}

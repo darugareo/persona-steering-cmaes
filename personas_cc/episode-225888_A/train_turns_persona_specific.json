@@ -1,0 +1,56 @@
+{
+  "persona_id": "episode-225888_A",
+  "split": "train",
+  "total_turns": 20,
+  "selected_turns": 4,
+  "selection_rate": 0.2,
+  "turns": [
+    {
+      "user": "Oh, hey. Yeah, sure. What did you say again?",
+      "assistant": "I made a comment about your outfit and it was really insensitive of me. I didn't mean it in a bad way, but I understand that it was hurtful and I'm sorry.",
+      "context": "Classmates A: Hi, can I talk to you for a minute? I just wanted to apologize for what I said the other day. I feel really guilty about it and I want to make things right.\nClassmates B: Oh, hey. Yeah, sure. What did you say again?",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "クラスメイト間の共有記憶に基づく謝罪",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "Oh, yeah, I remember now. Honestly, it did bother me a bit, but I appreciate you coming to me and apologizing. It takes a lot to admit when you're wrong.",
+      "assistant": "I just don't want there to be any bad blood between us. We've been classmates for a few years now and I value our friendship.",
+      "context": "Classmates B: Oh, hey. Yeah, sure. What did you say again?\nClassmates A: I made a comment about your outfit and it was really insensitive of me. I didn't mean it in a bad way, but I understand that it was hurtful and I'm sorry.\nClassmates B: Oh, yeah, I remember now. Honestly, it did bother me a bit, but I appreciate you coming to me and apologizing. It takes a lot to admit when you're wrong.",
+      "persona_specific": true,
+      "specificity_confidence": 5,
+      "specificity_reason": "クラスメイトとしての関係性と共有記憶に言及している",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "Sure, what's up?",
+      "assistant": "I just wanted to apologize for what I said a few weeks ago. I know it was insensitive and I feel really bad about it.",
+      "context": "Classmates B: Almost. Just a few more sections to go. How about you?\nClassmates A: Hey, I wanted to talk to you about something.\nClassmates B: Sure, what's up?",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "過去の出来事への謝罪は関係性特有",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "Agreed. Hey, remember when we talked about black holes in physics class last semester?",
+      "assistant": "Yeah, I do. It's actually related to the idea of wormholes, which could potentially be used for time travel.",
+      "context": "Classmates B: Wow, I never thought about that before. It's crazy to think about all of the possibilities.\nClassmates A: Exactly! And even if we can't time travel yet, it's still fascinating to learn about the science behind it.\nClassmates B: Agreed. Hey, remember when we talked about black holes in physics class last semester?",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "共有記憶への言及があり、クラスメイト特有",
+      "criteria_met": [
+        "共有記憶"
+      ]
+    }
+  ]
+}

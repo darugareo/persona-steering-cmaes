@@ -1,0 +1,76 @@
+{
+  "persona_id": "episode-37985_A",
+  "num_sessions": 5,
+  "sessions": [
+    {
+      "persona_id": "episode-37985_A",
+      "session_idx": 1,
+      "pair_id": "episode-37985",
+      "session_name": "first",
+      "speaker_role": "A",
+      "split": "test",
+      "relationship": "Co-workers",
+      "role_name": "Co-workers",
+      "time_interval": "Start",
+      "session_summary": "Two co-workers enjoy enjoying the scenery outside while working. They notice new places and plan to check out new ones.",
+      "session_text": "It's such a beautiful day outside. Look at all the people walking by!\nYeah, but at least we have a nice view from our office.\nI feel like I always notice something new when I look out the window. Like that new cafe that just opened up across the street.\nThat's a great idea! We should definitely plan a lunch date soon.\nOh yeah, I loved their salmon rolls. They were so good.",
+      "num_turns": 5
+    },
+    {
+      "persona_id": "episode-37985_A",
+      "session_idx": 2,
+      "pair_id": "episode-37985",
+      "session_name": "second",
+      "speaker_role": "A",
+      "split": "test",
+      "relationship": "Co-workers",
+      "role_name": "Co-workers",
+      "time_interval": "A few days after",
+      "session_summary": "Co-worker A tells Co-worker B they are pregnant and expresses anxiety about telling others. Co-worker B offers to take Co-worker A's project submissions and offers to take Co-worker A's report.",
+      "session_text": "Can I trust you with a secret?\nI'm pregnant!\nThank you, I'm so excited but also a bit nervous.\nI hope so. It's just scary because it's my first child and I don't know what to expect.\nNot really, I wanted to tell someone at work first just to have someone to confide in.\nNot yet, I'm waiting for the right time. But I wanted to tell you first.\nThank you, that means a lot to me.\nI'll definitely take you up on that. And I'm sorry to change the subject, but have you finished working on that project from last week?\nActually, I might need some help with the report due next week. Would you be able to take a look at it with me?\nThat would be perfect, thank you. And again, thank you for being a great friend.",
+      "num_turns": 10
+    },
+    {
+      "persona_id": "episode-37985_A",
+      "session_idx": 3,
+      "pair_id": "episode-37985",
+      "session_name": "third",
+      "speaker_role": "A",
+      "split": "test",
+      "relationship": "Co-workers",
+      "role_name": "Co-workers",
+      "time_interval": "A few weeks after",
+      "session_summary": "Co-worker A received positive feedback from the hiring manager about their application and is excited for Co-worker B's role. Co-worker B expresses support but Co-worker A misses Co-worker B's presence and Co-worker A expresses their desire to meet the little one.",
+      "session_text": "Did you hear back from the hiring manager about my application?\nThat's great news! I can't wait to start.\nThanks, I really appreciate your support. I'm going to miss working with you, though.\nOf course! And who knows, maybe we'll work together again in the future.\nI'm feeling good, still a little tired sometimes. And no major updates yet, just taking it one day at a time.",
+      "num_turns": 5
+    },
+    {
+      "persona_id": "episode-37985_A",
+      "session_idx": 4,
+      "pair_id": "episode-37985",
+      "session_name": "fourth",
+      "speaker_role": "A",
+      "split": "test",
+      "relationship": "Co-workers",
+      "role_name": "Co-workers",
+      "time_interval": "A few months after",
+      "session_summary": "Co-worker A hurt Co-worker B by being truthful with them about their past relationship. Co-worker B apologizes and expresses concern about Co-worker A's past hurtful behavior. Co-worker A expresses willingness to forgive Co-worker B and offer forgiveness.",
+      "session_text": "I need to talk to you about something that I've been feeling guilty about.\nRemember when we started seeing each other?\nWell, I wasn't entirely truthful with you. I led you to believe that I was interested in being in a relationship with you, when in reality I only wanted to use you for sex.\nI know, and I'm so sorry. It was wrong of me, and I had no right to treat you that way. I was going through a rough time and I didn't know how to handle it.\nI understand how you feel, and I'm willing to do anything to make it up to you. I know I can't change the past, but I hope we can work towards building back some kind of friendship or at least some level of trust.\nI understand. Is there anything I can do to make it right?\nOf course, take all the time you need. And again, I'm so sorry for hurting you like this.\nI know. And please know that I'm willing to do whatever it takes to make things right between us.",
+      "num_turns": 8
+    },
+    {
+      "persona_id": "episode-37985_A",
+      "session_idx": 5,
+      "pair_id": "episode-37985",
+      "session_name": "fifth",
+      "speaker_role": "A",
+      "split": "test",
+      "relationship": "Co-workers",
+      "role_name": "Co-workers",
+      "time_interval": "A couple of years after",
+      "session_summary": "Co-worker A complains about their coffee being too cold and blames the cafeteria staff for not listening. Co-worker B suggests meal prepping and reminds them that it's okay to apologize for hurting them. They also discuss past mistakes and how open communication can help them move forward.",
+      "session_text": "Ugh, my coffee is always too cold! Why can't they just get it right?\nOf course I have! But they just don't listen. And don't even get me started on the food in the cafeteria.\nIt's always either undercooked or overcooked. I can't even enjoy my lunch break anymore because of it.\nI have, but I don't have time to prepare anything in the morning. I'm always rushing out the door.\nI guess that's a good idea. But honestly, I just feel like everything is so hard lately.\nIt's just this job. It's so demanding and I feel like I'm always falling behind.\nYeah, I guess you're right. But I still feel like I'm not good enough.\nI know, but it's hard to admit when I'm struggling. I don't want people to think I'm not capable.\nThanks, I really appreciate that. You're a good friend.\nYeah, I do. That was such an exciting time.\nI know, right? Life is unpredictable like that.\n…Yeah, I remember. I'm sorry for hurting you like that. It was a mistake and I regret it every day.\nI have, I promise. I've grown a lot since then and I know how important it is to be honest with people.\nMe too. It feels good to have closure on that chapter of our lives.",
+      "num_turns": 14
+    }
+  ]
+}

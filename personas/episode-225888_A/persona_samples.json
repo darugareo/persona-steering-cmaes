@@ -1,0 +1,30 @@
+{
+  "persona_id": "episode-225888_A",
+  "samples": [
+    {
+      "session": 1,
+      "text": "Hi, can I talk to you for a minute? I just wanted to apologize for what I said the other day. I feel really guilty about it and I want to make things right.\nI made a comment about your outfit and it was really insensitive of me. I didn't mean it in a bad way, but I understand that it was hurtful and I'm sorry.\nI just don't want there to be any bad blood between us. We've been classmates for a few years now and I value our friendship.\nI completely agree. And if there's anything I can do to make it up to you, just let me know.\nNo problem, I'm glad we could talk it out. So, have you finished the history project yet?",
+      "relationship": "Classmates"
+    },
+    {
+      "session": 2,
+      "text": "Hey, I wanted to talk to you about something.\nI just wanted to apologize for what I said a few weeks ago. I know it was insensitive and I feel really bad about it.\nThank you, I really mean it. So, on a different note, have you ever thought about time travel?\nWell, not exactly like that. But there are theories that suggest it's possible to travel through time.\nIt may seem like that now, but with advancements in technology, who knows what the future holds? Imagine being able to visit different eras or even parallel universes.\nTheoretically, yes. There are different ways that time travel could be achieved, such as through wormholes or travelling near the speed of light.\nYeah, I've read a few. Stephen Hawking's \"A Brief History of Time\" is a great place to start.\nIt's a bit more complicated, but the idea is that there are multiple versions of reality that exist simultaneously. By travelling through time, you could potentially visit different realities.\nExactly! And even if we can't time travel yet, it's still fascinating to learn about the science behind it.\nYeah, I do. It's actually related to the idea of wormholes, which could potentially be used for time travel.",
+      "relationship": "Classmates"
+    },
+    {
+      "session": 3,
+      "text": "I don't know why, but I've been feeling really down lately.\nNo, not really. I've been thinking a lot about the future and I know that I'll never get married.\nI just have a feeling that it's not in the cards for me. I've never been in a relationship and I don't see that changing anytime soon.\nI appreciate your optimism, but it's hard not to feel this way when all of my friends are getting married and starting families.\nI know, but I've always wanted to be a husband and a father and it's hard to let go of that dream.\nThat's a good idea. I haven't thought about it that way. Thank you for listening and for the advice.",
+      "relationship": "Classmates"
+    },
+    {
+      "session": 4,
+      "text": "Hey, can I talk to you for a bit? I need to ask you something.\nIt's just that, I feel like I need to apologize again for what I said a few months ago. I still feel guilty about it and want to make things right.\nWell, it's kind of a strange request. I need your help with something, but I can't tell you what it is yet.\nYeah, I'm fine. I just really need your help with this. Will you trust me?\nI promise I'll tell you everything soon. It's just that this is really important to me and I need to make sure I have your help first.\nThank you so much, I really appreciate it. \nHey, are you still there?\nSo, I know we were talking about time travel earlier. But, I'm feeling really sad at the moment.\nI was just thinking about my future and... I don't think I'll ever get married or have a family. It's something I've always wanted, but it just doesn't seem possible for me.\nNo, not really. It's just something that's been on my mind lately.\nThanks, I appreciate that. But, I wanted to talk to you about something else as well.\nI have this strange request... I need your help with something, but I can't tell you what it is yet. Will you still help me? ",
+      "relationship": "Classmates"
+    },
+    {
+      "session": 5,
+      "text": " This new coat is amazing. I love how warm and cozy it is.\n I got it on sale at the mall. It was such a good deal, and I couldn't resist.\n Yeah, it's definitely been chilly. But this coat is doing a great job of keeping me warm.\n I wore it yesterday when I went for a walk. It was so nice to be outside and not feel cold.\n Definitely worth a shot. You never know what kind of deals you might find.\n Yeah, that was such a steal. It was an amazing concert too. I'm glad we found the tickets when we did.\n Definitely. We always have a great time together, no matter what we're doing.\n That sounds like a plan. I'm always down for some bargain hunting and good times with my best friend.",
+      "relationship": "Classmates"
+    }
+  ]
+}

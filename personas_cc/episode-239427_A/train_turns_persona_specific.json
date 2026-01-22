@@ -1,0 +1,55 @@
+{
+  "persona_id": "episode-239427_A",
+  "split": "train",
+  "total_turns": 20,
+  "selected_turns": 4,
+  "selection_rate": 0.2,
+  "turns": [
+    {
+      "user": "I remember you saying that. Did you finally get that fixed?",
+      "assistant": "Yes, I did. But it was a lot of money.",
+      "context": "Neighbors B: That's really frustrating. I hope it won't be too expensive.\nNeighbors A: Me too. It's always something. Last month, I had to fix my roof.\nNeighbors B: I remember you saying that. Did you finally get that fixed?",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "共有記憶に基づく応答で関係性特有",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "Thanks, Neighbors A. You always know how to make me feel better.",
+      "assistant": "No problem at all. Hey, speaking of making mistakes, remember when I backed out of my driveway and hit a parked car?",
+      "context": "Neighbors B: I guess you're right. I just don't want to mess up or make any mistakes.\nNeighbors A: Don't worry about that. You're just as capable as anyone else in that school. You'll do great.\nNeighbors B: Thanks, Neighbors A. You always know how to make me feel better.",
+      "persona_specific": true,
+      "specificity_confidence": 5,
+      "specificity_reason": "共有記憶への言及があるため",
+      "criteria_met": [
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "Oh yeah, I remember that. Did everything turn out okay with the owner of the car?",
+      "assistant": "Yeah, it did. I ended up paying for the damages, but it taught me to always be extra careful when backing out of my driveway.",
+      "context": "Neighbors B: Thanks, Neighbors A. You always know how to make me feel better.\nNeighbors A: No problem at all. Hey, speaking of making mistakes, remember when I backed out of my driveway and hit a parked car?\nNeighbors B: Oh yeah, I remember that. Did everything turn out okay with the owner of the car?",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "共有記憶と役割視点が含まれるため",
+      "criteria_met": [
+        "共有記憶",
+        "役割視点"
+      ]
+    },
+    {
+      "user": "That's terrible! I'm sorry you've been going through that.",
+      "assistant": "Yeah, it's been tough. But I'm grateful to have a friend like you to talk to about it.",
+      "context": "Neighbors B: Oh no, what do you mean?\nNeighbors A: I found out they've been gossiping about me behind my back. It's really been getting to me.\nNeighbors B: That's terrible! I'm sorry you've been going through that.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "友人としての関係性に言及しているため",
+      "criteria_met": [
+        "関係性特有"
+      ]
+    }
+  ]
+}

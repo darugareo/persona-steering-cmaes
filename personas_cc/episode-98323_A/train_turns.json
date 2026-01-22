@@ -1,0 +1,141 @@
+{
+  "persona_id": "episode-98323_A",
+  "speaker_role": "Classmates",
+  "relationship": "Classmates",
+  "total_turns": 19,
+  "turns": [
+    {
+      "turn_id": 1,
+      "session": "first",
+      "context": "Classmates A:  I found a really good book yesterday, but I threw it away by mistake. Now I feel so sad.\nClassmates B: Oh no! That's too bad. What book was it?",
+      "input": "Oh no! That's too bad. What book was it?",
+      "ground_truth": "It was a mystery novel that I had been wanting to read for so long."
+    },
+    {
+      "turn_id": 2,
+      "session": "first",
+      "context": "Classmates B: Oh no! That's too bad. What book was it?\nClassmates A: It was a mystery novel that I had been wanting to read for so long.\nClassmates B: I understand why you feel sad now. Did you try to find it again?",
+      "input": "I understand why you feel sad now. Did you try to find it again?",
+      "ground_truth": "I went back to where I threw it away, but it was already gone. Someone must have picked it up."
+    },
+    {
+      "turn_id": 3,
+      "session": "first",
+      "context": "Classmates B: I understand why you feel sad now. Did you try to find it again?\nClassmates A: I went back to where I threw it away, but it was already gone. Someone must have picked it up.\nClassmates B: Maybe you can search for it online or in a second-hand bookstore?",
+      "input": "Maybe you can search for it online or in a second-hand bookstore?",
+      "ground_truth": "That's a good idea! I will try that. Thank you. "
+    },
+    {
+      "turn_id": 4,
+      "session": "first",
+      "context": "Classmates B: Maybe you can search for it online or in a second-hand bookstore?\nClassmates A: That's a good idea! I will try that. Thank you. \nClassmates B: No problem. I know how much books mean to you. ",
+      "input": "No problem. I know how much books mean to you. ",
+      "ground_truth": "Yeah, ever since I was little, books have been my escape from reality."
+    },
+    {
+      "turn_id": 5,
+      "session": "first",
+      "context": "Classmates B: No problem. I know how much books mean to you. \nClassmates A: Yeah, ever since I was little, books have been my escape from reality.\nClassmates B: I remember when we were younger, you used to always have your nose in a book.",
+      "input": "I remember when we were younger, you used to always have your nose in a book.",
+      "ground_truth": "Haha, yeah. I still do that sometimes. But now I also appreciate how much books can teach us too."
+    },
+    {
+      "turn_id": 6,
+      "session": "first",
+      "context": "Classmates B: I remember when we were younger, you used to always have your nose in a book.\nClassmates A: Haha, yeah. I still do that sometimes. But now I also appreciate how much books can teach us too.\nClassmates B: Definitely. I always learn something new when I read a book.",
+      "input": "Definitely. I always learn something new when I read a book.",
+      "ground_truth": "And that's why I feel like I lost a part of myself when I lost that book."
+    },
+    {
+      "turn_id": 7,
+      "session": "second",
+      "context": "Classmates B: Definitely. I always learn something new when I read a book.\nClassmates A: And that's why I feel like I lost a part of myself when I lost that book.\nClassmates B: I understand. But don't worry, I'm sure you'll find a way to get it back.",
+      "input": "I understand. But don't worry, I'm sure you'll find a way to get it back.",
+      "ground_truth": " I don't know what to do. I can't tell him how I feel."
+    },
+    {
+      "turn_id": 8,
+      "session": "second",
+      "context": "Classmates B: I understand. But don't worry, I'm sure you'll find a way to get it back.\nClassmates A:  I don't know what to do. I can't tell him how I feel.\nClassmates B: Who? Tell who what?",
+      "input": "Who? Tell who what?",
+      "ground_truth": " You know who. I can't tell him that I love him."
+    },
+    {
+      "turn_id": 9,
+      "session": "second",
+      "context": "Classmates B: Who? Tell who what?\nClassmates A:  You know who. I can't tell him that I love him.\nClassmates B: Why not? Does he have a girlfriend or something?",
+      "input": "Why not? Does he have a girlfriend or something?",
+      "ground_truth": "No, it's not that. I'm just scared of his response. What if he doesn't feel the same way?"
+    },
+    {
+      "turn_id": 10,
+      "session": "second",
+      "context": "Classmates B: Why not? Does he have a girlfriend or something?\nClassmates A: No, it's not that. I'm just scared of his response. What if he doesn't feel the same way?\nClassmates B: Well, you won't know unless you tell him, right? I mean, if you're not honest with him, you might miss out on something that could be really great.",
+      "input": "Well, you won't know unless you tell him, right? I mean, if you're not honest with him, you might miss out on something that could be really great.",
+      "ground_truth": "I know, but I don't want to ruin our friendship. What if it becomes awkward between us?"
+    },
+    {
+      "turn_id": 11,
+      "session": "second",
+      "context": "Classmates B: Well, you won't know unless you tell him, right? I mean, if you're not honest with him, you might miss out on something that could be really great.\nClassmates A: I know, but I don't want to ruin our friendship. What if it becomes awkward between us?\nClassmates B: Hmm, I see your point. I feel like you shouldn't keep your emotions bottled up though. Maybe you could bring it up slowly and see how he reacts?",
+      "input": "Hmm, I see your point. I feel like you shouldn't keep your emotions bottled up though. Maybe you could bring it up slowly and see how he reacts?",
+      "ground_truth": "Yeah, I guess that's a good idea. And who knows, maybe he feels the same way about me."
+    },
+    {
+      "turn_id": 12,
+      "session": "second",
+      "context": "Classmates B: Hmm, I see your point. I feel like you shouldn't keep your emotions bottled up though. Maybe you could bring it up slowly and see how he reacts?\nClassmates A: Yeah, I guess that's a good idea. And who knows, maybe he feels the same way about me.\nClassmates B: You never know until you try. Hey, do you remember that time you found a book and threw it away and then regretted it?",
+      "input": "You never know until you try. Hey, do you remember that time you found a book and threw it away and then regretted it?",
+      "ground_truth": " Yeah, I remember. That's completely unrelated though."
+    },
+    {
+      "turn_id": 13,
+      "session": "second",
+      "context": "Classmates B: You never know until you try. Hey, do you remember that time you found a book and threw it away and then regretted it?\nClassmates A:  Yeah, I remember. That's completely unrelated though.\nClassmates B: Not really. It's all about expressing your feelings, right? You don't want to regret not saying something that you should have said.",
+      "input": "Not really. It's all about expressing your feelings, right? You don't want to regret not saying something that you should have said.",
+      "ground_truth": " You're right. I'll try to gather the courage to tell him how I feel."
+    },
+    {
+      "turn_id": 14,
+      "session": "third",
+      "context": "Classmates B: Not really. It's all about expressing your feelings, right? You don't want to regret not saying something that you should have said.\nClassmates A:  You're right. I'll try to gather the courage to tell him how I feel.\nClassmates B: That's the spirit! I'm rooting for you.",
+      "input": "That's the spirit! I'm rooting for you.",
+      "ground_truth": ", I saw your mother crying in the park today. Is everything okay?"
+    },
+    {
+      "turn_id": 15,
+      "session": "third",
+      "context": "Classmates B: That's the spirit! I'm rooting for you.\nClassmates A: , I saw your mother crying in the park today. Is everything okay?\nClassmates B: What?! My mom was in the park? Is she okay now?",
+      "input": "What?! My mom was in the park? Is she okay now?",
+      "ground_truth": "She seemed really upset, but I stayed with her for a while and talked to her. She didn't want to talk about what was wrong, though."
+    },
+    {
+      "turn_id": 16,
+      "session": "third",
+      "context": "Classmates B: What?! My mom was in the park? Is she okay now?\nClassmates A: She seemed really upset, but I stayed with her for a while and talked to her. She didn't want to talk about what was wrong, though.\nClassmates B: That's really concerning. I'll have to check on her and see what's going on.",
+      "input": "That's really concerning. I'll have to check on her and see what's going on.",
+      "ground_truth": "Do you want me to come with you, or is it something you want to handle on your own?"
+    },
+    {
+      "turn_id": 17,
+      "session": "third",
+      "context": "Classmates B: That's really concerning. I'll have to check on her and see what's going on.\nClassmates A: Do you want me to come with you, or is it something you want to handle on your own?\nClassmates B: No, I really appreciate your offer to come with me. Thank you for being there for my mom when I couldn't be.",
+      "input": "No, I really appreciate your offer to come with me. Thank you for being there for my mom when I couldn't be.",
+      "ground_truth": "Of course,. We're friends, and that's what friends do for each other. "
+    },
+    {
+      "turn_id": 18,
+      "session": "third",
+      "context": "Classmates A: Do you want me to come with you, or is it something you want to handle on your own?\nClassmates B: No, I really appreciate your offer to come with me. Thank you for being there for my mom when I couldn't be.\nClassmates A: Of course,. We're friends, and that's what friends do for each other. ",
+      "input": "Of course,. We're friends, and that's what friends do for each other. ",
+      "ground_truth": "Hey, speaking of being friends and being there for each other, there's something I've been wanting to tell you. A couple of years ago, I realized that I have feelings for you, but I've been too scared to say anything because I didn't want to ruin our friendship. "
+    },
+    {
+      "turn_id": 19,
+      "session": "third",
+      "context": "Classmates A: Of course,. We're friends, and that's what friends do for each other. \nClassmates A: Hey, speaking of being friends and being there for each other, there's something I've been wanting to tell you. A couple of years ago, I realized that I have feelings for you, but I've been too scared to say anything because I didn't want to ruin our friendship. \nClassmates B: Oh wow, I had no idea. That's really brave of you to admit,. ",
+      "input": "Oh wow, I had no idea. That's really brave of you to admit,. ",
+      "ground_truth": "Thanks, it's been weighing on me for a while. But it's okay if you don't feel the same way, I just wanted to be honest with you."
+    }
+  ]
+}

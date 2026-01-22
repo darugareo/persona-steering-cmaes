@@ -1,0 +1,36 @@
+{
+  "persona_id": "episode-225888_A",
+  "num_sessions": 5,
+  "communication_style": {
+    "avg_utterance_length": 102.8048780487805,
+    "exclamation_rate": 0.024390243902439025,
+    "question_rate": 0.1951219512195122,
+    "first_person_singular_rate": 1.024390243902439,
+    "first_person_plural_rate": 0.14634146341463414,
+    "second_person_rate": 0.43902439024390244,
+    "total_utterances": 41,
+    "num_sessions": 5
+  },
+  "relationship_contexts": "{'Classmates'}",
+  "example_responses": [
+    {
+      "text": "Hi, can I talk to you for a minute? I just wanted to apologize for what I said the other day. I feel really guilty about it and I want to make things right.\nI made a comment about your outfit and it was really insensitive of me. I didn't mean it in a bad way, but I understand that it was hurtful and I'm sorry.\nI just don't want there to be any bad blood between us. We've been classmates for a few years now and I value our friendship.\nI completely agree. And if there's anything I can do to make i",
+      "relationship": "Classmates",
+      "session_idx": 1
+    },
+    {
+      "text": "Hey, I wanted to talk to you about something.\nI just wanted to apologize for what I said a few weeks ago. I know it was insensitive and I feel really bad about it.\nThank you, I really mean it. So, on a different note, have you ever thought about time travel?\nWell, not exactly like that. But there are theories that suggest it's possible to travel through time.\nIt may seem like that now, but with advancements in technology, who knows what the future holds? Imagine being able to visit different era",
+      "relationship": "Classmates",
+      "session_idx": 2
+    },
+    {
+      "text": "I don't know why, but I've been feeling really down lately.\nNo, not really. I've been thinking a lot about the future and I know that I'll never get married.\nI just have a feeling that it's not in the cards for me. I've never been in a relationship and I don't see that changing anytime soon.\nI appreciate your optimism, but it's hard not to feel this way when all of my friends are getting married and starting families.\nI know, but I've always wanted to be a husband and a father and it's hard to l",
+      "relationship": "Classmates",
+      "session_idx": 3
+    }
+  ],
+  "metadata": {
+    "source": "ConversationChronicles",
+    "extraction_date": "2025-12-15"
+  }
+}

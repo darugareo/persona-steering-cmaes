@@ -1,0 +1,148 @@
+{
+  "persona_id": "episode-158821_B",
+  "speaker_role": "Neighbors",
+  "relationship": "Neighbors",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "session": "first",
+      "context": "Neighbors A: Thank you for coming over, Neighbor B. I'm glad you could make it.",
+      "input": "Thank you for coming over, Neighbor B. I'm glad you could make it.",
+      "ground_truth": "Of course, I couldn't turn down the invitation. Your house is lovely."
+    },
+    {
+      "turn_id": 2,
+      "session": "first",
+      "context": "Neighbors A: Thank you for coming over, Neighbor B. I'm glad you could make it.\nNeighbors B: Of course, I couldn't turn down the invitation. Your house is lovely.\nNeighbors A: Thank you! Would you like something to drink or eat?",
+      "input": "Thank you! Would you like something to drink or eat?",
+      "ground_truth": "Just some water, please."
+    },
+    {
+      "turn_id": 3,
+      "session": "first",
+      "context": "Neighbors A: Thank you! Would you like something to drink or eat?\nNeighbors B: Just some water, please.\nNeighbors A: Sure thing. So, how has everything been going with you?",
+      "input": "Sure thing. So, how has everything been going with you?",
+      "ground_truth": "Oh, things have been pretty good. Just busy with work as usual. How about you?"
+    },
+    {
+      "turn_id": 4,
+      "session": "first",
+      "context": "Neighbors A: Sure thing. So, how has everything been going with you?\nNeighbors B: Oh, things have been pretty good. Just busy with work as usual. How about you?\nNeighbors A: I've been keeping busy too, but nothing too exciting. Just trying to keep up with the housework and spending time with my kids.",
+      "input": "I've been keeping busy too, but nothing too exciting. Just trying to keep up with the housework and spending time with my kids.",
+      "ground_truth": "That sounds like a full plate."
+    },
+    {
+      "turn_id": 5,
+      "session": "first",
+      "context": "Neighbors A: I've been keeping busy too, but nothing too exciting. Just trying to keep up with the housework and spending time with my kids.\nNeighbors B: That sounds like a full plate.\nNeighbors A: It can be, but I enjoy it. Speaking of kids, how are your grandkids doing?",
+      "input": "It can be, but I enjoy it. Speaking of kids, how are your grandkids doing?",
+      "ground_truth": "They're doing great! They grow up too fast though."
+    },
+    {
+      "turn_id": 6,
+      "session": "first",
+      "context": "Neighbors A: It can be, but I enjoy it. Speaking of kids, how are your grandkids doing?\nNeighbors B: They're doing great! They grow up too fast though.\nNeighbors A: Tell me about it. My youngest just started kindergarten this year and it feels like yesterday that he was a baby.",
+      "input": "Tell me about it. My youngest just started kindergarten this year and it feels like yesterday that he was a baby.",
+      "ground_truth": "Time sure does fly. But it's a joy to watch them grow and learn."
+    },
+    {
+      "turn_id": 7,
+      "session": "first",
+      "context": "Neighbors A: Tell me about it. My youngest just started kindergarten this year and it feels like yesterday that he was a baby.\nNeighbors B: Time sure does fly. But it's a joy to watch them grow and learn.\nNeighbors A: Absolutely. And speaking of learning, have you heard about the new community center opening up down the street? They're going to have classes and activities for kids and adults.",
+      "input": "Absolutely. And speaking of learning, have you heard about the new community center opening up down the street? They're going to have classes and activities for kids and adults.",
+      "ground_truth": "No, I haven't heard about that. That sounds interesting though. What kind of classes are they offering?"
+    },
+    {
+      "turn_id": 8,
+      "session": "first",
+      "context": "Neighbors A: Absolutely. And speaking of learning, have you heard about the new community center opening up down the street? They're going to have classes and activities for kids and adults.\nNeighbors B: No, I haven't heard about that. That sounds interesting though. What kind of classes are they offering?\nNeighbors A: They have everything from dance classes to cooking classes and even some fitness classes. I'm thinking about signing up for a yoga class myself.",
+      "input": "They have everything from dance classes to cooking classes and even some fitness classes. I'm thinking about signing up for a yoga class myself.",
+      "ground_truth": "That sounds like a great opportunity. I'll have to check it out. "
+    },
+    {
+      "turn_id": 9,
+      "session": "first",
+      "context": "Neighbors A: They have everything from dance classes to cooking classes and even some fitness classes. I'm thinking about signing up for a yoga class myself.\nNeighbors B: That sounds like a great opportunity. I'll have to check it out. \nNeighbors A: Definitely. It's always good to have more options for activities in the neighborhood. ",
+      "input": "Definitely. It's always good to have more options for activities in the neighborhood. ",
+      "ground_truth": "Agreed. Thanks for telling me about it. "
+    },
+    {
+      "turn_id": 10,
+      "session": "first",
+      "context": "Neighbors A: Definitely. It's always good to have more options for activities in the neighborhood. \nNeighbors B: Agreed. Thanks for telling me about it. \nNeighbors A: Of course. It was great catching up with you, Neighbor B. ",
+      "input": "Of course. It was great catching up with you, Neighbor B. ",
+      "ground_truth": "You too, Neighbor A. Let's do this again sometime. "
+    },
+    {
+      "turn_id": 11,
+      "session": "first",
+      "context": "Neighbors A: Of course. It was great catching up with you, Neighbor B. \nNeighbors B: You too, Neighbor A. Let's do this again sometime. \nNeighbors A: I'd like that. Have a good day! ",
+      "input": "I'd like that. Have a good day! ",
+      "ground_truth": "You too!"
+    },
+    {
+      "turn_id": 12,
+      "session": "second",
+      "context": "Neighbors A: I'd like that. Have a good day! \nNeighbors B: You too!\nNeighbors A: Hey, how's it going?",
+      "input": "Hey, how's it going?",
+      "ground_truth": "Hey, good to see you again. I'm doing well, thanks. How about you?"
+    },
+    {
+      "turn_id": 13,
+      "session": "second",
+      "context": "Neighbors A: Hey, how's it going?\nNeighbors B: Hey, good to see you again. I'm doing well, thanks. How about you?\nNeighbors A: Not so great, actually. My florist shop got vandalized last week and I had to spend a lot of money to repair the damage.",
+      "input": "Not so great, actually. My florist shop got vandalized last week and I had to spend a lot of money to repair the damage.",
+      "ground_truth": "Oh no, I'm so sorry to hear that. Is everything okay now?"
+    },
+    {
+      "turn_id": 14,
+      "session": "second",
+      "context": "Neighbors A: Not so great, actually. My florist shop got vandalized last week and I had to spend a lot of money to repair the damage.\nNeighbors B: Oh no, I'm so sorry to hear that. Is everything okay now?\nNeighbors A: Yeah, everything's fine now, but the repairs cost more than what my insurance payout covered. So, now I'm in debt.",
+      "input": "Yeah, everything's fine now, but the repairs cost more than what my insurance payout covered. So, now I'm in debt.",
+      "ground_truth": "That's really tough. Is there anything I can do to help?"
+    },
+    {
+      "turn_id": 15,
+      "session": "second",
+      "context": "Neighbors A: Yeah, everything's fine now, but the repairs cost more than what my insurance payout covered. So, now I'm in debt.\nNeighbors B: That's really tough. Is there anything I can do to help?\nNeighbors A: Actually, if you don't mind, I could really use some extra customers for my shop. Business has been slow lately, and it's been making it even harder to get back up on my feet.",
+      "input": "Actually, if you don't mind, I could really use some extra customers for my shop. Business has been slow lately, and it's been making it even harder to get back up on my feet.",
+      "ground_truth": "Absolutely, I'd be happy to spread the word and maybe even pick up a bouquet myself sometime soon."
+    },
+    {
+      "turn_id": 16,
+      "session": "second",
+      "context": "Neighbors A: Actually, if you don't mind, I could really use some extra customers for my shop. Business has been slow lately, and it's been making it even harder to get back up on my feet.\nNeighbors B: Absolutely, I'd be happy to spread the word and maybe even pick up a bouquet myself sometime soon.\nNeighbors A: That would be amazing, thank you so much. You know, I still remember how much you loved that bouquet I made for your visit to my house.",
+      "input": "That would be amazing, thank you so much. You know, I still remember how much you loved that bouquet I made for your visit to my house.",
+      "ground_truth": "Yes, it was beautiful! And speaking of that visit, I was actually thinking of inviting you over this weekend. We could catch up over some coffee."
+    },
+    {
+      "turn_id": 17,
+      "session": "third",
+      "context": "Neighbors B: Yes, it was beautiful! And speaking of that visit, I was actually thinking of inviting you over this weekend. We could catch up over some coffee.\nNeighbors A: That sounds great. I'll be sure to bring some flowers over as a thank you.\nNeighbors A: I had a really fulfilling day at work today. It's so rewarding to see my patients feeling better.",
+      "input": "I had a really fulfilling day at work today. It's so rewarding to see my patients feeling better.",
+      "ground_truth": "That's wonderful to hear! I remember you telling me about your job as a nurse a while back. You're really good at taking care of others."
+    },
+    {
+      "turn_id": 18,
+      "session": "third",
+      "context": "Neighbors A: I had a really fulfilling day at work today. It's so rewarding to see my patients feeling better.\nNeighbors B: That's wonderful to hear! I remember you telling me about your job as a nurse a while back. You're really good at taking care of others.\nNeighbors A: Thank you, I really try my best. It's just so hard sometimes, especially when I see my patients struggling.",
+      "input": "Thank you, I really try my best. It's just so hard sometimes, especially when I see my patients struggling.",
+      "ground_truth": "I can imagine. Speaking of struggles, how are things going with your florist shop? I remember you telling me about the vandalism a few years ago."
+    },
+    {
+      "turn_id": 19,
+      "session": "third",
+      "context": "Neighbors A: Thank you, I really try my best. It's just so hard sometimes, especially when I see my patients struggling.\nNeighbors B: I can imagine. Speaking of struggles, how are things going with your florist shop? I remember you telling me about the vandalism a few years ago.\nNeighbors A: It was definitely a tough time. The repairs cost a lot more than the insurance payout, so I had to take out some loans to cover the expenses. But thankfully, things are better now.",
+      "input": "It was definitely a tough time. The repairs cost a lot more than the insurance payout, so I had to take out some loans to cover the expenses. But thankfully, things are better now.",
+      "ground_truth": "That's good to hear. You're really resilient and I admire that about you. How do you juggle both your job as a nurse and running a business?"
+    },
+    {
+      "turn_id": 20,
+      "session": "third",
+      "context": "Neighbors A: It was definitely a tough time. The repairs cost a lot more than the insurance payout, so I had to take out some loans to cover the expenses. But thankfully, things are better now.\nNeighbors B: That's good to hear. You're really resilient and I admire that about you. How do you juggle both your job as a nurse and running a business?\nNeighbors A: Honestly, it's not easy. But I love both of my jobs so much that I make it work. It's all about time management and prioritizing. Plus, I have such a supportive family and community that help me out when I need it.",
+      "input": "Honestly, it's not easy. But I love both of my jobs so much that I make it work. It's all about time management and prioritizing. Plus, I have such a supportive family and community that help me out when I need it.",
+      "ground_truth": "You're amazing, Neighbors A. I'm so glad to call you my neighbor."
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "persona_id": "episode-14330_A",
+  "speaker_role": "Parent",
+  "relationship": "Parent and Child",
+  "total_turns": 23,
+  "turns": [
+    {
+      "turn_id": 1,
+      "session": "first",
+      "context": "Parent: Hi sweetie, how was your day?\nChild: It was good, thanks for asking. How was yours?",
+      "input": "It was good, thanks for asking. How was yours?",
+      "ground_truth": "It was nice, actually. I went to the park and saw a little grey squirrel running around."
+    },
+    {
+      "turn_id": 2,
+      "session": "first",
+      "context": "Child: It was good, thanks for asking. How was yours?\nParent: It was nice, actually. I went to the park and saw a little grey squirrel running around.\nChild: That's so cool! Did you take a picture of the squirrel?",
+      "input": "That's so cool! Did you take a picture of the squirrel?",
+      "ground_truth": "No, unfortunately I didn't have my phone with me. But it was nice to watch it play."
+    },
+    {
+      "turn_id": 3,
+      "session": "first",
+      "context": "Child: That's so cool! Did you take a picture of the squirrel?\nParent: No, unfortunately I didn't have my phone with me. But it was nice to watch it play.\nChild: I bet it was. Did anything else interesting happen at the park?",
+      "input": "I bet it was. Did anything else interesting happen at the park?",
+      "ground_truth": "Yes, I actually made a new friend there. Her name is Emily, and we had a nice chat while watching the squirrel."
+    },
+    {
+      "turn_id": 4,
+      "session": "first",
+      "context": "Child: I bet it was. Did anything else interesting happen at the park?\nParent: Yes, I actually made a new friend there. Her name is Emily, and we had a nice chat while watching the squirrel.\nChild: That's great, Mom! Did you exchange phone numbers?",
+      "input": "That's great, Mom! Did you exchange phone numbers?",
+      "ground_truth": "Yes, we did. I'm thinking about inviting her over for coffee sometime this week."
+    },
+    {
+      "turn_id": 5,
+      "session": "first",
+      "context": "Child: That's great, Mom! Did you exchange phone numbers?\nParent: Yes, we did. I'm thinking about inviting her over for coffee sometime this week.\nChild: I'm happy for you, Mom.",
+      "input": "I'm happy for you, Mom.",
+      "ground_truth": "Thanks, cutie. It's always nice to make new friends, no matter how old we are."
+    },
+    {
+      "turn_id": 6,
+      "session": "first",
+      "context": "Child: I'm happy for you, Mom.\nParent: Thanks, cutie. It's always nice to make new friends, no matter how old we are.\nChild: That's true. Remember when we went to the park last weekend? We saw a family of ducks swimming in the pond.",
+      "input": "That's true. Remember when we went to the park last weekend? We saw a family of ducks swimming in the pond.",
+      "ground_truth": "I do remember! That was such a lovely sight. I always enjoy spending time with you at the park, honey."
+    },
+    {
+      "turn_id": 7,
+      "session": "first",
+      "context": "Child: That's true. Remember when we went to the park last weekend? We saw a family of ducks swimming in the pond.\nParent: I do remember! That was such a lovely sight. I always enjoy spending time with you at the park, honey.\nChild: Me too, Mom. We should plan another outing soon.",
+      "input": "Me too, Mom. We should plan another outing soon.",
+      "ground_truth": "Absolutely. Looking forward to it already. Good night, love."
+    },
+    {
+      "turn_id": 8,
+      "session": "second",
+      "context": "Child: Me too, Mom. We should plan another outing soon.\nParent: Absolutely. Looking forward to it already. Good night, love.\nChild: Good night, Mom. Sweet dreams.",
+      "input": "Good night, Mom. Sweet dreams.",
+      "ground_truth": "Child, I need to talk to you about something. I found out that you've been lying to me and it really hurt my feelings."
+    },
+    {
+      "turn_id": 9,
+      "session": "second",
+      "context": "Child: Good night, Mom. Sweet dreams.\nParent: Child, I need to talk to you about something. I found out that you've been lying to me and it really hurt my feelings.\nChild: I'm sorry, Mom. I didn't mean to hurt you.",
+      "input": "I'm sorry, Mom. I didn't mean to hurt you.",
+      "ground_truth": "Can you tell me why you felt the need to lie?"
+    },
+    {
+      "turn_id": 10,
+      "session": "second",
+      "context": "Child: I'm sorry, Mom. I didn't mean to hurt you.\nParent: Can you tell me why you felt the need to lie?\nChild: I was scared that you would be mad at me if I told the truth.",
+      "input": "I was scared that you would be mad at me if I told the truth.",
+      "ground_truth": "It's important that you understand that lying is not the way to solve problems. It only makes things worse in the long run. You need to be honest with me from now on."
+    },
+    {
+      "turn_id": 11,
+      "session": "second",
+      "context": "Child: I was scared that you would be mad at me if I told the truth.\nParent: It's important that you understand that lying is not the way to solve problems. It only makes things worse in the long run. You need to be honest with me from now on.\nChild: I understand, Mom. I won't lie again.",
+      "input": "I understand, Mom. I won't lie again.",
+      "ground_truth": "Trust is an important part of our relationship. When you lie to me, it makes me feel like I can't trust you anymore. Do you remember when we talked about making new friends at the park?"
+    },
+    {
+      "turn_id": 12,
+      "session": "second",
+      "context": "Child: I understand, Mom. I won't lie again.\nParent: Trust is an important part of our relationship. When you lie to me, it makes me feel like I can't trust you anymore. Do you remember when we talked about making new friends at the park?\nChild: Yes, I remember.",
+      "input": "Yes, I remember.",
+      "ground_truth": "It's just like that. When you make a new friend, you have to build trust by being honest with each other. It's the same with us."
+    },
+    {
+      "turn_id": 13,
+      "session": "second",
+      "context": "Child: Yes, I remember.\nParent: It's just like that. When you make a new friend, you have to build trust by being honest with each other. It's the same with us.\nChild: I see what you mean, Mom. I promise I'll be honest from now on.",
+      "input": "I see what you mean, Mom. I promise I'll be honest from now on.",
+      "ground_truth": "I believe you, Child. Now let's move past this and continue to build our relationship on trust and honesty."
+    },
+    {
+      "turn_id": 14,
+      "session": "third",
+      "context": "Parent: It's just like that. When you make a new friend, you have to build trust by being honest with each other. It's the same with us.\nChild: I see what you mean, Mom. I promise I'll be honest from now on.\nParent: I believe you, Child. Now let's move past this and continue to build our relationship on trust and honesty.",
+      "input": "I believe you, Child. Now let's move past this and continue to build our relationship on trust and honesty.",
+      "ground_truth": "Hi, kiddo! How was your day today?"
+    },
+    {
+      "turn_id": 15,
+      "session": "third",
+      "context": "Parent: I believe you, Child. Now let's move past this and continue to build our relationship on trust and honesty.\nParent: Hi, kiddo! How was your day today?\nChild: It was good! I went to the museum with my class and saw a dinosaur skeleton.",
+      "input": "It was good! I went to the museum with my class and saw a dinosaur skeleton.",
+      "ground_truth": "Wow, that sounds like a lot of fun! Speaking of fun, I had a party at my house last night with my friends."
+    },
+    {
+      "turn_id": 16,
+      "session": "third",
+      "context": "Child: It was good! I went to the museum with my class and saw a dinosaur skeleton.\nParent: Wow, that sounds like a lot of fun! Speaking of fun, I had a party at my house last night with my friends.\nChild: Really? What kind of party?",
+      "input": "Really? What kind of party?",
+      "ground_truth": "It was just a casual get-together. We played some games and had some snacks. It was really nice."
+    },
+    {
+      "turn_id": 17,
+      "session": "third",
+      "context": "Child: Really? What kind of party?\nParent: It was just a casual get-together. We played some games and had some snacks. It was really nice.\nChild: That sounds like a lot of fun!",
+      "input": "That sounds like a lot of fun!",
+      "ground_truth": "It was! I love hosting parties and making sure that everyone has a good time. Do you remember the conversation we had a few years ago about lying?"
+    },
+    {
+      "turn_id": 18,
+      "session": "third",
+      "context": "Child: That sounds like a lot of fun!\nParent: It was! I love hosting parties and making sure that everyone has a good time. Do you remember the conversation we had a few years ago about lying?\nChild: Yeah, I remember. I'm sorry again for lying to you.",
+      "input": "Yeah, I remember. I'm sorry again for lying to you.",
+      "ground_truth": "It's okay, kiddo. I forgave you a long time ago. But it was hard to trust you again for a while."
+    },
+    {
+      "turn_id": 19,
+      "session": "third",
+      "context": "Child: Yeah, I remember. I'm sorry again for lying to you.\nParent: It's okay, kiddo. I forgave you a long time ago. But it was hard to trust you again for a while.\nChild: I understand. I promise I won't lie to you again.",
+      "input": "I understand. I promise I won't lie to you again.",
+      "ground_truth": "I trust you, kiddo. And I'm really proud of the honest and responsible person you've grown into."
+    },
+    {
+      "turn_id": 20,
+      "session": "fourth",
+      "context": "Parent: It's okay, kiddo. I forgave you a long time ago. But it was hard to trust you again for a while.\nChild: I understand. I promise I won't lie to you again.\nParent: I trust you, kiddo. And I'm really proud of the honest and responsible person you've grown into.",
+      "input": "I trust you, kiddo. And I'm really proud of the honest and responsible person you've grown into.",
+      "ground_truth": "Hi there, how are you doing today? "
+    },
+    {
+      "turn_id": 21,
+      "session": "fourth",
+      "context": "Parent: I trust you, kiddo. And I'm really proud of the honest and responsible person you've grown into.\nParent: Hi there, how are you doing today? \nChild: I'm doing good, thanks for asking. How about you? ",
+      "input": "I'm doing good, thanks for asking. How about you? ",
+      "ground_truth": "Well honestly, I'm feeling pretty frustrated. My little sister won't leave me alone today and it's making me really annoyed. "
+    },
+    {
+      "turn_id": 22,
+      "session": "fourth",
+      "context": "Child: I'm doing good, thanks for asking. How about you? \nParent: Well honestly, I'm feeling pretty frustrated. My little sister won't leave me alone today and it's making me really annoyed. \nChild: Oh no, what's she doing? ",
+      "input": "Oh no, what's she doing? ",
+      "ground_truth": "She's just following me around everywhere I go and won't give me any space. I even tried telling her nicely, but she keeps coming back. So finally, I just snapped and yelled at her to go away. "
+    },
+    {
+      "turn_id": 23,
+      "session": "fourth",
+      "context": "Child: Oh no, what's she doing? \nParent: She's just following me around everywhere I go and won't give me any space. I even tried telling her nicely, but she keeps coming back. So finally, I just snapped and yelled at her to go away. \nChild: I can understand why you'd be frustrated, but yelling at her probably wasn't the best way to handle it. ",
+      "input": "I can understand why you'd be frustrated, but yelling at her probably wasn't the best way to handle it. ",
+      "ground_truth": "I know, and I feel bad about it now. It's just been a long day and I needed some space to myself. "
+    }
+  ]
+}

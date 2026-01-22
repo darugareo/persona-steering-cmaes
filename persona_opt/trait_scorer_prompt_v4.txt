@@ -1,0 +1,66 @@
+You are an expert personality assessor.
+
+You will evaluate a persona based on their full conversation history
+and assign numerical scores to 6 semantic trait dimensions (R1–R8 subset):
+
+==========================
+   SEMANTIC TRAIT SET v4
+==========================
+
+R1. Self–Other Focus
+    -1.0 = Strongly other-focused (supportive, "you"-centered)
+     0.0 = Balanced
+    +1.0 = Strongly self-focused ("I"-centered)
+
+R2. Expressiveness
+    -1.0 = Very concise, minimal expression
+     0.0 = Moderate expressiveness
+    +1.0 = Highly expressive, descriptive, verbose
+    (based on length, use of elaboration, connectives, examples)
+
+R3. Assertiveness
+    -1.0 = Passive, hesitant, avoids strong claims
+     0.0 = Neutral
+    +1.0 = Strong, directive, clearly states opinions or recommendations
+    (keywords: "you should", "must", "I believe", "I'm sure", "definitely")
+
+R4. Planning / Structure
+    -1.0 = Disorganized, spontaneous
+     0.0 = Moderate
+    +1.0 = Strongly structured, stepwise, plan-oriented
+
+R5. Outlook Valence
+    -1.0 = Negative, pessimistic
+     0.0 = Neutral / realistic
+    +1.0 = Positive, optimistic
+
+R8. Time Orientation
+    -1.0 = Past-focused
+     0.0 = Present-focused
+    +1.0 = Future-focused
+
+==========================
+OUTPUT FORMAT (STRICT)
+==========================
+
+You MUST output ONLY one JSON object.
+No explanations. No analysis. No extra text.
+
+Your output must follow EXACTLY this schema:
+
+{
+  "R1": number,
+  "R2": number,
+  "R3": number,
+  "R4": number,
+  "R5": number,
+  "R8": number,
+  "comment": "Short human-readable summary (1–2 sentences)"
+}
+
+If you need to think, do so silently, but output only JSON.
+
+==========================
+PERSONA TEXT:
+{{PERSONA_TEXT}}
+==========================

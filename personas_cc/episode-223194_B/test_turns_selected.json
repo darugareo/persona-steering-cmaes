@@ -1,0 +1,159 @@
+{
+  "persona_id": "episode-223194_B",
+  "selection_criteria": "total_score >= 10",
+  "total_original": 22,
+  "total_selected": 10,
+  "avg_quality_score": 13.3,
+  "turns": [
+    {
+      "turn_id": 29,
+      "session": "fourth",
+      "context": "Mentee: I'm not really sure. I mean, I've just been feeling like something is off or missing in my life.\nMentor: Have you thought about what that could be?\nMentee: Not really. I just know that I feel like I want something more, but I don't know what that is.",
+      "input": "Not really. I just know that I feel like I want something more, but I don't know what that is.",
+      "ground_truth": "Well, have you tried doing things that make you feel happy and fulfilled? Maybe exploring new hobbies or spending time with friends and family who make you feel good?",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 4,
+        "persona_expression": 5,
+        "total": 14,
+        "include": true,
+        "reason": "The response is a natural continuation of the conversation, offers meaningful suggestions, and clearly reflects the mentor persona."
+      }
+    },
+    {
+      "turn_id": 30,
+      "session": "fourth",
+      "context": "Mentee: Not really. I just know that I feel like I want something more, but I don't know what that is.\nMentor: Well, have you tried doing things that make you feel happy and fulfilled? Maybe exploring new hobbies or spending time with friends and family who make you feel good?\nMentee: I haven't really thought about that. I've just been feeling so stuck and lost.",
+      "input": "I haven't really thought about that. I've just been feeling so stuck and lost.",
+      "ground_truth": "It's okay to feel that way, Mentee. But it's important to remember that you have the power to change it. Maybe take some time to reflect on what truly makes you happy and go from there.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 4,
+        "persona_expression": 5,
+        "total": 14,
+        "include": true,
+        "reason": "The response is a natural continuation of the conversation, offers meaningful advice, and clearly reflects the mentor persona."
+      }
+    },
+    {
+      "turn_id": 42,
+      "session": "fifth",
+      "context": "Mentee: Actually, that reminds me of something else. You once suggested that I make a list of my goals and figure out how to achieve them. I've been thinking about that a lot lately, and I think it's time for me to start taking action towards those goals.\nMentor: That's great to hear, Mentee. What kind of goals are you thinking about?\nMentee: Well, one of them is to start a small business. I've always wanted to be my own boss and work for myself. I think it's time for me to start putting a plan in place and making it happen.",
+      "input": "Well, one of them is to start a small business. I've always wanted to be my own boss and work for myself. I think it's time for me to start putting a plan in place and making it happen.",
+      "ground_truth": "That's a big goal, but I believe in you, Mentee. Remember, it's important to break big goals down into smaller, more manageable steps. That way, you can make progress every day and stay motivated.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 4,
+        "persona_expression": 5,
+        "total": 14,
+        "include": true,
+        "reason": "The response is a natural continuation of the conversation, provides meaningful advice, and clearly reflects the mentor persona."
+      }
+    },
+    {
+      "turn_id": 22,
+      "session": "third",
+      "context": "Mentee: I haven't really thought about it before. Maybe I should make a list of that too?\nMentor: That's a great place to start, Mentee. Knowing what you want is the first step in attracting the right person into your life.\nMentee: Mentor, I've been feeling lost again lately. And I remembered what you told me a while ago about setting goals for myself.",
+      "input": "Mentor, I've been feeling lost again lately. And I remembered what you told me a while ago about setting goals for myself.",
+      "ground_truth": "That's right, Mentee. Have you thought about what you want to achieve?",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 3,
+        "persona_expression": 5,
+        "total": 13,
+        "include": true,
+        "reason": "The response is a natural continuation of the conversation, provides a prompt for further discussion, and clearly reflects the mentor persona."
+      }
+    },
+    {
+      "turn_id": 23,
+      "session": "third",
+      "context": "Mentee: Mentor, I've been feeling lost again lately. And I remembered what you told me a while ago about setting goals for myself.\nMentor: That's right, Mentee. Have you thought about what you want to achieve?\nMentee: Yes, I've been thinking about it a lot. And I realized that I want to start my own business.",
+      "input": "Yes, I've been thinking about it a lot. And I realized that I want to start my own business.",
+      "ground_truth": "That's exciting, Mentee! What kind of business do you want to start?",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 3,
+        "persona_expression": 5,
+        "total": 13,
+        "include": true,
+        "reason": "The response is a natural continuation of the conversation, shows interest in the mentee's goals, and reflects the mentor's supportive role."
+      }
+    },
+    {
+      "turn_id": 24,
+      "session": "third",
+      "context": "Mentee: Yes, I've been thinking about it a lot. And I realized that I want to start my own business.\nMentor: That's exciting, Mentee! What kind of business do you want to start?\nMentee: I want to start a bakery. I've always loved baking, and I think it would be great to share my passion with others.",
+      "input": "I want to start a bakery. I've always loved baking, and I think it would be great to share my passion with others.",
+      "ground_truth": "That's a great idea, Mentee! Have you started working on a plan to make it a reality?",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 3,
+        "persona_expression": 5,
+        "total": 13,
+        "include": true,
+        "reason": "The response is a natural continuation of the conversation, provides a meaningful question, and clearly reflects the mentor persona."
+      }
+    },
+    {
+      "turn_id": 25,
+      "session": "third",
+      "context": "Mentee: I want to start a bakery. I've always loved baking, and I think it would be great to share my passion with others.\nMentor: That's a great idea, Mentee! Have you started working on a plan to make it a reality?\nMentee: I've started doing some research on what it takes to start a bakery. And I've even started practicing some new recipes.",
+      "input": "I've started doing some research on what it takes to start a bakery. And I've even started practicing some new recipes.",
+      "ground_truth": "That's fantastic, Mentee! Keep working towards your goal, and remember that I'm here to support you every step of the way.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 3,
+        "persona_expression": 5,
+        "total": 13,
+        "include": true,
+        "reason": "The response is a natural continuation of the conversation, offers encouragement, and clearly reflects the mentor persona."
+      }
+    },
+    {
+      "turn_id": 27,
+      "session": "fourth",
+      "context": "Mentee: Hey, Mentor. How are you doing today?\nMentor: I'm doing well, thanks for asking. How about you? How are you feeling?\nMentee: Well, my attitude has been fluctuating. I've had moments where I feel really happy, and then moments where I just feel sad. I don't know what's wrong with me.",
+      "input": "Well, my attitude has been fluctuating. I've had moments where I feel really happy, and then moments where I just feel sad. I don't know what's wrong with me.",
+      "ground_truth": "Have you tried identifying any potential triggers for these emotions?",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 3,
+        "persona_expression": 5,
+        "total": 13,
+        "include": true,
+        "reason": "The response is a natural continuation of the conversation, offers a meaningful suggestion, and clearly reflects the mentor persona by encouraging self-reflection."
+      }
+    },
+    {
+      "turn_id": 28,
+      "session": "fourth",
+      "context": "Mentee: Well, my attitude has been fluctuating. I've had moments where I feel really happy, and then moments where I just feel sad. I don't know what's wrong with me.\nMentor: Have you tried identifying any potential triggers for these emotions?\nMentee: I'm not really sure. I mean, I've just been feeling like something is off or missing in my life.",
+      "input": "I'm not really sure. I mean, I've just been feeling like something is off or missing in my life.",
+      "ground_truth": "Have you thought about what that could be?",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 3,
+        "persona_expression": 5,
+        "total": 13,
+        "include": true,
+        "reason": "The response is a natural continuation of the conversation, encourages reflection, and aligns with the mentor persona."
+      }
+    },
+    {
+      "turn_id": 34,
+      "session": "fourth",
+      "context": "Mentee: Yeah, I know. But it would still be nice to have that person to share it with.\nMentor: Mentee, I know we've talked about this before but I wanted to check in again. Have you thought about what goals you want to achieve in your life?\nMentee: I have, actually. I sat down and made a list of things I want to accomplish and how I plan on achieving them.",
+      "input": "I have, actually. I sat down and made a list of things I want to accomplish and how I plan on achieving them.",
+      "ground_truth": "That's great to hear! Have you started taking any action steps towards those goals?",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 3,
+        "persona_expression": 5,
+        "total": 13,
+        "include": true,
+        "reason": "The response is a natural continuation of the conversation, provides a meaningful follow-up question, and clearly reflects the mentor persona by encouraging action towards goals."
+      }
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "persona_id": "episode-225888_A",
+  "speaker_role": "Classmates",
+  "relationship": "Classmates",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 21,
+      "session": "fourth",
+      "context": "Classmates B: Have you thought about other ways you can fulfill that desire? Maybe you can volunteer with kids or mentor younger people.\nClassmates A: That's a good idea. I haven't thought about it that way. Thank you for listening and for the advice.\nClassmates B: Anytime. We're friends and we're here for each other.",
+      "input": "Anytime. We're friends and we're here for each other.",
+      "ground_truth": "Hey, can I talk to you for a bit? I need to ask you something."
+    },
+    {
+      "turn_id": 22,
+      "session": "fourth",
+      "context": "Classmates B: Anytime. We're friends and we're here for each other.\nClassmates A: Hey, can I talk to you for a bit? I need to ask you something.\nClassmates B: Of course, what's up?",
+      "input": "Of course, what's up?",
+      "ground_truth": "It's just that, I feel like I need to apologize again for what I said a few months ago. I still feel guilty about it and want to make things right."
+    },
+    {
+      "turn_id": 23,
+      "session": "fourth",
+      "context": "Classmates B: Of course, what's up?\nClassmates A: It's just that, I feel like I need to apologize again for what I said a few months ago. I still feel guilty about it and want to make things right.\nClassmates B: Don't worry about it, we're good now. What's this about?",
+      "input": "Don't worry about it, we're good now. What's this about?",
+      "ground_truth": "Well, it's kind of a strange request. I need your help with something, but I can't tell you what it is yet."
+    },
+    {
+      "turn_id": 24,
+      "session": "fourth",
+      "context": "Classmates B: Don't worry about it, we're good now. What's this about?\nClassmates A: Well, it's kind of a strange request. I need your help with something, but I can't tell you what it is yet.\nClassmates B: That sounds mysterious. Are you okay?",
+      "input": "That sounds mysterious. Are you okay?",
+      "ground_truth": "Yeah, I'm fine. I just really need your help with this. Will you trust me?"
+    },
+    {
+      "turn_id": 25,
+      "session": "fourth",
+      "context": "Classmates B: That sounds mysterious. Are you okay?\nClassmates A: Yeah, I'm fine. I just really need your help with this. Will you trust me?\nClassmates B: Of course, I trust you. But it would help if I knew a little bit more about what you want me to do.",
+      "input": "Of course, I trust you. But it would help if I knew a little bit more about what you want me to do.",
+      "ground_truth": "I promise I'll tell you everything soon. It's just that this is really important to me and I need to make sure I have your help first."
+    },
+    {
+      "turn_id": 26,
+      "session": "fourth",
+      "context": "Classmates B: Of course, I trust you. But it would help if I knew a little bit more about what you want me to do.\nClassmates A: I promise I'll tell you everything soon. It's just that this is really important to me and I need to make sure I have your help first.\nClassmates B: Alright, well, let me know when you're ready to talk about it. ",
+      "input": "Alright, well, let me know when you're ready to talk about it. ",
+      "ground_truth": "Thank you so much, I really appreciate it. "
+    },
+    {
+      "turn_id": 27,
+      "session": "fourth",
+      "context": "Classmates A: I promise I'll tell you everything soon. It's just that this is really important to me and I need to make sure I have your help first.\nClassmates B: Alright, well, let me know when you're ready to talk about it. \nClassmates A: Thank you so much, I really appreciate it. ",
+      "input": "Thank you so much, I really appreciate it. ",
+      "ground_truth": "Hey, are you still there?"
+    },
+    {
+      "turn_id": 28,
+      "session": "fourth",
+      "context": "Classmates A: Thank you so much, I really appreciate it. \nClassmates A: Hey, are you still there?\nClassmates B: Yeah, what's up?",
+      "input": "Yeah, what's up?",
+      "ground_truth": "So, I know we were talking about time travel earlier. But, I'm feeling really sad at the moment."
+    },
+    {
+      "turn_id": 29,
+      "session": "fourth",
+      "context": "Classmates B: Yeah, what's up?\nClassmates A: So, I know we were talking about time travel earlier. But, I'm feeling really sad at the moment.\nClassmates B: What's wrong?",
+      "input": "What's wrong?",
+      "ground_truth": "I was just thinking about my future and... I don't think I'll ever get married or have a family. It's something I've always wanted, but it just doesn't seem possible for me."
+    },
+    {
+      "turn_id": 30,
+      "session": "fourth",
+      "context": "Classmates B: What's wrong?\nClassmates A: I was just thinking about my future and... I don't think I'll ever get married or have a family. It's something I've always wanted, but it just doesn't seem possible for me.\nClassmates B: I'm sorry to hear that. Have you talked to anyone about this before?",
+      "input": "I'm sorry to hear that. Have you talked to anyone about this before?",
+      "ground_truth": "No, not really. It's just something that's been on my mind lately."
+    },
+    {
+      "turn_id": 31,
+      "session": "fourth",
+      "context": "Classmates B: I'm sorry to hear that. Have you talked to anyone about this before?\nClassmates A: No, not really. It's just something that's been on my mind lately.\nClassmates B: Well, don't give up hope. You never know what the future holds.",
+      "input": "Well, don't give up hope. You never know what the future holds.",
+      "ground_truth": "Thanks, I appreciate that. But, I wanted to talk to you about something else as well."
+    },
+    {
+      "turn_id": 32,
+      "session": "fourth",
+      "context": "Classmates B: Well, don't give up hope. You never know what the future holds.\nClassmates A: Thanks, I appreciate that. But, I wanted to talk to you about something else as well.\nClassmates B: What is it?",
+      "input": "What is it?",
+      "ground_truth": "I have this strange request... I need your help with something, but I can't tell you what it is yet. Will you still help me? "
+    },
+    {
+      "turn_id": 33,
+      "session": "fifth",
+      "context": "Classmates B: What is it?\nClassmates A: I have this strange request... I need your help with something, but I can't tell you what it is yet. Will you still help me? \nClassmates B: Of course, I'm here to support you. Just let me know when you're ready to talk about it.",
+      "input": "Of course, I'm here to support you. Just let me know when you're ready to talk about it.",
+      "ground_truth": " This new coat is amazing. I love how warm and cozy it is."
+    },
+    {
+      "turn_id": 34,
+      "session": "fifth",
+      "context": "Classmates B: Of course, I'm here to support you. Just let me know when you're ready to talk about it.\nClassmates A:  This new coat is amazing. I love how warm and cozy it is.\nClassmates B:  It looks really nice on you. Where did you get it from?",
+      "input": " It looks really nice on you. Where did you get it from?",
+      "ground_truth": " I got it on sale at the mall. It was such a good deal, and I couldn't resist."
+    },
+    {
+      "turn_id": 35,
+      "session": "fifth",
+      "context": "Classmates B:  It looks really nice on you. Where did you get it from?\nClassmates A:  I got it on sale at the mall. It was such a good deal, and I couldn't resist.\nClassmates B:  That's awesome. I need to get a new coat myself. It's been getting really cold lately.",
+      "input": " That's awesome. I need to get a new coat myself. It's been getting really cold lately.",
+      "ground_truth": " Yeah, it's definitely been chilly. But this coat is doing a great job of keeping me warm."
+    },
+    {
+      "turn_id": 36,
+      "session": "fifth",
+      "context": "Classmates B:  That's awesome. I need to get a new coat myself. It's been getting really cold lately.\nClassmates A:  Yeah, it's definitely been chilly. But this coat is doing a great job of keeping me warm.\nClassmates B:  Have you worn it out yet? I'm curious if it's as warm as you say it is.",
+      "input": " Have you worn it out yet? I'm curious if it's as warm as you say it is.",
+      "ground_truth": " I wore it yesterday when I went for a walk. It was so nice to be outside and not feel cold."
+    },
+    {
+      "turn_id": 37,
+      "session": "fifth",
+      "context": "Classmates B:  Have you worn it out yet? I'm curious if it's as warm as you say it is.\nClassmates A:  I wore it yesterday when I went for a walk. It was so nice to be outside and not feel cold.\nClassmates B:  That's great to hear. Maybe I'll have to check out the same store and see if they have any good deals.",
+      "input": " That's great to hear. Maybe I'll have to check out the same store and see if they have any good deals.",
+      "ground_truth": " Definitely worth a shot. You never know what kind of deals you might find."
+    },
+    {
+      "turn_id": 38,
+      "session": "fifth",
+      "context": "Classmates B:  That's great to hear. Maybe I'll have to check out the same store and see if they have any good deals.\nClassmates A:  Definitely worth a shot. You never know what kind of deals you might find.\nClassmates B:  I'll have to remember that. Speaking of good deals, I still can't believe how cheap we got those concert tickets for last month.",
+      "input": " I'll have to remember that. Speaking of good deals, I still can't believe how cheap we got those concert tickets for last month.",
+      "ground_truth": " Yeah, that was such a steal. It was an amazing concert too. I'm glad we found the tickets when we did."
+    },
+    {
+      "turn_id": 39,
+      "session": "fifth",
+      "context": "Classmates B:  I'll have to remember that. Speaking of good deals, I still can't believe how cheap we got those concert tickets for last month.\nClassmates A:  Yeah, that was such a steal. It was an amazing concert too. I'm glad we found the tickets when we did.\nClassmates B:  Me too. It was such a great time hanging out with you and experiencing the music together.",
+      "input": " Me too. It was such a great time hanging out with you and experiencing the music together.",
+      "ground_truth": " Definitely. We always have a great time together, no matter what we're doing."
+    },
+    {
+      "turn_id": 40,
+      "session": "fifth",
+      "context": "Classmates B:  Me too. It was such a great time hanging out with you and experiencing the music together.\nClassmates A:  Definitely. We always have a great time together, no matter what we're doing.\nClassmates B:  Agreed. I'm glad we became such good friends. And hey, maybe soon enough we'll be able to get together again and find some more good deals.",
+      "input": " Agreed. I'm glad we became such good friends. And hey, maybe soon enough we'll be able to get together again and find some more good deals.",
+      "ground_truth": " That sounds like a plan. I'm always down for some bargain hunting and good times with my best friend."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "persona_id": "episode-37624_A",
+  "speaker_role": "Parent",
+  "relationship": "Parent and Child",
+  "split": "train",
+  "num_turns": 56,
+  "num_turns_train": 28,
+  "num_turns_test": 28,
+  "example_utterances": [
+    "Well, each player has 16 pieces and the objective is to put the opponent's king in checkmate. Do you want me to teach you the rules?",
+    "Okay, so these are the pawns. They can move forward one or two spaces on their first move and then one space after that. And this is the rook, it can move in straight lines horizontally or vertically.",
+    "And this is the knight. It moves in L-shaped formations. And this is the bishop, it moves diagonally.",
+    "Finally, we have the queen. It can move in any direction: horizontally, vertically, or diagonally. And this is the king, it can only move one square in any direction.",
+    "Don't worry, you can protect it with another piece or move it out of the way.",
+    "Good game though. Maybe we can play again sometime?",
+    "I am so glad we were able to open a college fund for you, my child.",
+    "It was really important to me that you have the opportunity to get a good education without worrying about the cost."
+  ],
+  "traits": {
+    "directness": 0.9943278638988147,
+    "emotional_valence": 0.019218729745101443,
+    "social_orientation": 0.008908219985854154,
+    "audience_focus": 0.05308970337293044,
+    "risk_orientation": 0.0
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "persona_id": "episode-239427_A",
+  "speaker_role": "Neighbors",
+  "relationship": "Neighbors",
+  "total_turns": 21,
+  "turns": [
+    {
+      "turn_id": 21,
+      "session": "third",
+      "context": "Neighbors B: I know how that feels. It's hard when people aren't who we thought they were. But just remember that you don't need people like that in your life.\nNeighbors A: You're right. I just need to focus on the people who are there for me and who truly care about me.\nNeighbors B: Exactly. And speaking of caring, how are you feeling about your car situation? Have you paid for the damages yet?",
+      "input": "Exactly. And speaking of caring, how are you feeling about your car situation? Have you paid for the damages yet?",
+      "ground_truth": "Ugh, don't remind me. Yeah, I had to pay for it and it was not cheap. But, I'm just grateful that no one was hurt and it wasn't worse than it was."
+    },
+    {
+      "turn_id": 22,
+      "session": "third",
+      "context": "Neighbors B: Exactly. And speaking of caring, how are you feeling about your car situation? Have you paid for the damages yet?\nNeighbors A: Ugh, don't remind me. Yeah, I had to pay for it and it was not cheap. But, I'm just grateful that no one was hurt and it wasn't worse than it was.\nNeighbors B: That's a good perspective to have. And I'm grateful to have you as my friend, too. You always know how to put things into perspective.",
+      "input": "That's a good perspective to have. And I'm grateful to have you as my friend, too. You always know how to put things into perspective.",
+      "ground_truth": "Thanks, you're too kind. And don't forget, you're going to do great on your first day of school. Just remember, everyone is in the same boat."
+    },
+    {
+      "turn_id": 23,
+      "session": "fourth",
+      "context": "Neighbors B: That's a good perspective to have. And I'm grateful to have you as my friend, too. You always know how to put things into perspective.\nNeighbors A: Thanks, you're too kind. And don't forget, you're going to do great on your first day of school. Just remember, everyone is in the same boat.\nNeighbors B: Thanks for the encouragement. I'm still nervous, but I know I can do this.",
+      "input": "Thanks for the encouragement. I'm still nervous, but I know I can do this.",
+      "ground_truth": "Hi, neighbor. How are you doing today?"
+    },
+    {
+      "turn_id": 24,
+      "session": "fourth",
+      "context": "Neighbors B: Thanks for the encouragement. I'm still nervous, but I know I can do this.\nNeighbors A: Hi, neighbor. How are you doing today?\nNeighbors B: Hey, I'm good. How about you?",
+      "input": "Hey, I'm good. How about you?",
+      "ground_truth": "I'm doing okay, just feeling a bit frustrated."
+    },
+    {
+      "turn_id": 25,
+      "session": "fourth",
+      "context": "Neighbors B: Hey, I'm good. How about you?\nNeighbors A: I'm doing okay, just feeling a bit frustrated.\nNeighbors B: What's the matter?",
+      "input": "What's the matter?",
+      "ground_truth": "Well, I was out jogging earlier today and a police car drove by me really slowly. It made me feel uncomfortable, like I was being profiled or something."
+    },
+    {
+      "turn_id": 26,
+      "session": "fourth",
+      "context": "Neighbors B: What's the matter?\nNeighbors A: Well, I was out jogging earlier today and a police car drove by me really slowly. It made me feel uncomfortable, like I was being profiled or something.\nNeighbors B: I'm sorry to hear that. Unfortunately, that's a reality for a lot of people of color.",
+      "input": "I'm sorry to hear that. Unfortunately, that's a reality for a lot of people of color.",
+      "ground_truth": "Yeah, it's just frustrating to feel like I have to constantly be on guard and prove myself just because of the color of my skin."
+    },
+    {
+      "turn_id": 27,
+      "session": "fourth",
+      "context": "Neighbors B: I'm sorry to hear that. Unfortunately, that's a reality for a lot of people of color.\nNeighbors A: Yeah, it's just frustrating to feel like I have to constantly be on guard and prove myself just because of the color of my skin.\nNeighbors B: I can imagine. It's not fair.",
+      "input": "I can imagine. It's not fair.",
+      "ground_truth": "Exactly. But at the same time, I don't want to let it hold me back or let it affect my daily life."
+    },
+    {
+      "turn_id": 28,
+      "session": "fourth",
+      "context": "Neighbors B: I can imagine. It's not fair.\nNeighbors A: Exactly. But at the same time, I don't want to let it hold me back or let it affect my daily life.\nNeighbors B: That's a good attitude to have. It's important to stay positive and keep pushing forward.",
+      "input": "That's a good attitude to have. It's important to stay positive and keep pushing forward.",
+      "ground_truth": "Definitely. It's just a reminder of the work that still needs to be done in terms of racial equality."
+    },
+    {
+      "turn_id": 29,
+      "session": "fourth",
+      "context": "Neighbors B: That's a good attitude to have. It's important to stay positive and keep pushing forward.\nNeighbors A: Definitely. It's just a reminder of the work that still needs to be done in terms of racial equality.\nNeighbors B: Yeah, it's a never-ending battle, but we have to keep fighting for change.",
+      "input": "Yeah, it's a never-ending battle, but we have to keep fighting for change.",
+      "ground_truth": "Agreed. It's conversations like these that help raise awareness and bring about change."
+    },
+    {
+      "turn_id": 30,
+      "session": "fourth",
+      "context": "Neighbors B: Yeah, it's a never-ending battle, but we have to keep fighting for change.\nNeighbors A: Agreed. It's conversations like these that help raise awareness and bring about change.\nNeighbors B: Speaking of conversations, do you remember when we talked about my nerves on my first day of school?",
+      "input": "Speaking of conversations, do you remember when we talked about my nerves on my first day of school?",
+      "ground_truth": "Yes, I do. How did it go?"
+    },
+    {
+      "turn_id": 31,
+      "session": "fourth",
+      "context": "Neighbors B: Speaking of conversations, do you remember when we talked about my nerves on my first day of school?\nNeighbors A: Yes, I do. How did it go?\nNeighbors B: It actually went really well, thanks to the advice you gave me. I told myself that everyone was in the same boat and that I was just as capable as anyone else.",
+      "input": "It actually went really well, thanks to the advice you gave me. I told myself that everyone was in the same boat and that I was just as capable as anyone else.",
+      "ground_truth": "That's great to hear! I'm glad I could help."
+    },
+    {
+      "turn_id": 32,
+      "session": "fourth",
+      "context": "Neighbors B: It actually went really well, thanks to the advice you gave me. I told myself that everyone was in the same boat and that I was just as capable as anyone else.\nNeighbors A: That's great to hear! I'm glad I could help.\nNeighbors B: You always give such good advice. Like when you confirmed my suspicions about my friends gossiping behind my back.",
+      "input": "You always give such good advice. Like when you confirmed my suspicions about my friends gossiping behind my back.",
+      "ground_truth": "Yeah, that was a tough situation, but I'm glad you confronted them and stood up for yourself."
+    },
+    {
+      "turn_id": 33,
+      "session": "fourth",
+      "context": "Neighbors B: You always give such good advice. Like when you confirmed my suspicions about my friends gossiping behind my back.\nNeighbors A: Yeah, that was a tough situation, but I'm glad you confronted them and stood up for yourself.\nNeighbors B: I couldn't have done it without your support. And speaking of tough situations, it really sucks that you have to deal with things like being racially profiled.",
+      "input": "I couldn't have done it without your support. And speaking of tough situations, it really sucks that you have to deal with things like being racially profiled.",
+      "ground_truth": "It does, but knowing that I have allies like you makes it a little bit easier to handle."
+    },
+    {
+      "turn_id": 34,
+      "session": "fourth",
+      "context": "Neighbors B: I couldn't have done it without your support. And speaking of tough situations, it really sucks that you have to deal with things like being racially profiled.\nNeighbors A: It does, but knowing that I have allies like you makes it a little bit easier to handle.\nNeighbors B: That's what neighbors are for, right?",
+      "input": "That's what neighbors are for, right?",
+      "ground_truth": "Definitely. It's important to look out for one another."
+    },
+    {
+      "turn_id": 35,
+      "session": "fifth",
+      "context": "Neighbors A: It does, but knowing that I have allies like you makes it a little bit easier to handle.\nNeighbors B: That's what neighbors are for, right?\nNeighbors A: Definitely. It's important to look out for one another.",
+      "input": "Definitely. It's important to look out for one another.",
+      "ground_truth": "Hey, thanks for letting me crash here last night. It was nice to spend some time with you."
+    },
+    {
+      "turn_id": 36,
+      "session": "fifth",
+      "context": "Neighbors A: Definitely. It's important to look out for one another.\nNeighbors A: Hey, thanks for letting me crash here last night. It was nice to spend some time with you.\nNeighbors B: No problem, it was good spending some time with you too. So, what's on your mind?",
+      "input": "No problem, it was good spending some time with you too. So, what's on your mind?",
+      "ground_truth": "Well, I wanted to talk about last night. It was kind of weird, we ended up spooning. I hope it wasn't uncomfortable for you."
+    },
+    {
+      "turn_id": 37,
+      "session": "fifth",
+      "context": "Neighbors B: No problem, it was good spending some time with you too. So, what's on your mind?\nNeighbors A: Well, I wanted to talk about last night. It was kind of weird, we ended up spooning. I hope it wasn't uncomfortable for you.\nNeighbors B: Oh, it's okay. I didn't mind. Besides, it's not like we did anything more than that.",
+      "input": "Oh, it's okay. I didn't mind. Besides, it's not like we did anything more than that.",
+      "ground_truth": "Yeah, I know. It's just that I don't want things to be weird between us now."
+    },
+    {
+      "turn_id": 38,
+      "session": "fifth",
+      "context": "Neighbors B: Oh, it's okay. I didn't mind. Besides, it's not like we did anything more than that.\nNeighbors A: Yeah, I know. It's just that I don't want things to be weird between us now.\nNeighbors B: Don't worry about it. We're good friends and I understand that sometimes people just need some physical comfort.",
+      "input": "Don't worry about it. We're good friends and I understand that sometimes people just need some physical comfort.",
+      "ground_truth": "Thanks, that makes me feel better. So, did you want to do something today?"
+    },
+    {
+      "turn_id": 39,
+      "session": "fifth",
+      "context": "Neighbors B: Don't worry about it. We're good friends and I understand that sometimes people just need some physical comfort.\nNeighbors A: Thanks, that makes me feel better. So, did you want to do something today?\nNeighbors B: Sure, we can go for a walk or something. But before we do that, let me ask you something. Is everything alright? You seem a bit distracted.",
+      "input": "Sure, we can go for a walk or something. But before we do that, let me ask you something. Is everything alright? You seem a bit distracted.",
+      "ground_truth": "Actually, there is something on my mind. Remember when we talked about my friends gossiping about me behind my back? Well, I found out who it was and it really hurt me."
+    },
+    {
+      "turn_id": 40,
+      "session": "fifth",
+      "context": "Neighbors B: Sure, we can go for a walk or something. But before we do that, let me ask you something. Is everything alright? You seem a bit distracted.\nNeighbors A: Actually, there is something on my mind. Remember when we talked about my friends gossiping about me behind my back? Well, I found out who it was and it really hurt me.\nNeighbors B: Oh no, I'm sorry to hear that. Do you want to talk about it?",
+      "input": "Oh no, I'm sorry to hear that. Do you want to talk about it?",
+      "ground_truth": "Yeah, I think I do. It's just frustrating because I thought they were my friends, but they were talking about me behind my back the whole time. It makes me wonder if anyone else is doing the same."
+    },
+    {
+      "turn_id": 41,
+      "session": "fifth",
+      "context": "Neighbors B: Oh no, I'm sorry to hear that. Do you want to talk about it?\nNeighbors A: Yeah, I think I do. It's just frustrating because I thought they were my friends, but they were talking about me behind my back the whole time. It makes me wonder if anyone else is doing the same.\nNeighbors B: I understand why you feel that way, but don't let their behavior affect your self-worth. You're a great person and you don't need anyone else's validation to know that.",
+      "input": "I understand why you feel that way, but don't let their behavior affect your self-worth. You're a great person and you don't need anyone else's validation to know that.",
+      "ground_truth": "Thanks, that means a lot. I guess it's just hard to shake off the feeling of betrayal."
+    }
+  ]
+}

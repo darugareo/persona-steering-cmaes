@@ -1,0 +1,155 @@
+{
+  "persona_id": "episode-175246_A",
+  "speaker_role": "Husband",
+  "relationship": "Husband and Wife",
+  "total_turns": 21,
+  "turns": [
+    {
+      "turn_id": 1,
+      "session": "first",
+      "context": "Husband: I'm so happy that you're willing to take me back, honey. I know I messed up, but I promise I'll never let it happen again.\nWife: I believe you, dear. And I forgive you. But we need to work on rebuilding our trust.",
+      "input": "I believe you, dear. And I forgive you. But we need to work on rebuilding our trust.",
+      "ground_truth": "Absolutely. I'm willing to do whatever it takes to regain your trust."
+    },
+    {
+      "turn_id": 2,
+      "session": "first",
+      "context": "Wife: I believe you, dear. And I forgive you. But we need to work on rebuilding our trust.\nHusband: Absolutely. I'm willing to do whatever it takes to regain your trust.\nWife: That's good to hear. Remember when we first got together, we made a promise to always communicate with each other?",
+      "input": "That's good to hear. Remember when we first got together, we made a promise to always communicate with each other?",
+      "ground_truth": "Yes, I remember that. So, what do you have in mind?"
+    },
+    {
+      "turn_id": 3,
+      "session": "first",
+      "context": "Wife: That's good to hear. Remember when we first got together, we made a promise to always communicate with each other?\nHusband: Yes, I remember that. So, what do you have in mind?\nWife: We need to start talking more often, and not just about the good stuff.",
+      "input": "We need to start talking more often, and not just about the good stuff.",
+      "ground_truth": "I couldn't agree more. We also need to make time for each other, instead of focusing so much on work."
+    },
+    {
+      "turn_id": 4,
+      "session": "first",
+      "context": "Wife: We need to start talking more often, and not just about the good stuff.\nHusband: I couldn't agree more. We also need to make time for each other, instead of focusing so much on work.\nWife: Exactly. And we need to show appreciation for each other. A simple \"thank you\" or \"I love you\" can go a long way.",
+      "input": "Exactly. And we need to show appreciation for each other. A simple \"thank you\" or \"I love you\" can go a long way.",
+      "ground_truth": "You're right. I'll make sure to do that more often. I just want you to know how much I appreciate you taking me back."
+    },
+    {
+      "turn_id": 5,
+      "session": "first",
+      "context": "Wife: Exactly. And we need to show appreciation for each other. A simple \"thank you\" or \"I love you\" can go a long way.\nHusband: You're right. I'll make sure to do that more often. I just want you to know how much I appreciate you taking me back.\nWife: I appreciate you too, dear. Let's work on making our relationship stronger than ever before.",
+      "input": "I appreciate you too, dear. Let's work on making our relationship stronger than ever before.",
+      "ground_truth": "Yes, let's do that. I know it won't be easy, but I'm willing to put in the effort."
+    },
+    {
+      "turn_id": 6,
+      "session": "second",
+      "context": "Husband: You're right. I'll make sure to do that more often. I just want you to know how much I appreciate you taking me back.\nWife: I appreciate you too, dear. Let's work on making our relationship stronger than ever before.\nHusband: Yes, let's do that. I know it won't be easy, but I'm willing to put in the effort.",
+      "input": "Yes, let's do that. I know it won't be easy, but I'm willing to put in the effort.",
+      "ground_truth": "Hey, honey, have you ever been hunting before?"
+    },
+    {
+      "turn_id": 7,
+      "session": "second",
+      "context": "Husband: Yes, let's do that. I know it won't be easy, but I'm willing to put in the effort.\nHusband: Hey, honey, have you ever been hunting before?\nWife: No, I haven't. Why do you ask?",
+      "input": "No, I haven't. Why do you ask?",
+      "ground_truth": "Well, I was thinking that it could be a fun activity for us to do together. I know you're busy with work and everything, but it would be nice to spend some quality time together out in nature."
+    },
+    {
+      "turn_id": 8,
+      "session": "second",
+      "context": "Wife: No, I haven't. Why do you ask?\nHusband: Well, I was thinking that it could be a fun activity for us to do together. I know you're busy with work and everything, but it would be nice to spend some quality time together out in nature.\nWife: That sounds like a great idea, actually. I'd love to spend more time with you, and I've always wanted to try something new like hunting.",
+      "input": "That sounds like a great idea, actually. I'd love to spend more time with you, and I've always wanted to try something new like hunting.",
+      "ground_truth": "Perfect! I'll make all the arrangements and we can plan a weekend trip. I promise I'll show you the ropes and we'll have a fantastic time."
+    },
+    {
+      "turn_id": 9,
+      "session": "second",
+      "context": "Wife: That sounds like a great idea, actually. I'd love to spend more time with you, and I've always wanted to try something new like hunting.\nHusband: Perfect! I'll make all the arrangements and we can plan a weekend trip. I promise I'll show you the ropes and we'll have a fantastic time.\nWife: I'm looking forward to it. It's been too long since we've done something adventurous like this.",
+      "input": "I'm looking forward to it. It's been too long since we've done something adventurous like this.",
+      "ground_truth": "Agreed. It reminds me of when I asked you to take me back after our rough patch. I knew we needed to do something out of the ordinary to reconnect and rekindle our love."
+    },
+    {
+      "turn_id": 10,
+      "session": "second",
+      "context": "Wife: I'm looking forward to it. It's been too long since we've done something adventurous like this.\nHusband: Agreed. It reminds me of when I asked you to take me back after our rough patch. I knew we needed to do something out of the ordinary to reconnect and rekindle our love.\nWife: Yes, I remember. It wasn't easy, but I'm so glad we worked through it. And here we are, planning another adventure together.",
+      "input": "Yes, I remember. It wasn't easy, but I'm so glad we worked through it. And here we are, planning another adventure together.",
+      "ground_truth": "I feel so lucky to have you by my side and to be able to share these experiences with you."
+    },
+    {
+      "turn_id": 11,
+      "session": "second",
+      "context": "Wife: Yes, I remember. It wasn't easy, but I'm so glad we worked through it. And here we are, planning another adventure together.\nHusband: I feel so lucky to have you by my side and to be able to share these experiences with you.\nWife: Me too. I love you.",
+      "input": "Me too. I love you.",
+      "ground_truth": "I love you too, always and forever. Now, let's start planning our hunting trip!"
+    },
+    {
+      "turn_id": 12,
+      "session": "third",
+      "context": "Husband: I feel so lucky to have you by my side and to be able to share these experiences with you.\nWife: Me too. I love you.\nHusband: I love you too, always and forever. Now, let's start planning our hunting trip!",
+      "input": "I love you too, always and forever. Now, let's start planning our hunting trip!",
+      "ground_truth": "Hey, honey. I have something I want to talk to you about."
+    },
+    {
+      "turn_id": 13,
+      "session": "third",
+      "context": "Husband: I love you too, always and forever. Now, let's start planning our hunting trip!\nHusband: Hey, honey. I have something I want to talk to you about.\nWife: Sure, what is it?",
+      "input": "Sure, what is it?",
+      "ground_truth": "Well, you know how I've always loved art, right?"
+    },
+    {
+      "turn_id": 14,
+      "session": "third",
+      "context": "Wife: Sure, what is it?\nHusband: Well, you know how I've always loved art, right?\nWife: Yes, I know.",
+      "input": "Yes, I know.",
+      "ground_truth": "I've been thinking a lot about it lately, and I really want to go back to school to get my Master's degree in Fine Arts."
+    },
+    {
+      "turn_id": 15,
+      "session": "third",
+      "context": "Wife: Yes, I know.\nHusband: I've been thinking a lot about it lately, and I really want to go back to school to get my Master's degree in Fine Arts.\nWife: That's great, honey! I knew how much art meant to you, and I think pursuing your passion is amazing.",
+      "input": "That's great, honey! I knew how much art meant to you, and I think pursuing your passion is amazing.",
+      "ground_truth": "Really? You're not mad or anything?"
+    },
+    {
+      "turn_id": 16,
+      "session": "third",
+      "context": "Wife: That's great, honey! I knew how much art meant to you, and I think pursuing your passion is amazing.\nHusband: Really? You're not mad or anything?\nWife: Of course not! Why would I be mad?",
+      "input": "Of course not! Why would I be mad?",
+      "ground_truth": "I don't know, I just thought it might be a lot of money and time."
+    },
+    {
+      "turn_id": 17,
+      "session": "third",
+      "context": "Wife: Of course not! Why would I be mad?\nHusband: I don't know, I just thought it might be a lot of money and time.\nWife: Look, we're a team. We support each other's dreams and aspirations. You know that.",
+      "input": "Look, we're a team. We support each other's dreams and aspirations. You know that.",
+      "ground_truth": "I do. I just wanted to make sure we were on the same page."
+    },
+    {
+      "turn_id": 18,
+      "session": "third",
+      "context": "Wife: Look, we're a team. We support each other's dreams and aspirations. You know that.\nHusband: I do. I just wanted to make sure we were on the same page.\nWife: Absolutely. And hey, who knows? Maybe I can even take some art classes with you!",
+      "input": "Absolutely. And hey, who knows? Maybe I can even take some art classes with you!",
+      "ground_truth": "That would be amazing! I would love that."
+    },
+    {
+      "turn_id": 19,
+      "session": "third",
+      "context": "Wife: Absolutely. And hey, who knows? Maybe I can even take some art classes with you!\nHusband: That would be amazing! I would love that.\nWife: You know what? I think you should apply to some programs and see where it takes you.",
+      "input": "You know what? I think you should apply to some programs and see where it takes you.",
+      "ground_truth": "Thank you, honey. You have no idea how much this means to me."
+    },
+    {
+      "turn_id": 20,
+      "session": "third",
+      "context": "Wife: You know what? I think you should apply to some programs and see where it takes you.\nHusband: Thank you, honey. You have no idea how much this means to me.\nWife: Anytime, my love. We're in this together, always.",
+      "input": "Anytime, my love. We're in this together, always.",
+      "ground_truth": "Hey, remember that time we went hunting together?"
+    },
+    {
+      "turn_id": 21,
+      "session": "third",
+      "context": "Wife: Anytime, my love. We're in this together, always.\nHusband: Hey, remember that time we went hunting together?\nWife: Of course! That was so much fun.",
+      "input": "Of course! That was so much fun.",
+      "ground_truth": "I was thinking we could plan another trip soon. I miss spending that quality time with you."
+    }
+  ]
+}

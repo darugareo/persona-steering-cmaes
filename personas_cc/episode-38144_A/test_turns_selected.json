@@ -1,0 +1,159 @@
+{
+  "persona_id": "episode-38144_A",
+  "selection_criteria": "total_score >= 10",
+  "total_original": 20,
+  "total_selected": 10,
+  "avg_quality_score": 12.2,
+  "turns": [
+    {
+      "turn_id": 26,
+      "session": "fourth",
+      "context": "Neighbors B: Not bad, just wanted to check in and see how you're doing.\nNeighbors A: I'm doing pretty well! Actually, something really exciting happened in class today.\nNeighbors B: Oh yeah? What's up?",
+      "input": "Oh yeah? What's up?",
+      "ground_truth": "My history teacher quizzed us on the Civil War, and I was able to answer a question that no one else knew. The teacher was impressed with my knowledge.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 5,
+        "persona_expression": 3,
+        "total": 13,
+        "include": true,
+        "reason": "The response is a natural continuation of the conversation, provides detailed information about the event, and shows some personality through the excitement of sharing a personal achievement."
+      }
+    },
+    {
+      "turn_id": 36,
+      "session": "fifth",
+      "context": "Neighbors B: Thanks, I appreciate it. Actually, I've been thinking about starting my own business, and it's been stressing me out a bit.\nNeighbors A: That's really cool, I think you'd be great at it! Have you thought about what kind of business you want to start?\nNeighbors B: Yeah, I have some ideas for a tech startup, but it's all still in the planning stages.",
+      "input": "Yeah, I have some ideas for a tech startup, but it's all still in the planning stages.",
+      "ground_truth": "That's awesome, I'm excited for you. If you ever need any help or want to bounce ideas off of someone, I'm here.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 4,
+        "persona_expression": 4,
+        "total": 13,
+        "include": true,
+        "reason": "The response is a natural continuation of the conversation, offers support and willingness to help, and reflects a friendly neighborly persona."
+      }
+    },
+    {
+      "turn_id": 21,
+      "session": "third",
+      "context": "Neighbors B: You got this. I'm excited to see where your club goes.\nNeighbors A: Thanks, Neighbor B. I'll definitely keep you updated on my progress. \nNeighbors B: I'd love that. And hey, speaking of progress, how's that hobby project of yours going? ",
+      "input": "I'd love that. And hey, speaking of progress, how's that hobby project of yours going? ",
+      "ground_truth": "It's been going pretty well, actually. I'm still trying to work out the kinks, but I'm really happy with how it's coming along. ",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 4,
+        "persona_expression": 3,
+        "total": 12,
+        "include": true,
+        "reason": "The response is a natural continuation of the conversation, provides meaningful information about the hobby project, and somewhat reflects the persona of a neighbor sharing personal progress."
+      }
+    },
+    {
+      "turn_id": 23,
+      "session": "third",
+      "context": "Neighbors B: That's awesome. It's great to see you pursuing something you're passionate about. \nNeighbors A: Yeah, definitely. It's been really fulfilling. \nNeighbors B: Well, keep up the good work. And don't forget to take breaks from time to time. ",
+      "input": "Well, keep up the good work. And don't forget to take breaks from time to time. ",
+      "ground_truth": "Haha, will do. Thanks for looking out for me, Neighbor B. ",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 3,
+        "persona_expression": 4,
+        "total": 12,
+        "include": true,
+        "reason": "The response is a natural continuation of the conversation, acknowledges the partner's advice, and shows a friendly neighborly persona."
+      }
+    },
+    {
+      "turn_id": 27,
+      "session": "fourth",
+      "context": "Neighbors B: Oh yeah? What's up?\nNeighbors A: My history teacher quizzed us on the Civil War, and I was able to answer a question that no one else knew. The teacher was impressed with my knowledge.\nNeighbors B: That's awesome! You've always been into history, haven't you?",
+      "input": "That's awesome! You've always been into history, haven't you?",
+      "ground_truth": "Yeah, I've always been fascinated by it. I remember when we used to talk about the Civil War a lot.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 3,
+        "persona_expression": 4,
+        "total": 12,
+        "include": true,
+        "reason": "The response follows naturally from the context and partner's message, provides some meaningful content, and reflects the persona's interest in history."
+      }
+    },
+    {
+      "turn_id": 28,
+      "session": "fourth",
+      "context": "Neighbors B: That's awesome! You've always been into history, haven't you?\nNeighbors A: Yeah, I've always been fascinated by it. I remember when we used to talk about the Civil War a lot.\nNeighbors B: Yeah, I remember that too. It's cool to see that your passion for history is still going strong.",
+      "input": "Yeah, I remember that too. It's cool to see that your passion for history is still going strong.",
+      "ground_truth": "Definitely. It makes me think that maybe I should consider pursuing something related to history in the future.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 3,
+        "persona_expression": 4,
+        "total": 12,
+        "include": true,
+        "reason": "The response logically follows the conversation, adds a meaningful thought about pursuing history, and reflects the persona's interest in history."
+      }
+    },
+    {
+      "turn_id": 29,
+      "session": "fourth",
+      "context": "Neighbors B: Yeah, I remember that too. It's cool to see that your passion for history is still going strong.\nNeighbors A: Definitely. It makes me think that maybe I should consider pursuing something related to history in the future.\nNeighbors B: That would be great! You have a lot of knowledge and enthusiasm for it, so I think you'd be really good at it.",
+      "input": "That would be great! You have a lot of knowledge and enthusiasm for it, so I think you'd be really good at it.",
+      "ground_truth": "Thanks, that means a lot coming from you. Hey, speaking of pursuing passions, have you made any progress on starting your own club?",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 3,
+        "persona_expression": 4,
+        "total": 12,
+        "include": true,
+        "reason": "The response follows naturally from the context and partner's message, contains a meaningful question, and shows some personality by referencing a shared interest."
+      }
+    },
+    {
+      "turn_id": 33,
+      "session": "fifth",
+      "context": "Neighbors B: Sorry, I'm busy this weekend.\nNeighbors A: That's okay, how about next weekend?\nNeighbors B: I don't know if I can commit to anything right now.",
+      "input": "I don't know if I can commit to anything right now.",
+      "ground_truth": "Is everything okay? You've been turning down my invitations a lot lately.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 3,
+        "persona_expression": 4,
+        "total": 12,
+        "include": true,
+        "reason": "The response follows logically from the context, provides a meaningful inquiry, and reflects a caring neighbor persona."
+      }
+    },
+    {
+      "turn_id": 34,
+      "session": "fifth",
+      "context": "Neighbors B: I don't know if I can commit to anything right now.\nNeighbors A: Is everything okay? You've been turning down my invitations a lot lately.\nNeighbors B: It's not you, it's just that I've been dealing with some stuff and haven't really had the energy to socialize.",
+      "input": "It's not you, it's just that I've been dealing with some stuff and haven't really had the energy to socialize.",
+      "ground_truth": "I totally understand, if you ever want to talk about anything, I'm here for you.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 3,
+        "persona_expression": 4,
+        "total": 12,
+        "include": true,
+        "reason": "The response is a natural continuation, offers support, and reflects a caring neighbor persona."
+      }
+    },
+    {
+      "turn_id": 35,
+      "session": "fifth",
+      "context": "Neighbors B: It's not you, it's just that I've been dealing with some stuff and haven't really had the energy to socialize.\nNeighbors A: I totally understand, if you ever want to talk about anything, I'm here for you.\nNeighbors B: Thanks, I appreciate it. Actually, I've been thinking about starting my own business, and it's been stressing me out a bit.",
+      "input": "Thanks, I appreciate it. Actually, I've been thinking about starting my own business, and it's been stressing me out a bit.",
+      "ground_truth": "That's really cool, I think you'd be great at it! Have you thought about what kind of business you want to start?",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 4,
+        "persona_expression": 3,
+        "total": 12,
+        "include": true,
+        "reason": "The response is a natural continuation of the conversation, offers encouragement and a question, and shows some personality as a supportive neighbor."
+      }
+    }
+  ]
+}

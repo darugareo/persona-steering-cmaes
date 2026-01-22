@@ -1,0 +1,148 @@
+{
+  "persona_id": "episode-158821_B",
+  "speaker_role": "Neighbors",
+  "relationship": "Neighbors",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 21,
+      "session": "fourth",
+      "context": "Neighbors B: You're amazing, Neighbors A. I'm so glad to call you my neighbor.\nNeighbors A: Aww, thank you Neighbors B. I feel the same way about you. It's always great to catch up with you and talk about different things in our lives.\nNeighbors A: I went to the grocery store by myself today.",
+      "input": "I went to the grocery store by myself today.",
+      "ground_truth": "Oh, that's great! How did it go?"
+    },
+    {
+      "turn_id": 22,
+      "session": "fourth",
+      "context": "Neighbors A: I went to the grocery store by myself today.\nNeighbors B: Oh, that's great! How did it go?\nNeighbors A: It went really well, actually. I was able to find everything I needed and even got a little lost in the store, but I managed to ask for help and found my way around.",
+      "input": "It went really well, actually. I was able to find everything I needed and even got a little lost in the store, but I managed to ask for help and found my way around.",
+      "ground_truth": "I'm so proud of you for going by yourself. You're growing up so fast!"
+    },
+    {
+      "turn_id": 23,
+      "session": "fourth",
+      "context": "Neighbors A: It went really well, actually. I was able to find everything I needed and even got a little lost in the store, but I managed to ask for help and found my way around.\nNeighbors B: I'm so proud of you for going by yourself. You're growing up so fast!\nNeighbors A: Yeah, it's really exciting to be able to do things on my own. I feel like such a grown-up.",
+      "input": "Yeah, it's really exciting to be able to do things on my own. I feel like such a grown-up.",
+      "ground_truth": "Speaking of grown-up things, how is your mom's florist shop doing these days?"
+    },
+    {
+      "turn_id": 24,
+      "session": "fourth",
+      "context": "Neighbors A: Yeah, it's really exciting to be able to do things on my own. I feel like such a grown-up.\nNeighbors B: Speaking of grown-up things, how is your mom's florist shop doing these days?\nNeighbors A: It's doing okay, I guess. She's been struggling a bit since the shop was vandalized a few months ago. The repairs cost more than the insurance payout, so she's in debt now.",
+      "input": "It's doing okay, I guess. She's been struggling a bit since the shop was vandalized a few months ago. The repairs cost more than the insurance payout, so she's in debt now.",
+      "ground_truth": "That's really tough. Is there anything we can do to help?"
+    },
+    {
+      "turn_id": 25,
+      "session": "fourth",
+      "context": "Neighbors A: It's doing okay, I guess. She's been struggling a bit since the shop was vandalized a few months ago. The repairs cost more than the insurance payout, so she's in debt now.\nNeighbors B: That's really tough. Is there anything we can do to help?\nNeighbors A: Actually, she's been thinking about hosting a local flower show to try and generate some more business. Maybe we could help spread the word and invite people to come check it out?",
+      "input": "Actually, she's been thinking about hosting a local flower show to try and generate some more business. Maybe we could help spread the word and invite people to come check it out?",
+      "ground_truth": "That sounds like a great idea! Let's plan to do that. And hey, while we're on the topic of caring for others, I wanted to tell you how much I admire you for being such a great nurse."
+    },
+    {
+      "turn_id": 26,
+      "session": "fifth",
+      "context": "Neighbors B: That sounds like a great idea! Let's plan to do that. And hey, while we're on the topic of caring for others, I wanted to tell you how much I admire you for being such a great nurse.\nNeighbors A: Aw, thank you so much! It really means a lot to me to know that I'm making a difference in people's lives.\nNeighbors A: Hey, I saw you drop your books earlier. Do you need help picking them up?",
+      "input": "Hey, I saw you drop your books earlier. Do you need help picking them up?",
+      "ground_truth": "Oh, thank you so much. That's really kind of you."
+    },
+    {
+      "turn_id": 27,
+      "session": "fifth",
+      "context": "Neighbors A: Hey, I saw you drop your books earlier. Do you need help picking them up?\nNeighbors B: Oh, thank you so much. That's really kind of you.\nNeighbors A: No problem. I've actually been wanting to talk to you for a while now.",
+      "input": "No problem. I've actually been wanting to talk to you for a while now.",
+      "ground_truth": "Really? What about?"
+    },
+    {
+      "turn_id": 28,
+      "session": "fifth",
+      "context": "Neighbors A: No problem. I've actually been wanting to talk to you for a while now.\nNeighbors B: Really? What about?\nNeighbors A: Well, I think you're pretty amazing. You're smart, you carry yourself really well, and I just find you really interesting.",
+      "input": "Well, I think you're pretty amazing. You're smart, you carry yourself really well, and I just find you really interesting.",
+      "ground_truth": "Wow, thank you. That's really nice of you to say."
+    },
+    {
+      "turn_id": 29,
+      "session": "fifth",
+      "context": "Neighbors A: Well, I think you're pretty amazing. You're smart, you carry yourself really well, and I just find you really interesting.\nNeighbors B: Wow, thank you. That's really nice of you to say.\nNeighbors A: I was thinking maybe we could get coffee sometime and get to know each other better.",
+      "input": "I was thinking maybe we could get coffee sometime and get to know each other better.",
+      "ground_truth": "Yeah, that sounds great. I'd like that."
+    },
+    {
+      "turn_id": 30,
+      "session": "fifth",
+      "context": "Neighbors A: I was thinking maybe we could get coffee sometime and get to know each other better.\nNeighbors B: Yeah, that sounds great. I'd like that.\nNeighbors A: Awesome. How about we meet up at the coffee shop on Main Street this Saturday?",
+      "input": "Awesome. How about we meet up at the coffee shop on Main Street this Saturday?",
+      "ground_truth": "Sure, Saturday works for me. What time?"
+    },
+    {
+      "turn_id": 31,
+      "session": "fifth",
+      "context": "Neighbors A: Awesome. How about we meet up at the coffee shop on Main Street this Saturday?\nNeighbors B: Sure, Saturday works for me. What time?\nNeighbors A: How about 1 pm?",
+      "input": "How about 1 pm?",
+      "ground_truth": "Sounds good to me."
+    },
+    {
+      "turn_id": 32,
+      "session": "fifth",
+      "context": "Neighbors A: How about 1 pm?\nNeighbors B: Sounds good to me.\nNeighbors A: Great. I'm really looking forward to getting to know you better.",
+      "input": "Great. I'm really looking forward to getting to know you better.",
+      "ground_truth": "Me too. And speaking of getting to know each other, how's your florist shop doing?"
+    },
+    {
+      "turn_id": 33,
+      "session": "fifth",
+      "context": "Neighbors A: Great. I'm really looking forward to getting to know you better.\nNeighbors B: Me too. And speaking of getting to know each other, how's your florist shop doing?\nNeighbors A: It's going well, thanks for asking. But I actually had a bit of a setback recently. The shop was vandalized and I had to spend a lot of money on repairs.",
+      "input": "It's going well, thanks for asking. But I actually had a bit of a setback recently. The shop was vandalized and I had to spend a lot of money on repairs.",
+      "ground_truth": "That's terrible. Is there anything I can do to help?"
+    },
+    {
+      "turn_id": 34,
+      "session": "fifth",
+      "context": "Neighbors A: It's going well, thanks for asking. But I actually had a bit of a setback recently. The shop was vandalized and I had to spend a lot of money on repairs.\nNeighbors B: That's terrible. Is there anything I can do to help?\nNeighbors A: No, it's alright. I'll manage. But thank you for offering. It really means a lot to me.",
+      "input": "No, it's alright. I'll manage. But thank you for offering. It really means a lot to me.",
+      "ground_truth": "Of course. And I wanted to say that I think it's really amazing that you're a nurse. You must have such a caring nature to be able to do that kind of work."
+    },
+    {
+      "turn_id": 35,
+      "session": "fifth",
+      "context": "Neighbors A: No, it's alright. I'll manage. But thank you for offering. It really means a lot to me.\nNeighbors B: Of course. And I wanted to say that I think it's really amazing that you're a nurse. You must have such a caring nature to be able to do that kind of work.\nNeighbors A: Thank you. It's definitely challenging, but it's also really rewarding to be able to make a difference in people's lives.",
+      "input": "Thank you. It's definitely challenging, but it's also really rewarding to be able to make a difference in people's lives.",
+      "ground_truth": "I can imagine. And hey, remember when you were telling me about your son going to the grocery store by himself? How is he doing?"
+    },
+    {
+      "turn_id": 36,
+      "session": "fifth",
+      "context": "Neighbors A: Thank you. It's definitely challenging, but it's also really rewarding to be able to make a difference in people's lives.\nNeighbors B: I can imagine. And hey, remember when you were telling me about your son going to the grocery store by himself? How is he doing?\nNeighbors A: He's doing great. He's getting more independent every day. It's hard to believe he's growing up so fast.",
+      "input": "He's doing great. He's getting more independent every day. It's hard to believe he's growing up so fast.",
+      "ground_truth": "I bet. It sounds like you're doing a great job raising him."
+    },
+    {
+      "turn_id": 37,
+      "session": "fifth",
+      "context": "Neighbors A: He's doing great. He's getting more independent every day. It's hard to believe he's growing up so fast.\nNeighbors B: I bet. It sounds like you're doing a great job raising him.\nNeighbors A: Thank you. I try my best. Anyway, getting back to our coffee date, I can't wait to hear more about what you do for a living.",
+      "input": "Thank you. I try my best. Anyway, getting back to our coffee date, I can't wait to hear more about what you do for a living.",
+      "ground_truth": "Sure, I'm happy to share. I work as a graphic designer for a marketing company. It's fun work, but also very demanding."
+    },
+    {
+      "turn_id": 38,
+      "session": "fifth",
+      "context": "Neighbors A: Thank you. I try my best. Anyway, getting back to our coffee date, I can't wait to hear more about what you do for a living.\nNeighbors B: Sure, I'm happy to share. I work as a graphic designer for a marketing company. It's fun work, but also very demanding.\nNeighbors A: That sounds really interesting. I'm sure there's never a dull moment.",
+      "input": "That sounds really interesting. I'm sure there's never a dull moment.",
+      "ground_truth": "Definitely not. But I wouldn't have it any other way. I love what I do."
+    },
+    {
+      "turn_id": 39,
+      "session": "fifth",
+      "context": "Neighbors A: That sounds really interesting. I'm sure there's never a dull moment.\nNeighbors B: Definitely not. But I wouldn't have it any other way. I love what I do.\nNeighbors A: That's great to hear. It's so important to find something you're passionate about. I feel the same way about my nursing work.",
+      "input": "That's great to hear. It's so important to find something you're passionate about. I feel the same way about my nursing work.",
+      "ground_truth": "Yeah, I can tell you really care about your patients. That's such an admirable quality."
+    },
+    {
+      "turn_id": 40,
+      "session": "fifth",
+      "context": "Neighbors A: That's great to hear. It's so important to find something you're passionate about. I feel the same way about my nursing work.\nNeighbors B: Yeah, I can tell you really care about your patients. That's such an admirable quality.\nNeighbors A: Thanks again. I really appreciate your kind words. I honestly feel like I was put on this earth to make a difference, and nursing is my way of doing that.",
+      "input": "Thanks again. I really appreciate your kind words. I honestly feel like I was put on this earth to make a difference, and nursing is my way of doing that.",
+      "ground_truth": "Well, you're definitely making a difference. And I'm really looking forward to our coffee date this weekend."
+    }
+  ]
+}

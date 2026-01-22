@@ -1,0 +1,148 @@
+{
+  "persona_id": "episode-225888_A",
+  "speaker_role": "Classmates",
+  "relationship": "Classmates",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "session": "first",
+      "context": "Classmates A: Hi, can I talk to you for a minute? I just wanted to apologize for what I said the other day. I feel really guilty about it and I want to make things right.\nClassmates B: Oh, hey. Yeah, sure. What did you say again?",
+      "input": "Oh, hey. Yeah, sure. What did you say again?",
+      "ground_truth": "I made a comment about your outfit and it was really insensitive of me. I didn't mean it in a bad way, but I understand that it was hurtful and I'm sorry."
+    },
+    {
+      "turn_id": 2,
+      "session": "first",
+      "context": "Classmates B: Oh, hey. Yeah, sure. What did you say again?\nClassmates A: I made a comment about your outfit and it was really insensitive of me. I didn't mean it in a bad way, but I understand that it was hurtful and I'm sorry.\nClassmates B: Oh, yeah, I remember now. Honestly, it did bother me a bit, but I appreciate you coming to me and apologizing. It takes a lot to admit when you're wrong.",
+      "input": "Oh, yeah, I remember now. Honestly, it did bother me a bit, but I appreciate you coming to me and apologizing. It takes a lot to admit when you're wrong.",
+      "ground_truth": "I just don't want there to be any bad blood between us. We've been classmates for a few years now and I value our friendship."
+    },
+    {
+      "turn_id": 3,
+      "session": "first",
+      "context": "Classmates B: Oh, yeah, I remember now. Honestly, it did bother me a bit, but I appreciate you coming to me and apologizing. It takes a lot to admit when you're wrong.\nClassmates A: I just don't want there to be any bad blood between us. We've been classmates for a few years now and I value our friendship.\nClassmates B: Of course, I feel the same way. We all make mistakes and say things we don't mean sometimes. The important thing is that we own up to it and learn from it.",
+      "input": "Of course, I feel the same way. We all make mistakes and say things we don't mean sometimes. The important thing is that we own up to it and learn from it.",
+      "ground_truth": "I completely agree. And if there's anything I can do to make it up to you, just let me know."
+    },
+    {
+      "turn_id": 4,
+      "session": "first",
+      "context": "Classmates B: Of course, I feel the same way. We all make mistakes and say things we don't mean sometimes. The important thing is that we own up to it and learn from it.\nClassmates A: I completely agree. And if there's anything I can do to make it up to you, just let me know.\nClassmates B: Honestly, your apology is enough for me. Thanks for being mature about it.",
+      "input": "Honestly, your apology is enough for me. Thanks for being mature about it.",
+      "ground_truth": "No problem, I'm glad we could talk it out. So, have you finished the history project yet?"
+    },
+    {
+      "turn_id": 5,
+      "session": "second",
+      "context": "Classmates B: Honestly, your apology is enough for me. Thanks for being mature about it.\nClassmates A: No problem, I'm glad we could talk it out. So, have you finished the history project yet?\nClassmates B: Almost. Just a few more sections to go. How about you?",
+      "input": "Almost. Just a few more sections to go. How about you?",
+      "ground_truth": "Hey, I wanted to talk to you about something."
+    },
+    {
+      "turn_id": 6,
+      "session": "second",
+      "context": "Classmates B: Almost. Just a few more sections to go. How about you?\nClassmates A: Hey, I wanted to talk to you about something.\nClassmates B: Sure, what's up?",
+      "input": "Sure, what's up?",
+      "ground_truth": "I just wanted to apologize for what I said a few weeks ago. I know it was insensitive and I feel really bad about it."
+    },
+    {
+      "turn_id": 7,
+      "session": "second",
+      "context": "Classmates B: Sure, what's up?\nClassmates A: I just wanted to apologize for what I said a few weeks ago. I know it was insensitive and I feel really bad about it.\nClassmates B: It's okay, I appreciate your apology. I forgive you.",
+      "input": "It's okay, I appreciate your apology. I forgive you.",
+      "ground_truth": "Thank you, I really mean it. So, on a different note, have you ever thought about time travel?"
+    },
+    {
+      "turn_id": 8,
+      "session": "second",
+      "context": "Classmates B: It's okay, I appreciate your apology. I forgive you.\nClassmates A: Thank you, I really mean it. So, on a different note, have you ever thought about time travel?\nClassmates B: Time travel? Like in Back to the Future?",
+      "input": "Time travel? Like in Back to the Future?",
+      "ground_truth": "Well, not exactly like that. But there are theories that suggest it's possible to travel through time."
+    },
+    {
+      "turn_id": 9,
+      "session": "second",
+      "context": "Classmates B: Time travel? Like in Back to the Future?\nClassmates A: Well, not exactly like that. But there are theories that suggest it's possible to travel through time.\nClassmates B: Really? I've always thought it was just science fiction.",
+      "input": "Really? I've always thought it was just science fiction.",
+      "ground_truth": "It may seem like that now, but with advancements in technology, who knows what the future holds? Imagine being able to visit different eras or even parallel universes."
+    },
+    {
+      "turn_id": 10,
+      "session": "second",
+      "context": "Classmates B: Really? I've always thought it was just science fiction.\nClassmates A: It may seem like that now, but with advancements in technology, who knows what the future holds? Imagine being able to visit different eras or even parallel universes.\nClassmates B: That would be pretty amazing. But is it really possible?",
+      "input": "That would be pretty amazing. But is it really possible?",
+      "ground_truth": "Theoretically, yes. There are different ways that time travel could be achieved, such as through wormholes or travelling near the speed of light."
+    },
+    {
+      "turn_id": 11,
+      "session": "second",
+      "context": "Classmates B: That would be pretty amazing. But is it really possible?\nClassmates A: Theoretically, yes. There are different ways that time travel could be achieved, such as through wormholes or travelling near the speed of light.\nClassmates B: That's really interesting. Have you read any books about it?",
+      "input": "That's really interesting. Have you read any books about it?",
+      "ground_truth": "Yeah, I've read a few. Stephen Hawking's \"A Brief History of Time\" is a great place to start."
+    },
+    {
+      "turn_id": 12,
+      "session": "second",
+      "context": "Classmates B: That's really interesting. Have you read any books about it?\nClassmates A: Yeah, I've read a few. Stephen Hawking's \"A Brief History of Time\" is a great place to start.\nClassmates B: I'll have to check it out. And you mentioned parallel universes earlier. How does that work?",
+      "input": "I'll have to check it out. And you mentioned parallel universes earlier. How does that work?",
+      "ground_truth": "It's a bit more complicated, but the idea is that there are multiple versions of reality that exist simultaneously. By travelling through time, you could potentially visit different realities."
+    },
+    {
+      "turn_id": 13,
+      "session": "second",
+      "context": "Classmates B: I'll have to check it out. And you mentioned parallel universes earlier. How does that work?\nClassmates A: It's a bit more complicated, but the idea is that there are multiple versions of reality that exist simultaneously. By travelling through time, you could potentially visit different realities.\nClassmates B: Wow, I never thought about that before. It's crazy to think about all of the possibilities.",
+      "input": "Wow, I never thought about that before. It's crazy to think about all of the possibilities.",
+      "ground_truth": "Exactly! And even if we can't time travel yet, it's still fascinating to learn about the science behind it."
+    },
+    {
+      "turn_id": 14,
+      "session": "second",
+      "context": "Classmates B: Wow, I never thought about that before. It's crazy to think about all of the possibilities.\nClassmates A: Exactly! And even if we can't time travel yet, it's still fascinating to learn about the science behind it.\nClassmates B: Agreed. Hey, remember when we talked about black holes in physics class last semester?",
+      "input": "Agreed. Hey, remember when we talked about black holes in physics class last semester?",
+      "ground_truth": "Yeah, I do. It's actually related to the idea of wormholes, which could potentially be used for time travel."
+    },
+    {
+      "turn_id": 15,
+      "session": "third",
+      "context": "Classmates B: Agreed. Hey, remember when we talked about black holes in physics class last semester?\nClassmates A: Yeah, I do. It's actually related to the idea of wormholes, which could potentially be used for time travel.\nClassmates B: That's right! It's amazing how everything is connected like that.",
+      "input": "That's right! It's amazing how everything is connected like that.",
+      "ground_truth": "I don't know why, but I've been feeling really down lately."
+    },
+    {
+      "turn_id": 16,
+      "session": "third",
+      "context": "Classmates B: That's right! It's amazing how everything is connected like that.\nClassmates A: I don't know why, but I've been feeling really down lately.\nClassmates B: Is everything okay?",
+      "input": "Is everything okay?",
+      "ground_truth": "No, not really. I've been thinking a lot about the future and I know that I'll never get married."
+    },
+    {
+      "turn_id": 17,
+      "session": "third",
+      "context": "Classmates B: Is everything okay?\nClassmates A: No, not really. I've been thinking a lot about the future and I know that I'll never get married.\nClassmates B: Why do you say that?",
+      "input": "Why do you say that?",
+      "ground_truth": "I just have a feeling that it's not in the cards for me. I've never been in a relationship and I don't see that changing anytime soon."
+    },
+    {
+      "turn_id": 18,
+      "session": "third",
+      "context": "Classmates B: Why do you say that?\nClassmates A: I just have a feeling that it's not in the cards for me. I've never been in a relationship and I don't see that changing anytime soon.\nClassmates B: Don't say that. You never know what the future holds.",
+      "input": "Don't say that. You never know what the future holds.",
+      "ground_truth": "I appreciate your optimism, but it's hard not to feel this way when all of my friends are getting married and starting families."
+    },
+    {
+      "turn_id": 19,
+      "session": "third",
+      "context": "Classmates B: Don't say that. You never know what the future holds.\nClassmates A: I appreciate your optimism, but it's hard not to feel this way when all of my friends are getting married and starting families.\nClassmates B: I understand how you feel. But you have to remember that everyone's path is different. Just because your friends are settling down, doesn't mean that you have to as well.",
+      "input": "I understand how you feel. But you have to remember that everyone's path is different. Just because your friends are settling down, doesn't mean that you have to as well.",
+      "ground_truth": "I know, but I've always wanted to be a husband and a father and it's hard to let go of that dream."
+    },
+    {
+      "turn_id": 20,
+      "session": "third",
+      "context": "Classmates B: I understand how you feel. But you have to remember that everyone's path is different. Just because your friends are settling down, doesn't mean that you have to as well.\nClassmates A: I know, but I've always wanted to be a husband and a father and it's hard to let go of that dream.\nClassmates B: Have you thought about other ways you can fulfill that desire? Maybe you can volunteer with kids or mentor younger people.",
+      "input": "Have you thought about other ways you can fulfill that desire? Maybe you can volunteer with kids or mentor younger people.",
+      "ground_truth": "That's a good idea. I haven't thought about it that way. Thank you for listening and for the advice."
+    }
+  ]
+}

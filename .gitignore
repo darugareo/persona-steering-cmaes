@@ -1,0 +1,151 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+editor.fontFamily
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Environment variables
+.env
+
+# Cache and logs
+cache/
+logs/
+*.log
+texput.log
+
+# Outputs and results
+outputs/
+results/
+test_optimization_results/
+experiments/persona_optimization_results/
+
+# Large data files (keep small configs only)
+data/*.csv
+data/*.jsonl
+data/*.parquet
+data/*.feather
+data/*.pkl
+data/*.pickle
+data/*/
+!data/*.json
+!data/*.txt
+!data/*.yaml
+!data/*.md
+
+# Paper builds (keep source, ignore builds)
+paper/*.pdf
+paper/*.aux
+paper/*.bbl
+paper/*.blg
+paper/*.out
+paper/*.synctex.gz
+paper_ieee_access/*.pdf
+paper_ieee_access/*.aux
+paper_ieee_access/*.bbl
+paper_ieee_access/*.blg
+paper_ieee_access/*.out
+paper_ieee_access/*.synctex.gz
+paper_ieee_access_corrected/*.pdf
+paper_ieee_access_corrected/*.aux
+paper_ieee_access_corrected/*.bbl
+paper_ieee_access_corrected/*.blg
+paper_ieee_access_corrected/*.out
+paper_ieee_access_corrected/*.synctex.gz
+
+# Supplementary materials (keep source, ignore zips)
+supplementary_materials.zip
+supplementary_materials_corrected.zip
+
+# Config with sensitive data
+config/
+
+# Model weights and checkpoints
+*.safetensors
+*.pt
+*.pth
+lora_models/
+lora_models_*/
+optimization_results*/
+
+# Temporary analysis scripts
+analyze_*.py
+create_*.py
+enhanced_*.py
+verify_*.py
+test_lora_*.py
+check_actual_*.py
+print_summary.py
+
+# Generated reports in root (keep in docs/ only)
+/*_REPORT.md
+/*_SUMMARY.md
+/*_FINDINGS.md
+/*_EXPERIMENT.md
+/*_ANALYSIS.md
+/*_SELECTION.md
+FILE_INVENTORY.*
+REPOSITORY_ANALYSIS*
+
+# Analysis JSONs in root
+*_analysis*.json
+*_report*.json
+*_recommendations*.json
+repository_analysis*.json
+persona_selection_*_report.json
+trait_recommendations*.json
+
+# Images and plots
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# CSV data files
+*.csv
+
+# Executed notebooks
+*_executed.ipynb
+
+# PDF outputs
+*.pdf
+!paper*/*.pdf
+
+# Nested repos
+persona-steering-cmaes/
+
+# macOS
+.DS_Store

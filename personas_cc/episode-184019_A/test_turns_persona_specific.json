@@ -1,0 +1,118 @@
+{
+  "persona_id": "episode-184019_A",
+  "split": "test",
+  "total_turns": 20,
+  "selected_turns": 9,
+  "selection_rate": 0.45,
+  "turns": [
+    {
+      "user": "Remember that time we ran out of gas on the highway?",
+      "assistant": "Yeah, I do. That was not a fun experience.",
+      "context": "Wife: Good idea. Maybe we can find someone who can help us.\nHusband: Yeah, I hope so. I don't want to be walking around all day.\nWife: Remember that time we ran out of gas on the highway?",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "共有記憶への言及があり、夫婦関係特有",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "But at least we had each other to keep each other company.",
+      "assistant": "That's true. I don't know what I would do without you.",
+      "context": "Wife: Remember that time we ran out of gas on the highway?\nHusband: Yeah, I do. That was not a fun experience.\nWife: But at least we had each other to keep each other company.",
+      "persona_specific": true,
+      "specificity_confidence": 5,
+      "specificity_reason": "関係性と共有記憶に基づく応答",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "Aww, you're so sweet.",
+      "assistant": "Speaking of which, I remember a few weeks ago when I asked you to dance with me.",
+      "context": "Wife: But at least we had each other to keep each other company.\nHusband: That's true. I don't know what I would do without you.\nWife: Aww, you're so sweet.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "共有記憶への言及があり、夫婦関係特有",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "Oh yeah, that was so romantic.",
+      "assistant": "I just can't get enough of spending time with you, you know?",
+      "context": "Wife: Aww, you're so sweet.\nHusband: Speaking of which, I remember a few weeks ago when I asked you to dance with me.\nWife: Oh yeah, that was so romantic.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "関係性特有の感情表現が含まれるため",
+      "criteria_met": [
+        "関係性特有",
+        "役割視点"
+      ]
+    },
+    {
+      "user": "I know, and I feel the same way. Remember when you asked me out for the first time?",
+      "assistant": "Of course, how could I forget? I was so nervous.",
+      "context": "Wife: Oh yeah, that was so romantic.\nHusband: I just can't get enough of spending time with you, you know?\nWife: I know, and I feel the same way. Remember when you asked me out for the first time?",
+      "persona_specific": true,
+      "specificity_confidence": 5,
+      "specificity_reason": "共有記憶と役割視点が含まれるため",
+      "criteria_met": [
+        "共有記憶",
+        "役割視点"
+      ]
+    },
+    {
+      "user": "But it all worked out in the end, didn't it?",
+      "assistant": "It sure did. And I'm grateful every day that we ended up together.",
+      "context": "Wife: I know, and I feel the same way. Remember when you asked me out for the first time?\nHusband: Of course, how could I forget? I was so nervous.\nWife: But it all worked out in the end, didn't it?",
+      "persona_specific": true,
+      "specificity_confidence": 5,
+      "specificity_reason": "関係性と共有記憶に基づく応答",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "Nah, didn't need to. I'm just glad I feel better now.",
+      "assistant": "Hey, remember when we ran out of gas on the highway and I took that nap? ",
+      "context": "Husband: Ah, much better. \nWife: That was quick, did you even read anything on your phone?\nHusband: Nah, didn't need to. I'm just glad I feel better now.",
+      "persona_specific": true,
+      "specificity_confidence": 5,
+      "specificity_reason": "共有記憶への言及があるため",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "Yeah, I remember. I was so worried we were going to be stuck there forever.",
+      "assistant": "I know, I'm sorry. But thanks for staying awake and watching out for both of us. You always take such good care of me.",
+      "context": "Husband: Nah, didn't need to. I'm just glad I feel better now.\nHusband: Hey, remember when we ran out of gas on the highway and I took that nap? \nWife: Yeah, I remember. I was so worried we were going to be stuck there forever.",
+      "persona_specific": true,
+      "specificity_confidence": 5,
+      "specificity_reason": "関係性と共有記憶に基づく謝意表現",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶",
+        "役割視点"
+      ]
+    },
+    {
+      "user": "Of course I do, you're my husband. And speaking of taking care of you, do you want a cup of tea or anything?",
+      "assistant": "That sounds great, thanks. By the way, remember that time I asked you to dance with me?",
+      "context": "Wife: Yeah, I remember. I was so worried we were going to be stuck there forever.\nHusband: I know, I'm sorry. But thanks for staying awake and watching out for both of us. You always take such good care of me.\nWife: Of course I do, you're my husband. And speaking of taking care of you, do you want a cup of tea or anything?",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "共有記憶への言及があり、夫婦関係特有",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    }
+  ]
+}

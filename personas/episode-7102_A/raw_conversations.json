@@ -1,0 +1,76 @@
+{
+  "persona_id": "episode-7102_A",
+  "num_sessions": 5,
+  "sessions": [
+    {
+      "persona_id": "episode-7102_A",
+      "session_idx": 1,
+      "pair_id": "episode-7102",
+      "session_name": "first",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "Start",
+      "session_summary": "Classmate A expresses desire to be B's best friend, but Classmate B expresses disappointment at feeling pressured to do more. They express appreciation for B's friendship but agree to plan future plans based on past memories.",
+      "session_text": "Hey, B! How have you been?\nThere's something I've been wanting to talk to you about.\nWell, we've been friends for so long and I've always been there for you. But now, I want to be more than just a friend. I want to be your best friend.\nI know, but I feel like I haven't been the best friend I could be. I want to put in more effort and be there for you even more than before.\nIt's not that I feel like I have to. It's just that I want to. You mean a lot to me and I want to show you that by being the best friend I can. \nOkay, I understand. Thanks for talking with me about it.\nOh yeah! That was so much fun. The adrenaline rush we had was insane.\nDefinitely. We should plan something like that again soon.",
+      "num_turns": 8
+    },
+    {
+      "persona_id": "episode-7102_A",
+      "session_idx": 2,
+      "pair_id": "episode-7102",
+      "session_name": "second",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "A few months after",
+      "session_summary": "Two classmates catch up on each other's lives and discuss how they feel about stress and anxiety. They discuss Classmate A's advice and Classmate B suggests taking care of each other as best friends. They agree to study together and plan a study session together to prepare for their exams.",
+      "session_text": "Hey, how are you doing today?\nI'm good, thanks. I just wanted to check in with you after our last conversation. How have things been going for you?\nThat's great to hear. I'm glad I could help you feel better.\nOf course, anytime. I think it's important that we take care of each other as best friends.\nOh, what's that?\nThat's really sweet of you to say, but you don't need to feel like you have to do more for me.\nOkay, thank you. I appreciate it.\nHonestly, I could use some help studying for our upcoming exams. Do you think we could study together sometime this week?",
+      "num_turns": 8
+    },
+    {
+      "persona_id": "episode-7102_A",
+      "session_idx": 3,
+      "pair_id": "episode-7102",
+      "session_name": "third",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "A few weeks after",
+      "session_summary": "Classmate A expresses gratitude towards Classmate B for complimenting them and feeling appreciated. Classmate B expresses gratitude for Classmate A's ability to make others feel at ease and appreciated.",
+      "session_text": "Hey, how are you doing today?\nI'm great, actually. I was thinking about the conversation we had a few weeks ago and it made me feel really good.\nDefinitely. It's always good to have someone in your life who can make you feel good about yourself.\nThanks, that means a lot coming from you. You always have a way of putting my mind at ease and reassuring me that everything will be okay.\nAnd I feel the same way about you. That's what best friends are for, right?",
+      "num_turns": 5
+    },
+    {
+      "persona_id": "episode-7102_A",
+      "session_idx": 4,
+      "pair_id": "episode-7102",
+      "session_name": "fourth",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "A few weeks after",
+      "session_summary": "Two classmates express their accomplishments together, including climbing to the top of a mountain. Classmate A expresses gratitude for Classmate B's support and appreciation for their friendship.",
+      "session_text": "I can't believe I made it to the top of the mountain! I feel so accomplished!\nI really am. It was a tough climb, but the view from the top was worth it.\nIt took me about three hours to climb to the summit.\nYou could definitely do it! It just takes some determination and perseverance.\nHaha, that's okay. I'm just happy that I accomplished one of my goals.\nThank you, that means a lot coming from you. You've been such a supportive friend over the years.\nSpeaking of support, I was so glad to be able to reassure you the other day when you were worried about something. It's important to have a friend who you can rely on for emotional support.\nAnd I was really touched by the compliment you gave me. It's not often that we take the time to appreciate our friends and what they mean to us.",
+      "num_turns": 8
+    },
+    {
+      "persona_id": "episode-7102_A",
+      "session_idx": 5,
+      "pair_id": "episode-7102",
+      "session_name": "fifth",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "A few months after",
+      "session_summary": "Classmate A apologized for telling Classmate B that they were acting out behind their back due to jealousy. Classmate B apologized and assured Classmate A that they were always there for them, reminding Classmate A that they are friends and support each other.",
+      "session_text": " I messed up big time.\nI told one friend that the other friend was saying mean things about her behind her back.\nI don't know, I was feeling jealous and wanted to stir up some drama.\nI know, I feel terrible about it.\nYeah, you're right. I just hope they can forgive me.\nThanks, it means a lot to have your support.\nYou know, that conversation we had a few weeks ago really meant a lot to me.\nYeah, exactly. I've been feeling really down lately, and your kind words really lifted me up.\nSpeaking of being there for each other, do you remember when I reassured you that everything would be okay?\nI just want you to know that I'm always here for you, no matter what.\nI know, I know. I'm sorry. I promise I'll never do something like that again.",
+      "num_turns": 11
+    }
+  ]
+}

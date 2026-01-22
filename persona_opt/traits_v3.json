@@ -1,0 +1,88 @@
+{
+  "version": "3.0",
+  "description": "Data-driven trait dimensions from ConversationChronicles lexical proxy analysis",
+  "traits": [
+    {
+      "id": "R1",
+      "name": "self_other_focus",
+      "description": "Balance between self-focused and other-focused communication",
+      "range": [-1.0, 1.0],
+      "interpretation": {
+        "-1.0": "Highly other-focused (you/we language)",
+        "0.0": "Balanced self/other focus",
+        "1.0": "Highly self-focused (I/me language)"
+      }
+    },
+    {
+      "id": "R2",
+      "name": "emotional_openness",
+      "description": "Tendency to express emotions openly",
+      "range": [-1.0, 1.0],
+      "interpretation": {
+        "-1.0": "Emotionally reserved",
+        "0.0": "Moderate emotional expression",
+        "1.0": "Highly emotionally expressive"
+      }
+    },
+    {
+      "id": "R3",
+      "name": "agency",
+      "description": "Proactive vs reactive orientation",
+      "range": [-1.0, 1.0],
+      "interpretation": {
+        "-1.0": "Reactive, passive",
+        "0.0": "Balanced agency",
+        "1.0": "Highly proactive, agentic"
+      }
+    },
+    {
+      "id": "R4",
+      "name": "planning_structure",
+      "description": "Preference for structure and planning",
+      "range": [-1.0, 1.0],
+      "interpretation": {
+        "-1.0": "Spontaneous, unstructured",
+        "0.0": "Moderate planning",
+        "1.0": "Highly structured, detailed planning"
+      }
+    },
+    {
+      "id": "R5",
+      "name": "outlook_valence",
+      "description": "Optimistic vs pessimistic outlook",
+      "range": [-1.0, 1.0],
+      "interpretation": {
+        "-1.0": "Pessimistic outlook",
+        "0.0": "Neutral/realistic outlook",
+        "1.0": "Optimistic outlook"
+      }
+    },
+    {
+      "id": "R8",
+      "name": "time_orientation",
+      "description": "Past-focused vs future-focused perspective",
+      "range": [-1.0, 1.0],
+      "interpretation": {
+        "-1.0": "Past-focused",
+        "0.0": "Present-focused",
+        "1.0": "Future-focused"
+      }
+    }
+  ],
+  "optional_traits": [
+    {
+      "id": "R6",
+      "name": "vulnerability",
+      "description": "Willingness to express vulnerability",
+      "range": [-1.0, 1.0],
+      "note": "High skew in dataset (2.738), use with caution"
+    },
+    {
+      "id": "R7",
+      "name": "conflict_harmony",
+      "description": "Conflict-seeking vs harmony-seeking",
+      "range": [-1.0, 1.0],
+      "note": "High skew on conflict dimension (3.034), use with caution"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "persona_id": "episode-238726_A",
+  "num_sessions": 5,
+  "sessions": [
+    {
+      "persona_id": "episode-238726_A",
+      "session_idx": 1,
+      "pair_id": "episode-238726",
+      "session_name": "first",
+      "speaker_role": "A",
+      "split": "test",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "Start",
+      "session_summary": "Classmate A revealed their true identity as the heir to the throne of a small European country after discovering their mother's death letter. They plan to go back home and claim their rightful place as the ruler. Classmate B wishes them luck and asks about their life-changing experiences.",
+      "session_text": "Hey, have you heard my big news?\nI finally decided to reveal my true identity as the heir to the throne of a small European country!\nMy mother passed away recently and left a letter revealing the truth about my lineage.\nI'm going to go back home and claim my rightful place as the ruler.\nI hope so. I've been preparing for this moment for a long time, and I want to do right by my country.\nThanks, I can hardly believe it myself. It's been a life-changing experience.\nActually, with everything going on now, I don't think that's going to happen. I have a lot to do back in Europe. But who knows, maybe one day I'll have the opportunity again.",
+      "num_turns": 7
+    },
+    {
+      "persona_id": "episode-238726_A",
+      "session_idx": 2,
+      "pair_id": "episode-238726",
+      "session_name": "second",
+      "speaker_role": "A",
+      "split": "test",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "A few hours after",
+      "session_summary": "Classmate A helped Classmate B find out where their father was laid to rest after feeling like they needed help. Classmate B offered to visit Classmate A's father and suggest visiting Europe and making new memories together.",
+      "session_text": "Hey, B. I wanted to talk to you about something that happened recently.\nYour father's passing really hit me hard, and I felt like I needed to do something to help. That's why I brought him to the funeral.\nI did some research and found out where he was laid to rest. I felt like it was the least I could do, especially since your dad and I were close friends back in the day.\nOf course, B. You're like family to me. And besides, it was the right thing to do.\nAw, thanks. But seriously, if you need anything, don't hesitate to ask. I'm here for you.\nSure, what is it?\nYeah, what about it?\nThat sounds like a great idea! I'd love to show you around. We can catch up on old times and make some new memories too.\nDefinitely. I'm excited already.",
+      "num_turns": 9
+    },
+    {
+      "persona_id": "episode-238726_A",
+      "session_idx": 3,
+      "pair_id": "episode-238726",
+      "session_name": "third",
+      "speaker_role": "A",
+      "split": "test",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "A few hours after",
+      "session_summary": "Classmate A found souvenirs for their friends back home, including a keychain with the name of their city and magnet with a picture of the skyline. Classmate B encouraged Classmate A to share meaningful places with their friends and Classmate A offered support after Classmate B's dad's funeral.",
+      "session_text": " I can't believe I found the perfect souvenirs for my friends back home!\n I got them each a keychain with the name of this city on it and a cute little magnet with a picture of the skyline.\n It took me a few hours, but it was worth it. I wanted to get something special for each of them.\n Well, I've been living here for a while now and it's become a special place to me. I want to share that with my friends back home.\n Exactly. And speaking of caring about people, how are you holding up after your dad's funeral?\n Of course, I'm here for you. I know it's not easy.",
+      "num_turns": 6
+    },
+    {
+      "persona_id": "episode-238726_A",
+      "session_idx": 4,
+      "pair_id": "episode-238726",
+      "session_name": "fourth",
+      "speaker_role": "A",
+      "split": "test",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "A few months after",
+      "session_summary": "Two classmates discuss their time travel adventures and discuss the possibility of future technological advancements, including electric cars, renewable energy sources, and the possibility of creating memories together. They also express gratitude for each other's friendship and memories.",
+      "session_text": "I bet you never guessed that I'm actually a time traveler.\nIt's true! I come from the year 2060.\nA time machine was invented in 2032 and it revolutionized everything. It was a major breakthrough in science and technology.\nIt can be, but we have strict regulations in place to prevent any major disruptions to the timeline. Plus, we only travel to specific time periods for research purposes.\nYes, there are many changes. For example, we have advanced technology, electric cars, and renewable energy sources. Climate change is no longer an issue in our time.\nWho knows? That's the exciting part about time travel. We get to glimpse into the unknown and discover new things about ourselves and the world.\" \nExactly! And who knows, maybe in a few centuries, time travel will become a common and accessible mode of transportation for everyone.\" \nMe too! It's an exciting time to be alive.\" \nHaha, yeah. I can't believe I was living under an assumed name for so long. It feels like another lifetime.\" \nOf course, I was happy to do it. I know how important it is to have closure and say goodbye properly.\" \nAgreed. I'm grateful for our friendship and all the memories we've made.\" \nDefinitely. The possibilities are endless.",
+      "num_turns": 12
+    },
+    {
+      "persona_id": "episode-238726_A",
+      "session_idx": 5,
+      "pair_id": "episode-238726",
+      "session_name": "fifth",
+      "speaker_role": "A",
+      "split": "test",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "A few weeks after",
+      "session_summary": "Classmate A expresses excitement about attending a party dressed in comfortable red shirt and black pants. Classmate B expresses surprise at Classmate A's choice of outfit, reminding them of past experiences such as helping bring their father to his funeral and shopping souvenirs.",
+      "session_text": " I'm excited for the party tonight. I love wearing my favorite red shirt and black pants. It's such a comfortable outfit.\n Thanks! I just hope nobody else wears the same thing.\n Haha, thanks for the vote of confidence. It reminds me of the time when I revealed my real identity to you as the long-lost heir to the throne of my country.\n Yes, I am. But it's not something I think about too often. I like living a more normal life now. Speaking of normal, do you remember when I helped bring your father to his funeral?\n I was glad to do it. And speaking of helpful, I remember when I went to the mall to buy souvenirs for my friends back home. I was so excited to find the perfect gifts for them.\n Thanks, I try to put my best foot forward. But the most surprising thing about me is that I'm actually a time traveler from the year 2060.\n Well, it was all made possible thanks to a time machine that was invented in 2032. I'll tell you more about it sometime.\n Yeah, I am. I think it's going to be a great time.",
+      "num_turns": 8
+    }
+  ]
+}

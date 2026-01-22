@@ -1,0 +1,36 @@
+{
+  "persona_id": "episode-132247_A",
+  "num_sessions": 5,
+  "communication_style": {
+    "avg_utterance_length": 95.5,
+    "exclamation_rate": 0.025,
+    "question_rate": 0.2,
+    "first_person_singular_rate": 0.7,
+    "first_person_plural_rate": 0.3,
+    "second_person_rate": 0.3,
+    "total_utterances": 40,
+    "num_sessions": 5
+  },
+  "relationship_contexts": "{'Neighbors'}",
+  "example_responses": [
+    {
+      "text": "Thanks for coming over, Neighbor B. I wanted to talk to you about our relationship.\nWell, I feel like we haven't been as close lately and I wanted to see if there was anything going on that we needed to address.\nExactly, and I don't want those feelings to continue festering and damaging our friendship.\nMaybe just scheduling some more hangouts or being more intentional about checking in with each other. And if we have any issues or conflicts, being open and honest about them instead of letting th",
+      "relationship": "Neighbors",
+      "session_idx": 1
+    },
+    {
+      "text": "Hey, can I talk to you about something?\nI was chatting with my friend online earlier and realized how sad I felt. She was talking about all the fun they were having at the party, but I couldn't go.\nI just didn't feel like being around people tonight. But now I'm regretting it.\nI don't know, maybe we could do something together later this week?\nThat would be perfect. Thanks for understanding.\nSpeaking of support, remember when we talked about our relationship a few months ago? I feel like we've b",
+      "relationship": "Neighbors",
+      "session_idx": 2
+    },
+    {
+      "text": "Hey, Neighbor B. How are you doing?\nI was wondering if you have some time today. I wanted to talk to you about our relationship.\nYeah, I just feel like we need to have a conversation about where we stand.\nThanks for coming over. I've been feeling a little left out lately.\nWell, my friend was talking to me online about a party she went to, and it made me realize how much I miss having a social life. But I don't want to be around people right now.\nI just need some time to sort things out. But I ap",
+      "relationship": "Neighbors",
+      "session_idx": 3
+    }
+  ],
+  "metadata": {
+    "source": "ConversationChronicles",
+    "extraction_date": "2025-12-15"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "persona_id": "episode-29600_A",
+  "num_sessions": 5,
+  "communication_style": {
+    "avg_utterance_length": 90.04545454545455,
+    "exclamation_rate": 0.11363636363636363,
+    "question_rate": 0.20454545454545456,
+    "first_person_singular_rate": 0.6590909090909091,
+    "first_person_plural_rate": 0.06818181818181818,
+    "second_person_rate": 0.4772727272727273,
+    "total_utterances": 44,
+    "num_sessions": 5
+  },
+  "relationship_contexts": "{'Parent and Child'}",
+  "example_responses": [
+    {
+      "text": "Hi, sweetie. How was your day today?\nI'm sure you did great. You always impress me with your public speaking skills.\nOf course, I remember. What happened?\nYes, I did. I couldn't stand to see someone hurting my little girl like that. I'm always going to be there for you.\nWhat do you mean?\nI understand what you're saying. It's important to know how to handle difficult situations without getting into a confrontation. Maybe we can practice some scenarios and work on your communication skills.\nOf cou",
+      "relationship": "Parent and Child",
+      "session_idx": 1
+    },
+    {
+      "text": "Hey kiddo, how was school today?\nWell, I went to the doctor today.\nYeah, I've been feeling sad lately and the doctor prescribed me Prozac. But I'm actually feeling better now that I'm taking it.\nThanks, sweetie. It's been tough, but I'm grateful to have a way to help manage my sadness.\nJust you being here for me and asking how I'm feeling means a lot. You're always my best friend.\nYou know, this reminds me of when we talked about mental health a few months ago. It's so important to take care of ",
+      "relationship": "Parent and Child",
+      "session_idx": 2
+    },
+    {
+      "text": "I cannot believe your brother. He did not even take the trash out like I asked him to.\nHe is just being rebellious for no good reason.\nI have, but he just gives me attitude and walks away.\nYes, it did. But what does that have to do with your brother's behavior?\nThat is a good point. I guess I need to try to have another conversation with him and see if there is something deeper going on. Thank you for your perspective.",
+      "relationship": "Parent and Child",
+      "session_idx": 3
+    }
+  ],
+  "metadata": {
+    "source": "ConversationChronicles",
+    "extraction_date": "2025-12-15"
+  }
+}

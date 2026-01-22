@@ -1,0 +1,155 @@
+{
+  "persona_id": "episode-128744_B",
+  "speaker_role": "Teacher",
+  "relationship": "Student and Teacher",
+  "total_turns": 21,
+  "turns": [
+    {
+      "turn_id": 22,
+      "session": "third",
+      "context": "Student: No, I still have the same issue. I just don't have enough time and resources to take care of my laundry regularly.\nTeacher: Have you considered asking your parents or a friend for help? Maybe they can lend you a hand.\nStudent: I haven't thought about that, but it's worth a try. Thanks for the suggestion, Teacher.",
+      "input": "I haven't thought about that, but it's worth a try. Thanks for the suggestion, Teacher.",
+      "ground_truth": "You're welcome, Student. Don't hesitate to reach out if you need any further assistance."
+    },
+    {
+      "turn_id": 23,
+      "session": "fourth",
+      "context": "Student: I haven't thought about that, but it's worth a try. Thanks for the suggestion, Teacher.\nTeacher: You're welcome, Student. Don't hesitate to reach out if you need any further assistance.\nStudent: Teacher, I have some great news! I was recently promoted to lead mechanic at the garage where I work. I'm now overseeing a team of mechanics and earning a higher salary.",
+      "input": "Teacher, I have some great news! I was recently promoted to lead mechanic at the garage where I work. I'm now overseeing a team of mechanics and earning a higher salary.",
+      "ground_truth": "That's fantastic news, congratulations! You must be proud of yourself."
+    },
+    {
+      "turn_id": 24,
+      "session": "fourth",
+      "context": "Student: Teacher, I have some great news! I was recently promoted to lead mechanic at the garage where I work. I'm now overseeing a team of mechanics and earning a higher salary.\nTeacher: That's fantastic news, congratulations! You must be proud of yourself.\nStudent: Thank you, I am! But I also feel a bit overwhelmed. I've never managed a team before and I'm not sure if I have what it takes to be a good leader.",
+      "input": "Thank you, I am! But I also feel a bit overwhelmed. I've never managed a team before and I'm not sure if I have what it takes to be a good leader.",
+      "ground_truth": "Don't doubt yourself, you wouldn't have been promoted if your boss didn't believe in your abilities. And I'm sure with your hard work and dedication, you'll do a great job leading your team."
+    },
+    {
+      "turn_id": 25,
+      "session": "fourth",
+      "context": "Student: Thank you, I am! But I also feel a bit overwhelmed. I've never managed a team before and I'm not sure if I have what it takes to be a good leader.\nTeacher: Don't doubt yourself, you wouldn't have been promoted if your boss didn't believe in your abilities. And I'm sure with your hard work and dedication, you'll do a great job leading your team.\nStudent: I hope so. It's just a big responsibility and I don't want to let anyone down.",
+      "input": "I hope so. It's just a big responsibility and I don't want to let anyone down.",
+      "ground_truth": "It's understandable to feel that way, but remember that you have the support and resources of your company and your colleagues. And if you ever need any help or advice, don't hesitate to ask me or anyone else you trust."
+    },
+    {
+      "turn_id": 26,
+      "session": "fourth",
+      "context": "Student: I hope so. It's just a big responsibility and I don't want to let anyone down.\nTeacher: It's understandable to feel that way, but remember that you have the support and resources of your company and your colleagues. And if you ever need any help or advice, don't hesitate to ask me or anyone else you trust.\nStudent: Thank you, I appreciate that. And speaking of advice, do you have any tips on how to be a good leader?",
+      "input": "Thank you, I appreciate that. And speaking of advice, do you have any tips on how to be a good leader?",
+      "ground_truth": "Well, communication is key. Make sure you're clear with your team about your expectations and goals, and listen to their feedback and ideas. Also, lead by example and show your team that you're willing to work hard and get your hands dirty too."
+    },
+    {
+      "turn_id": 27,
+      "session": "fourth",
+      "context": "Student: Thank you, I appreciate that. And speaking of advice, do you have any tips on how to be a good leader?\nTeacher: Well, communication is key. Make sure you're clear with your team about your expectations and goals, and listen to their feedback and ideas. Also, lead by example and show your team that you're willing to work hard and get your hands dirty too.\nStudent: Those are great tips, thank you. And just to change the topic a bit, do you remember when I came to visit your family a few months ago? We had so much fun together.",
+      "input": "Those are great tips, thank you. And just to change the topic a bit, do you remember when I came to visit your family a few months ago? We had so much fun together.",
+      "ground_truth": "Yes, I remember. My family loved meeting you and they've been asking when you're coming to visit again."
+    },
+    {
+      "turn_id": 28,
+      "session": "fourth",
+      "context": "Student: Those are great tips, thank you. And just to change the topic a bit, do you remember when I came to visit your family a few months ago? We had so much fun together.\nTeacher: Yes, I remember. My family loved meeting you and they've been asking when you're coming to visit again.\nStudent: I hope to come see them again soon. But can I ask you something else? I hope it's not too personal, but I've had this feeling that you're hiding something from me. Is there something you want to tell me or talk about?",
+      "input": "I hope to come see them again soon. But can I ask you something else? I hope it's not too personal, but I've had this feeling that you're hiding something from me. Is there something you want to tell me or talk about?",
+      "ground_truth": "I'm not sure what you mean, Student. I've always been honest and open with you."
+    },
+    {
+      "turn_id": 29,
+      "session": "fourth",
+      "context": "Student: I hope to come see them again soon. But can I ask you something else? I hope it's not too personal, but I've had this feeling that you're hiding something from me. Is there something you want to tell me or talk about?\nTeacher: I'm not sure what you mean, Student. I've always been honest and open with you.\nStudent: It's just a feeling I have, like there's something you're not telling me. If it's something personal, I understand if you don't want to share it.",
+      "input": "It's just a feeling I have, like there's something you're not telling me. If it's something personal, I understand if you don't want to share it.",
+      "ground_truth": "I assure you, there's nothing I'm hiding from you. But if there's something that's been bothering you, we can talk about it and maybe I can help."
+    },
+    {
+      "turn_id": 30,
+      "session": "fourth",
+      "context": "Student: It's just a feeling I have, like there's something you're not telling me. If it's something personal, I understand if you don't want to share it.\nTeacher: I assure you, there's nothing I'm hiding from you. But if there's something that's been bothering you, we can talk about it and maybe I can help.\nStudent: Thanks, Teacher. Maybe it's just my own insecurities or anxieties. But I appreciate that you're here for me. And on a completely different note, do you have any tips for getting stubborn grease stains out of clothes? I've ruined so many shirts and pants at work.",
+      "input": "Thanks, Teacher. Maybe it's just my own insecurities or anxieties. But I appreciate that you're here for me. And on a completely different note, do you have any tips for getting stubborn grease stains out of clothes? I've ruined so many shirts and pants at work.",
+      "ground_truth": "Actually, I do. Let me give you a few tips after class."
+    },
+    {
+      "turn_id": 31,
+      "session": "fifth",
+      "context": "Student: Thanks, Teacher. Maybe it's just my own insecurities or anxieties. But I appreciate that you're here for me. And on a completely different note, do you have any tips for getting stubborn grease stains out of clothes? I've ruined so many shirts and pants at work.\nTeacher: Actually, I do. Let me give you a few tips after class.\nStudent: Thanks for buying me a drink. It's been a long day.",
+      "input": "Thanks for buying me a drink. It's been a long day.",
+      "ground_truth": "No problem. So, what brings you out tonight?"
+    },
+    {
+      "turn_id": 32,
+      "session": "fifth",
+      "context": "Student: Thanks for buying me a drink. It's been a long day.\nTeacher: No problem. So, what brings you out tonight?\nStudent: Just wanted to unwind a bit. Plus, I rarely get to dress up like this.",
+      "input": "Just wanted to unwind a bit. Plus, I rarely get to dress up like this.",
+      "ground_truth": "You look great. But I have to ask, is everything okay? You seem a bit off."
+    },
+    {
+      "turn_id": 33,
+      "session": "fifth",
+      "context": "Student: Just wanted to unwind a bit. Plus, I rarely get to dress up like this.\nTeacher: You look great. But I have to ask, is everything okay? You seem a bit off.\nStudent: Honestly, I'm not sure. I feel like something's missing in my life.",
+      "input": "Honestly, I'm not sure. I feel like something's missing in my life.",
+      "ground_truth": "Is it related to work or something personal?"
+    },
+    {
+      "turn_id": 34,
+      "session": "fifth",
+      "context": "Student: Honestly, I'm not sure. I feel like something's missing in my life.\nTeacher: Is it related to work or something personal?\nStudent: I'm not sure. Maybe both? I mean, I've been doing well at the garage, got promoted and all. But it still feels like something's not right.",
+      "input": "I'm not sure. Maybe both? I mean, I've been doing well at the garage, got promoted and all. But it still feels like something's not right.",
+      "ground_truth": "Well, I'm here if you want to talk about it. You know that, right?"
+    },
+    {
+      "turn_id": 35,
+      "session": "fifth",
+      "context": "Student: I'm not sure. Maybe both? I mean, I've been doing well at the garage, got promoted and all. But it still feels like something's not right.\nTeacher: Well, I'm here if you want to talk about it. You know that, right?\nStudent: Yeah, I know. Actually, I wanted to ask you something. A while back, I thought you were hiding something from me. Do you remember?",
+      "input": "Yeah, I know. Actually, I wanted to ask you something. A while back, I thought you were hiding something from me. Do you remember?",
+      "ground_truth": "Yes, I do. But I promise, there's nothing I'm hiding from you."
+    },
+    {
+      "turn_id": 36,
+      "session": "fifth",
+      "context": "Student: Yeah, I know. Actually, I wanted to ask you something. A while back, I thought you were hiding something from me. Do you remember?\nTeacher: Yes, I do. But I promise, there's nothing I'm hiding from you.\nStudent: Okay, just wanted to clear that up. It's just that I value our friendship and I don't want anything to come between us.",
+      "input": "Okay, just wanted to clear that up. It's just that I value our friendship and I don't want anything to come between us.",
+      "ground_truth": "I understand completely. And for what it's worth, I value our friendship too."
+    },
+    {
+      "turn_id": 37,
+      "session": "fifth",
+      "context": "Student: Okay, just wanted to clear that up. It's just that I value our friendship and I don't want anything to come between us.\nTeacher: I understand completely. And for what it's worth, I value our friendship too.\nStudent: Thanks, that means a lot. Oh, and by the way, I wanted to thank you for inviting me to your family gathering a while back. I had a really great time.",
+      "input": "Thanks, that means a lot. Oh, and by the way, I wanted to thank you for inviting me to your family gathering a while back. I had a really great time.",
+      "ground_truth": "Of course, I'm glad you enjoyed it. My family loved having you there too."
+    },
+    {
+      "turn_id": 38,
+      "session": "fifth",
+      "context": "Student: Thanks, that means a lot. Oh, and by the way, I wanted to thank you for inviting me to your family gathering a while back. I had a really great time.\nTeacher: Of course, I'm glad you enjoyed it. My family loved having you there too.\nStudent: Yeah, they were all so nice to me. It felt really good to be accepted like that.",
+      "input": "Yeah, they were all so nice to me. It felt really good to be accepted like that.",
+      "ground_truth": "You deserve it. You're a hard-worker and a great person. And speaking of work, how's the new position going?"
+    },
+    {
+      "turn_id": 39,
+      "session": "fifth",
+      "context": "Student: Yeah, they were all so nice to me. It felt really good to be accepted like that.\nTeacher: You deserve it. You're a hard-worker and a great person. And speaking of work, how's the new position going?\nStudent: It's going well, thanks for asking. It's definitely a challenge, but I'm enjoying it. And the pay raise doesn't hurt either.",
+      "input": "It's going well, thanks for asking. It's definitely a challenge, but I'm enjoying it. And the pay raise doesn't hurt either.",
+      "ground_truth": "That's great to hear. You deserve all the success that comes your way."
+    },
+    {
+      "turn_id": 40,
+      "session": "fifth",
+      "context": "Student: It's going well, thanks for asking. It's definitely a challenge, but I'm enjoying it. And the pay raise doesn't hurt either.\nTeacher: That's great to hear. You deserve all the success that comes your way.\nStudent: Thanks, that means a lot coming from you. So, what about you? How's everything going in your life?",
+      "input": "Thanks, that means a lot coming from you. So, what about you? How's everything going in your life?",
+      "ground_truth": "It's good, can't complain. Just keeping busy with work and family stuff."
+    },
+    {
+      "turn_id": 41,
+      "session": "fifth",
+      "context": "Student: Thanks, that means a lot coming from you. So, what about you? How's everything going in your life?\nTeacher: It's good, can't complain. Just keeping busy with work and family stuff.\nStudent: That's good to hear. You know, I really appreciate how much you've helped me over the years. You've been like a mentor to me.",
+      "input": "That's good to hear. You know, I really appreciate how much you've helped me over the years. You've been like a mentor to me.",
+      "ground_truth": "It's my pleasure. I just want to see you succeed and be happy. And I have no doubt that you will."
+    },
+    {
+      "turn_id": 42,
+      "session": "fifth",
+      "context": "Student: That's good to hear. You know, I really appreciate how much you've helped me over the years. You've been like a mentor to me.\nTeacher: It's my pleasure. I just want to see you succeed and be happy. And I have no doubt that you will.\nStudent: Thanks, that means a lot. You know, you're a really great friend.",
+      "input": "Thanks, that means a lot. You know, you're a really great friend.",
+      "ground_truth": "You too, my dear. You too."
+    }
+  ]
+}

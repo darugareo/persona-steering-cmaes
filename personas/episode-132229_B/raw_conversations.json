@@ -1,0 +1,76 @@
+{
+  "persona_id": "episode-132229_B",
+  "num_sessions": 5,
+  "sessions": [
+    {
+      "persona_id": "episode-132229_B",
+      "session_idx": 1,
+      "pair_id": "episode-132229",
+      "session_name": "first",
+      "speaker_role": "B",
+      "split": "train",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "Start",
+      "session_summary": "Classmate A expresses sadness for Classmate B's passing, but Classmate B expresses sympathy and apologizes for inappropriate behavior. Classmate A expresses appreciation for Classmate B's kindness and apologizes for inappropriate behavior.",
+      "session_text": "I know. It's such a sad day. \nOf course, I wouldn't have missed it. \nI understand. If you need anything, just let me know. \nIt's the least I can do. \nWhat is it? \nOh, thank you. That's sweet of you to say. \nIt's okay. I appreciate the compliment. \nThanks, I'm glad you did. \nNot yet. I think the professor will let us know soon though.",
+      "num_turns": 9
+    },
+    {
+      "persona_id": "episode-132229_B",
+      "session_idx": 2,
+      "pair_id": "episode-132229",
+      "session_name": "second",
+      "speaker_role": "B",
+      "split": "train",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "A couple of years after",
+      "session_summary": "Two classmates discuss saving money by finding secondhand items and finding free stuff on websites. They also discuss the importance of friendship and financial responsibility in life.",
+      "session_text": "That's a good way to be frugal. How often do you buy something new?\nI like treating myself to something new every once in a while, but I try to find deals and sales before purchasing.\nOh yeah, I've used those sites before. Found some great things on there.\nI agree. Hey, speaking of saving money, do you remember when we went to that funeral together?\nI'm glad we were there for each other though. And remember how it started raining and we had to huddle under the tree together?\nAw, that's sweet. I'm glad we were there for each other that day.\nAbsolutely. Friendship and financial responsibility are both important aspects of life.",
+      "num_turns": 7
+    },
+    {
+      "persona_id": "episode-132229_B",
+      "session_idx": 3,
+      "pair_id": "episode-132229",
+      "session_name": "third",
+      "speaker_role": "B",
+      "split": "train",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "A few weeks after",
+      "session_summary": "Two classmates discuss their friendship and friendship. They discuss Classmate A's first meeting with Classmate B at lunch and Classmate B's kindness towards Classmate A. They also discuss Classmate A's recent funeral together and Classmate B suggests checking out Classmate A's new thrift store.",
+      "session_text": "Yeah, of course. You sat with me at lunch and we started talking.\nMe too. You're such a kind and thoughtful person.\nYes, I remember that. It was a tough day.\nI'm glad I could be there for you. You know, you can always talk to me if you're feeling down.\nYes, I remember. I try to be really careful with my money and usually only buy secondhand items.\nIt definitely helps to be mindful of where your money goes. But I also make sure to treat myself every once in a while.\nI'm down! Maybe we can find some cool pieces for cheap.",
+      "num_turns": 7
+    },
+    {
+      "persona_id": "episode-132229_B",
+      "session_idx": 4,
+      "pair_id": "episode-132229",
+      "session_name": "fourth",
+      "speaker_role": "B",
+      "split": "train",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "A few months after",
+      "session_summary": "Classmate A vandalized a garden, trashed flowers, knocked over statues, and apologized to the person responsible for the damage. Classmate B offered support and offered support for Classmate A's feelings of regret and anger.",
+      "session_text": "Oh no, what did you do?\nWhy would you do something like that?\nDid anyone catch you?\nMaybe you could apologize to the person who owns the garden and offer to help fix the damage.\nYou know, I'm really surprised to hear this from you. You've always been so frugal and careful with your money. I wouldn't have expected you to be so reckless.\n(laughs) I remember that. And then we ended up becoming friends after you introduced yourself at lunch and asked me about my interests.\nMe too, and I'm here for you if you ever need support. Like right now, when you're feeling bad about the garden incident.",
+      "num_turns": 7
+    },
+    {
+      "persona_id": "episode-132229_B",
+      "session_idx": 5,
+      "pair_id": "episode-132229",
+      "session_name": "fifth",
+      "speaker_role": "B",
+      "split": "train",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "A few hours after",
+      "session_summary": "Classmate A believes in going the extra mile for their customers and feels valued for their job and people served. Classmate B agrees and emphasizes the importance of creating relationships and making people feel valued. They also discuss Classmate A's past friendships and how Classmate B helped them through past incidents.",
+      "session_text": "That's great, it shows that you care about your job and the people you serve.\nI agree. I think that's why some people are willing to pay more or come back to shop with you again.\nOf course, I remember. It was such a sad occasion but I'm glad I was able to support you.\n(laughs) Oh, thank you. But let's get back to the topic at hand. You were talking about the importance of making people feel valued.\nThat makes sense. I think it's admirable that you find ways to make things work without spending a lot of money.\nYes, I do. I was feeling pretty lonely and it was really nice of you to come over and talk to me.\n(laughs) Really? I had no idea. But I'm glad we ended up becoming friends. You're one of the most caring and genuine people I know.\nWait, what do you mean?\nYeah, that's really messed up. I don't understand why people do things like that.\nDefinitely. It's all about the little things and showing that you care.",
+      "num_turns": 10
+    }
+  ]
+}

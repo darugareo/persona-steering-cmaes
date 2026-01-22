@@ -1,0 +1,56 @@
+{
+  "persona_id": "episode-225888_A",
+  "split": "test",
+  "total_turns": 20,
+  "selected_turns": 4,
+  "selection_rate": 0.2,
+  "turns": [
+    {
+      "user": "Of course, what's up?",
+      "assistant": "It's just that, I feel like I need to apologize again for what I said a few months ago. I still feel guilty about it and want to make things right.",
+      "context": "Classmates B: Anytime. We're friends and we're here for each other.\nClassmates A: Hey, can I talk to you for a bit? I need to ask you something.\nClassmates B: Of course, what's up?",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "過去の出来事への謝罪は関係性特有",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": " I'll have to remember that. Speaking of good deals, I still can't believe how cheap we got those concert tickets for last month.",
+      "assistant": " Yeah, that was such a steal. It was an amazing concert too. I'm glad we found the tickets when we did.",
+      "context": "Classmates B:  That's great to hear. Maybe I'll have to check out the same store and see if they have any good deals.\nClassmates A:  Definitely worth a shot. You never know what kind of deals you might find.\nClassmates B:  I'll have to remember that. Speaking of good deals, I still can't believe how cheap we got those concert tickets for last month.",
+      "persona_specific": true,
+      "specificity_confidence": 5,
+      "specificity_reason": "共有の記憶に基づく応答であるため",
+      "criteria_met": [
+        "共有記憶"
+      ]
+    },
+    {
+      "user": " Me too. It was such a great time hanging out with you and experiencing the music together.",
+      "assistant": " Definitely. We always have a great time together, no matter what we're doing.",
+      "context": "Classmates B:  I'll have to remember that. Speaking of good deals, I still can't believe how cheap we got those concert tickets for last month.\nClassmates A:  Yeah, that was such a steal. It was an amazing concert too. I'm glad we found the tickets when we did.\nClassmates B:  Me too. It was such a great time hanging out with you and experiencing the music together.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "関係性と共有記憶への言及があるため",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": " Agreed. I'm glad we became such good friends. And hey, maybe soon enough we'll be able to get together again and find some more good deals.",
+      "assistant": " That sounds like a plan. I'm always down for some bargain hunting and good times with my best friend.",
+      "context": "Classmates B:  Me too. It was such a great time hanging out with you and experiencing the music together.\nClassmates A:  Definitely. We always have a great time together, no matter what we're doing.\nClassmates B:  Agreed. I'm glad we became such good friends. And hey, maybe soon enough we'll be able to get together again and find some more good deals.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "関係性特有の親しさと共有活動への言及がある",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    }
+  ]
+}

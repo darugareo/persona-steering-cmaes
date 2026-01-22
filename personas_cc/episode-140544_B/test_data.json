@@ -1,0 +1,27 @@
+{
+  "persona_id": "episode-140544_B",
+  "speaker_role": "Mentor",
+  "relationship": "Mentee and Mentor",
+  "utterances": [
+    "I'm glad you came to that realization. It's important to take responsibility for our own expenses.",
+    "Thanks for apologizing, Mentee. I appreciate it.",
+    "That means a lot to me, Mentee. I'm always here to help you in any way I can.",
+    "It's been my pleasure to help you, Mentee. Watching you grow and learn has been very rewarding for me.",
+    "Just keep being the amazing person you are, Mentee. That's all the repayment I need.",
+    "Of course, I'm happy to help. What are you struggling with?",
+    "Well, let's start with the basics. Do you know what a derivative is?",
+    "Excellent. Can you tell me what it means?",
+    "Yes, that's right. And do you know how to take a derivative?",
+    "Sure. Let's start with a simple function. How about f(x) = x^2?",
+    "The derivative of f(x) is written as f'(x) or dy/dx, and it's calculated by taking the limit as delta x approaches zero of the difference quotient, (f(x+delta x) - f(x))/delta x. Can you follow that?",
+    "Great. So if we apply that formula to f(x) = x^2, we get:",
+    "It does, but it simplifies if we expand the binomial and then cancel out the x^2 terms:",
+    "Exactly. So the derivative of x^2 is 2x. Do you understand how I got that?",
+    "Right. And we can do the same thing for any function. The derivative tells us how fast the function is changing at each point, which is really useful in a lot of applications.",
+    "You're welcome. Let me know if you have any more questions. And remember, don't hesitate to ask for help when you need it.",
+    "I'm glad I could help. You know, it's so rewarding to see you learn and grow. Remember when we talked about your impulse buying?",
+    "It happens to the best of us. But I think you've come a long way since then. You're more responsible with your money now, right?",
+    "Yes, I was worried about that situation at the time. But I'm glad we were able to work through it and come to a resolution.",
+    "Oh wow, I'll never forget that. You were so brave. That's why I'm always happy to help you, Mentee. You're like family to me."
+  ]
+}

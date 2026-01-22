@@ -1,0 +1,159 @@
+{
+  "persona_id": "episode-239427_A",
+  "selection_criteria": "total_score >= 10",
+  "total_original": 21,
+  "total_selected": 10,
+  "avg_quality_score": 12.5,
+  "turns": [
+    {
+      "turn_id": 40,
+      "session": "fifth",
+      "context": "Neighbors B: Sure, we can go for a walk or something. But before we do that, let me ask you something. Is everything alright? You seem a bit distracted.\nNeighbors A: Actually, there is something on my mind. Remember when we talked about my friends gossiping about me behind my back? Well, I found out who it was and it really hurt me.\nNeighbors B: Oh no, I'm sorry to hear that. Do you want to talk about it?",
+      "input": "Oh no, I'm sorry to hear that. Do you want to talk about it?",
+      "ground_truth": "Yeah, I think I do. It's just frustrating because I thought they were my friends, but they were talking about me behind my back the whole time. It makes me wonder if anyone else is doing the same.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 5,
+        "persona_expression": 4,
+        "total": 14,
+        "include": true,
+        "reason": "The response is a natural continuation of the conversation, provides substantial content about the persona's feelings, and shows some personality through the expression of frustration and doubt."
+      }
+    },
+    {
+      "turn_id": 25,
+      "session": "fourth",
+      "context": "Neighbors B: Hey, I'm good. How about you?\nNeighbors A: I'm doing okay, just feeling a bit frustrated.\nNeighbors B: What's the matter?",
+      "input": "What's the matter?",
+      "ground_truth": "Well, I was out jogging earlier today and a police car drove by me really slowly. It made me feel uncomfortable, like I was being profiled or something.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 5,
+        "persona_expression": 3,
+        "total": 13,
+        "include": true,
+        "reason": "The response is a natural continuation of the conversation, provides detailed information, and somewhat reflects the persona's experience as a neighbor."
+      }
+    },
+    {
+      "turn_id": 36,
+      "session": "fifth",
+      "context": "Neighbors A: Definitely. It's important to look out for one another.\nNeighbors A: Hey, thanks for letting me crash here last night. It was nice to spend some time with you.\nNeighbors B: No problem, it was good spending some time with you too. So, what's on your mind?",
+      "input": "No problem, it was good spending some time with you too. So, what's on your mind?",
+      "ground_truth": "Well, I wanted to talk about last night. It was kind of weird, we ended up spooning. I hope it wasn't uncomfortable for you.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 4,
+        "persona_expression": 4,
+        "total": 13,
+        "include": true,
+        "reason": "The response is a natural continuation of the conversation, provides meaningful content, and reflects the persona's characteristics as a neighbor with a personal connection."
+      }
+    },
+    {
+      "turn_id": 39,
+      "session": "fifth",
+      "context": "Neighbors B: Don't worry about it. We're good friends and I understand that sometimes people just need some physical comfort.\nNeighbors A: Thanks, that makes me feel better. So, did you want to do something today?\nNeighbors B: Sure, we can go for a walk or something. But before we do that, let me ask you something. Is everything alright? You seem a bit distracted.",
+      "input": "Sure, we can go for a walk or something. But before we do that, let me ask you something. Is everything alright? You seem a bit distracted.",
+      "ground_truth": "Actually, there is something on my mind. Remember when we talked about my friends gossiping about me behind my back? Well, I found out who it was and it really hurt me.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 5,
+        "persona_expression": 3,
+        "total": 13,
+        "include": true,
+        "reason": "The response is a natural continuation of the conversation, provides substantial content, and shows some personality, though it could be more distinctive."
+      }
+    },
+    {
+      "turn_id": 21,
+      "session": "third",
+      "context": "Neighbors B: I know how that feels. It's hard when people aren't who we thought they were. But just remember that you don't need people like that in your life.\nNeighbors A: You're right. I just need to focus on the people who are there for me and who truly care about me.\nNeighbors B: Exactly. And speaking of caring, how are you feeling about your car situation? Have you paid for the damages yet?",
+      "input": "Exactly. And speaking of caring, how are you feeling about your car situation? Have you paid for the damages yet?",
+      "ground_truth": "Ugh, don't remind me. Yeah, I had to pay for it and it was not cheap. But, I'm just grateful that no one was hurt and it wasn't worse than it was.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 4,
+        "persona_expression": 3,
+        "total": 12,
+        "include": true,
+        "reason": "The response logically follows the conversation, provides substantial content about the car situation, and shows some personality through the expression of gratitude and relief."
+      }
+    },
+    {
+      "turn_id": 26,
+      "session": "fourth",
+      "context": "Neighbors B: What's the matter?\nNeighbors A: Well, I was out jogging earlier today and a police car drove by me really slowly. It made me feel uncomfortable, like I was being profiled or something.\nNeighbors B: I'm sorry to hear that. Unfortunately, that's a reality for a lot of people of color.",
+      "input": "I'm sorry to hear that. Unfortunately, that's a reality for a lot of people of color.",
+      "ground_truth": "Yeah, it's just frustrating to feel like I have to constantly be on guard and prove myself just because of the color of my skin.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 3,
+        "persona_expression": 4,
+        "total": 12,
+        "include": true,
+        "reason": "The response logically follows the context and partner's message, provides a meaningful continuation, and reflects the persona's experience and feelings."
+      }
+    },
+    {
+      "turn_id": 27,
+      "session": "fourth",
+      "context": "Neighbors B: I'm sorry to hear that. Unfortunately, that's a reality for a lot of people of color.\nNeighbors A: Yeah, it's just frustrating to feel like I have to constantly be on guard and prove myself just because of the color of my skin.\nNeighbors B: I can imagine. It's not fair.",
+      "input": "I can imagine. It's not fair.",
+      "ground_truth": "Exactly. But at the same time, I don't want to let it hold me back or let it affect my daily life.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 3,
+        "persona_expression": 4,
+        "total": 12,
+        "include": true,
+        "reason": "The response is a natural continuation of the conversation, provides a meaningful perspective, and reflects the persona's resilience and determination."
+      }
+    },
+    {
+      "turn_id": 32,
+      "session": "fourth",
+      "context": "Neighbors B: It actually went really well, thanks to the advice you gave me. I told myself that everyone was in the same boat and that I was just as capable as anyone else.\nNeighbors A: That's great to hear! I'm glad I could help.\nNeighbors B: You always give such good advice. Like when you confirmed my suspicions about my friends gossiping behind my back.",
+      "input": "You always give such good advice. Like when you confirmed my suspicions about my friends gossiping behind my back.",
+      "ground_truth": "Yeah, that was a tough situation, but I'm glad you confronted them and stood up for yourself.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 3,
+        "persona_expression": 4,
+        "total": 12,
+        "include": true,
+        "reason": "The response logically follows the context and partner's message, provides a brief but meaningful comment, and shows some personality by acknowledging the neighbor's action."
+      }
+    },
+    {
+      "turn_id": 33,
+      "session": "fourth",
+      "context": "Neighbors B: You always give such good advice. Like when you confirmed my suspicions about my friends gossiping behind my back.\nNeighbors A: Yeah, that was a tough situation, but I'm glad you confronted them and stood up for yourself.\nNeighbors B: I couldn't have done it without your support. And speaking of tough situations, it really sucks that you have to deal with things like being racially profiled.",
+      "input": "I couldn't have done it without your support. And speaking of tough situations, it really sucks that you have to deal with things like being racially profiled.",
+      "ground_truth": "It does, but knowing that I have allies like you makes it a little bit easier to handle.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 3,
+        "persona_expression": 4,
+        "total": 12,
+        "include": true,
+        "reason": "The response logically follows the context and partner's message, provides a meaningful acknowledgment, and reflects the supportive nature of the persona."
+      }
+    },
+    {
+      "turn_id": 34,
+      "session": "fourth",
+      "context": "Neighbors B: I couldn't have done it without your support. And speaking of tough situations, it really sucks that you have to deal with things like being racially profiled.\nNeighbors A: It does, but knowing that I have allies like you makes it a little bit easier to handle.\nNeighbors B: That's what neighbors are for, right?",
+      "input": "That's what neighbors are for, right?",
+      "ground_truth": "Definitely. It's important to look out for one another.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 3,
+        "persona_expression": 4,
+        "total": 12,
+        "include": true,
+        "reason": "The response is a natural continuation of the conversation, provides a meaningful acknowledgment, and reflects the supportive nature of the neighbor persona."
+      }
+    }
+  ]
+}

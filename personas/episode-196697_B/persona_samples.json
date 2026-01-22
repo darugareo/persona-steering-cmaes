@@ -1,0 +1,30 @@
+{
+  "persona_id": "episode-196697_B",
+  "samples": [
+    {
+      "session": 1,
+      "text": "Yes, I did notice! It's a pretty shade of pink. Is it a new dress?\nIt suits you well. The flowy skirt and the sleeveless design make it perfect for a summer party.\nOh, those sandals make the outfit even better! They bring the perfect balance of simplicity and elegance.\nYou definitely made the right choice. By the way, do you remember the party we attended last month?\nExactly! Well, I still can't believe that crazy incident with the cake.\nI can't believe you're still holding on to that picture!\nAgreed. Let's just dance and have fun tonight!",
+      "relationship": "Classmates"
+    },
+    {
+      "session": 2,
+      "text": "No, you didn't! When did that happen?\nThat sounds lovely! How did it go?\nAww, that sounds so romantic! I'm happy for you both.\nYeah, I think it's great that you took a chance. You never know what can happen.\nThat's amazing. I hope everything works out for you two.\nOh, yeah. I did. It was really comfortable and I got a lot of compliments on it.\nI did! They were the perfect pair of shoes for that dress.",
+      "relationship": "Classmates"
+    },
+    {
+      "session": 3,
+      "text": "What do you mean? Is there something you haven't told me?\nOh wow, I had no idea. That must have been really tough for you.\nThat's really admirable. I'm glad you were able to overcome those challenges.\nOf course! You can always be yourself around me. I value our friendship and want to be there for you no matter what.\nReally? Yes, I would love to go on a date with you.\" \nMe too! Do you have any ideas of where you'd like to go?\" \nSounds perfect. I can't wait!",
+      "relationship": "Classmates"
+    },
+    {
+      "session": 4,
+      "text": "Wow, it must feel surreal being back in your hometown after all these years.\nI know what you mean. It's easy to take your surroundings for granted when you're used to them.\nYeah, how could I forget? I was surprised when you asked me out on a date.\nI think we've both grown a lot since then. It's funny to think about how much has happened over the years.\nOf course I would. You're my friend no matter what. It's important to accept and love people for who they are, flaws and all.\nMe too. It's always great catching up with you and remembering old times.",
+      "relationship": "Classmates"
+    },
+    {
+      "session": 5,
+      "text": " Yeah, it's definitely getting colder out there. But this tea is making it bearable. \n Oh, not too much. Same old, same old. How about you?\n That makes sense. What kind of hobbies do you have?\n That sounds really cool. I wish I had a creative outlet like that. \n Maybe I will. So, do you have any plans for the weekend?\n I was thinking of checking out that new art exhibit downtown. Want to come with?\n Awesome, I'll send you the details later. \n Me too. Hey, speaking of art, do you still paint portraits?\n Well, I was thinking of getting one done for my parents' anniversary. Would you be interested in doing it?\n Great, I'll send some reference photos over for you to work from. \n No problem, I've seen your work and it's amazing. I think they'll love it. \n Always happy to support a talented friend. So, anything else new going on in your life? Any exciting developments? \n Same here. Life can be unpredictable, but as long as we have good friends and good tea, everything will be okay. \n Definitely. You're one of the kindest people I know. \n Aw, shucks. You're making me blush. \n Likewise. It's always nice to have someone to chat with over a cup of tea. ",
+      "relationship": "Classmates"
+    }
+  ]
+}

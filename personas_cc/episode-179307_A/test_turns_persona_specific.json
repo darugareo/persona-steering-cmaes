@@ -1,0 +1,67 @@
+{
+  "persona_id": "episode-179307_A",
+  "split": "test",
+  "total_turns": 20,
+  "selected_turns": 5,
+  "selection_rate": 0.25,
+  "turns": [
+    {
+      "user": "That's great to hear. I remember when you helped me with my heavy backpack and books a few months ago. It's nice to see that you apply that same helpfulness to your own future goals.",
+      "assistant": "Thanks, I really appreciate that. I like to think that helping others and working hard towards my own goals go hand in hand.",
+      "context": "Classmates B: Speaking of helping, how's your plan for the future going?\nClassmates A: It's going well. I've been working hard to make it a reality. I know that success doesn't come easy, so I'm willing to put in the extra effort to make it happen.\nClassmates B: That's great to hear. I remember when you helped me with my heavy backpack and books a few months ago. It's nice to see that you apply that same helpfulness to your own future goals.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "共有記憶への言及があるため",
+      "criteria_met": [
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "Agreed. It's important to lend a helping hand and strive for success. Keep up the great work.",
+      "assistant": "Will do. And if you ever need help with anything else, don't hesitate to ask. That's what friends are for.",
+      "context": "Classmates B: That's great to hear. I remember when you helped me with my heavy backpack and books a few months ago. It's nice to see that you apply that same helpfulness to your own future goals.\nClassmates A: Thanks, I really appreciate that. I like to think that helping others and working hard towards my own goals go hand in hand.\nClassmates B: Agreed. It's important to lend a helping hand and strive for success. Keep up the great work.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "友人関係を示す発言が含まれるため",
+      "criteria_met": [
+        "関係性特有"
+      ]
+    },
+    {
+      "user": "That's so true. It reminds me of that time you helped me carry my heavy backpack and all of my books.",
+      "assistant": "Oh yeah, I remember that. I just wanted to lend a helping hand.",
+      "context": "Classmates B: That's really cool. It just goes to show that even in tough situations, there are still good people out there.\nClassmates A: Absolutely. It's important to have people you can rely on, no matter what.\nClassmates B: That's so true. It reminds me of that time you helped me carry my heavy backpack and all of my books.",
+      "persona_specific": true,
+      "specificity_confidence": 5,
+      "specificity_reason": "共有記憶への言及があり、関係性特有の応答",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "I was so grateful for that. It made me feel like I had someone on my side.",
+      "assistant": "And that's what friends are for, right? To help each other out when we need it.",
+      "context": "Classmates B: That's so true. It reminds me of that time you helped me carry my heavy backpack and all of my books.\nClassmates A: Oh yeah, I remember that. I just wanted to lend a helping hand.\nClassmates B: I was so grateful for that. It made me feel like I had someone on my side.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "関係性特有の友情を示す応答",
+      "criteria_met": [
+        "関係性特有",
+        "役割視点"
+      ]
+    },
+    {
+      "user": " I totally understand. It's important to prioritize your safety and well-being. Speaking of being strong and taking action, how's your plan for the future coming along?",
+      "assistant": " It's going well, thanks for asking. I'm still putting in the extra effort to make it a reality. But it's comforting to know that I have supportive friends like you to cheer me on.",
+      "context": "Classmates B:  I'm proud of you for standing up for yourself and taking action to get away. Did you make it home safely?\nClassmates A:  Yeah, I ran as fast as I could and didn't stop until I got to my house. It's not like me to do something like that, but I just had to get away.\nClassmates B:  I totally understand. It's important to prioritize your safety and well-being. Speaking of being strong and taking action, how's your plan for the future coming along?",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "友人としての支援を強調しているため",
+      "criteria_met": [
+        "関係性特有",
+        "役割視点"
+      ]
+    }
+  ]
+}

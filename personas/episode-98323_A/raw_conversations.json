@@ -1,0 +1,76 @@
+{
+  "persona_id": "episode-98323_A",
+  "num_sessions": 5,
+  "sessions": [
+    {
+      "persona_id": "episode-98323_A",
+      "session_idx": 1,
+      "pair_id": "episode-98323",
+      "session_name": "first",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "Start",
+      "session_summary": "Classmate A lost a mystery novel they had been wanting to read but lost it by mistake. Classmate B suggests searching online or in a second-hand bookstore to find it. Classmate A appreciates learning new things from books and Classmate B offers support.",
+      "session_text": " I found a really good book yesterday, but I threw it away by mistake. Now I feel so sad.\nIt was a mystery novel that I had been wanting to read for so long.\nI went back to where I threw it away, but it was already gone. Someone must have picked it up.\nThat's a good idea! I will try that. Thank you. \nYeah, ever since I was little, books have been my escape from reality.\nHaha, yeah. I still do that sometimes. But now I also appreciate how much books can teach us too.\nAnd that's why I feel like I lost a part of myself when I lost that book.",
+      "num_turns": 7
+    },
+    {
+      "persona_id": "episode-98323_A",
+      "session_idx": 2,
+      "pair_id": "episode-98323",
+      "session_name": "second",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "A couple of years after",
+      "session_summary": "Classmate A can't tell Classmate B how they feel, fearing for his reaction. Classmate B suggests keeping emotions bottled up and trying to find courage to express feelings slowly.",
+      "session_text": " I don't know what to do. I can't tell him how I feel.\n You know who. I can't tell him that I love him.\nNo, it's not that. I'm just scared of his response. What if he doesn't feel the same way?\nI know, but I don't want to ruin our friendship. What if it becomes awkward between us?\nYeah, I guess that's a good idea. And who knows, maybe he feels the same way about me.\n Yeah, I remember. That's completely unrelated though.\n You're right. I'll try to gather the courage to tell him how I feel.",
+      "num_turns": 7
+    },
+    {
+      "persona_id": "episode-98323_A",
+      "session_idx": 3,
+      "pair_id": "episode-98323",
+      "session_name": "third",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "A couple of years after",
+      "session_summary": "Classmate A saw Classmate B crying in the park and asked Classmate B to check on her mom. Classmate B offered to come with them, but Classmate A admitted they had feelings for Classmate B years ago but Classmate A expressed gratitude for Classmate B's friendship and offered to stay close should Classmate B ever need anything.",
+      "session_text": ", I saw your mother crying in the park today. Is everything okay?\nShe seemed really upset, but I stayed with her for a while and talked to her. She didn't want to talk about what was wrong, though.\nDo you want me to come with you, or is it something you want to handle on your own?\nOf course,. We're friends, and that's what friends do for each other. \nHey, speaking of being friends and being there for each other, there's something I've been wanting to tell you. A couple of years ago, I realized that I have feelings for you, but I've been too scared to say anything because I didn't want to ruin our friendship. \nThanks, it's been weighing on me for a while. But it's okay if you don't feel the same way, I just wanted to be honest with you.\nI'm glad too. You mean a lot to me and I don't want anything to change that.\nDefinitely, I wouldn't have it any other way. And if you ever need anything, don't hesitate to ask. \nAnytime,. Let's go see your mom now.",
+      "num_turns": 9
+    },
+    {
+      "persona_id": "episode-98323_A",
+      "session_idx": 4,
+      "pair_id": "episode-98323",
+      "session_name": "fourth",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "A few weeks after",
+      "session_summary": "Classmate A made the soccer team thanks to their leadership qualities and athleticism. Classmate B encouraged Classmate A to think about their actions and feelings, while Classmate A shared memories of past experiences and Classmate B offered support and encouragement.",
+      "session_text": "Hey, guess what? I made the soccer team!\nThanks! The coach said it was because of my leadership qualities and work ethic during tryouts.\nIt's really exciting to be a part of the team. I remember when we used to play soccer together in the park.\nOh man, I remember that. I felt really sad and guilty afterwards. I wish I had just kept it and tried to return it to its owner.\nYeah, definitely. And speaking of thinking about things, there's something I've been wanting to tell you for a while now.\nWell, I've been afraid to tell you, but I have feelings for you. I didn't want to ruin our friendship, but I couldn't keep it bottled up any longer.\nThanks for being understanding. And hey, speaking of surprises, remember when I ran into your mom crying on a bench in the park?\nIt turns out she was going through some tough family issues at the time. I hope things have gotten better for her since then.\nOf course, I'm always here for you and your family. And I'm excited to see where being on the soccer team will take us this year.",
+      "num_turns": 9
+    },
+    {
+      "persona_id": "episode-98323_A",
+      "session_idx": 5,
+      "pair_id": "episode-98323",
+      "session_name": "fifth",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "A few weeks after",
+      "session_summary": "Two classmates discuss their recent inheritances and discuss how money can change people's priorities quickly. They also discuss Classmate A's regretful past mistakes and Classmate B's desire to enjoy their soccer team without worrying about money.",
+      "session_text": ", have you ever thought about what you would do if you inherited a lot of money?\nWell, I recently inherited millions from a relative and it's been life-changing. I feel like I can finally live comfortably and do the things I've always wanted to do.\nYeah, it's definitely a surreal feeling. But at the same time, I don't want it to change who I am as a person.\nExactly. And speaking of priorities, do you remember when I couldn't tell you how I felt because I was afraid of ruining our friendship?\nNo, but I'm glad I didn't risk our friendship. I value our relationship too much.\nA little bit, but I've learned to let it go. I can't dwell on the past forever.\nThank you! It's been a lot of hard work, but also really rewarding.\nExactly. It's nice to have that financial security and not have to stress as much about the little things.",
+      "num_turns": 8
+    }
+  ]
+}

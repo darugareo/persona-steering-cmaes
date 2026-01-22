@@ -1,0 +1,32 @@
+{
+  "episode-184019_A": {
+    "profile": "This persona is defined from past conversations with the model.\nOverall formality: informal\nAverage utterance length: 69.6 characters per message.\nFirst person usage: singular 0.88 per message, plural 0.17 per message.\nPunctuation tendencies: exclamation rate 0.00, question rate 0.24 per message.\nRelationship contexts observed: Unknown: 1.\nBehavioral tendencies (0 to 1 scale): empathy 0.20, assertiveness 0.00, humor 1.00, directness 0.00.\nThe persona usually speaks in an informal, relaxed tone.\nHumor or light joking appears from time to time.\nThe following example utterances should be treated as ground truth for this persona's style, including tone, structure, and typical content."
+  },
+  "episode-239427_A": {
+    "profile": "This persona is defined from past conversations with the model.\nOverall formality: informal\nAverage utterance length: 86.0 characters per message.\nFirst person usage: singular 0.69 per message, plural 0.05 per message.\nPunctuation tendencies: exclamation rate 0.07, question rate 0.17 per message.\nRelationship contexts observed: Unknown: 1.\nBehavioral tendencies (0 to 1 scale): empathy 0.25, assertiveness 0.00, humor 1.00, directness 0.00.\nThe persona usually speaks in an informal, relaxed tone.\nHumor or light joking appears from time to time.\nThe persona often reacts with empathy and emotional awareness.\nThe following example utterances should be treated as ground truth for this persona's style, including tone, structure, and typical content."
+  },
+  "episode-118328_B": {
+    "profile": "This persona is defined from past conversations with the model.\nOverall formality: informal\nAverage utterance length: 62.0 characters per message.\nFirst person usage: singular 0.35 per message, plural 0.15 per message.\nPunctuation tendencies: exclamation rate 0.00, question rate 0.25 per message.\nRelationship contexts observed: Unknown: 1.\nBehavioral tendencies (0 to 1 scale): empathy 0.10, assertiveness 0.00, humor 1.00, directness 0.00.\nThe persona usually speaks in an informal, relaxed tone.\nHumor or light joking appears from time to time.\nThe following example utterances should be treated as ground truth for this persona's style, including tone, structure, and typical content."
+  },
+  "episode-5289_A": {
+    "profile": "The speaker's communication style is casual and emotionally expressive, often using warm interpersonal distance to foster connection. They exhibit a balanced verbosity, combining concise statements with elaborative thoughts, and utilize a mix of directness and supportive discourse markers to encourage dialogue. Sentence structures are generally straightforward, with occasional reflective comments that indicate engagement with the partner's feelings and experiences."
+  },
+  "episode-29600_A": {
+    "profile": "The speaker's communication style is casual and emotionally expressive, often using affectionate terms and supportive language. They exhibit a balanced verbosity, providing enough detail to convey their thoughts without overwhelming the listener. Sentence structures are generally straightforward, with a mix of directness and reflective questioning, while maintaining a warm interpersonal distance that fosters connection. Discourse markers and transitions are present, indicating a conversational flow that encourages dialogue and understanding."
+  },
+  "episode-88279_B": {
+    "profile": "The speaker's communication style is casual and warm, characterized by emotionally expressive interactions that convey friendliness and openness. They tend to use balanced verbosity, providing enough detail to engage while maintaining a conversational flow. Sentence structures are generally straightforward, with a mix of directness and supportive discourse markers, indicating a desire to connect and collaborate with peers."
+  },
+  "episode-132247_A": {
+    "profile": "The speaker's communication style is predominantly casual and emotionally expressive, often using a warm tone that fosters connection. They exhibit a balanced verbosity, providing enough detail to convey their thoughts without being overly wordy. Sentence structures are generally straightforward, with a mix of direct statements and reflective comments, and they occasionally employ discourse markers to enhance the flow of conversation. Overall, their approach is open and engaging, encouraging dialogue and support."
+  },
+  "episode-166805_A": {
+    "profile": "The speaker exhibits a casual communication style, characterized by emotionally expressive language and a warm interpersonal distance. Their utterances are generally balanced in verbosity, combining concise statements with more elaborate explanations when necessary. Sentence structures vary, with a mix of straightforward and complex sentences, and they often employ discourse markers and hedging to navigate conversations, reflecting a tendency towards openness and engagement."
+  },
+  "episode-196697_B": {
+    "profile": "The speaker's communication style is casual and emotionally expressive, often using warm and friendly language to foster connection. Their verbosity is balanced, with a tendency to elaborate on thoughts while maintaining clarity. Sentence structures are varied, incorporating both direct questions and supportive statements, and they frequently use discourse markers to enhance the flow of conversation. Overall, the speaker maintains an approachable and engaging interpersonal distance, encouraging openness and camaraderie."
+  },
+  "episode-225888_A": {
+    "profile": "The speaker's communication style is casual and emotionally expressive, often conveying feelings of guilt and vulnerability while seeking connection. Their verbosity is balanced, with a tendency to elaborate on thoughts without overwhelming the conversation. Interpersonal distance is warm, as they prioritize maintaining relationships and expressing appreciation, while sentence structures are generally straightforward, incorporating a mix of directness and some hedging. Discourse markers are used to navigate transitions in conversation, indicating a conversational flow that invites engagement."
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "persona_id": "episode-204347_A",
+  "num_sessions": 5,
+  "sessions": [
+    {
+      "persona_id": "episode-204347_A",
+      "session_idx": 1,
+      "pair_id": "episode-204347",
+      "session_name": "first",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Co-workers",
+      "role_name": "Co-workers",
+      "time_interval": "Start",
+      "session_summary": "Co-worker A interviewed someone for an open position and felt good about it. They asked tough questions about approaching difficult situations and gave practical answers. Co-worker B suggested moving forward with hiring them and they discussed a project together.",
+      "session_text": "Hey, I just interviewed someone for that open position, and I feel really good about it. \nWell, they had all the necessary qualifications and experience, but what really impressed me was their enthusiasm and eagerness to learn more. \nYeah, I asked them about how they would approach a difficult situation with a client, and they gave a really thoughtful and practical answer. \nDefinitely. I'm going to recommend that we move forward with hiring them. \nWe still have a few other candidates to interview, but I'm hoping we can make a decision by the end of the week. \nSure, what did you want to talk about?",
+      "num_turns": 6
+    },
+    {
+      "persona_id": "episode-204347_A",
+      "session_idx": 2,
+      "pair_id": "episode-204347",
+      "session_name": "second",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Co-workers",
+      "role_name": "Co-workers",
+      "time_interval": "A few months after",
+      "session_summary": "Co-worker B expresses feelings of hurt and anger after getting in a fight with their best friend. Co-worker A suggests honesty and forgiveness, suggesting they both value friendship and work things out together.",
+      "session_text": "Hey, are you okay? You seem a little upset.\nThat's tough. Have you tried talking to her and working things out?\nI understand. It can be hard to let go of hurtful words. Maybe you could try to have an honest conversation with her about how you're feeling and why what she said hurt you.\nI've been in a similar situation before. It might take time, but if you both value your friendship, you can work things out. Remember when I interviewed that person a few months ago and felt confident they'd get the job? It took some time, but they ended up getting the job and have been a great addition to our team.\nOf course. I'm here for you. We'll get through this together.",
+      "num_turns": 5
+    },
+    {
+      "persona_id": "episode-204347_A",
+      "session_idx": 3,
+      "pair_id": "episode-204347",
+      "session_name": "third",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Co-workers",
+      "role_name": "Co-workers",
+      "time_interval": "A few days after",
+      "session_summary": "Co-worker A is anxious about leaving their home and unfamiliar places due to packing and fearful of forgetting important items. Co-worker B suggests reaching out and reminding them to make amends.",
+      "session_text": "*sighs* I can't believe I'm leaving tomorrow. I'm so anxious about this trip.\nI don't like leaving my home and going to unfamiliar places. And there's so much to think about - packing, making sure I have everything I need...\nYeah, but I keep second-guessing myself. What if I forget something important?\nI wish I could do that, but I've been so busy with work that I've only had time to pack tonight.\nYou're right. Thanks for the pep talk, I needed that.\nOh yeah, the person I interviewed got the job. They were a perfect fit for the position.\nNo, we haven't spoken since the fight. It's really been weighing on me.\nI haven't yet, but I probably should. I miss her and I know it was silly to fight in the first place.\nYou're right. Thanks for being a good listener and giving me good advice, as always.",
+      "num_turns": 9
+    },
+    {
+      "persona_id": "episode-204347_A",
+      "session_idx": 4,
+      "pair_id": "episode-204347",
+      "session_name": "fourth",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Co-workers",
+      "role_name": "Co-workers",
+      "time_interval": "A couple of years after",
+      "session_summary": "Co-worker A regrets not trusting Co-worker B, but Co-worker B reminds them that they were wrongly placed on Co-worker A's side. They discuss forgiveness and forgiveness, and Co-worker B reminds them that sometimes it's better to let friendships go. They also discuss Co-worker A's recent trip packing experience and Co-worker B reminds them that trusting oneself is part of the process.",
+      "session_text": "I regret not trusting you, Co-workers B.\nWe used to be really close, but I pushed you away because I didn't trust you.\nI don't know, just various things. But now that I look back on it, I realize that I was wrong not to trust you.\nThat would be great. Speaking of friendships, do you ever talk to that former friend you had a fight with?\nI understand what you mean. Speaking of letting things go, remember when I was packing my suitcase and I was really anxious about my trip?\nYes, I did! It wasn't as scary as I thought it would be.\nDefinitely. I wish I had trusted myself more back then, instead of letting my anxiety take over.",
+      "num_turns": 7
+    },
+    {
+      "persona_id": "episode-204347_A",
+      "session_idx": 5,
+      "pair_id": "episode-204347",
+      "session_name": "fifth",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Co-workers",
+      "role_name": "Co-workers",
+      "time_interval": "A few months after",
+      "session_summary": "Co-worker A decided to give up their cell phone due to constantly checking their phone for notifications or new messages. Co-worker B encouraged them to quit social media altogether and encouraged them to push themselves out of their comfort zone.",
+      "session_text": "I've decided to give up my cell phone.\nI find that I'm constantly checking my phone for notifications or new messages, and I don't want to be so reliant on technology.\nI haven't decided yet. Maybe just for a week or so, but I hope to break the habit of constantly checking my phone.\nYeah, I just want to be more present and engaged in the world around me.\nIt's definitely a challenge, but I think it's worth it in the end.\nYes, I remember. How are things now?\nThat's tough. Have you tried to reach out and reconcile?\nI'm sorry to hear that. Maybe with time she'll come around.\nI understand. Hey, do you remember when I was packing for that trip and I was so anxious about it?\nIt actually turned out to be a great experience. I'm so glad I pushed myself out of my comfort zone.\nI highly recommend it. You never know what you might discover about yourself. \nYes, I do. Why do you bring that up?\nI'm glad I can trust you now too. It's important to have good friends in life.\nYou're right. I'm excited to see how it goes. Thanks for being such a good friend and supporting me.",
+      "num_turns": 14
+    }
+  ]
+}

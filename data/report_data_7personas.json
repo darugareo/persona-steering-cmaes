@@ -1,0 +1,71 @@
+{
+  "generation": {
+    "num_samples": 200,
+    "methods": [
+      "base",
+      "prompt",
+      "equal",
+      "optimized"
+    ],
+    "layer": 22,
+    "alpha": 2.0,
+    "optimized_alpha": 2.0,
+    "model": "meta-llama/Meta-Llama-3-8B-Instruct",
+    "svd_vectors_dir": "data/steering_vectors_v2/R1",
+    "optimized_weights_path": "persona-opt/episode-184019_A/best_weights.json"
+  },
+  "evaluation": {
+    "judge_model": "gpt-4o",
+    "num_samples": 200,
+    "win_rates": {
+      "base_vs_prompt": {
+        "method_a": "base",
+        "method_b": "prompt",
+        "wins_a": 68,
+        "wins_b": 132,
+        "ties": 0,
+        "total": 200
+      },
+      "base_vs_equal": {
+        "method_a": "base",
+        "method_b": "equal",
+        "wins_a": 79,
+        "wins_b": 121,
+        "ties": 0,
+        "total": 200
+      },
+      "base_vs_optimized": {
+        "method_a": "base",
+        "method_b": "optimized",
+        "wins_a": 75,
+        "wins_b": 125,
+        "ties": 0,
+        "total": 200
+      },
+      "equal_vs_optimized": {
+        "method_a": "equal",
+        "method_b": "optimized",
+        "wins_a": 78,
+        "wins_b": 122,
+        "ties": 0,
+        "total": 200
+      }
+    }
+  },
+  "prompt_method_info": "This persona is defined from past conversations with the model.\nOverall formality: informal\nAverage utterance length: 69.6 characters per message.\nFirst person usage: singular 0.88 per message, plural 0.17 per message.\nPunctuation tendencies: exclamation rate 0.00, question rate 0.24 per message.\nRelationship contexts observed: Unknown: 1.\nBehavioral tendencies (0 to 1 scale): empathy 0.20, assertiveness 0.00, humor 1.00, directness 0.00.\nThe persona usually speaks in an informal, relaxed tone.\nHumor or light joking appears from time to time.\nThe following example utterances should be treated as ground truth for this persona's style, including tone, structure, and typical content.",
+  "optimization": {
+    "sample_persona": "episode-184019_A",
+    "layer": 20,
+    "alpha": 2.0,
+    "num_traits": 5,
+    "trait_names": [
+      "R1",
+      "R2",
+      "R3",
+      "R4",
+      "R5"
+    ],
+    "score": 5.0,
+    "converged_at": 3
+  }
+}

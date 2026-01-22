@@ -1,0 +1,76 @@
+{
+  "persona_id": "episode-137872_B",
+  "num_sessions": 5,
+  "sessions": [
+    {
+      "persona_id": "episode-137872_B",
+      "session_idx": 1,
+      "pair_id": "episode-137872",
+      "session_name": "first",
+      "speaker_role": "B",
+      "split": "train",
+      "relationship": "Neighbors",
+      "role_name": "Neighbors",
+      "time_interval": "Start",
+      "session_summary": "Neighbors A tells Neighbors B about a secret they told them about and Neighbors B replies that they didn't care about it. Neighbors A apologizes for not caring about it and Neighbors B assures them they didn't know anything.",
+      "session_text": "Oh, sorry about that. I must have been preoccupied with something else. What was the secret again?\nWait, now you're making me curious. Can you please tell me again?\nAre you sure? I'm interested now.\nWhy would you say that? Of course I care about what you have to say.\nI'm sorry if I gave you that impression. I really do care about what you have to say, so please tell me the secret.\nI assure you, I didn't know anything. So please, go ahead and tell me.",
+      "num_turns": 6
+    },
+    {
+      "persona_id": "episode-137872_B",
+      "session_idx": 2,
+      "pair_id": "episode-137872",
+      "session_name": "second",
+      "speaker_role": "B",
+      "split": "train",
+      "relationship": "Neighbors",
+      "role_name": "Neighbors",
+      "time_interval": "A few months after",
+      "session_summary": "Neighbors A and B discuss their friendship and love for each other's lives. They also discuss the importance of friendship and friendship in Neighbors A's neighborhood.",
+      "session_text": "I'm doing well, thanks for asking. How about you?\nYes, it's a really nice community. I've been living here for a few years now and I still love it.\nNot really, what do you mean?\nHmm, I haven't really noticed anything out of the ordinary. Maybe some people are just moving in and out.\nNot really, I try to keep to myself for the most part. But I have had some friendly conversations here and there.\nThanks, I'll keep that in mind. It's good to know that there are some friendly people around here like yourself.\nThat's true, it's definitely one of the best things about living here.",
+      "num_turns": 7
+    },
+    {
+      "persona_id": "episode-137872_B",
+      "session_idx": 3,
+      "pair_id": "episode-137872",
+      "session_name": "third",
+      "speaker_role": "B",
+      "split": "train",
+      "relationship": "Neighbors",
+      "role_name": "Neighbors",
+      "time_interval": "A few hours after",
+      "session_summary": "Neighbor A expresses love for using their imagination to come up with new adventures and stories. They also discuss Neighbor A's interest in creative activities and suggest Neighbor B collaborate with him on ideas.",
+      "session_text": "Oh yeah? What's that?\nThat's really cool! What kind of stories do you come up with?\nThat sounds like a lot of fun.\nI can definitely understand the appeal of that.\nThat's true. So, have you ever thought about writing down some of your stories?\nThat's a great idea. Who knows, maybe one day you could even turn your stories into a book or a movie.\nThat's awesome. Hey, speaking of worlds, remember when we talked about Neighbors A and how everyone likes him?\nI was just thinking, Neighbors A seems like the kind of guy who would be really good at coming up with fun, creative activities for the neighborhood. Maybe you could collaborate with him on some ideas!",
+      "num_turns": 8
+    },
+    {
+      "persona_id": "episode-137872_B",
+      "session_idx": 4,
+      "pair_id": "episode-137872",
+      "session_name": "fourth",
+      "speaker_role": "B",
+      "split": "train",
+      "relationship": "Neighbors",
+      "role_name": "Neighbors",
+      "time_interval": "A few weeks after",
+      "session_summary": "Neighbors A confesses to Neighbors B that they love him and feel happy for him. Neighbors A expresses gratitude for Neighbors B's support and friendship, while Neighbors B expresses gratitude for their creativity and creativity.",
+      "session_text": "What is it, Neighbors A?\nOh, that's wonderful! Who are you talking about?\nAh, I see. I'm happy for you, Neighbors A. You deserve to be happy.\nThat's great to hear, Neighbors A. I'm sure the future will be bright for both of you.\nOf course I remember. You're a great addition to the neighborhood.\nI completely understand, Neighbors A. It's a wonderful feeling to have people care for you and want the best for you. \nThat's really cool, Neighbors A. I wish I had that kind of imagination.",
+      "num_turns": 7
+    },
+    {
+      "persona_id": "episode-137872_B",
+      "session_idx": 5,
+      "pair_id": "episode-137872",
+      "session_name": "fifth",
+      "speaker_role": "B",
+      "split": "train",
+      "relationship": "Neighbors",
+      "role_name": "Neighbors",
+      "time_interval": "A few months after",
+      "session_summary": "Neighbors A expresses feelings of wanting to hang out with Neighbors B and their friends. Neighbors B suggests that Neighbors A should stick together and enjoy their neighborhood. Neighbors A expresses feelings of alienation and alienation, while Neighbors B expresses feelings of alienation.",
+      "session_text": "No problem, what brings you here?\nImpress us? You don't have to do that, we all like you already.\nListen, Neighbors A, we don't care about what you bring to the table. Just be yourself and hang out with us. Bring your personality, that's what we want.\nNo worries. You should know that being yourself and having fun is the most important thing. Do you want a beer or a smoke?\nNo problem, man. So, have you been enjoying the neighborhood since you moved in?\nThat's great to hear. You know, I remember when we first met and you said hi to me, I knew you were a good guy.\nThat's a good quality to have. So, what do you like to do in your free time?\nThat's awesome! What kind of adventures do you imagine?\nThat sounds like a lot of fun. I used to do that too when I was younger.\nDefinitely not, man. Hey, have you talked to Neighbors C lately?\nJust wondering, they're having a party next week and I thought you might want to come.\nNo problem, man. We're all neighbors here, we should stick together.\nWhat is it?\nWoah, wait what? I didn't expect that.\nI appreciate your honesty, Neighbors A. But I'm sorry, I don't feel that way about you.\nI hope it doesn't change anything between us.\nMe too, man. So, about that party...",
+      "num_turns": 17
+    }
+  ]
+}

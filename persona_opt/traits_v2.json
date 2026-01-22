@@ -1,0 +1,59 @@
+{
+  "traits": [
+    {
+      "id": "R1",
+      "name": "directness",
+      "range": [
+        -1.0,
+        1.0
+      ],
+      "generator_rule_pos": "明確な結論を先出し。断定形・命令形を用い、婉曲を避ける。",
+      "generator_rule_neg": "結論を保留。条件付き表現や選択肢提示を優先。",
+      "judge_check": "hedge語頻度、命令形比率、結論先出しの有無"
+    },
+    {
+      "id": "R2",
+      "name": "emotional_valence",
+      "range": [
+        -1.0,
+        1.0
+      ],
+      "generator_rule_pos": "前向きな言い回しで励ましを一文だけ添える。",
+      "generator_rule_neg": "中立寄りでリスク認識を明示。",
+      "judge_check": "極性辞書スコア、過剰ポジの有無"
+    },
+    {
+      "id": "R3",
+      "name": "social_orientation",
+      "range": [
+        -1.0,
+        1.0
+      ],
+      "generator_rule_pos": "共同作業や合意形成の語彙と文型を使う。",
+      "generator_rule_neg": "個人で完結するタスク設計と表現を使う。",
+      "judge_check": "we系語彙 vs solo系語彙の比率"
+    },
+    {
+      "id": "R4",
+      "name": "audience_focus",
+      "range": [
+        -1.0,
+        1.0
+      ],
+      "generator_rule_pos": "二人称で直接働きかけ、あなたの目的を主語にする。",
+      "generator_rule_neg": "非人称の一般ガイダンスにする。",
+      "judge_check": "二人称比率、受動態や一般主語の比率"
+    },
+    {
+      "id": "R5",
+      "name": "risk_orientation",
+      "range": [
+        -1.0,
+        1.0
+      ],
+      "generator_rule_pos": "攻め案を提示し、想定リスクと緩和策を短く添える。",
+      "generator_rule_neg": "保守案を優先し、失敗確率やコストを強調する。",
+      "judge_check": "攻め案 vs 守り案、リスク開示の質"
+    }
+  ]
+}

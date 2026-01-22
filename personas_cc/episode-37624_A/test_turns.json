@@ -1,0 +1,204 @@
+{
+  "persona_id": "episode-37624_A",
+  "speaker_role": "Parent",
+  "relationship": "Parent and Child",
+  "total_turns": 28,
+  "turns": [
+    {
+      "turn_id": 28,
+      "session": "second",
+      "context": "Child: Thank you, Parent. I appreciate it.\nParent: It was really important to me that you have the opportunity to get a good education without worrying about the cost.\nChild: I'm really grateful for that. What made you decide to start a college fund for me?",
+      "input": "I'm really grateful for that. What made you decide to start a college fund for me?",
+      "ground_truth": "Well, I remember how stressed out I was when I was in college, trying to figure out how to pay for everything. I didn't want you to have to go through that."
+    },
+    {
+      "turn_id": 29,
+      "session": "second",
+      "context": "Child: I'm really grateful for that. What made you decide to start a college fund for me?\nParent: Well, I remember how stressed out I was when I was in college, trying to figure out how to pay for everything. I didn't want you to have to go through that.\nChild: That's understandable. I'm glad you were thinking about me in the long term.",
+      "input": "That's understandable. I'm glad you were thinking about me in the long term.",
+      "ground_truth": "Plus, I know how important education is. I want you to have every opportunity to succeed."
+    },
+    {
+      "turn_id": 30,
+      "session": "second",
+      "context": "Child: That's understandable. I'm glad you were thinking about me in the long term.\nParent: Plus, I know how important education is. I want you to have every opportunity to succeed.\nChild: I will do my best to make the most of this opportunity. I promise.",
+      "input": "I will do my best to make the most of this opportunity. I promise.",
+      "ground_truth": "I have no doubt that you will. It's a proud moment for me to be able to provide this for you."
+    },
+    {
+      "turn_id": 31,
+      "session": "second",
+      "context": "Child: I will do my best to make the most of this opportunity. I promise.\nParent: I have no doubt that you will. It's a proud moment for me to be able to provide this for you.\nChild: You should be proud, Parent. I am very lucky to have you.",
+      "input": "You should be proud, Parent. I am very lucky to have you.",
+      "ground_truth": "And I'm lucky to have you as my child. Let's celebrate with a game of chess, shall we?"
+    },
+    {
+      "turn_id": 32,
+      "session": "third",
+      "context": "Parent: I have no doubt that you will. It's a proud moment for me to be able to provide this for you.\nChild: You should be proud, Parent. I am very lucky to have you.\nParent: And I'm lucky to have you as my child. Let's celebrate with a game of chess, shall we?",
+      "input": "And I'm lucky to have you as my child. Let's celebrate with a game of chess, shall we?",
+      "ground_truth": "I wanted to talk to you about something important."
+    },
+    {
+      "turn_id": 33,
+      "session": "third",
+      "context": "Parent: And I'm lucky to have you as my child. Let's celebrate with a game of chess, shall we?\nParent: I wanted to talk to you about something important.\nChild: Sure, what is it?",
+      "input": "Sure, what is it?",
+      "ground_truth": "I have been thinking about how I can help you out and I think I found a way."
+    },
+    {
+      "turn_id": 34,
+      "session": "third",
+      "context": "Child: Sure, what is it?\nParent: I have been thinking about how I can help you out and I think I found a way.\nChild: Oh, what kind of help do you mean?",
+      "input": "Oh, what kind of help do you mean?",
+      "ground_truth": "I was thinking about getting you into a good therapy program to help you with any struggles you may be facing."
+    },
+    {
+      "turn_id": 35,
+      "session": "third",
+      "context": "Child: Oh, what kind of help do you mean?\nParent: I was thinking about getting you into a good therapy program to help you with any struggles you may be facing.\nChild: Therapy? Why do I need that?",
+      "input": "Therapy? Why do I need that?",
+      "ground_truth": "It's not that you necessarily need it, but it could help you in many ways. Sometimes talking to someone who is trained to listen and help can be very helpful."
+    },
+    {
+      "turn_id": 36,
+      "session": "third",
+      "context": "Child: Therapy? Why do I need that?\nParent: It's not that you necessarily need it, but it could help you in many ways. Sometimes talking to someone who is trained to listen and help can be very helpful.\nChild: I don't know if I want to do something like that.",
+      "input": "I don't know if I want to do something like that.",
+      "ground_truth": "That's okay, it's your decision. I just want you to know that I am here for you and want to help in any way possible."
+    },
+    {
+      "turn_id": 37,
+      "session": "third",
+      "context": "Child: I don't know if I want to do something like that.\nParent: That's okay, it's your decision. I just want you to know that I am here for you and want to help in any way possible.\nChild: Well, actually, now that I think about it, I have been struggling with some things lately. Maybe therapy would be helpful.",
+      "input": "Well, actually, now that I think about it, I have been struggling with some things lately. Maybe therapy would be helpful.",
+      "ground_truth": "I'm glad to hear that. It's important to take care of our mental health just as much as our physical health. And remember, there's nothing to be ashamed of for seeking help when we need it."
+    },
+    {
+      "turn_id": 38,
+      "session": "third",
+      "context": "Child: Well, actually, now that I think about it, I have been struggling with some things lately. Maybe therapy would be helpful.\nParent: I'm glad to hear that. It's important to take care of our mental health just as much as our physical health. And remember, there's nothing to be ashamed of for seeking help when we need it.\nChild: Thanks for being so understanding, Parent.",
+      "input": "Thanks for being so understanding, Parent.",
+      "ground_truth": "Of course, it's the least I can do. And it reminds me of the college fund I set up for you a couple of years ago. I hope that will help make your life easier in the future."
+    },
+    {
+      "turn_id": 39,
+      "session": "fourth",
+      "context": "Child: Thanks for being so understanding, Parent.\nParent: Of course, it's the least I can do. And it reminds me of the college fund I set up for you a couple of years ago. I hope that will help make your life easier in the future.\nChild: Definitely. I'm grateful for everything you do for me.",
+      "input": "Definitely. I'm grateful for everything you do for me.",
+      "ground_truth": "Hi there! How are you and the kids doing today?"
+    },
+    {
+      "turn_id": 40,
+      "session": "fourth",
+      "context": "Child: Definitely. I'm grateful for everything you do for me.\nParent: Hi there! How are you and the kids doing today?\nChild: We're doing well, thanks for asking! Do you want to come inside and play with them?",
+      "input": "We're doing well, thanks for asking! Do you want to come inside and play with them?",
+      "ground_truth": "Of course! I actually brought some board games over, do you guys want to play?"
+    },
+    {
+      "turn_id": 41,
+      "session": "fourth",
+      "context": "Child: We're doing well, thanks for asking! Do you want to come inside and play with them?\nParent: Of course! I actually brought some board games over, do you guys want to play?\nChild: That sounds like fun! Did you bring chess? I remember playing that with you when I was younger.",
+      "input": "That sounds like fun! Did you bring chess? I remember playing that with you when I was younger.",
+      "ground_truth": "Yes, I did bring it. It's been a while since we played, so I thought it would be nice to play together again."
+    },
+    {
+      "turn_id": 42,
+      "session": "fourth",
+      "context": "Child: That sounds like fun! Did you bring chess? I remember playing that with you when I was younger.\nParent: Yes, I did bring it. It's been a while since we played, so I thought it would be nice to play together again.\nChild: That sounds great. You always beat me though, even when I was younger!",
+      "input": "That sounds great. You always beat me though, even when I was younger!",
+      "ground_truth": "Well, practice makes perfect. Speaking of which, how is your college fund coming along?"
+    },
+    {
+      "turn_id": 43,
+      "session": "fourth",
+      "context": "Child: That sounds great. You always beat me though, even when I was younger!\nParent: Well, practice makes perfect. Speaking of which, how is your college fund coming along?\nChild: It's going well, thanks to you. I appreciate you opening it up for me and helping me save for my future.",
+      "input": "It's going well, thanks to you. I appreciate you opening it up for me and helping me save for my future.",
+      "ground_truth": "I'm glad to hear that. I just want to make sure you have all the opportunities you need to succeed. And actually, speaking of opportunities, I recently talked to your parents about possibly getting you into a good therapy program. Is that something you're interested in?"
+    },
+    {
+      "turn_id": 44,
+      "session": "fourth",
+      "context": "Child: It's going well, thanks to you. I appreciate you opening it up for me and helping me save for my future.\nParent: I'm glad to hear that. I just want to make sure you have all the opportunities you need to succeed. And actually, speaking of opportunities, I recently talked to your parents about possibly getting you into a good therapy program. Is that something you're interested in?\nChild: Yeah, I've been considering it myself, actually. I think it could be helpful for me to talk to someone about some of the things I've been going through.",
+      "input": "Yeah, I've been considering it myself, actually. I think it could be helpful for me to talk to someone about some of the things I've been going through.",
+      "ground_truth": "That's great to hear. And always remember, no matter what, I will always be here for you. Which is why I make sure to play with your kids whenever they want to, too."
+    },
+    {
+      "turn_id": 45,
+      "session": "fourth",
+      "context": "Child: Yeah, I've been considering it myself, actually. I think it could be helpful for me to talk to someone about some of the things I've been going through.\nParent: That's great to hear. And always remember, no matter what, I will always be here for you. Which is why I make sure to play with your kids whenever they want to, too.\nChild: Thank you, that means a lot to me. And they always have such a fun time with you.",
+      "input": "Thank you, that means a lot to me. And they always have such a fun time with you.",
+      "ground_truth": "Well, I try my best to be a good friend and grandparent. Speaking of which, do you want to play another game of chess? Maybe I'll take it a little easier on you this time."
+    },
+    {
+      "turn_id": 46,
+      "session": "fifth",
+      "context": "Child: Thank you, that means a lot to me. And they always have such a fun time with you.\nParent: Well, I try my best to be a good friend and grandparent. Speaking of which, do you want to play another game of chess? Maybe I'll take it a little easier on you this time.\nChild: Haha, sure! Let's do it.",
+      "input": "Haha, sure! Let's do it.",
+      "ground_truth": " Wow, I got an A on my math test! I'm so happy."
+    },
+    {
+      "turn_id": 47,
+      "session": "fifth",
+      "context": "Child: Haha, sure! Let's do it.\nParent:  Wow, I got an A on my math test! I'm so happy.\nChild:  That's great, Parent! But I'm a little disappointed that I didn't get a better grade than you.",
+      "input": " That's great, Parent! But I'm a little disappointed that I didn't get a better grade than you.",
+      "ground_truth": " I understand why you might feel that way, but remember, getting a higher score doesn't mean that I'm smarter than you or anything like that. And besides, you still got a really good grade."
+    },
+    {
+      "turn_id": 48,
+      "session": "fifth",
+      "context": "Child:  That's great, Parent! But I'm a little disappointed that I didn't get a better grade than you.\nParent:  I understand why you might feel that way, but remember, getting a higher score doesn't mean that I'm smarter than you or anything like that. And besides, you still got a really good grade.\nChild:  I know, but I just feel like I should be doing better. I've been studying a lot.",
+      "input": " I know, but I just feel like I should be doing better. I've been studying a lot.",
+      "ground_truth": " Well, I'm proud of you for studying so hard. And remember, grades aren't everything. It's important to try your best and learn as much as you can, but it's also important to enjoy learning and not put too much pressure on yourself."
+    },
+    {
+      "turn_id": 49,
+      "session": "fifth",
+      "context": "Child:  I know, but I just feel like I should be doing better. I've been studying a lot.\nParent:  Well, I'm proud of you for studying so hard. And remember, grades aren't everything. It's important to try your best and learn as much as you can, but it's also important to enjoy learning and not put too much pressure on yourself.\nChild:  Yeah, I guess you're right. Thanks for reminding me.",
+      "input": " Yeah, I guess you're right. Thanks for reminding me.",
+      "ground_truth": " Of course. And speaking of learning, have you thought any more about what you might want to study when you go to college?"
+    },
+    {
+      "turn_id": 50,
+      "session": "fifth",
+      "context": "Child:  Yeah, I guess you're right. Thanks for reminding me.\nParent:  Of course. And speaking of learning, have you thought any more about what you might want to study when you go to college?\nChild:  Actually, yeah. I've been thinking about potentially going into psychology.",
+      "input": " Actually, yeah. I've been thinking about potentially going into psychology.",
+      "ground_truth": " That's great! You know, I opened up a college fund for you a few years ago. I'm really proud of all the hard work you're putting in, and I want to make sure you have the opportunity to get a great education."
+    },
+    {
+      "turn_id": 51,
+      "session": "fifth",
+      "context": "Child:  Actually, yeah. I've been thinking about potentially going into psychology.\nParent:  That's great! You know, I opened up a college fund for you a few years ago. I'm really proud of all the hard work you're putting in, and I want to make sure you have the opportunity to get a great education.\nChild:  Thanks so much, Parent. I really appreciate it. But I've been thinking about something else too - I might want to see a therapist myself.",
+      "input": " Thanks so much, Parent. I really appreciate it. But I've been thinking about something else too - I might want to see a therapist myself.",
+      "ground_truth": " Oh, really? Is everything okay?"
+    },
+    {
+      "turn_id": 52,
+      "session": "fifth",
+      "context": "Child:  Thanks so much, Parent. I really appreciate it. But I've been thinking about something else too - I might want to see a therapist myself.\nParent:  Oh, really? Is everything okay?\nChild:  Yeah, I just feel like it would help me work through some stuff.",
+      "input": " Yeah, I just feel like it would help me work through some stuff.",
+      "ground_truth": " I'm glad you feel comfortable talking to me about this. Let's look into finding a good therapist for you together."
+    },
+    {
+      "turn_id": 53,
+      "session": "fifth",
+      "context": "Child:  Yeah, I just feel like it would help me work through some stuff.\nParent:  I'm glad you feel comfortable talking to me about this. Let's look into finding a good therapist for you together.\nChild:  Thanks, Parent. I knew I could count on you to support me. ",
+      "input": " Thanks, Parent. I knew I could count on you to support me. ",
+      "ground_truth": " Always. And hey, speaking of support, how are your kids doing?"
+    },
+    {
+      "turn_id": 54,
+      "session": "fifth",
+      "context": "Child:  Thanks, Parent. I knew I could count on you to support me. \nParent:  Always. And hey, speaking of support, how are your kids doing?\nChild:  They're great! They love spending time with you, by the way.",
+      "input": " They're great! They love spending time with you, by the way.",
+      "ground_truth": " I'm happy to hear that. Being a good friend means being there for you and your family, so I'm always happy to play with them or listen if you ever need to talk."
+    },
+    {
+      "turn_id": 55,
+      "session": "fifth",
+      "context": "Child:  They're great! They love spending time with you, by the way.\nParent:  I'm happy to hear that. Being a good friend means being there for you and your family, so I'm always happy to play with them or listen if you ever need to talk.\nChild:  You're the best, Parent. I really appreciate everything you do for me and my family.",
+      "input": " You're the best, Parent. I really appreciate everything you do for me and my family.",
+      "ground_truth": " Aw, you're making me blush. But really, I'm happy to be there for you in any way I can. That's what family is for, after all."
+    }
+  ]
+}

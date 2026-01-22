@@ -1,0 +1,155 @@
+{
+  "persona_id": "episode-16276_B",
+  "speaker_role": "Boss",
+  "relationship": "Employee and Boss",
+  "total_turns": 21,
+  "turns": [
+    {
+      "turn_id": 1,
+      "session": "first",
+      "context": "Employee: Good morning, Boss.",
+      "input": "Good morning, Boss.",
+      "ground_truth": "Good morning, Employee. What's on your mind today?"
+    },
+    {
+      "turn_id": 2,
+      "session": "first",
+      "context": "Employee: Good morning, Boss.\nBoss: Good morning, Employee. What's on your mind today?\nEmployee: Well, I'm trying not to worry too much about our meeting later today. I don't want to be stressed out.",
+      "input": "Well, I'm trying not to worry too much about our meeting later today. I don't want to be stressed out.",
+      "ground_truth": "I understand, but is there anything specific that's worrying you?"
+    },
+    {
+      "turn_id": 3,
+      "session": "first",
+      "context": "Employee: Well, I'm trying not to worry too much about our meeting later today. I don't want to be stressed out.\nBoss: I understand, but is there anything specific that's worrying you?\nEmployee: I'm a bit nervous about being late to our last meeting. I hope you're not angry with me.",
+      "input": "I'm a bit nervous about being late to our last meeting. I hope you're not angry with me.",
+      "ground_truth": "It's okay, don't worry about it. I know that things come up sometimes. Just make sure you're on time for this meeting."
+    },
+    {
+      "turn_id": 4,
+      "session": "first",
+      "context": "Employee: I'm a bit nervous about being late to our last meeting. I hope you're not angry with me.\nBoss: It's okay, don't worry about it. I know that things come up sometimes. Just make sure you're on time for this meeting.\nEmployee: Yes, I will definitely make sure to be on time. I'm also a bit worried about my job security.",
+      "input": "Yes, I will definitely make sure to be on time. I'm also a bit worried about my job security.",
+      "ground_truth": "Why are you worried about that?"
+    },
+    {
+      "turn_id": 5,
+      "session": "first",
+      "context": "Employee: Yes, I will definitely make sure to be on time. I'm also a bit worried about my job security.\nBoss: Why are you worried about that?\nEmployee: I just feel like I haven't been performing as well as I should be, and I'm afraid it might cost me my job.",
+      "input": "I just feel like I haven't been performing as well as I should be, and I'm afraid it might cost me my job.",
+      "ground_truth": "Have you talked to anyone about this? Maybe we can work together to address any concerns you have."
+    },
+    {
+      "turn_id": 6,
+      "session": "first",
+      "context": "Employee: I just feel like I haven't been performing as well as I should be, and I'm afraid it might cost me my job.\nBoss: Have you talked to anyone about this? Maybe we can work together to address any concerns you have.\nEmployee: No, I haven't. But I appreciate your willingness to help. What do you suggest we do?",
+      "input": "No, I haven't. But I appreciate your willingness to help. What do you suggest we do?",
+      "ground_truth": "Well, let's discuss your job performance and any specific areas you feel you could improve in. We can also set some goals to help you improve."
+    },
+    {
+      "turn_id": 7,
+      "session": "first",
+      "context": "Employee: No, I haven't. But I appreciate your willingness to help. What do you suggest we do?\nBoss: Well, let's discuss your job performance and any specific areas you feel you could improve in. We can also set some goals to help you improve.\nEmployee: That sounds great. Thank you for your support, Boss.",
+      "input": "That sounds great. Thank you for your support, Boss.",
+      "ground_truth": "Of course, that's what I'm here for. Let's have a productive meeting today and work together to ensure your success in this role."
+    },
+    {
+      "turn_id": 8,
+      "session": "second",
+      "context": "Employee: That sounds great. Thank you for your support, Boss.\nBoss: Of course, that's what I'm here for. Let's have a productive meeting today and work together to ensure your success in this role.\nEmployee: I have to admit, I was really nervous about meeting with you today. ",
+      "input": "I have to admit, I was really nervous about meeting with you today. ",
+      "ground_truth": "Really? Why is that? "
+    },
+    {
+      "turn_id": 9,
+      "session": "second",
+      "context": "Employee: I have to admit, I was really nervous about meeting with you today. \nBoss: Really? Why is that? \nEmployee: Well, the last time we met, I was late and I didn't want to anger you or anything. ",
+      "input": "Well, the last time we met, I was late and I didn't want to anger you or anything. ",
+      "ground_truth": "Oh, that's water under the bridge now. I appreciate you being here on time today. "
+    },
+    {
+      "turn_id": 10,
+      "session": "second",
+      "context": "Employee: Well, the last time we met, I was late and I didn't want to anger you or anything. \nBoss: Oh, that's water under the bridge now. I appreciate you being here on time today. \nEmployee: Thank you, that means a lot coming from you. ",
+      "input": "Thank you, that means a lot coming from you. ",
+      "ground_truth": "So, what did you want to talk about today? "
+    },
+    {
+      "turn_id": 11,
+      "session": "second",
+      "context": "Employee: Thank you, that means a lot coming from you. \nBoss: So, what did you want to talk about today? \nEmployee: Actually, I wanted to share something with you. ",
+      "input": "Actually, I wanted to share something with you. ",
+      "ground_truth": "Sure, go ahead. "
+    },
+    {
+      "turn_id": 12,
+      "session": "second",
+      "context": "Employee: Actually, I wanted to share something with you. \nBoss: Sure, go ahead. \nEmployee: I won the game of Scrabble against you last night! ",
+      "input": "I won the game of Scrabble against you last night! ",
+      "ground_truth": "Is that so? Congratulations! "
+    },
+    {
+      "turn_id": 13,
+      "session": "second",
+      "context": "Employee: I won the game of Scrabble against you last night! \nBoss: Is that so? Congratulations! \nEmployee: I know it's not a big deal, but I felt so triumphant. ",
+      "input": "I know it's not a big deal, but I felt so triumphant. ",
+      "ground_truth": "Winning is always a great feeling. It's important to celebrate our victories. "
+    },
+    {
+      "turn_id": 14,
+      "session": "second",
+      "context": "Employee: I know it's not a big deal, but I felt so triumphant. \nBoss: Winning is always a great feeling. It's important to celebrate our victories. \nEmployee: I agree. And it's moments like these that makes me realize how much I appreciate this job. ",
+      "input": "I agree. And it's moments like these that makes me realize how much I appreciate this job. ",
+      "ground_truth": "Glad to hear that. Is there anything else on your mind that we should discuss? "
+    },
+    {
+      "turn_id": 15,
+      "session": "second",
+      "context": "Employee: I agree. And it's moments like these that makes me realize how much I appreciate this job. \nBoss: Glad to hear that. Is there anything else on your mind that we should discuss? \nEmployee: Not really, I think that's all for today. ",
+      "input": "Not really, I think that's all for today. ",
+      "ground_truth": "Alright then, keep up the good work and don't hesitate to reach out if you need anything. "
+    },
+    {
+      "turn_id": 16,
+      "session": "second",
+      "context": "Employee: Not really, I think that's all for today. \nBoss: Alright then, keep up the good work and don't hesitate to reach out if you need anything. \nEmployee: Will do, thank you so much for your time. ",
+      "input": "Will do, thank you so much for your time. ",
+      "ground_truth": "My pleasure, see you next time."
+    },
+    {
+      "turn_id": 17,
+      "session": "third",
+      "context": "Employee: Will do, thank you so much for your time. \nBoss: My pleasure, see you next time.\nEmployee: Hi Boss, how are you today?",
+      "input": "Hi Boss, how are you today?",
+      "ground_truth": "I'm doing well, thanks for asking. How about you?"
+    },
+    {
+      "turn_id": 18,
+      "session": "third",
+      "context": "Employee: Hi Boss, how are you today?\nBoss: I'm doing well, thanks for asking. How about you?\nEmployee: I'm doing pretty good too. I wanted to talk to you about something that happened over the weekend.",
+      "input": "I'm doing pretty good too. I wanted to talk to you about something that happened over the weekend.",
+      "ground_truth": "Sure, what's up?"
+    },
+    {
+      "turn_id": 19,
+      "session": "third",
+      "context": "Employee: I'm doing pretty good too. I wanted to talk to you about something that happened over the weekend.\nBoss: Sure, what's up?\nEmployee: I invited a group of friends to go on an outing and we had a great time together. It was really nice to be able to spend some time with them outside of work.",
+      "input": "I invited a group of friends to go on an outing and we had a great time together. It was really nice to be able to spend some time with them outside of work.",
+      "ground_truth": "That sounds like a lot of fun. What did you guys do?"
+    },
+    {
+      "turn_id": 20,
+      "session": "third",
+      "context": "Employee: I invited a group of friends to go on an outing and we had a great time together. It was really nice to be able to spend some time with them outside of work.\nBoss: That sounds like a lot of fun. What did you guys do?\nEmployee: We went hiking in the mountains and had a picnic lunch. We also played some frisbee and took some photos. It was a really beautiful day.",
+      "input": "We went hiking in the mountains and had a picnic lunch. We also played some frisbee and took some photos. It was a really beautiful day.",
+      "ground_truth": "It sounds like a great day indeed. I'm glad you were able to take some time off and enjoy yourself."
+    },
+    {
+      "turn_id": 21,
+      "session": "third",
+      "context": "Employee: We went hiking in the mountains and had a picnic lunch. We also played some frisbee and took some photos. It was a really beautiful day.\nBoss: It sounds like a great day indeed. I'm glad you were able to take some time off and enjoy yourself.\nEmployee: Yeah, it was nice to get away for a little while. I always feel so much better after spending some time in nature.",
+      "input": "Yeah, it was nice to get away for a little while. I always feel so much better after spending some time in nature.",
+      "ground_truth": "I know what you mean. Speaking of getting away, do you remember that game of Scrabble we played a few years ago?"
+    }
+  ]
+}

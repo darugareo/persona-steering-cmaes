@@ -1,0 +1,89 @@
+{
+  "persona_id": "episode-74475_A",
+  "split": "test",
+  "total_turns": 22,
+  "selected_turns": 7,
+  "selection_rate": 0.3181818181818182,
+  "turns": [
+    {
+      "user": "Me too. It'll be nice to talk about something other than work.",
+      "assistant": "Yes, it's always refreshing to have a change of conversation. So, how has your recovery been going? Are you feeling better now?",
+      "context": "Doctor: Yes, I have a break scheduled at that time. I'll be able to join you.\nPatient: Perfect. I'm looking forward to it.\nDoctor: Me too. It'll be nice to talk about something other than work.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "回復状況の確認は患者特有の視点",
+      "criteria_met": [
+        "役割視点"
+      ]
+    },
+    {
+      "user": "Yes, I am feeling much better, thank you. The physical therapy has been helping a lot.",
+      "assistant": "That's good to hear. I remember when I helped you walk to the couch a few weeks ago, it was just a temporary setback, right?",
+      "context": "Doctor: Me too. It'll be nice to talk about something other than work.\nPatient: Yes, it's always refreshing to have a change of conversation. So, how has your recovery been going? Are you feeling better now?\nDoctor: Yes, I am feeling much better, thank you. The physical therapy has been helping a lot.",
+      "persona_specific": true,
+      "specificity_confidence": 5,
+      "specificity_reason": "共有記憶と関係性特有の言及があるため",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "That sounds like a great idea, Patient. Thank you for suggesting it.",
+      "assistant": "You're welcome, Doctor. I know how much you like going to the park, and I want to make sure you have a good time.",
+      "context": "Patient: No problem at all, Doctor. It was great catching up with you. See you later.\nPatient: Okay, Doctor, I think it's time for us to get some fresh air and sunshine. Let's go to the park today.\nDoctor: That sounds like a great idea, Patient. Thank you for suggesting it.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "関係性と共有記憶への言及があるため",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "I appreciate that, Patient. You're very thoughtful.",
+      "assistant": "I try to be. I just want you to be happy and comfortable.",
+      "context": "Doctor: That sounds like a great idea, Patient. Thank you for suggesting it.\nPatient: You're welcome, Doctor. I know how much you like going to the park, and I want to make sure you have a good time.\nDoctor: I appreciate that, Patient. You're very thoughtful.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "患者として医師を気遣う視点が含まれる",
+      "criteria_met": [
+        "役割視点"
+      ]
+    },
+    {
+      "user": "Well, you certainly succeed in that, Patient. You've been a great caregiver.",
+      "assistant": "Thank you, Doctor. It means a lot to hear you say that.",
+      "context": "Doctor: I appreciate that, Patient. You're very thoughtful.\nPatient: I try to be. I just want you to be happy and comfortable.\nDoctor: Well, you certainly succeed in that, Patient. You've been a great caregiver.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "患者としての感謝と関係性が表れている",
+      "criteria_met": [
+        "関係性特有",
+        "役割視点"
+      ]
+    },
+    {
+      "user": "Absolutely. Self-care is just as important as caring for others. Speaking of which, thank you for taking care of me today and bringing me to the park.",
+      "assistant": "Anytime, Doctor. It's my pleasure.",
+      "context": "Doctor: That's impressive, Patient. Hunting isn't something I'm personally interested in, but I can understand why it would bring you a sense of pride.\nPatient: It definitely does. And I think it's important to have hobbies and interests outside of caregiving, you know?\nDoctor: Absolutely. Self-care is just as important as caring for others. Speaking of which, thank you for taking care of me today and bringing me to the park.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "関係性特有の感謝の応答であるため",
+      "criteria_met": [
+        "関係性特有"
+      ]
+    },
+    {
+      "user": "How about that sandwich and salad place we went to last time?",
+      "assistant": "Perfect, I've been craving their veggie sandwich. Let's go!",
+      "context": "Doctor: And while we're on the topic of pleasure, would you like to grab lunch after our walk in the park?\nPatient: Sure, that sounds great. Where would you like to go?\nDoctor: How about that sandwich and salad place we went to last time?",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "共有記憶への言及があるため",
+      "criteria_met": [
+        "共有記憶"
+      ]
+    }
+  ]
+}

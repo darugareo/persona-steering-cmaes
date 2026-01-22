@@ -1,0 +1,76 @@
+{
+  "persona_id": "episode-98947_A",
+  "num_sessions": 5,
+  "sessions": [
+    {
+      "persona_id": "episode-98947_A",
+      "session_idx": 1,
+      "pair_id": "episode-98947",
+      "session_name": "first",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Neighbors",
+      "role_name": "Neighbors",
+      "time_interval": "Start",
+      "session_summary": "Neighbors A apologizes for what Neighbors B did, but Neighbors B expresses regret for their actions. Neighbors A suggests Surprise Neighbors B, who apologizes and promises forgiveness.",
+      "session_text": "You need to apologize for what you did. And I don't mean a simple sorry. I want you to grovel and beg for my forgiveness.\nThat's not good enough. You need to be more sincere.\nWell, it doesn't sound like it. I don't think you really understand how much you hurt me.\nWell, you need to do better. You need to show me that you're really sorry.\nYou could at least try to make it up to me.\nI don't know. Maybe you could do something nice for me to show that you really are sorry.\nI don't know. Surprise me.\nGood. I expect you to keep your word. ",
+      "num_turns": 8
+    },
+    {
+      "persona_id": "episode-98947_A",
+      "session_idx": 2,
+      "pair_id": "episode-98947",
+      "session_name": "second",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Neighbors",
+      "role_name": "Neighbors",
+      "time_interval": "A few months after",
+      "session_summary": "Neighbor A crashed their car and was taken to the hospital, feeling upset and upset. Neighbor B suggests getting insurance and offering support.",
+      "session_text": "I can't believe I crashed my car. It was completely totaled and I had to be taken to the hospital in an ambulance.\nI'm fine, just a few bruises and soreness. But I can't believe this happened to me.\nI know, but I can't help feeling so upset about it. I loved that car and now it's completely gone.\nI suppose you're right. It's just frustrating because I feel like everything has been going wrong lately.\nActually, now that you mention it, I do have something on my mind. Remember when we talked about how I wanted you to apologize to me?\nWell, I've been thinking a lot about it and I realize now that I was being too harsh. I'm sorry for demanding so much from you.\nThat means a lot to me, thank you for apologizing. I feel like a weight has been lifted off my shoulders.",
+      "num_turns": 7
+    },
+    {
+      "persona_id": "episode-98947_A",
+      "session_idx": 3,
+      "pair_id": "episode-98947",
+      "session_name": "third",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Neighbors",
+      "role_name": "Neighbors",
+      "time_interval": "A few days after",
+      "session_summary": "Neighbor A is already soaked to the bone due to their stupid raincoat. Neighbor B suggests getting a new one but Neighbor A is frustrated and wants to get out of the rainstorm. They both agree that there's no point dwelling on it now, instead offering warm cocoa and advice.",
+      "session_text": "This raincoat is useless! I'm already soaked to the bone.\nYou think I don't know that? But I don't have the money to buy a new one right now.\nI don't know. I just want to get out of this weather. Reminds me of the day I crashed my car. Remember how it was pouring and I couldn't see anything?\nIt was really scary. But I can't help but think if I had a better car or better tires, maybe it wouldn't have happened.\nI know, I know. But it's still frustrating. Just like this stupid raincoat. I can't wait to go inside and change into something dry.",
+      "num_turns": 5
+    },
+    {
+      "persona_id": "episode-98947_A",
+      "session_idx": 4,
+      "pair_id": "episode-98947",
+      "session_name": "fourth",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Neighbors",
+      "role_name": "Neighbors",
+      "time_interval": "A few days after",
+      "session_summary": "Neighbors A and B discuss Neighbors A's petition to speak at the city council meeting. They discuss Neighbors A's concerns about a new development project and Neighbors B suggests adding drainage systems to Neighbors A's list of concerns.",
+      "session_text": "Hey, Neighbors B, have you signed my petition yet?\nThe one I've been gathering signatures for. I'm planning to speak at the upcoming city council meeting.\nIt's about getting the council to listen to our concerns about the new development project in our neighborhood. They've been ignoring our pleas for months now, and I'm hoping that with enough community support, they'll finally take us seriously.\nAbout a hundred, but I still need more. Can you help spread the word and get more people to sign?\nIt's been tough, but I'm getting there. My back and neck still hurt, but I'm seeing a physical therapist and trying to stay positive.\nUgh, don't even get me started. It's so frustrating. I bought it specifically for rainy days like this, but it's not keeping me dry at all.\nThat's a good point. I'll make a note of it. Thanks for the suggestion, Neighbors B.",
+      "num_turns": 7
+    },
+    {
+      "persona_id": "episode-98947_A",
+      "session_idx": 5,
+      "pair_id": "episode-98947",
+      "session_name": "fifth",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Neighbors",
+      "role_name": "Neighbors",
+      "time_interval": "A few months after",
+      "session_summary": "Neighbors A offers Neighbor B help with their lawn work, but Neighbor B expresses gratitude for their help. They also discuss Neighbor A's carpentry background and Neighbor B's desire to help with their city council petition related to road safety and traffic control.",
+      "session_text": "Good morning, Neighbor B! It's a beautiful day to work on your lawn.\nNonsense, I enjoy it. It gives me a sense of accomplishment.\nNo need for thanks. I do it for myself as much as I do it for you. It's a win-win.\nYou're welcome. And don't forget, if you ever need help with anything else, just let me know.\nFunny you should ask. I used to do some woodworking back in the day. I'd be happy to take a look. \nWonderful! I'll bring my tools next Saturday. And while I'm at it, I can touch up those bushes I did last time. \nIt's no problem at all, Neighbor B. I'm always happy to help out a good neighbor. \nWell, I try my best. It's how I was raised. \nIt's healing well, thank you for asking. The physical therapy is tough, but I'm determined to get better. \nActually, I was hoping you could help me gather some signatures for a petition I'm putting together for the city council. \nIt's related to road safety and traffic control. I have some concerns about how fast people are driving on our street, and I think this city council needs to do something about it. \nThanks, Neighbor B! With the two of us working together, I'm sure we can make some real progress. \nAnd I yours, Neighbor B. Now, let's get to work on that lawn.",
+      "num_turns": 13
+    }
+  ]
+}

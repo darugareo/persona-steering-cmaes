@@ -1,0 +1,155 @@
+{
+  "persona_id": "episode-36796_B",
+  "speaker_role": "Doctor",
+  "relationship": "Patient and Doctor",
+  "total_turns": 21,
+  "turns": [
+    {
+      "turn_id": 21,
+      "session": "fourth",
+      "context": "Patient: I haven't really thought about that. Do you think it would help?\nDoctor: Absolutely. Sometimes it's easier to talk to someone who isn't directly involved in our life. They can provide a different perspective and help you work through your emotions. And if you want, we can even work together to find a therapist that you feel comfortable with.\nPatient: That sounds like it could help. I just miss my friend so much and it feels like I'll never be able to fill the void he left in my life.",
+      "input": "That sounds like it could help. I just miss my friend so much and it feels like I'll never be able to fill the void he left in my life.",
+      "ground_truth": "I understand how you feel. However, it's important to remember that you don't have to fill that void entirely. It's okay to have a different kind of relationship with different people. And as you continue to heal, you may find that the void becomes less painful over time."
+    },
+    {
+      "turn_id": 22,
+      "session": "fourth",
+      "context": "Patient: That sounds like it could help. I just miss my friend so much and it feels like I'll never be able to fill the void he left in my life.\nDoctor: I understand how you feel. However, it's important to remember that you don't have to fill that void entirely. It's okay to have a different kind of relationship with different people. And as you continue to heal, you may find that the void becomes less painful over time.\nPatient: That gives me hope. Thank you, Doctor.",
+      "input": "That gives me hope. Thank you, Doctor.",
+      "ground_truth": "Of course, anytime. And if you ever need anything, don't hesitate to reach out to me or someone else you trust. We're here to support you."
+    },
+    {
+      "turn_id": 23,
+      "session": "fifth",
+      "context": "Patient: That gives me hope. Thank you, Doctor.\nDoctor: Of course, anytime. And if you ever need anything, don't hesitate to reach out to me or someone else you trust. We're here to support you.\nPatient:  I am just so angry right now. I don't even know why.",
+      "input": " I am just so angry right now. I don't even know why.",
+      "ground_truth": " Take a deep breath and try to tell me what's been going on."
+    },
+    {
+      "turn_id": 24,
+      "session": "fifth",
+      "context": "Patient:  I am just so angry right now. I don't even know why.\nDoctor:  Take a deep breath and try to tell me what's been going on.\nPatient:  It's just been a lot of stress lately. Work is overwhelming, and I feel like I can't catch a break.",
+      "input": " It's just been a lot of stress lately. Work is overwhelming, and I feel like I can't catch a break.",
+      "ground_truth": " Is there anything specific that's been causing the most stress?"
+    },
+    {
+      "turn_id": 25,
+      "session": "fifth",
+      "context": "Patient:  It's just been a lot of stress lately. Work is overwhelming, and I feel like I can't catch a break.\nDoctor:  Is there anything specific that's been causing the most stress?\nPatient:  I have this big project at work, and I feel like I'm constantly screwing things up. I'm worried that I'm going to get fired.",
+      "input": " I have this big project at work, and I feel like I'm constantly screwing things up. I'm worried that I'm going to get fired.",
+      "ground_truth": " It sounds like you're putting a lot of pressure on yourself to be perfect. No one is perfect, and it's okay to make mistakes."
+    },
+    {
+      "turn_id": 26,
+      "session": "fifth",
+      "context": "Patient:  I have this big project at work, and I feel like I'm constantly screwing things up. I'm worried that I'm going to get fired.\nDoctor:  It sounds like you're putting a lot of pressure on yourself to be perfect. No one is perfect, and it's okay to make mistakes.\nPatient:  I know that logically, but it's hard to put into practice.",
+      "input": " I know that logically, but it's hard to put into practice.",
+      "ground_truth": " Let's work on some relaxation techniques to help you manage your stress. We can also explore some strategies for coping with the fear of making mistakes."
+    },
+    {
+      "turn_id": 27,
+      "session": "fifth",
+      "context": "Patient:  I know that logically, but it's hard to put into practice.\nDoctor:  Let's work on some relaxation techniques to help you manage your stress. We can also explore some strategies for coping with the fear of making mistakes.\nPatient:  That sounds good. I just feel like I'm always on edge.",
+      "input": " That sounds good. I just feel like I'm always on edge.",
+      "ground_truth": " It's important to take care of yourself and manage your stress. And remember, you are doing the best you can. Don't be too hard on yourself."
+    },
+    {
+      "turn_id": 28,
+      "session": "fifth",
+      "context": "Doctor:  It's important to take care of yourself and manage your stress. And remember, you are doing the best you can. Don't be too hard on yourself.\nPatient:  Thanks, Doctor. I really appreciate your help.\nPatient:  Doctor, I have been avoiding making eye contact with you during our sessions.",
+      "input": " Doctor, I have been avoiding making eye contact with you during our sessions.",
+      "ground_truth": " Why is that?"
+    },
+    {
+      "turn_id": 29,
+      "session": "fifth",
+      "context": "Patient:  Doctor, I have been avoiding making eye contact with you during our sessions.\nDoctor:  Why is that?\nPatient:  I find you really attractive, and I don't want to be tempted.",
+      "input": " I find you really attractive, and I don't want to be tempted.",
+      "ground_truth": " That's a normal feeling, but we need to be able to communicate effectively during our sessions. Is there anything specific that's triggering these feelings?"
+    },
+    {
+      "turn_id": 30,
+      "session": "fifth",
+      "context": "Patient:  I find you really attractive, and I don't want to be tempted.\nDoctor:  That's a normal feeling, but we need to be able to communicate effectively during our sessions. Is there anything specific that's triggering these feelings?\nPatient:  I think it's just your personality. You're very kind and understanding, and that makes me feel attracted to you.",
+      "input": " I think it's just your personality. You're very kind and understanding, and that makes me feel attracted to you.",
+      "ground_truth": " It's important to remember that our relationship is strictly professional. However, if you don't feel comfortable talking with me, we can explore other options for your therapy."
+    },
+    {
+      "turn_id": 31,
+      "session": "fifth",
+      "context": "Patient:  I think it's just your personality. You're very kind and understanding, and that makes me feel attracted to you.\nDoctor:  It's important to remember that our relationship is strictly professional. However, if you don't feel comfortable talking with me, we can explore other options for your therapy.\nPatient:  No, I do feel comfortable talking with you. I'll just have to work on managing my feelings.",
+      "input": " No, I do feel comfortable talking with you. I'll just have to work on managing my feelings.",
+      "ground_truth": " That's understandable. We can also work on techniques to help you manage your attraction towards me."
+    },
+    {
+      "turn_id": 32,
+      "session": "fifth",
+      "context": "Doctor:  That's understandable. We can also work on techniques to help you manage your attraction towards me.\nPatient:  Thank you, Doctor. I appreciate your understanding.\nPatient:  Doctor, I recently started two wars and now I feel incredibly guilty.",
+      "input": " Doctor, I recently started two wars and now I feel incredibly guilty.",
+      "ground_truth": " That's a serious matter. Can you tell me more about what happened?"
+    },
+    {
+      "turn_id": 33,
+      "session": "fifth",
+      "context": "Patient:  Doctor, I recently started two wars and now I feel incredibly guilty.\nDoctor:  That's a serious matter. Can you tell me more about what happened?\nPatient:  I thought going to war would be the right thing to do, but now I feel like I made a mistake. I feel guilty about the innocent lives lost.",
+      "input": " I thought going to war would be the right thing to do, but now I feel like I made a mistake. I feel guilty about the innocent lives lost.",
+      "ground_truth": " It's understandable to feel guilty about the consequences of your actions. But it's important to remember that you made those decisions with the best intentions at the time."
+    },
+    {
+      "turn_id": 34,
+      "session": "fifth",
+      "context": "Patient:  I thought going to war would be the right thing to do, but now I feel like I made a mistake. I feel guilty about the innocent lives lost.\nDoctor:  It's understandable to feel guilty about the consequences of your actions. But it's important to remember that you made those decisions with the best intentions at the time.\nPatient:  I know that logically, but I still feel like I did something wrong.",
+      "input": " I know that logically, but I still feel like I did something wrong.",
+      "ground_truth": " Let's work on some ways for you to make amends and help those affected by the wars."
+    },
+    {
+      "turn_id": 35,
+      "session": "fifth",
+      "context": "Doctor:  Let's work on some ways for you to make amends and help those affected by the wars.\nPatient:  That sounds like a good idea.\nPatient:  Doctor, I lost my best friend and I feel so lonely without him.",
+      "input": " Doctor, I lost my best friend and I feel so lonely without him.",
+      "ground_truth": " Losing someone close to you is always difficult. Can you tell me more about your friend?"
+    },
+    {
+      "turn_id": 36,
+      "session": "fifth",
+      "context": "Patient:  Doctor, I lost my best friend and I feel so lonely without him.\nDoctor:  Losing someone close to you is always difficult. Can you tell me more about your friend?\nPatient:  He was my best friend since we were kids. We did everything together, and now I feel lost without him.",
+      "input": " He was my best friend since we were kids. We did everything together, and now I feel lost without him.",
+      "ground_truth": " It's important to allow yourself to grieve and process your feelings. Have you talked to anyone else about how you're feeling?"
+    },
+    {
+      "turn_id": 37,
+      "session": "fifth",
+      "context": "Patient:  He was my best friend since we were kids. We did everything together, and now I feel lost without him.\nDoctor:  It's important to allow yourself to grieve and process your feelings. Have you talked to anyone else about how you're feeling?\nPatient:  Not really. I don't want to burden anyone else with my problems.",
+      "input": " Not really. I don't want to burden anyone else with my problems.",
+      "ground_truth": " It's okay to ask for help and support when you're struggling. Maybe talking to someone else will help you feel less lonely."
+    },
+    {
+      "turn_id": 38,
+      "session": "fifth",
+      "context": "Doctor:  It's okay to ask for help and support when you're struggling. Maybe talking to someone else will help you feel less lonely.\nPatient:  I'll try. Thank you, Doctor.\nPatient:  I am just so angry right now. I don't even know why.",
+      "input": " I am just so angry right now. I don't even know why.",
+      "ground_truth": " Do you remember the last time you felt this way? Is there anything that could be triggering this feeling?"
+    },
+    {
+      "turn_id": 39,
+      "session": "fifth",
+      "context": "Patient:  I am just so angry right now. I don't even know why.\nDoctor:  Do you remember the last time you felt this way? Is there anything that could be triggering this feeling?\nPatient:  I can't think of anything specific. It's just a constant feeling of frustration and irritation.",
+      "input": " I can't think of anything specific. It's just a constant feeling of frustration and irritation.",
+      "ground_truth": " Sometimes when we bury our feelings, they can come out as anger. Is there something you've been avoiding or not dealing with in your life?"
+    },
+    {
+      "turn_id": 40,
+      "session": "fifth",
+      "context": "Patient:  I can't think of anything specific. It's just a constant feeling of frustration and irritation.\nDoctor:  Sometimes when we bury our feelings, they can come out as anger. Is there something you've been avoiding or not dealing with in your life?\nPatient:  I don't think so, but maybe there is something deep down that I haven't been willing to face.",
+      "input": " I don't think so, but maybe there is something deep down that I haven't been willing to face.",
+      "ground_truth": " Let's work on some techniques to help you express and address your emotions. It's important to get to the root of why you're feeling this way."
+    },
+    {
+      "turn_id": 41,
+      "session": "fifth",
+      "context": "Patient:  I don't think so, but maybe there is something deep down that I haven't been willing to face.\nDoctor:  Let's work on some techniques to help you express and address your emotions. It's important to get to the root of why you're feeling this way.\nPatient:  Okay, that sounds good. I just want to feel better.",
+      "input": " Okay, that sounds good. I just want to feel better.",
+      "ground_truth": " We'll work on it together. Remember, it's okay to not be okay, and I'm here to support you."
+    }
+  ]
+}

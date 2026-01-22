@@ -1,0 +1,28 @@
+{
+  "persona_id": "episode-239427_A",
+  "speaker_role": "Neighbors",
+  "relationship": "Neighbors",
+  "split": "train",
+  "num_turns": 42,
+  "num_turns_train": 21,
+  "num_turns_test": 21,
+  "example_utterances": [
+    "I hit a parked car while backing out of my driveway.",
+    "Yeah, I'm fine. But now I have to pay for the damages.",
+    "I'm not sure yet. I'm waiting for the garage to give me an estimate.",
+    "Me too. It's always something. Last month, I had to fix my roof.",
+    "Thanks, me too. It seems like every time I turn around, something else needs fixing.",
+    "Yeah, I suppose you're right. Thanks for listening.",
+    "I totally understand. It can be nerve-wracking starting something new, but just remember that everyone else is in the same boat as you. They're all starting new too.",
+    "Don't worry about that. You're just as capable as anyone else in that school. You'll do great.",
+    "No problem at all. Hey, speaking of making mistakes, remember when I backed out of my driveway and hit a parked car?",
+    "Yeah, it did. I ended up paying for the damages, but it taught me to always be extra careful when backing out of my driveway."
+  ],
+  "traits": {
+    "directness": 0.9989528795811518,
+    "emotional_valence": 0.009314455838729994,
+    "social_orientation": 0.0024390243902439024,
+    "audience_focus": 0.01813454969119809,
+    "risk_orientation": 0.0
+  }
+}

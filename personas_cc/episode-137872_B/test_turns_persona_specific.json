@@ -1,0 +1,163 @@
+{
+  "persona_id": "episode-137872_B",
+  "split": "test",
+  "total_turns": 23,
+  "selected_turns": 13,
+  "selection_rate": 0.5652173913043478,
+  "turns": [
+    {
+      "user": "You know who I'm talking about, Neighbors B. The man I've been seeing.",
+      "assistant": "Ah, I see. I'm happy for you, Neighbors A. You deserve to be happy.",
+      "context": "Neighbors A: I realized that I love him.\nNeighbors B: Oh, that's wonderful! Who are you talking about?\nNeighbors A: You know who I'm talking about, Neighbors B. The man I've been seeing.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "関係性特有の視点と感情が含まれるため",
+      "criteria_met": [
+        "関係性特有",
+        "役割視点"
+      ]
+    },
+    {
+      "user": "Yeah, I really hope so. Actually, this reminds me of when I first moved into the neighborhood. Remember how friendly and welcoming you all were to me?",
+      "assistant": "Of course I remember. You're a great addition to the neighborhood.",
+      "context": "Neighbors A: Thank you. It feels so good to finally admit it to myself and to him. I can't wait to start a new life with him and see what the future holds for us together.\nNeighbors B: That's great to hear, Neighbors A. I'm sure the future will be bright for both of you.\nNeighbors A: Yeah, I really hope so. Actually, this reminds me of when I first moved into the neighborhood. Remember how friendly and welcoming you all were to me?",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "関係性と共有記憶に基づく応答",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "Thanks, Neighbors B. It's just like with him, I felt so happy and accepted. It's such a great feeling to be loved and supported. ",
+      "assistant": "I completely understand, Neighbors A. It's a wonderful feeling to have people care for you and want the best for you. ",
+      "context": "Neighbors A: Yeah, I really hope so. Actually, this reminds me of when I first moved into the neighborhood. Remember how friendly and welcoming you all were to me?\nNeighbors B: Of course I remember. You're a great addition to the neighborhood.\nNeighbors A: Thanks, Neighbors B. It's just like with him, I felt so happy and accepted. It's such a great feeling to be loved and supported. ",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "関係性特有の感情共有があるため",
+      "criteria_met": [
+        "関係性特有",
+        "役割視点"
+      ]
+    },
+    {
+      "user": "Well, I was hoping to hang out with you and your friends sometime. I feel like I need to impress you guys to be a part of the group.",
+      "assistant": "Impress us? You don't have to do that, we all like you already.",
+      "context": "Neighbors A: Hey, Neighbors B! Thanks for having me over.\nNeighbors B: No problem, what brings you here?\nNeighbors A: Well, I was hoping to hang out with you and your friends sometime. I feel like I need to impress you guys to be a part of the group.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "関係性特有の安心感を示す応答",
+      "criteria_met": [
+        "関係性特有",
+        "役割視点"
+      ]
+    },
+    {
+      "user": "Really? I want to be a part of your circle so badly.",
+      "assistant": "Listen, Neighbors A, we don't care about what you bring to the table. Just be yourself and hang out with us. Bring your personality, that's what we want.",
+      "context": "Neighbors A: Well, I was hoping to hang out with you and your friends sometime. I feel like I need to impress you guys to be a part of the group.\nNeighbors B: Impress us? You don't have to do that, we all like you already.\nNeighbors A: Really? I want to be a part of your circle so badly.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "隣人としての関係性を強調しているため",
+      "criteria_met": [
+        "関係性特有",
+        "役割視点"
+      ]
+    },
+    {
+      "user": "I see. Sorry, I just felt like I needed to bring something to be accepted.",
+      "assistant": "No worries. You should know that being yourself and having fun is the most important thing. Do you want a beer or a smoke?",
+      "context": "Neighbors A: Really? I want to be a part of your circle so badly.\nNeighbors B: Listen, Neighbors A, we don't care about what you bring to the table. Just be yourself and hang out with us. Bring your personality, that's what we want.\nNeighbors A: I see. Sorry, I just felt like I needed to bring something to be accepted.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "隣人同士の親しみやすさと気軽さが表現されている",
+      "criteria_met": [
+        "関係性特有",
+        "役割視点"
+      ]
+    },
+    {
+      "user": "Sure, that sounds great! Thanks, Neighbors B. ",
+      "assistant": "No problem, man. So, have you been enjoying the neighborhood since you moved in?",
+      "context": "Neighbors A: I see. Sorry, I just felt like I needed to bring something to be accepted.\nNeighbors B: No worries. You should know that being yourself and having fun is the most important thing. Do you want a beer or a smoke?\nNeighbors A: Sure, that sounds great! Thanks, Neighbors B. ",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "新しい住人への質問は近隣関係特有",
+      "criteria_met": [
+        "関係性特有",
+        "役割視点"
+      ]
+    },
+    {
+      "user": "Yeah, I love it here. Everyone is so friendly and welcoming.",
+      "assistant": "That's great to hear. You know, I remember when we first met and you said hi to me, I knew you were a good guy.",
+      "context": "Neighbors A: Sure, that sounds great! Thanks, Neighbors B. \nNeighbors B: No problem, man. So, have you been enjoying the neighborhood since you moved in?\nNeighbors A: Yeah, I love it here. Everyone is so friendly and welcoming.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "共有記憶への言及があり、関係性特有",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "Really? That's cool. I'm glad I'm not alone in my imagination.",
+      "assistant": "Definitely not, man. Hey, have you talked to Neighbors C lately?",
+      "context": "Neighbors A: Oh, you know, saving the world from some evil villain or rescuing a damsel in distress. It's all in good fun.\nNeighbors B: That sounds like a lot of fun. I used to do that too when I was younger.\nNeighbors A: Really? That's cool. I'm glad I'm not alone in my imagination.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "Neighbors Cへの言及が関係性特有",
+      "criteria_met": [
+        "関係性特有"
+      ]
+    },
+    {
+      "user": "Neighbors C? Not really, why do you ask?",
+      "assistant": "Just wondering, they're having a party next week and I thought you might want to come.",
+      "context": "Neighbors A: Really? That's cool. I'm glad I'm not alone in my imagination.\nNeighbors B: Definitely not, man. Hey, have you talked to Neighbors C lately?\nNeighbors A: Neighbors C? Not really, why do you ask?",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "隣人関係でのパーティー招待は関係性特有",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "Oh, that sounds great! I'd love to come, thanks for letting me know.",
+      "assistant": "No problem, man. We're all neighbors here, we should stick together.",
+      "context": "Neighbors A: Neighbors C? Not really, why do you ask?\nNeighbors B: Just wondering, they're having a party next week and I thought you might want to come.\nNeighbors A: Oh, that sounds great! I'd love to come, thanks for letting me know.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "隣人としての連帯感を示しているため",
+      "criteria_met": [
+        "関係性特有",
+        "役割視点"
+      ]
+    },
+    {
+      "user": "I've realized that I love you, Neighbors B.",
+      "assistant": "Woah, wait what? I didn't expect that.",
+      "context": "Neighbors A: Yeah, I agree. Speaking of sticking together, there's something I need to tell you.\nNeighbors B: What is it?\nNeighbors A: I've realized that I love you, Neighbors B.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "隣人関係での告白に対する驚きの反応",
+      "criteria_met": [
+        "関係性特有"
+      ]
+    },
+    {
+      "user": "Oh, I see. That's okay, I understand.",
+      "assistant": "I hope it doesn't change anything between us.",
+      "context": "Neighbors A: I know, it's a lot to process. But I just wanted to be honest with you and tell you how I feel.\nNeighbors B: I appreciate your honesty, Neighbors A. But I'm sorry, I don't feel that way about you.\nNeighbors A: Oh, I see. That's okay, I understand.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "関係性維持を意識した応答であるため",
+      "criteria_met": [
+        "関係性特有",
+        "役割視点"
+      ]
+    }
+  ]
+}

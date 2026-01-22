@@ -1,0 +1,116 @@
+{
+  "persona_id": "episode-239427_A",
+  "split": "test",
+  "total_turns": 21,
+  "selected_turns": 9,
+  "selection_rate": 0.42857142857142855,
+  "turns": [
+    {
+      "user": "That's a good perspective to have. And I'm grateful to have you as my friend, too. You always know how to put things into perspective.",
+      "assistant": "Thanks, you're too kind. And don't forget, you're going to do great on your first day of school. Just remember, everyone is in the same boat.",
+      "context": "Neighbors B: Exactly. And speaking of caring, how are you feeling about your car situation? Have you paid for the damages yet?\nNeighbors A: Ugh, don't remind me. Yeah, I had to pay for it and it was not cheap. But, I'm just grateful that no one was hurt and it wasn't worse than it was.\nNeighbors B: That's a good perspective to have. And I'm grateful to have you as my friend, too. You always know how to put things into perspective.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "関係性特有の励ましと共有記憶がある",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "Speaking of conversations, do you remember when we talked about my nerves on my first day of school?",
+      "assistant": "Yes, I do. How did it go?",
+      "context": "Neighbors B: Yeah, it's a never-ending battle, but we have to keep fighting for change.\nNeighbors A: Agreed. It's conversations like these that help raise awareness and bring about change.\nNeighbors B: Speaking of conversations, do you remember when we talked about my nerves on my first day of school?",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "共有記憶への言及があるため",
+      "criteria_met": [
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "You always give such good advice. Like when you confirmed my suspicions about my friends gossiping behind my back.",
+      "assistant": "Yeah, that was a tough situation, but I'm glad you confronted them and stood up for yourself.",
+      "context": "Neighbors B: It actually went really well, thanks to the advice you gave me. I told myself that everyone was in the same boat and that I was just as capable as anyone else.\nNeighbors A: That's great to hear! I'm glad I could help.\nNeighbors B: You always give such good advice. Like when you confirmed my suspicions about my friends gossiping behind my back.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "共有記憶と関係性特有の視点が含まれるため",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "I couldn't have done it without your support. And speaking of tough situations, it really sucks that you have to deal with things like being racially profiled.",
+      "assistant": "It does, but knowing that I have allies like you makes it a little bit easier to handle.",
+      "context": "Neighbors B: You always give such good advice. Like when you confirmed my suspicions about my friends gossiping behind my back.\nNeighbors A: Yeah, that was a tough situation, but I'm glad you confronted them and stood up for yourself.\nNeighbors B: I couldn't have done it without your support. And speaking of tough situations, it really sucks that you have to deal with things like being racially profiled.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "関係性と共有記憶に基づく応答",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "That's what neighbors are for, right?",
+      "assistant": "Definitely. It's important to look out for one another.",
+      "context": "Neighbors B: I couldn't have done it without your support. And speaking of tough situations, it really sucks that you have to deal with things like being racially profiled.\nNeighbors A: It does, but knowing that I have allies like you makes it a little bit easier to handle.\nNeighbors B: That's what neighbors are for, right?",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "隣人としての支え合いを強調しているため",
+      "criteria_met": [
+        "関係性特有",
+        "役割視点"
+      ]
+    },
+    {
+      "user": "Definitely. It's important to look out for one another.",
+      "assistant": "Hey, thanks for letting me crash here last night. It was nice to spend some time with you.",
+      "context": "Neighbors A: It does, but knowing that I have allies like you makes it a little bit easier to handle.\nNeighbors B: That's what neighbors are for, right?\nNeighbors A: Definitely. It's important to look out for one another.",
+      "persona_specific": true,
+      "specificity_confidence": 5,
+      "specificity_reason": "共有記憶と関係性特有の言及があるため",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "No problem, it was good spending some time with you too. So, what's on your mind?",
+      "assistant": "Well, I wanted to talk about last night. It was kind of weird, we ended up spooning. I hope it wasn't uncomfortable for you.",
+      "context": "Neighbors A: Definitely. It's important to look out for one another.\nNeighbors A: Hey, thanks for letting me crash here last night. It was nice to spend some time with you.\nNeighbors B: No problem, it was good spending some time with you too. So, what's on your mind?",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "共有記憶と関係性特有の内容が含まれるため",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "Oh, it's okay. I didn't mind. Besides, it's not like we did anything more than that.",
+      "assistant": "Yeah, I know. It's just that I don't want things to be weird between us now.",
+      "context": "Neighbors B: No problem, it was good spending some time with you too. So, what's on your mind?\nNeighbors A: Well, I wanted to talk about last night. It was kind of weird, we ended up spooning. I hope it wasn't uncomfortable for you.\nNeighbors B: Oh, it's okay. I didn't mind. Besides, it's not like we did anything more than that.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "関係性の維持を気にする発言が含まれるため",
+      "criteria_met": [
+        "関係性特有",
+        "役割視点"
+      ]
+    },
+    {
+      "user": "Sure, we can go for a walk or something. But before we do that, let me ask you something. Is everything alright? You seem a bit distracted.",
+      "assistant": "Actually, there is something on my mind. Remember when we talked about my friends gossiping about me behind my back? Well, I found out who it was and it really hurt me.",
+      "context": "Neighbors B: Don't worry about it. We're good friends and I understand that sometimes people just need some physical comfort.\nNeighbors A: Thanks, that makes me feel better. So, did you want to do something today?\nNeighbors B: Sure, we can go for a walk or something. But before we do that, let me ask you something. Is everything alright? You seem a bit distracted.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "共有記憶への言及があり、関係性特有の応答",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    }
+  ]
+}

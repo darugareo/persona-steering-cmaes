@@ -1,0 +1,30 @@
+{
+  "persona_id": "episode-88279_B",
+  "samples": [
+    {
+      "session": 1,
+      "text": "Hi, I'm Classmates B. Nice to meet you too.\nSure, that sounds great.\nI usually bring my own lunch from home, but I'm open to trying something new.\nNo, I haven't. Let's check it out.\nI'm glad we're becoming friends. It's nice to have someone to eat lunch with.\nThat sounds like a great idea. The last movie night I had with friends was so much fun.\nAwesome, I'll bring the soda. It'll be a great night.",
+      "relationship": "Classmates"
+    },
+    {
+      "session": 2,
+      "text": "Really? That's interesting.\nBut don't your feet get cold?\nI see. I personally prefer wearing socks, but I can understand where you're coming from.\nReally? Why?\nI guess that's true. But I think as long as you change your socks regularly and wash them properly, it's not so bad.\nThat's okay, as long as you're comfortable. So, have you ever tried those no-show socks?\nThey're designed to give you the coverage of socks without actually showing, so maybe you can try those if you ever want to wear socks.\nNo problem, always happy to help. So, have you had any luck finding those shoes you were looking for last week?\nThat's great to hear! I'm glad you finally found them.",
+      "relationship": "Classmates"
+    },
+    {
+      "session": 3,
+      "text": "I'm good, thanks for asking. How about you?\nSure, what's up?\nOh, yeah. I was really hoping to try that new cocktail they had on the menu.\nIt's okay, I understand. But I was just wondering why you didn't want to buy me a drink. Did you not have enough money or something?\nThat's kind of harsh. We both just got paid, so it's not like it would have put a dent in your wallet.\nWell, I appreciate you apologizing. Maybe next time we go out, we can split the bill or something.\nNo worries, I can see why you wouldn't want to wear socks all the time. It's just not for me. But I'm glad we're still friends.",
+      "relationship": "Classmates"
+    },
+    {
+      "session": 4,
+      "text": "That's awesome! What makes them so perfect?\nYeah, finding a good pair of jeans can be a challenge. Remember when you were telling me about how you never wear socks?\nWell, maybe you should try wearing socks with those jeans. I know sometimes when I wear certain pants without socks, it just feels weird.\nYeah, why was that?\nIt's okay, don't worry about it. I'm just glad we're still friends.\nYeah, it's nice to have someone to share memories with. And now we have new memories to make with those jeans of yours.",
+      "relationship": "Classmates"
+    },
+    {
+      "session": 5,
+      "text": "No problem,. I'm always happy to help you out.\nAw, thanks. You're a great friend to me too. \nOh? How?\n*laughs* Aww, you're so sweet,. \nI know you do,. And I care about you too. \nI've been good, thanks. How about you? \nYeah, I remember. \nOh really? That's cool. Let me know how they work out for you.\nYeah, I remember that too.\nIt's okay. You don't have to apologize anymore. \nYes, I do. Did you end up buying them?\nYay, that's great to hear! \nDefinitely. Hey, speaking of finding things, did you hear about that new restaurant that just opened up? ",
+      "relationship": "Classmates"
+    }
+  ]
+}

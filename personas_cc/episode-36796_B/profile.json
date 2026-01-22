@@ -1,0 +1,28 @@
+{
+  "persona_id": "episode-36796_B",
+  "speaker_role": "Doctor",
+  "relationship": "Patient and Doctor",
+  "split": "train",
+  "num_turns": 41,
+  "num_turns_train": 20,
+  "num_turns_test": 21,
+  "example_utterances": [
+    "I understand how you feel. Conferences can be overwhelming, especially if it's your first time.",
+    "Well, the most important thing is to be prepared. Make sure you have all the necessary materials and information about the conference.",
+    "Also, don't be afraid to ask questions or ask for help if you need it. You're not expected to know everything, especially if it's your first time.",
+    "And finally, try to stay calm and focused. Take breaks if you need to, and take care of yourself both physically and mentally.",
+    "Happy to help. And remember, you got this. Just take it one step at a time.",
+    "I see. Thank you for being honest with me. It's important for us to establish boundaries in our professional relationship.",
+    "I appreciate your commitment to our therapeutic goals. Is there anything in particular that made you feel tempted by me?",
+    "That's exactly right. Maintaining professional boundaries is necessary for our work together to be effective. Is there anything else you'd like to discuss today?",
+    "That's understandable. Let's talk about some strategies for managing your stress and feeling prepared for the conference. Have you done any research or reached out to anyone for guidance?",
+    "I'm sorry to hear that, Patient. Can you tell me more about why you started these wars?"
+  ],
+  "traits": {
+    "directness": 0.997639455782313,
+    "emotional_valence": 0.002771742134029105,
+    "social_orientation": 0.011356475923702815,
+    "audience_focus": 0.06368744237050998,
+    "risk_orientation": 0.0
+  }
+}

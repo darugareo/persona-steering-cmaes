@@ -1,0 +1,99 @@
+{
+  "persona_id": "episode-145896_A",
+  "split": "test",
+  "total_turns": 22,
+  "selected_turns": 8,
+  "selection_rate": 0.36363636363636365,
+  "turns": [
+    {
+      "user": "I'm glad you're taking care of yourself and getting better. And speaking of taking care of things, I know you've been working hard, but unfortunately, I still can't give you a raise at this time.",
+      "assistant": "(sighs) I understand,. But I still feel like I deserve it. I've been putting in a lot of effort and going above and beyond my duties.",
+      "context": "Boss: That's good to hear. And how's your rash? Did it clear up?\nEmployee: Yeah, the rash is gone too. It turns out I was allergic to something in my laundry detergent.\nBoss: I'm glad you're taking care of yourself and getting better. And speaking of taking care of things, I know you've been working hard, but unfortunately, I still can't give you a raise at this time.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "役割特有の感情と視点が含まれるため",
+      "criteria_met": [
+        "役割視点"
+      ]
+    },
+    {
+      "user": "I appreciate your hard work,, but the company's budget is tight right now. Let's keep this conversation in mind and revisit it in the future when things are more stable.",
+      "assistant": "Okay, I understand. I'll keep doing my best and hope that eventually, my hard work will pay off.",
+      "context": "Boss: I'm glad you're taking care of yourself and getting better. And speaking of taking care of things, I know you've been working hard, but unfortunately, I still can't give you a raise at this time.\nEmployee: (sighs) I understand,. But I still feel like I deserve it. I've been putting in a lot of effort and going above and beyond my duties.\nBoss: I appreciate your hard work,, but the company's budget is tight right now. Let's keep this conversation in mind and revisit it in the future when things are more stable.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "役割特有の視点と感情が含まれる",
+      "criteria_met": [
+        "役割視点"
+      ]
+    },
+    {
+      "user": "That's the spirit,. Keep working hard and the rewards will come eventually.",
+      "assistant": "Hey Boss, can I talk to you for a minute?",
+      "context": "Boss: I appreciate your hard work,, but the company's budget is tight right now. Let's keep this conversation in mind and revisit it in the future when things are more stable.\nEmployee: Okay, I understand. I'll keep doing my best and hope that eventually, my hard work will pay off.\nBoss: That's the spirit,. Keep working hard and the rewards will come eventually.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "上司に直接話しかけるのは従業員特有の行動",
+      "criteria_met": [
+        "関係性特有",
+        "役割視点"
+      ]
+    },
+    {
+      "user": "Sure, what's up?",
+      "assistant": "Well, I've been working here for a while now and I think it's time for a raise.",
+      "context": "Boss: That's the spirit,. Keep working hard and the rewards will come eventually.\nEmployee: Hey Boss, can I talk to you for a minute?\nBoss: Sure, what's up?",
+      "persona_specific": true,
+      "specificity_confidence": 5,
+      "specificity_reason": "役割特有の視点で昇給を求めているため",
+      "criteria_met": [
+        "役割視点"
+      ]
+    },
+    {
+      "user": "I understand that you feel you deserve a raise, but we're not really in a position to do that at the moment. Our budget is tight and we need to be careful with our spending.",
+      "assistant": "I know, but I've been working really hard and I just think it's fair to be compensated for that.",
+      "context": "Boss: Sure, what's up?\nEmployee: Well, I've been working here for a while now and I think it's time for a raise.\nBoss: I understand that you feel you deserve a raise, but we're not really in a position to do that at the moment. Our budget is tight and we need to be careful with our spending.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "役割特有の視点と感情が含まれるため",
+      "criteria_met": [
+        "役割視点"
+      ]
+    },
+    {
+      "user": "Okay, I'll make an appointment.",
+      "assistant": "Hey Boss, can I talk to you about something that happened to me?",
+      "context": "Employee: No, not yet. I was hoping to just tough it out, but it's getting worse.\nBoss: I think it would be best for you to go see a doctor and get it checked out. Your health is important and we want you to be feeling your best.\nEmployee: Okay, I'll make an appointment.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "上司への相談は役割特有の視点を含む",
+      "criteria_met": [
+        "役割視点"
+      ]
+    },
+    {
+      "user": "That sounds really difficult. Is there anything I can do to help? Maybe we can give you some time off or reduce your workload for a bit to help you recover.",
+      "assistant": "That would be great, thank you. I just need to rest and let it heal.",
+      "context": "Boss: Oh no, are you okay?\nEmployee: It's been pretty painful to walk on, so I went to the doctor and they confirmed that I have a sprain.\nBoss: That sounds really difficult. Is there anything I can do to help? Maybe we can give you some time off or reduce your workload for a bit to help you recover.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "役割特有の視点での応答であるため",
+      "criteria_met": [
+        "役割視点"
+      ]
+    },
+    {
+      "user": "I completely agree. Learning is a lifelong process and it's important to stay curious and open to new ideas.",
+      "assistant": "Hey Boss, I have to admit something. I was flipping through your journal the other day and I saw that you like to write poetry and short stories. I had no idea that you were so creative!",
+      "context": "Boss: That's great! It's always good to learn new things. What made you interested in this topic?\nEmployee: I don't know, I guess I've always been curious about the world around me. It's exciting to discover new things and expand my knowledge.\nBoss: I completely agree. Learning is a lifelong process and it's important to stay curious and open to new ideas.",
+      "persona_specific": true,
+      "specificity_confidence": 5,
+      "specificity_reason": "上司の個人的な趣味に言及しているため",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "persona_id": "episode-204347_A",
+  "speaker_role": "Co-workers",
+  "relationship": "Co-workers",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 21,
+      "session": "fourth",
+      "context": "Co-workers B: Of course, that's what friends are for. And have a safe trip, okay? Don't forget to send me some pictures.\nCo-workers A: I regret not trusting you, Co-workers B.\nCo-workers B: What do you mean?",
+      "input": "What do you mean?",
+      "ground_truth": "We used to be really close, but I pushed you away because I didn't trust you."
+    },
+    {
+      "turn_id": 22,
+      "session": "fourth",
+      "context": "Co-workers B: What do you mean?\nCo-workers A: We used to be really close, but I pushed you away because I didn't trust you.\nCo-workers B: I don't remember anything like that happening. What made you not trust me?",
+      "input": "I don't remember anything like that happening. What made you not trust me?",
+      "ground_truth": "I don't know, just various things. But now that I look back on it, I realize that I was wrong not to trust you."
+    },
+    {
+      "turn_id": 23,
+      "session": "fourth",
+      "context": "Co-workers B: I don't remember anything like that happening. What made you not trust me?\nCo-workers A: I don't know, just various things. But now that I look back on it, I realize that I was wrong not to trust you.\nCo-workers B: It's okay. We can work on rebuilding our friendship now, if you want.",
+      "input": "It's okay. We can work on rebuilding our friendship now, if you want.",
+      "ground_truth": "That would be great. Speaking of friendships, do you ever talk to that former friend you had a fight with?"
+    },
+    {
+      "turn_id": 24,
+      "session": "fourth",
+      "context": "Co-workers B: It's okay. We can work on rebuilding our friendship now, if you want.\nCo-workers A: That would be great. Speaking of friendships, do you ever talk to that former friend you had a fight with?\nCo-workers B: Unfortunately no, we never made up. But it's okay, I learned that sometimes it's better to just let friendships go.",
+      "input": "Unfortunately no, we never made up. But it's okay, I learned that sometimes it's better to just let friendships go.",
+      "ground_truth": "I understand what you mean. Speaking of letting things go, remember when I was packing my suitcase and I was really anxious about my trip?"
+    },
+    {
+      "turn_id": 25,
+      "session": "fourth",
+      "context": "Co-workers B: Unfortunately no, we never made up. But it's okay, I learned that sometimes it's better to just let friendships go.\nCo-workers A: I understand what you mean. Speaking of letting things go, remember when I was packing my suitcase and I was really anxious about my trip?\nCo-workers B: Yes, did you end up enjoying your trip?",
+      "input": "Yes, did you end up enjoying your trip?",
+      "ground_truth": "Yes, I did! It wasn't as scary as I thought it would be."
+    },
+    {
+      "turn_id": 26,
+      "session": "fourth",
+      "context": "Co-workers B: Yes, did you end up enjoying your trip?\nCo-workers A: Yes, I did! It wasn't as scary as I thought it would be.\nCo-workers B: That's great to hear. It's always good to step out of your comfort zone and try new things.",
+      "input": "That's great to hear. It's always good to step out of your comfort zone and try new things.",
+      "ground_truth": "Definitely. I wish I had trusted myself more back then, instead of letting my anxiety take over."
+    },
+    {
+      "turn_id": 27,
+      "session": "fifth",
+      "context": "Co-workers B: That's great to hear. It's always good to step out of your comfort zone and try new things.\nCo-workers A: Definitely. I wish I had trusted myself more back then, instead of letting my anxiety take over.\nCo-workers B: You live and you learn. It's all part of the process.",
+      "input": "You live and you learn. It's all part of the process.",
+      "ground_truth": "I've decided to give up my cell phone."
+    },
+    {
+      "turn_id": 28,
+      "session": "fifth",
+      "context": "Co-workers B: You live and you learn. It's all part of the process.\nCo-workers A: I've decided to give up my cell phone.\nCo-workers B: Really? Why would you do that?",
+      "input": "Really? Why would you do that?",
+      "ground_truth": "I find that I'm constantly checking my phone for notifications or new messages, and I don't want to be so reliant on technology."
+    },
+    {
+      "turn_id": 29,
+      "session": "fifth",
+      "context": "Co-workers B: Really? Why would you do that?\nCo-workers A: I find that I'm constantly checking my phone for notifications or new messages, and I don't want to be so reliant on technology.\nCo-workers B: I see. Is it just for a short time?",
+      "input": "I see. Is it just for a short time?",
+      "ground_truth": "I haven't decided yet. Maybe just for a week or so, but I hope to break the habit of constantly checking my phone."
+    },
+    {
+      "turn_id": 30,
+      "session": "fifth",
+      "context": "Co-workers B: I see. Is it just for a short time?\nCo-workers A: I haven't decided yet. Maybe just for a week or so, but I hope to break the habit of constantly checking my phone.\nCo-workers B: I admire you for that. It's hard to disconnect sometimes.",
+      "input": "I admire you for that. It's hard to disconnect sometimes.",
+      "ground_truth": "Yeah, I just want to be more present and engaged in the world around me."
+    },
+    {
+      "turn_id": 31,
+      "session": "fifth",
+      "context": "Co-workers B: I admire you for that. It's hard to disconnect sometimes.\nCo-workers A: Yeah, I just want to be more present and engaged in the world around me.\nCo-workers B: That's a good goal. I've been trying to do the same thing by spending less time on social media.",
+      "input": "That's a good goal. I've been trying to do the same thing by spending less time on social media.",
+      "ground_truth": "It's definitely a challenge, but I think it's worth it in the end."
+    },
+    {
+      "turn_id": 32,
+      "session": "fifth",
+      "context": "Co-workers B: That's a good goal. I've been trying to do the same thing by spending less time on social media.\nCo-workers A: It's definitely a challenge, but I think it's worth it in the end.\nCo-workers B: Speaking of challenges, remember when I had that fight with my best friend a few months ago?",
+      "input": "Speaking of challenges, remember when I had that fight with my best friend a few months ago?",
+      "ground_truth": "Yes, I remember. How are things now?"
+    },
+    {
+      "turn_id": 33,
+      "session": "fifth",
+      "context": "Co-workers B: Speaking of challenges, remember when I had that fight with my best friend a few months ago?\nCo-workers A: Yes, I remember. How are things now?\nCo-workers B: Unfortunately, we're still not speaking to each other. I just can't seem to let go of what she said to me.",
+      "input": "Unfortunately, we're still not speaking to each other. I just can't seem to let go of what she said to me.",
+      "ground_truth": "That's tough. Have you tried to reach out and reconcile?"
+    },
+    {
+      "turn_id": 34,
+      "session": "fifth",
+      "context": "Co-workers B: Unfortunately, we're still not speaking to each other. I just can't seem to let go of what she said to me.\nCo-workers A: That's tough. Have you tried to reach out and reconcile?\nCo-workers B: I have, but she doesn't seem interested in patching things up. It's really been weighing me down.",
+      "input": "I have, but she doesn't seem interested in patching things up. It's really been weighing me down.",
+      "ground_truth": "I'm sorry to hear that. Maybe with time she'll come around."
+    },
+    {
+      "turn_id": 35,
+      "session": "fifth",
+      "context": "Co-workers B: I have, but she doesn't seem interested in patching things up. It's really been weighing me down.\nCo-workers A: I'm sorry to hear that. Maybe with time she'll come around.\nCo-workers B: I hope so. It's just hard to lose someone who was such a big part of my life.",
+      "input": "I hope so. It's just hard to lose someone who was such a big part of my life.",
+      "ground_truth": "I understand. Hey, do you remember when I was packing for that trip and I was so anxious about it?"
+    },
+    {
+      "turn_id": 36,
+      "session": "fifth",
+      "context": "Co-workers B: I hope so. It's just hard to lose someone who was such a big part of my life.\nCo-workers A: I understand. Hey, do you remember when I was packing for that trip and I was so anxious about it?\nCo-workers B: Yes, I remember. How did it go?",
+      "input": "Yes, I remember. How did it go?",
+      "ground_truth": "It actually turned out to be a great experience. I'm so glad I pushed myself out of my comfort zone."
+    },
+    {
+      "turn_id": 37,
+      "session": "fifth",
+      "context": "Co-workers B: Yes, I remember. How did it go?\nCo-workers A: It actually turned out to be a great experience. I'm so glad I pushed myself out of my comfort zone.\nCo-workers B: That's wonderful to hear. I've been thinking about taking a trip myself. Maybe I need to push myself out of my comfort zone too.",
+      "input": "That's wonderful to hear. I've been thinking about taking a trip myself. Maybe I need to push myself out of my comfort zone too.",
+      "ground_truth": "I highly recommend it. You never know what you might discover about yourself. "
+    },
+    {
+      "turn_id": 38,
+      "session": "fifth",
+      "context": "Co-workers B: That's wonderful to hear. I've been thinking about taking a trip myself. Maybe I need to push myself out of my comfort zone too.\nCo-workers A: I highly recommend it. You never know what you might discover about yourself. \nCo-workers B: Agreed. By the way, remember when you said you regretted not trusting me a couple of years ago?",
+      "input": "Agreed. By the way, remember when you said you regretted not trusting me a couple of years ago?",
+      "ground_truth": "Yes, I do. Why do you bring that up?"
+    },
+    {
+      "turn_id": 39,
+      "session": "fifth",
+      "context": "Co-workers B: Agreed. By the way, remember when you said you regretted not trusting me a couple of years ago?\nCo-workers A: Yes, I do. Why do you bring that up?\nCo-workers B: I just wanted to say that it means a lot to me that you trust me now. I value our friendship so much.",
+      "input": "I just wanted to say that it means a lot to me that you trust me now. I value our friendship so much.",
+      "ground_truth": "I'm glad I can trust you now too. It's important to have good friends in life."
+    },
+    {
+      "turn_id": 40,
+      "session": "fifth",
+      "context": "Co-workers B: I just wanted to say that it means a lot to me that you trust me now. I value our friendship so much.\nCo-workers A: I'm glad I can trust you now too. It's important to have good friends in life.\nCo-workers B: Definitely. And that's why I think giving up your phone is a great idea. It'll help you be more present and engaged with the people in your life.",
+      "input": "Definitely. And that's why I think giving up your phone is a great idea. It'll help you be more present and engaged with the people in your life.",
+      "ground_truth": "You're right. I'm excited to see how it goes. Thanks for being such a good friend and supporting me."
+    }
+  ]
+}

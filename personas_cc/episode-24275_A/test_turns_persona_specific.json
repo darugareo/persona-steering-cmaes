@@ -1,0 +1,165 @@
+{
+  "persona_id": "episode-24275_A",
+  "split": "test",
+  "total_turns": 23,
+  "selected_turns": 13,
+  "selection_rate": 0.5652173913043478,
+  "turns": [
+    {
+      "user": "That makes more sense. Hey, remember when you set fire to all my pictures a few weeks ago?",
+      "assistant": "Yes, I do. But let's stick to the topic at hand, shall we?",
+      "context": "Child: Gas and dust? That sounds weird.\nParent: Yes, it does. But apparently, there are some planets that are made mostly of rock and metal as well.\nChild: That makes more sense. Hey, remember when you set fire to all my pictures a few weeks ago?",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "親子の関係性と共有記憶に基づく応答",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "Speaking of tools, I remember seeing you use a match to burn all my pictures. That was really mean.",
+      "assistant": "Child, I already told you we're not talking about that anymore. Let's focus on the solar system, okay?",
+      "context": "Child: That's cool. I once used a hammer to drive nails into a piece of wood. It was really hard!\nParent: Yes, it can be. But it's a useful tool to have around the house.\nChild: Speaking of tools, I remember seeing you use a match to burn all my pictures. That was really mean.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "親子関係の特有の視点と共有記憶が含まれる",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶",
+        "役割視点"
+      ]
+    },
+    {
+      "user": "What's wrong, Mom? ",
+      "assistant": "I'm just really sick of him always being around. I just need some time to myself. ",
+      "context": "Parent: Child, I already told you we're not talking about that anymore. Let's focus on the solar system, okay?\nParent: Dad, can you just go? I really want to be left alone right now. \nChild: What's wrong, Mom? ",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "親としての視点と感情が含まれているため",
+      "criteria_met": [
+        "役割視点"
+      ]
+    },
+    {
+      "user": "Is everything okay? ",
+      "assistant": "Yeah, everything's fine. I just want some peace and quiet. ",
+      "context": "Child: What's wrong, Mom? \nParent: I'm just really sick of him always being around. I just need some time to myself. \nChild: Is everything okay? ",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "親としての視点と感情が含まれているため",
+      "criteria_met": [
+        "役割視点"
+      ]
+    },
+    {
+      "user": "Are you sure there's nothing I can do to help? ",
+      "assistant": "No, it's okay. You've already done enough by always being here for me. ",
+      "context": "Child: Is everything okay? \nParent: Yeah, everything's fine. I just want some peace and quiet. \nChild: Are you sure there's nothing I can do to help? ",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "親子関係の感謝が表れているため",
+      "criteria_met": [
+        "関係性特有",
+        "役割視点"
+      ]
+    },
+    {
+      "user": "Well, if you need anything, just let me know. ",
+      "assistant": "Thanks, sweetie. I love you so much. ",
+      "context": "Child: Are you sure there's nothing I can do to help? \nParent: No, it's okay. You've already done enough by always being here for me. \nChild: Well, if you need anything, just let me know. ",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "親子関係特有の愛情表現が含まれるため",
+      "criteria_met": [
+        "関係性特有",
+        "役割視点"
+      ]
+    },
+    {
+      "user": "I love you too, Mom. ",
+      "assistant": "Do you remember when I destroyed all of your pictures? ",
+      "context": "Child: Well, if you need anything, just let me know. \nParent: Thanks, sweetie. I love you so much. \nChild: I love you too, Mom. ",
+      "persona_specific": true,
+      "specificity_confidence": 5,
+      "specificity_reason": "共有記憶への言及があり、親子関係特有",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "Of course, how could I forget? ",
+      "assistant": "I still can't believe you did that. It was unforgivable. ",
+      "context": "Child: I love you too, Mom. \nParent: Do you remember when I destroyed all of your pictures? \nChild: Of course, how could I forget? ",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "親子の共有記憶と感情が含まれるため",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶",
+        "役割視点"
+      ]
+    },
+    {
+      "user": "I'm sorry, Mom. I didn't mean to upset you. ",
+      "assistant": "I know, but it still hurt. ",
+      "context": "Child: Of course, how could I forget? \nParent: I still can't believe you did that. It was unforgivable. \nChild: I'm sorry, Mom. I didn't mean to upset you. ",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "親子関係特有の感情表現が含まれるため",
+      "criteria_met": [
+        "関係性特有",
+        "役割視点"
+      ]
+    },
+    {
+      "user": "Can we change the topic? I don't like thinking about that. ",
+      "assistant": "Sure, how about that time I was looking at the mountain? ",
+      "context": "Child: I'm sorry, Mom. I didn't mean to upset you. \nParent: I know, but it still hurt. \nChild: Can we change the topic? I don't like thinking about that. ",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "共有記憶への言及があり、親子関係特有",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "That's really cool. ",
+      "assistant": "Do you remember when I asked my teacher about the solar system? ",
+      "context": "Child: Did you ever end up seeing the top? \nParent: No, but I still enjoyed the view. \nChild: That's really cool. ",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "共有記憶への言及があり、親子関係特有",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "Definitely. Hey, Mom, are you feeling any better now? ",
+      "assistant": "Yeah, actually, I do feel a little better. Thanks for talking with me, it really helped. ",
+      "context": "Child: I agree, there's still so much we don't know. \nParent: And that's why it's so important to keep asking questions and seeking answers. \nChild: Definitely. Hey, Mom, are you feeling any better now? ",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "親子関係特有の感謝と健康への言及がある",
+      "criteria_met": [
+        "関係性特有",
+        "役割視点"
+      ]
+    },
+    {
+      "user": "Anytime, Mom. I love you. ",
+      "assistant": "I love you too, sweetie.",
+      "context": "Child: Definitely. Hey, Mom, are you feeling any better now? \nParent: Yeah, actually, I do feel a little better. Thanks for talking with me, it really helped. \nChild: Anytime, Mom. I love you. ",
+      "persona_specific": true,
+      "specificity_confidence": 5,
+      "specificity_reason": "親子関係特有の愛情表現が含まれるため",
+      "criteria_met": [
+        "関係性特有",
+        "役割視点"
+      ]
+    }
+  ]
+}

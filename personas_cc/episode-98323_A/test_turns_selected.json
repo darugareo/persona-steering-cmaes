@@ -1,0 +1,159 @@
+{
+  "persona_id": "episode-98323_A",
+  "selection_criteria": "total_score >= 10",
+  "total_original": 20,
+  "total_selected": 10,
+  "avg_quality_score": 12.4,
+  "turns": [
+    {
+      "turn_id": 24,
+      "session": "fourth",
+      "context": "Classmates A: Anytime,. Let's go see your mom now.\nClassmates A: Hey, guess what? I made the soccer team!\nClassmates B: That's awesome news! Congratulations!",
+      "input": "That's awesome news! Congratulations!",
+      "ground_truth": "Thanks! The coach said it was because of my leadership qualities and work ethic during tryouts.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 5,
+        "persona_expression": 3,
+        "total": 13,
+        "include": true,
+        "reason": "The response logically follows the context and partner's message, provides substantial content about the coach's feedback, and shows some personality through the mention of leadership qualities."
+      }
+    },
+    {
+      "turn_id": 25,
+      "session": "fourth",
+      "context": "Classmates B: That's awesome news! Congratulations!\nClassmates A: Thanks! The coach said it was because of my leadership qualities and work ethic during tryouts.\nClassmates B: Wow, that's really impressive. I've always known you had a positive attitude and great athleticism.",
+      "input": "Wow, that's really impressive. I've always known you had a positive attitude and great athleticism.",
+      "ground_truth": "It's really exciting to be a part of the team. I remember when we used to play soccer together in the park.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 4,
+        "persona_expression": 4,
+        "total": 13,
+        "include": true,
+        "reason": "The response is a natural continuation of the conversation, provides meaningful content, and reflects the persona's shared history with the partner."
+      }
+    },
+    {
+      "turn_id": 28,
+      "session": "fourth",
+      "context": "Classmates B: Well, at least you learned from that experience. It's important to think about our actions and how they affect others.\nClassmates A: Yeah, definitely. And speaking of thinking about things, there's something I've been wanting to tell you for a while now.\nClassmates B: What is it?",
+      "input": "What is it?",
+      "ground_truth": "Well, I've been afraid to tell you, but I have feelings for you. I didn't want to ruin our friendship, but I couldn't keep it bottled up any longer.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 5,
+        "persona_expression": 3,
+        "total": 13,
+        "include": true,
+        "reason": "The response is a natural continuation of the conversation, provides substantial content, and somewhat reflects the persona of a classmate revealing personal feelings."
+      }
+    },
+    {
+      "turn_id": 31,
+      "session": "fourth",
+      "context": "Classmates B: Yeah, I remember that. It was really sweet of you to try and help her.\nClassmates A: It turns out she was going through some tough family issues at the time. I hope things have gotten better for her since then.\nClassmates B: They have, thank you for asking. And I'm really grateful for your kindness that day. It meant a lot to me and my family. ",
+      "input": "They have, thank you for asking. And I'm really grateful for your kindness that day. It meant a lot to me and my family. ",
+      "ground_truth": "Of course, I'm always here for you and your family. And I'm excited to see where being on the soccer team will take us this year.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 4,
+        "persona_expression": 4,
+        "total": 13,
+        "include": true,
+        "reason": "The response naturally follows the conversation, provides meaningful content, and reflects the supportive nature of the persona."
+      }
+    },
+    {
+      "turn_id": 20,
+      "session": "third",
+      "context": "Classmates B: Oh wow, I had no idea. That's really brave of you to admit,. \nClassmates A: Thanks, it's been weighing on me for a while. But it's okay if you don't feel the same way, I just wanted to be honest with you.\nClassmates B: Honestly, I'm really flattered. I don't have romantic feelings for you, but I'm really glad we can be such close friends. ",
+      "input": "Honestly, I'm really flattered. I don't have romantic feelings for you, but I'm really glad we can be such close friends. ",
+      "ground_truth": "I'm glad too. You mean a lot to me and I don't want anything to change that.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 3,
+        "persona_expression": 4,
+        "total": 12,
+        "include": true,
+        "reason": "The response is a natural continuation of the conversation, provides meaningful content, and reflects the persona's desire to maintain a close friendship."
+      }
+    },
+    {
+      "turn_id": 21,
+      "session": "third",
+      "context": "Classmates B: Honestly, I'm really flattered. I don't have romantic feelings for you, but I'm really glad we can be such close friends. \nClassmates A: I'm glad too. You mean a lot to me and I don't want anything to change that.\nClassmates B: Same here,. Our friendship is really important to me and I hope we can stay close for a long time. ",
+      "input": "Same here,. Our friendship is really important to me and I hope we can stay close for a long time. ",
+      "ground_truth": "Definitely, I wouldn't have it any other way. And if you ever need anything, don't hesitate to ask. ",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 3,
+        "persona_expression": 4,
+        "total": 12,
+        "include": true,
+        "reason": "The response is a natural continuation of the conversation, offers a meaningful assurance, and reflects the persona's friendly and supportive nature."
+      }
+    },
+    {
+      "turn_id": 26,
+      "session": "fourth",
+      "context": "Classmates B: Wow, that's really impressive. I've always known you had a positive attitude and great athleticism.\nClassmates A: It's really exciting to be a part of the team. I remember when we used to play soccer together in the park.\nClassmates B: Yeah, those were fun times. Speaking of which, do you remember that one time when you found a book and threw it away? You were really upset about it.",
+      "input": "Yeah, those were fun times. Speaking of which, do you remember that one time when you found a book and threw it away? You were really upset about it.",
+      "ground_truth": "Oh man, I remember that. I felt really sad and guilty afterwards. I wish I had just kept it and tried to return it to its owner.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 4,
+        "persona_expression": 3,
+        "total": 12,
+        "include": true,
+        "reason": "The response logically follows the context and partner's message, provides a meaningful reflection on past events, and shows some personality through the expression of feelings."
+      }
+    },
+    {
+      "turn_id": 30,
+      "session": "fourth",
+      "context": "Classmates B: Oh wow, I had no idea. That's really brave of you to tell me. I don't want to ruin our friendship either, but I also don't want to ignore your feelings. Let's talk about this more and figure out what we both want.\nClassmates A: Thanks for being understanding. And hey, speaking of surprises, remember when I ran into your mom crying on a bench in the park?\nClassmates B: Yeah, I remember that. It was really sweet of you to try and help her.",
+      "input": "Yeah, I remember that. It was really sweet of you to try and help her.",
+      "ground_truth": "It turns out she was going through some tough family issues at the time. I hope things have gotten better for her since then.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 4,
+        "persona_expression": 3,
+        "total": 12,
+        "include": true,
+        "reason": "The response logically follows the context and adds meaningful information about the situation, though it lacks strong persona expression."
+      }
+    },
+    {
+      "turn_id": 33,
+      "session": "fifth",
+      "context": "Classmates A: Of course, I'm always here for you and your family. And I'm excited to see where being on the soccer team will take us this year.\nClassmates A: , have you ever thought about what you would do if you inherited a lot of money?\nClassmates B: Not really, why do you ask?",
+      "input": "Not really, why do you ask?",
+      "ground_truth": "Well, I recently inherited millions from a relative and it's been life-changing. I feel like I can finally live comfortably and do the things I've always wanted to do.",
+      "quality_scores": {
+        "continuity": 4,
+        "informativeness": 5,
+        "persona_expression": 3,
+        "total": 12,
+        "include": true,
+        "reason": "The response logically follows the context and adds substantial content, though it lacks strong persona expression."
+      }
+    },
+    {
+      "turn_id": 34,
+      "session": "fifth",
+      "context": "Classmates B: Not really, why do you ask?\nClassmates A: Well, I recently inherited millions from a relative and it's been life-changing. I feel like I can finally live comfortably and do the things I've always wanted to do.\nClassmates B: Wow, that must be nice. I can't even imagine having that much money.",
+      "input": "Wow, that must be nice. I can't even imagine having that much money.",
+      "ground_truth": "Yeah, it's definitely a surreal feeling. But at the same time, I don't want it to change who I am as a person.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 3,
+        "persona_expression": 4,
+        "total": 12,
+        "include": true,
+        "reason": "The response logically follows the conversation, provides some insight into the persona's feelings about wealth, and shows a bit of personality by expressing a desire to remain unchanged."
+      }
+    }
+  ]
+}

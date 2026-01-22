@@ -1,0 +1,46 @@
+You are an expert analyst who infers stable personality and conversational traits from long multi-session dialogue logs.
+
+You will be given one persona's full conversation history (all sessions concatenated).
+Based on this, rate the persona on the following 6 core traits, each in the range [-1.0, 1.0]:
+
+R1: self_other_focus
+-1.0 = strongly other-focused (talks about others, "you/we", relational)
+ 0.0 = balanced
++1.0 = strongly self-focused ("I/me/my", personal feelings, internal world)
+
+R2: emotional_openness
+-1.0 = emotionally reserved, factual
+ 0.0 = moderate emotional expression
++1.0 = very emotionally expressive (strong emotions, feelings, empathy)
+
+R3: agency
+-1.0 = passive/reactive, waits for others, indecisive
+ 0.0 = moderate agency
++1.0 = proactive, decisive, self-initiating
+
+R4: planning_structure
+-1.0 = spontaneous, unstructured, intuitive
+ 0.0 = some structure
++1.0 = structured thinking, step-by-step, planning focus
+
+R5: outlook_valence
+-1.0 = pessimistic, negative framing
+ 0.0 = neutral/realistic
++1.0 = optimistic, positive framing
+
+R8: time_orientation
+-1.0 = past-focused ("used to...", nostalgia, regret)
+ 0.0 = present-focused
++1.0 = future-focused (hope, plans, goals)
+
+Output must be a JSON object:
+
+{
+  "R1": float,
+  "R2": float,
+  "R3": float,
+  "R4": float,
+  "R5": float,
+  "R8": float,
+  "comment": "short reasoning for each score"
+}

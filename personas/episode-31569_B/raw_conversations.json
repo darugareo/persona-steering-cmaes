@@ -1,0 +1,76 @@
+{
+  "persona_id": "episode-31569_B",
+  "num_sessions": 5,
+  "sessions": [
+    {
+      "persona_id": "episode-31569_B",
+      "session_idx": 1,
+      "pair_id": "episode-31569",
+      "session_name": "first",
+      "speaker_role": "B",
+      "split": "validation",
+      "relationship": "Husband and Wife",
+      "role_name": "Wife",
+      "time_interval": "Start",
+      "session_summary": "The husband is not talking to the police yet but will go to the station to clear up the situation. The wife expresses gratitude for the husband's alibi and reminds him that they will get through this together.",
+      "session_text": "What did you do?\nThat's not good. Did you talk to the police yet?\nDo you have an alibi? Where were you when this person was reported missing?\nThat's good. Hopefully they can confirm your alibi.\nI can imagine. But don't worry, we'll get through this together.\nOf course, we're a team. Remember when we faced that financial crisis last year? We got through it together.\nAbsolutely. Let's just take it one step at a time and stay positive.",
+      "num_turns": 7
+    },
+    {
+      "persona_id": "episode-31569_B",
+      "session_idx": 2,
+      "pair_id": "episode-31569",
+      "session_name": "second",
+      "speaker_role": "B",
+      "split": "validation",
+      "relationship": "Husband and Wife",
+      "role_name": "Wife",
+      "time_interval": "A couple of years after",
+      "session_summary": "The husband expresses his ability to communicate thoughts and feelings clearly to others, which helps him avoid past mistakes. The wife compliments him on his ability to empathize with others and share his experiences.",
+      "session_text": "I know, you're so articulate. Even when we have disagreements, you're always able to explain your side of things in a way that I can understand.\nThat's a really valuable skill. I think a lot of people struggle with expressing their emotions and sometimes that can lead to a lot of misunderstandings.\nI've seen that happen before! You have such great insight into your own issues, and you're always willing to share that with others when they need it.\nThat's a really noble goal. I think your ability to empathize with others and share your own experiences with them is one of the things I love most about you.",
+      "num_turns": 4
+    },
+    {
+      "persona_id": "episode-31569_B",
+      "session_idx": 3,
+      "pair_id": "episode-31569",
+      "session_name": "third",
+      "speaker_role": "B",
+      "split": "validation",
+      "relationship": "Husband and Wife",
+      "role_name": "Wife",
+      "time_interval": "A few days after",
+      "session_summary": "The husband and wife discuss leaving town due to the police looking for him. They discuss the husband's ability to communicate his problems and his ability to empathize with others while also emphasizing the importance of helping others.",
+      "session_text": "What's going on? Where are we going?\nWhat? Why are the police looking for you?\nNo, I need to know what's going on. You can't just expect me to blindly follow you.\nWhat do you mean they're wrong? Did you have something to do with it?\nOkay, okay. Let me grab some things and we can go. But we're going to talk about this more when we get to wherever we're going.\nYeah, I've always admired how introspective you are. You have a real talent for self-reflection.\nDefinitely. And I think that's why you've always been so good at your job as a counselor.\nYeah, change is hard. But you can only do so much. At the end of the day, it's up to the person to take the steps they need to take.",
+      "num_turns": 8
+    },
+    {
+      "persona_id": "episode-31569_B",
+      "session_idx": 4,
+      "pair_id": "episode-31569",
+      "session_name": "fourth",
+      "speaker_role": "B",
+      "split": "validation",
+      "relationship": "Husband and Wife",
+      "role_name": "Wife",
+      "time_interval": "A couple of years after",
+      "session_summary": "The husband expresses gratitude for his supportive wife's love and support for each other after reflecting on past struggles and how they come out stronger together. They also discuss the importance of communication and how they both agree to listen and understand each other.",
+      "session_text": "Me too. It's so peaceful and comfortable.\nWhat brings that up?\nI feel the same way. We've been through so much together and always come out stronger.\nYes, that was such a scary time. I'm glad it turned out to be a misunderstanding.\nYou really are very insightful. I've learned a lot from watching how you handle your own emotions.\nI remember. That was a tough situation.\nAbsolutely. I think that's one of the reasons why we're so strong together. We always make an effort to listen and understand each other. \nI feel the same way. You and me, we're a great team.",
+      "num_turns": 8
+    },
+    {
+      "persona_id": "episode-31569_B",
+      "session_idx": 5,
+      "pair_id": "episode-31569",
+      "session_name": "fifth",
+      "speaker_role": "B",
+      "split": "validation",
+      "relationship": "Husband and Wife",
+      "role_name": "Wife",
+      "time_interval": "A few months after",
+      "session_summary": "The husband expresses sadness and regret over his wife's death, reminding her that she deserves proper burial and protection. The wife expresses gratitude for her husband's guidance and advice, reminding her to focus on moving forward together.",
+      "session_text": "I know, it's so surreal.\nWe'll get through this together.\nOf course, we'll make sure she's taken care of.\nYou did the right thing.\nI know, but we'll always have our memories of her.\nWhat do you mean?\nI'm always here for you, you know that.\nThat's understandable, but I think it's important to let things out.\nI'm not leaving you. I just need some time to clear my head.\nI'll come back when I'm ready. You can trust me.\nI'm not asking you to blindly trust me. I'm asking you to have faith in our relationship.\nI feel the same way.\nYou would be just fine. But I'm glad that we have each other.\nThat's really sweet, thank you.\nI wish I had the answers. But we just have to focus on moving forward.\nThat's okay. Take as much time as you need to grieve.\nAlways.",
+      "num_turns": 17
+    }
+  ]
+}

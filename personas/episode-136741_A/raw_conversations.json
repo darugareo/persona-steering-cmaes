@@ -1,0 +1,76 @@
+{
+  "persona_id": "episode-136741_A",
+  "num_sessions": 5,
+  "sessions": [
+    {
+      "persona_id": "episode-136741_A",
+      "session_idx": 1,
+      "pair_id": "episode-136741",
+      "session_name": "first",
+      "speaker_role": "A",
+      "split": "test",
+      "relationship": "Classmates",
+      "role_name": "Classmate",
+      "time_interval": "Start",
+      "session_summary": "Classmate A expresses interest in Classmate B's friendship and wants to be their friend. Classmate B expresses appreciation for Classmate A's willingness to never upset Classmate A. Classmate A plans to go on a date together and Classmate B agrees to spend some time together.",
+      "session_text": "Hey, how are you doing today?\nI'm good too. I wanted to talk to you about something.\nWell, I wanted to let you know that I really like you and I want to be your friend.\nI just wanted to make sure that I never do anything to upset you or make you uncomfortable.\nI'm glad to hear that. So, what are your plans for the weekend?\nThat sounds like fun, I'm definitely up for it. Let's plan on going together.\nHaha, yeah, it's a date with friends. I'm looking forward to spending some time with you.",
+      "num_turns": 7
+    },
+    {
+      "persona_id": "episode-136741_A",
+      "session_idx": 2,
+      "pair_id": "episode-136741",
+      "session_name": "second",
+      "speaker_role": "A",
+      "split": "test",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "A few hours after",
+      "session_summary": "Classmate A expresses feelings about their friendship and expresses their desire to get to know and be close with Classmate B. Classmate B expresses interest in dating but expresses concern about the impact of social media on mental health.",
+      "session_text": "Um, B, can I tell you something?\nWell, you know how we've been friends for a while now?\nI just wanted to say that I really value our friendship and I wouldn't want to do anything that would jeopardize that.\nAnd speaking of things that could change our friendship, I wanted to talk to you about something else. When I first saw you, I don't know... I just felt this connection with you. It's like, I really wanted to get to know you better and be close with you.\nSo I started chasing after you, hoping that maybe we could be more than friends. But now I realize that I don't want to do anything to risk losing you as a friend. I just want you to know how I feel, but I won't do anything crazy or make things awkward between us.\nReally? That's a relief.\nNo, no, of course not. I respect your feelings and boundaries.\nOh yeah, that was fun! What were you thinking for this year's project?\nThat's a great idea! And it's definitely something that affects a lot of people these days.",
+      "num_turns": 9
+    },
+    {
+      "persona_id": "episode-136741_A",
+      "session_idx": 3,
+      "pair_id": "episode-136741",
+      "session_name": "third",
+      "speaker_role": "A",
+      "split": "test",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "A few days after",
+      "session_summary": "Classmate A expresses feeling overwhelmed by Classmate B's lack of help with an assignment due soon. Classmate B suggests talking to Classmate A's teacher and Classmate A expresses feelings of friendship and honesty with Classmate B, who expresses appreciation for Classmate A's honesty and appreciation for Classmate B's help with the tutor.",
+      "session_text": "Hey, Classmates B. I need your advice on something.\nI'm really struggling in school right now. I've got an assignment due soon, and I know I need to get an A on it if I want to get ahead. But I'm not really sure what to do.\nYeah, I've talked to her, but I still feel like I'm not getting it.\nThat's a good idea. I haven't thought about that. Do you know of any good tutors?\nThanks so much, Classmates B. You're a really good friend.\nSpeaking of which, can I ask you something personal?\nWell, when I saw you for the first time, I felt something in my heart. I really like you as a friend, and I don't want to do anything that would upset you. But I also want to be honest with you and tell you that I have feelings for you beyond friendship.\nI understand, and I respect your decision. I just wanted to be honest with you.\nAgreed. And thanks again for your help with the tutor. It means a lot to me.",
+      "num_turns": 9
+    },
+    {
+      "persona_id": "episode-136741_A",
+      "session_idx": 4,
+      "pair_id": "episode-136741",
+      "session_name": "fourth",
+      "speaker_role": "A",
+      "split": "test",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "A few weeks after",
+      "session_summary": "Classmate A apologizes for malfunctioning their plane engine and blames Classmate B for hurting them. Classmate B suggests finding healthier ways to deal with emotions and discuss schoolwork.",
+      "session_text": ", I'm so sorry about what happened to your plane. I shouldn't have done it.\nYou didn't hear? I messed with the engine and caused it to malfunction. I just wanted to stop you from leaving.\nI know, and I'm sorry. I was just so angry and hurt when you were leaving. I didn't mean to cause any harm.\nI know and I'm sorry. I promise I won't do anything like that again. I just really care about you and it hurts to see you go.\nI haven't, but maybe that's a good idea. I just want to make things right with you.",
+      "num_turns": 5
+    },
+    {
+      "persona_id": "episode-136741_A",
+      "session_idx": 5,
+      "pair_id": "episode-136741",
+      "session_name": "fifth",
+      "speaker_role": "A",
+      "split": "test",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "A few days after",
+      "session_summary": "Classmate A received a broken glass cut and Classmate B offered to clean it and put bandages on it. Classmate A appreciated Classmate B's support and appreciated Classmate B's willingness to learn from mistakes.",
+      "session_text": "Ow, I just stepped on some broken glass and got a cut on my foot.\nIt hurts a lot. \nI don't have any bandages with me. \nThanks a lot. You're always so helpful. \nYes, we are. I'm glad we got to know each other. \nUh, yeah. I was afraid to bring it up again. \nDon't worry, I value our friendship too much to do anything that would jeopardize it. \nWell, I did my best, and I got a B. It's not an A, but it's an improvement from my previous grades. \nThanks, I appreciate your support. By the way, do you remember when I felt angry when your plane took off? I'm sorry about what I did. It was a stupid mistake. \nI did. I realized that acting impulsively can have serious consequences, and I shouldn't let my emotions control my actions. \nYeah, I'll try to be more cautious. Thanks again, you're a great friend. ",
+      "num_turns": 11
+    }
+  ]
+}

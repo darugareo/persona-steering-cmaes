@@ -1,0 +1,141 @@
+{
+  "persona_id": "episode-179307_A",
+  "speaker_role": "Classmates",
+  "relationship": "Classmates",
+  "total_turns": 19,
+  "turns": [
+    {
+      "turn_id": 1,
+      "session": "first",
+      "context": "Classmates A: Hey, do you need any help with your backpack?\nClassmates B: Oh my God, yes please! Thank you so much.",
+      "input": "Oh my God, yes please! Thank you so much.",
+      "ground_truth": "No problem, it looks heavy. What classes do you have today?"
+    },
+    {
+      "turn_id": 2,
+      "session": "first",
+      "context": "Classmates B: Oh my God, yes please! Thank you so much.\nClassmates A: No problem, it looks heavy. What classes do you have today?\nClassmates B: I have math, history, and English. I think I might need a forklift to carry all of these books!",
+      "input": "I have math, history, and English. I think I might need a forklift to carry all of these books!",
+      "ground_truth": "Ha! Yeah, I know the feeling. I have physics, biology, and Spanish. My backpack is pretty full too."
+    },
+    {
+      "turn_id": 3,
+      "session": "first",
+      "context": "Classmates B: I have math, history, and English. I think I might need a forklift to carry all of these books!\nClassmates A: Ha! Yeah, I know the feeling. I have physics, biology, and Spanish. My backpack is pretty full too.\nClassmates B: Well, you're my hero for helping me out. I'm going to owe you one.",
+      "input": "Well, you're my hero for helping me out. I'm going to owe you one.",
+      "ground_truth": "Don't worry about it. We're classmates and friends, it's what we're supposed to do for each other."
+    },
+    {
+      "turn_id": 4,
+      "session": "first",
+      "context": "Classmates B: Well, you're my hero for helping me out. I'm going to owe you one.\nClassmates A: Don't worry about it. We're classmates and friends, it's what we're supposed to do for each other.\nClassmates B: Absolutely, we're in this together. Hey, did you do the English homework last night?",
+      "input": "Absolutely, we're in this together. Hey, did you do the English homework last night?",
+      "ground_truth": "Yeah, I did it. That short story was pretty interesting, I thought."
+    },
+    {
+      "turn_id": 5,
+      "session": "first",
+      "context": "Classmates B: Absolutely, we're in this together. Hey, did you do the English homework last night?\nClassmates A: Yeah, I did it. That short story was pretty interesting, I thought.\nClassmates B: Ugh, I couldn't stand it. I had such a hard time getting through it.",
+      "input": "Ugh, I couldn't stand it. I had such a hard time getting through it.",
+      "ground_truth": "Really? What didn't you like about it?"
+    },
+    {
+      "turn_id": 6,
+      "session": "first",
+      "context": "Classmates B: Ugh, I couldn't stand it. I had such a hard time getting through it.\nClassmates A: Really? What didn't you like about it?\nClassmates B: I don't know, I just didn't find it engaging. And the writing style was too flowery for my taste.",
+      "input": "I don't know, I just didn't find it engaging. And the writing style was too flowery for my taste.",
+      "ground_truth": "Hmm, I can see your point. But I thought the author created a really vivid image of the setting."
+    },
+    {
+      "turn_id": 7,
+      "session": "first",
+      "context": "Classmates B: I don't know, I just didn't find it engaging. And the writing style was too flowery for my taste.\nClassmates A: Hmm, I can see your point. But I thought the author created a really vivid image of the setting.\nClassmates B: That's true, I do appreciate good description. I guess I just had trouble connecting with the characters.",
+      "input": "That's true, I do appreciate good description. I guess I just had trouble connecting with the characters.",
+      "ground_truth": "Yeah, I see what you mean. But at least the homework was finished, right?"
+    },
+    {
+      "turn_id": 8,
+      "session": "first",
+      "context": "Classmates B: That's true, I do appreciate good description. I guess I just had trouble connecting with the characters.\nClassmates A: Yeah, I see what you mean. But at least the homework was finished, right?\nClassmates B: Right. And now we won't have to worry about it during class. Thanks again for your help, by the way.",
+      "input": "Right. And now we won't have to worry about it during class. Thanks again for your help, by the way.",
+      "ground_truth": "Of course. Let's get to class now before we're late!"
+    },
+    {
+      "turn_id": 9,
+      "session": "second",
+      "context": "Classmates A: Yeah, I see what you mean. But at least the homework was finished, right?\nClassmates B: Right. And now we won't have to worry about it during class. Thanks again for your help, by the way.\nClassmates A: Of course. Let's get to class now before we're late!",
+      "input": "Of course. Let's get to class now before we're late!",
+      "ground_truth": "Hey, B! How's it going?"
+    },
+    {
+      "turn_id": 10,
+      "session": "second",
+      "context": "Classmates A: Of course. Let's get to class now before we're late!\nClassmates A: Hey, B! How's it going?\nClassmates B: Hi, A! I'm doing well. How about you?",
+      "input": "Hi, A! I'm doing well. How about you?",
+      "ground_truth": "I'm good. Thanks for asking. I'm just really focused on my goals these days."
+    },
+    {
+      "turn_id": 11,
+      "session": "second",
+      "context": "Classmates B: Hi, A! I'm doing well. How about you?\nClassmates A: I'm good. Thanks for asking. I'm just really focused on my goals these days.\nClassmates B: That's great to hear. What kind of goals are you working towards?",
+      "input": "That's great to hear. What kind of goals are you working towards?",
+      "ground_truth": "Well, I want to go to a good university and study computer science. I hope to get a scholarship too."
+    },
+    {
+      "turn_id": 12,
+      "session": "second",
+      "context": "Classmates B: That's great to hear. What kind of goals are you working towards?\nClassmates A: Well, I want to go to a good university and study computer science. I hope to get a scholarship too.\nClassmates B: Wow, that sounds like a big goal. Are you doing anything special to ensure your success?",
+      "input": "Wow, that sounds like a big goal. Are you doing anything special to ensure your success?",
+      "ground_truth": "Yes, I am! I'm studying really hard, taking advanced classes, and joining some extracurricular activities related to computer science. I'm also saving up for college."
+    },
+    {
+      "turn_id": 13,
+      "session": "second",
+      "context": "Classmates B: Wow, that sounds like a big goal. Are you doing anything special to ensure your success?\nClassmates A: Yes, I am! I'm studying really hard, taking advanced classes, and joining some extracurricular activities related to computer science. I'm also saving up for college.\nClassmates B: That's great, A. I'm sure you will achieve your goals with that kind of dedication.",
+      "input": "That's great, A. I'm sure you will achieve your goals with that kind of dedication.",
+      "ground_truth": "Thanks, I really appreciate your support."
+    },
+    {
+      "turn_id": 14,
+      "session": "second",
+      "context": "Classmates B: That's great, A. I'm sure you will achieve your goals with that kind of dedication.\nClassmates A: Thanks, I really appreciate your support.\nClassmates B: Of course, I'll always be here for you. Hey, do you remember that time a few months ago when you helped me carry my heavy backpack?",
+      "input": "Of course, I'll always be here for you. Hey, do you remember that time a few months ago when you helped me carry my heavy backpack?",
+      "ground_truth": "Yeah, of course I do. I'm glad I could help you out."
+    },
+    {
+      "turn_id": 15,
+      "session": "second",
+      "context": "Classmates B: Of course, I'll always be here for you. Hey, do you remember that time a few months ago when you helped me carry my heavy backpack?\nClassmates A: Yeah, of course I do. I'm glad I could help you out.\nClassmates B: It just reminds me of how kind and helpful you always are. It's great that you're also working hard towards your own success.",
+      "input": "It just reminds me of how kind and helpful you always are. It's great that you're also working hard towards your own success.",
+      "ground_truth": "Thanks, B. I believe that helping others and pursuing your own goals are not mutually exclusive. We can do both."
+    },
+    {
+      "turn_id": 16,
+      "session": "third",
+      "context": "Classmates B: It just reminds me of how kind and helpful you always are. It's great that you're also working hard towards your own success.\nClassmates A: Thanks, B. I believe that helping others and pursuing your own goals are not mutually exclusive. We can do both.\nClassmates B: Absolutely, and I think it's going to pay off for you in the long run. Keep up the hard work, A. I'm rooting for you!",
+      "input": "Absolutely, and I think it's going to pay off for you in the long run. Keep up the hard work, A. I'm rooting for you!",
+      "ground_truth": "Hey, I noticed you were having trouble finding a book. Is everything okay?"
+    },
+    {
+      "turn_id": 17,
+      "session": "third",
+      "context": "Classmates B: Absolutely, and I think it's going to pay off for you in the long run. Keep up the hard work, A. I'm rooting for you!\nClassmates A: Hey, I noticed you were having trouble finding a book. Is everything okay?\nClassmates B: Yeah, I'm just having a hard time finding this one book on rabbits that I need for class.",
+      "input": "Yeah, I'm just having a hard time finding this one book on rabbits that I need for class.",
+      "ground_truth": "Oh, I actually have a book on rabbits that you can borrow. Here you go."
+    },
+    {
+      "turn_id": 18,
+      "session": "third",
+      "context": "Classmates B: Yeah, I'm just having a hard time finding this one book on rabbits that I need for class.\nClassmates A: Oh, I actually have a book on rabbits that you can borrow. Here you go.\nClassmates B: Wow, thanks so much! You're always so helpful.",
+      "input": "Wow, thanks so much! You're always so helpful.",
+      "ground_truth": "No problem. I believe in helping out a friend when they need it."
+    },
+    {
+      "turn_id": 19,
+      "session": "third",
+      "context": "Classmates B: Wow, thanks so much! You're always so helpful.\nClassmates A: No problem. I believe in helping out a friend when they need it.\nClassmates B: Speaking of helping, how's your plan for the future going?",
+      "input": "Speaking of helping, how's your plan for the future going?",
+      "ground_truth": "It's going well. I've been working hard to make it a reality. I know that success doesn't come easy, so I'm willing to put in the extra effort to make it happen."
+    }
+  ]
+}

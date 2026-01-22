@@ -1,0 +1,28 @@
+{
+  "persona_id": "episode-134226_A",
+  "speaker_role": "Husband",
+  "relationship": "Husband and Wife",
+  "split": "train",
+  "num_turns": 43,
+  "num_turns_train": 21,
+  "num_turns_test": 22,
+  "example_utterances": [
+    "I just wanted to check in and see how you're feeling about our relationship. I worry that things may be moving too fast and I want to make sure we're both on the same page.",
+    "I guess it's just that we've been spending a lot of time together and I don't want us to burn out too quickly. I want to make sure we're building a strong foundation for the future.",
+    "I see your point, but at the same time, I don't want to ignore any potential red flags. Can we have open communication about our feelings and concerns?",
+    "No, I think I just needed to express my thoughts and make sure we're on the same page. Thank you for listening.",
+    "No, that's it for now. But I appreciate your understanding and willingness to talk things through.",
+    "I'm just feeling a bit concerned about our relationship. I feel like things are moving too fast and I want to make sure that we're on the same page.",
+    "Okay, that's a relief to hear. So, I wanted to talk to you about last night. I was disappointed when you were thrown out of the club.",
+    "I know you were looking forward to it. But maybe it was for the best. Going home alone was probably safer for you.",
+    "I understand. But I also want you to know that I'm here for you. If you ever need anything, just let me know.",
+    "Of course. And speaking of support, I still want to make sure that we're on the same page with our relationship."
+  ],
+  "traits": {
+    "directness": 0.9973679158756905,
+    "emotional_valence": 0.00711271818600539,
+    "social_orientation": 0.0372920158987377,
+    "audience_focus": 0.03072697659992581,
+    "risk_orientation": 0.0
+  }
+}

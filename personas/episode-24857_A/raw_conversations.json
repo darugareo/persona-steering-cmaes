@@ -1,0 +1,76 @@
+{
+  "persona_id": "episode-24857_A",
+  "num_sessions": 5,
+  "sessions": [
+    {
+      "persona_id": "episode-24857_A",
+      "session_idx": 1,
+      "pair_id": "episode-24857",
+      "session_name": "first",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "Start",
+      "session_summary": "Classmate A laughs at Classmate B while watching a funny video online. Classmate B apologizes and offers to send Classmate A a link to their favorite local band. Classmate A finishes a group project they were working on and Classmate B offers suggestions.",
+      "session_text": "Hey, B. I heard you laughing earlier, what was so funny? \nOkay, I was just wondering if you were laughing at me or something. \nI don't know, sometimes I can be a bit paranoid. \nThanks, it means a lot. \nIt was pretty good. I hung out with my family and caught up on some homework. What about you? \nWhat concert did you go to? \nNo, I haven't. Can you send me a link to their music? \nThanks, I appreciate it. \nYes, I did. I sent it to the rest of the group last night. \nDefinitely. Let me know if you have any suggestions. ",
+      "num_turns": 10
+    },
+    {
+      "persona_id": "episode-24857_A",
+      "session_idx": 2,
+      "pair_id": "episode-24857",
+      "session_name": "second",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "A few months after",
+      "session_summary": "Classmate A has nightmares about a man with a knife who keeps chasing them and trying to hurt them. Classmate B suggests relaxation techniques and breathing exercises to calm their mind before bed, reminding Classmate A that dreams can be influenced by what they watch or read before bed.",
+      "session_text": "Hey, B, can I talk to you for a bit?\nI don't know if you've noticed, but I've been having some nightmares lately.\nThere's this man with a knife who keeps chasing me and trying to hurt me. It's terrifying.\nYeah, I've talked to my parents and they said it's probably just stress. But I can't shake this feeling that the man from my dreams is going to come after me in real life.\nYeah, I've tried a few things like drinking chamomile tea and doing some breathing exercises. They seem to help a little, but I'm still scared.\nThat's a good point. Thanks for listening, B. ",
+      "num_turns": 6
+    },
+    {
+      "persona_id": "episode-24857_A",
+      "session_idx": 3,
+      "pair_id": "episode-24857",
+      "session_name": "third",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "A couple of years after",
+      "session_summary": "Two classmates discuss the origins of their universe and discuss alternate theories. One disagrees with the theory presented by their teacher, but the other suggests there are other possibilities. They plan on doing research and convincing their teacher that there is more than one way to think about the origins of their universe.",
+      "session_text": " Did you hear the new theory our teacher presented in class today?\n It's about the origins of our universe and how everything came into being. But I think there are some holes in her argument.\n Well, she talks about the Big Bang as the starting point, but I think there are other possibilities out there.\n Yes, I've read about alternate theories that suggest multiple Big Bangs or even that the universe has always existed.\n I'm going to do some more research and present my findings to our teacher. I want to show her that there's more than one way to think about the origins of our universe.\n Hey, do you remember when I told you about my nightmares with the man chasing me with a knife?\n It's just I haven't had those nightmares in a while now. It's strange how the mind works.\n Yeah, me too. Thanks for always being a good listener.",
+      "num_turns": 8
+    },
+    {
+      "persona_id": "episode-24857_A",
+      "session_idx": 4,
+      "pair_id": "episode-24857",
+      "session_name": "fourth",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Classmates",
+      "role_name": "Classmate",
+      "time_interval": "A few months after",
+      "session_summary": "Two classmates discuss their love for laughter and laughter, while also discussing their common interests. They also briefly briefly touch on past experiences including fearful nightmares and a recent debate.",
+      "session_text": "Haha, did you hear the one about the walkie talkie? Two antennas met on a roof and fell in love. They got married in a ceremony that lasted hours. The reception, however, was terrible.\nThanks, I try my best. I just love making people laugh.\nSame here. It's great that we have so many common interests.\nNo, thankfully I haven't had one in a while. But they were really scary. I couldn't shake the feeling that the man in my dreams would come after me in real life.\nMe too. Remember when I was eager to challenge our teacher's theory a couple years ago?\nWell, I still stand by my opinion that the theory was flawed.\nAbsolutely. I still think there were too many holes in the argument.\nThanks. So, do you have any good stories to share?",
+      "num_turns": 8
+    },
+    {
+      "persona_id": "episode-24857_A",
+      "session_idx": 5,
+      "pair_id": "episode-24857",
+      "session_name": "fifth",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "A few months after",
+      "session_summary": "Classmate A interrupts Classmate B for laughing at them while watching a funny video online. Classmate B suggests talking to someone about nightmares caused by a knife-wielding man. Classmate A discusses their past experiences challenging a theory and Classmate B offers support and advice.",
+      "session_text": "Hey, sorry to interrupt you but I heard you laughing and it made me suspicious. Were you laughing at me?\nOh, okay. Sorry about that. I'm just on edge these days.\nYeah, I've been having these nightmares about a man with a knife chasing me. It's really been affecting my sleep.\nNot yet. I'm just worried that the man in my dreams might come after me in real life.\nYou're right. I'll look into it. Thanks, B.\nYeah, I remember that. I just thought there were too many holes in the argument.\nWell, I did some more research on it and I actually ended up changing my mind. The theory does make sense after all.\nThanks, B. You always listen to my stories and jokes. It's great that we share common interests.\nI wanted to go outside and be alone for a bit. Sometimes I just need some space to clear my head.\nYeah, it really helps me to decompress. Anyway, thanks for talking to me about my nightmares. I really appreciate it.",
+      "num_turns": 10
+    }
+  ]
+}

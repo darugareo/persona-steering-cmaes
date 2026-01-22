@@ -1,0 +1,159 @@
+{
+  "persona_id": "episode-204347_A",
+  "selection_criteria": "total_score >= 10",
+  "total_original": 20,
+  "total_selected": 10,
+  "avg_quality_score": 11.5,
+  "turns": [
+    {
+      "turn_id": 28,
+      "session": "fifth",
+      "context": "Co-workers B: You live and you learn. It's all part of the process.\nCo-workers A: I've decided to give up my cell phone.\nCo-workers B: Really? Why would you do that?",
+      "input": "Really? Why would you do that?",
+      "ground_truth": "I find that I'm constantly checking my phone for notifications or new messages, and I don't want to be so reliant on technology.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 5,
+        "persona_expression": 3,
+        "total": 13,
+        "include": true,
+        "reason": "The response logically follows the context and partner's message, provides substantial content, and shows some personality."
+      }
+    },
+    {
+      "turn_id": 29,
+      "session": "fifth",
+      "context": "Co-workers B: Really? Why would you do that?\nCo-workers A: I find that I'm constantly checking my phone for notifications or new messages, and I don't want to be so reliant on technology.\nCo-workers B: I see. Is it just for a short time?",
+      "input": "I see. Is it just for a short time?",
+      "ground_truth": "I haven't decided yet. Maybe just for a week or so, but I hope to break the habit of constantly checking my phone.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 5,
+        "persona_expression": 3,
+        "total": 13,
+        "include": true,
+        "reason": "The response is a natural continuation of the conversation, provides substantial information about the persona's intentions, and shows some personality by expressing a desire to break a habit."
+      }
+    },
+    {
+      "turn_id": 40,
+      "session": "fifth",
+      "context": "Co-workers B: I just wanted to say that it means a lot to me that you trust me now. I value our friendship so much.\nCo-workers A: I'm glad I can trust you now too. It's important to have good friends in life.\nCo-workers B: Definitely. And that's why I think giving up your phone is a great idea. It'll help you be more present and engaged with the people in your life.",
+      "input": "Definitely. And that's why I think giving up your phone is a great idea. It'll help you be more present and engaged with the people in your life.",
+      "ground_truth": "You're right. I'm excited to see how it goes. Thanks for being such a good friend and supporting me.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 3,
+        "persona_expression": 4,
+        "total": 12,
+        "include": true,
+        "reason": "The response is a natural continuation of the conversation, provides a meaningful acknowledgment, and reflects the persona's supportive nature as a co-worker."
+      }
+    },
+    {
+      "turn_id": 21,
+      "session": "fourth",
+      "context": "Co-workers B: Of course, that's what friends are for. And have a safe trip, okay? Don't forget to send me some pictures.\nCo-workers A: I regret not trusting you, Co-workers B.\nCo-workers B: What do you mean?",
+      "input": "What do you mean?",
+      "ground_truth": "We used to be really close, but I pushed you away because I didn't trust you.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 3,
+        "persona_expression": 3,
+        "total": 11,
+        "include": true,
+        "reason": "The response logically follows the context and provides meaningful content, showing some personality."
+      }
+    },
+    {
+      "turn_id": 22,
+      "session": "fourth",
+      "context": "Co-workers B: What do you mean?\nCo-workers A: We used to be really close, but I pushed you away because I didn't trust you.\nCo-workers B: I don't remember anything like that happening. What made you not trust me?",
+      "input": "I don't remember anything like that happening. What made you not trust me?",
+      "ground_truth": "I don't know, just various things. But now that I look back on it, I realize that I was wrong not to trust you.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 3,
+        "persona_expression": 3,
+        "total": 11,
+        "include": true,
+        "reason": "The response logically follows the context and provides a brief but meaningful explanation, showing some personality."
+      }
+    },
+    {
+      "turn_id": 26,
+      "session": "fourth",
+      "context": "Co-workers B: Yes, did you end up enjoying your trip?\nCo-workers A: Yes, I did! It wasn't as scary as I thought it would be.\nCo-workers B: That's great to hear. It's always good to step out of your comfort zone and try new things.",
+      "input": "That's great to hear. It's always good to step out of your comfort zone and try new things.",
+      "ground_truth": "Definitely. I wish I had trusted myself more back then, instead of letting my anxiety take over.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 3,
+        "persona_expression": 3,
+        "total": 11,
+        "include": true,
+        "reason": "The response logically follows the conversation, provides some insight into the persona's past feelings, and shows a bit of personality."
+      }
+    },
+    {
+      "turn_id": 30,
+      "session": "fifth",
+      "context": "Co-workers B: I see. Is it just for a short time?\nCo-workers A: I haven't decided yet. Maybe just for a week or so, but I hope to break the habit of constantly checking my phone.\nCo-workers B: I admire you for that. It's hard to disconnect sometimes.",
+      "input": "I admire you for that. It's hard to disconnect sometimes.",
+      "ground_truth": "Yeah, I just want to be more present and engaged in the world around me.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 3,
+        "persona_expression": 3,
+        "total": 11,
+        "include": true,
+        "reason": "The response is a natural continuation of the conversation, provides some meaningful content, and shows a bit of the persona's desire to be more present."
+      }
+    },
+    {
+      "turn_id": 31,
+      "session": "fifth",
+      "context": "Co-workers B: I admire you for that. It's hard to disconnect sometimes.\nCo-workers A: Yeah, I just want to be more present and engaged in the world around me.\nCo-workers B: That's a good goal. I've been trying to do the same thing by spending less time on social media.",
+      "input": "That's a good goal. I've been trying to do the same thing by spending less time on social media.",
+      "ground_truth": "It's definitely a challenge, but I think it's worth it in the end.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 3,
+        "persona_expression": 3,
+        "total": 11,
+        "include": true,
+        "reason": "The response is a natural continuation of the conversation, provides a brief but meaningful contribution, and somewhat reflects the persona's characteristics as a co-worker."
+      }
+    },
+    {
+      "turn_id": 32,
+      "session": "fifth",
+      "context": "Co-workers B: That's a good goal. I've been trying to do the same thing by spending less time on social media.\nCo-workers A: It's definitely a challenge, but I think it's worth it in the end.\nCo-workers B: Speaking of challenges, remember when I had that fight with my best friend a few months ago?",
+      "input": "Speaking of challenges, remember when I had that fight with my best friend a few months ago?",
+      "ground_truth": "Yes, I remember. How are things now?",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 3,
+        "persona_expression": 3,
+        "total": 11,
+        "include": true,
+        "reason": "The response logically follows the conversation, provides a brief but meaningful follow-up, and shows some personality by expressing concern."
+      }
+    },
+    {
+      "turn_id": 33,
+      "session": "fifth",
+      "context": "Co-workers B: Speaking of challenges, remember when I had that fight with my best friend a few months ago?\nCo-workers A: Yes, I remember. How are things now?\nCo-workers B: Unfortunately, we're still not speaking to each other. I just can't seem to let go of what she said to me.",
+      "input": "Unfortunately, we're still not speaking to each other. I just can't seem to let go of what she said to me.",
+      "ground_truth": "That's tough. Have you tried to reach out and reconcile?",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 3,
+        "persona_expression": 3,
+        "total": 11,
+        "include": true,
+        "reason": "The response is a natural continuation of the conversation, offers a brief but meaningful suggestion, and shows some personality as a concerned co-worker."
+      }
+    }
+  ]
+}

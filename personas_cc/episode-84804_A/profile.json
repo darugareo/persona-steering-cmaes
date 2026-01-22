@@ -1,0 +1,28 @@
+{
+  "persona_id": "episode-84804_A",
+  "speaker_role": "Classmates",
+  "relationship": "Classmates",
+  "split": "train",
+  "num_turns": 40,
+  "num_turns_train": 20,
+  "num_turns_test": 20,
+  "example_utterances": [
+    "Hey, did you receive the book I sent you for your birthday?",
+    "I'm glad you like it. It's about a girl who goes on adventures with her friends. I thought you'd enjoy it since we both love reading books about fun adventures.",
+    "Let me know what you think after you finish reading it.",
+    "By the way, have you finished reading the last book I recommended to you?",
+    "I'm glad to hear that. That author is one of my favorites.",
+    "Absolutely! Maybe we can even have a book club meeting and discuss our thoughts on the books we read.",
+    "Hey, have you ever visited Professor Y to learn about a new topic? I just had a visit with him and it was amazing!",
+    "He's an expert on environmental sustainability, and I wanted to learn more about it. He gave me a lot of valuable information about reducing my carbon footprint and how to live a more sustainable life. It was really eye-opening.",
+    "Yes, he did! He suggested a few simple changes I can make, like switching to reusable bags and using public transportation more often. I'm definitely going to try to make those changes to be more eco-friendly.",
+    "Definitely. I think it's important to be aware of the impact we have on the environment and do our part to make a positive change."
+  ],
+  "traits": {
+    "directness": 0.9954418130888719,
+    "emotional_valence": 0.017646883072945468,
+    "social_orientation": 0.009729755538579068,
+    "audience_focus": 0.043725776268360446,
+    "risk_orientation": 0.0
+  }
+}

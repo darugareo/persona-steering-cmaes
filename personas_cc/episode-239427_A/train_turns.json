@@ -1,0 +1,148 @@
+{
+  "persona_id": "episode-239427_A",
+  "speaker_role": "Neighbors",
+  "relationship": "Neighbors",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "session": "first",
+      "context": "Neighbors A: Hey there.\nNeighbors B: Hi, how are you doing?",
+      "input": "Hi, how are you doing?",
+      "ground_truth": "Not so good. I had a small accident today."
+    },
+    {
+      "turn_id": 2,
+      "session": "first",
+      "context": "Neighbors B: Hi, how are you doing?\nNeighbors A: Not so good. I had a small accident today.\nNeighbors B: Oh no, what happened?",
+      "input": "Oh no, what happened?",
+      "ground_truth": "I hit a parked car while backing out of my driveway."
+    },
+    {
+      "turn_id": 3,
+      "session": "first",
+      "context": "Neighbors B: Oh no, what happened?\nNeighbors A: I hit a parked car while backing out of my driveway.\nNeighbors B: That's not good. Are you okay?",
+      "input": "That's not good. Are you okay?",
+      "ground_truth": "Yeah, I'm fine. But now I have to pay for the damages."
+    },
+    {
+      "turn_id": 4,
+      "session": "first",
+      "context": "Neighbors B: That's not good. Are you okay?\nNeighbors A: Yeah, I'm fine. But now I have to pay for the damages.\nNeighbors B: How much is it going to cost you?",
+      "input": "How much is it going to cost you?",
+      "ground_truth": "I'm not sure yet. I'm waiting for the garage to give me an estimate."
+    },
+    {
+      "turn_id": 5,
+      "session": "first",
+      "context": "Neighbors B: How much is it going to cost you?\nNeighbors A: I'm not sure yet. I'm waiting for the garage to give me an estimate.\nNeighbors B: That's really frustrating. I hope it won't be too expensive.",
+      "input": "That's really frustrating. I hope it won't be too expensive.",
+      "ground_truth": "Me too. It's always something. Last month, I had to fix my roof."
+    },
+    {
+      "turn_id": 6,
+      "session": "first",
+      "context": "Neighbors B: That's really frustrating. I hope it won't be too expensive.\nNeighbors A: Me too. It's always something. Last month, I had to fix my roof.\nNeighbors B: I remember you saying that. Did you finally get that fixed?",
+      "input": "I remember you saying that. Did you finally get that fixed?",
+      "ground_truth": "Yes, I did. But it was a lot of money."
+    },
+    {
+      "turn_id": 7,
+      "session": "first",
+      "context": "Neighbors B: I remember you saying that. Did you finally get that fixed?\nNeighbors A: Yes, I did. But it was a lot of money.\nNeighbors B: I'm sorry to hear that. I hope things get better for you soon.",
+      "input": "I'm sorry to hear that. I hope things get better for you soon.",
+      "ground_truth": "Thanks, me too. It seems like every time I turn around, something else needs fixing."
+    },
+    {
+      "turn_id": 8,
+      "session": "first",
+      "context": "Neighbors B: I'm sorry to hear that. I hope things get better for you soon.\nNeighbors A: Thanks, me too. It seems like every time I turn around, something else needs fixing.\nNeighbors B: That's how it goes sometimes. But at least you're able to handle it.",
+      "input": "That's how it goes sometimes. But at least you're able to handle it.",
+      "ground_truth": "Yeah, I suppose you're right. Thanks for listening."
+    },
+    {
+      "turn_id": 9,
+      "session": "second",
+      "context": "Neighbors A: Thanks, me too. It seems like every time I turn around, something else needs fixing.\nNeighbors B: That's how it goes sometimes. But at least you're able to handle it.\nNeighbors A: Yeah, I suppose you're right. Thanks for listening.",
+      "input": "Yeah, I suppose you're right. Thanks for listening.",
+      "ground_truth": "Hey there, Neighbors B! How are you doing today?"
+    },
+    {
+      "turn_id": 10,
+      "session": "second",
+      "context": "Neighbors A: Yeah, I suppose you're right. Thanks for listening.\nNeighbors A: Hey there, Neighbors B! How are you doing today?\nNeighbors B: Hi, Neighbors A. I'm okay, but I'm really nervous about my first day of school tomorrow.",
+      "input": "Hi, Neighbors A. I'm okay, but I'm really nervous about my first day of school tomorrow.",
+      "ground_truth": "I totally understand. It can be nerve-wracking starting something new, but just remember that everyone else is in the same boat as you. They're all starting new too."
+    },
+    {
+      "turn_id": 11,
+      "session": "second",
+      "context": "Neighbors B: Hi, Neighbors A. I'm okay, but I'm really nervous about my first day of school tomorrow.\nNeighbors A: I totally understand. It can be nerve-wracking starting something new, but just remember that everyone else is in the same boat as you. They're all starting new too.\nNeighbors B: I guess you're right. I just don't want to mess up or make any mistakes.",
+      "input": "I guess you're right. I just don't want to mess up or make any mistakes.",
+      "ground_truth": "Don't worry about that. You're just as capable as anyone else in that school. You'll do great."
+    },
+    {
+      "turn_id": 12,
+      "session": "second",
+      "context": "Neighbors B: I guess you're right. I just don't want to mess up or make any mistakes.\nNeighbors A: Don't worry about that. You're just as capable as anyone else in that school. You'll do great.\nNeighbors B: Thanks, Neighbors A. You always know how to make me feel better.",
+      "input": "Thanks, Neighbors A. You always know how to make me feel better.",
+      "ground_truth": "No problem at all. Hey, speaking of making mistakes, remember when I backed out of my driveway and hit a parked car?"
+    },
+    {
+      "turn_id": 13,
+      "session": "second",
+      "context": "Neighbors B: Thanks, Neighbors A. You always know how to make me feel better.\nNeighbors A: No problem at all. Hey, speaking of making mistakes, remember when I backed out of my driveway and hit a parked car?\nNeighbors B: Oh yeah, I remember that. Did everything turn out okay with the owner of the car?",
+      "input": "Oh yeah, I remember that. Did everything turn out okay with the owner of the car?",
+      "ground_truth": "Yeah, it did. I ended up paying for the damages, but it taught me to always be extra careful when backing out of my driveway."
+    },
+    {
+      "turn_id": 14,
+      "session": "second",
+      "context": "Neighbors B: Oh yeah, I remember that. Did everything turn out okay with the owner of the car?\nNeighbors A: Yeah, it did. I ended up paying for the damages, but it taught me to always be extra careful when backing out of my driveway.\nNeighbors B: That's a good lesson to learn. I'll have to remember that when I start driving.",
+      "input": "That's a good lesson to learn. I'll have to remember that when I start driving.",
+      "ground_truth": "Definitely. And remember, just take it one step at a time tomorrow. You got this!"
+    },
+    {
+      "turn_id": 15,
+      "session": "third",
+      "context": "Neighbors A: Yeah, it did. I ended up paying for the damages, but it taught me to always be extra careful when backing out of my driveway.\nNeighbors B: That's a good lesson to learn. I'll have to remember that when I start driving.\nNeighbors A: Definitely. And remember, just take it one step at a time tomorrow. You got this!",
+      "input": "Definitely. And remember, just take it one step at a time tomorrow. You got this!",
+      "ground_truth": "Hey there, how's it going?"
+    },
+    {
+      "turn_id": 16,
+      "session": "third",
+      "context": "Neighbors A: Definitely. And remember, just take it one step at a time tomorrow. You got this!\nNeighbors A: Hey there, how's it going?\nNeighbors B: Hi! I'm good, thanks. How about you?",
+      "input": "Hi! I'm good, thanks. How about you?",
+      "ground_truth": "Well, to be honest, not so great. I confirmed my suspicions about my friends."
+    },
+    {
+      "turn_id": 17,
+      "session": "third",
+      "context": "Neighbors B: Hi! I'm good, thanks. How about you?\nNeighbors A: Well, to be honest, not so great. I confirmed my suspicions about my friends.\nNeighbors B: Oh no, what do you mean?",
+      "input": "Oh no, what do you mean?",
+      "ground_truth": "I found out they've been gossiping about me behind my back. It's really been getting to me."
+    },
+    {
+      "turn_id": 18,
+      "session": "third",
+      "context": "Neighbors B: Oh no, what do you mean?\nNeighbors A: I found out they've been gossiping about me behind my back. It's really been getting to me.\nNeighbors B: That's terrible! I'm sorry you've been going through that.",
+      "input": "That's terrible! I'm sorry you've been going through that.",
+      "ground_truth": "Yeah, it's been tough. But I'm grateful to have a friend like you to talk to about it."
+    },
+    {
+      "turn_id": 19,
+      "session": "third",
+      "context": "Neighbors B: That's terrible! I'm sorry you've been going through that.\nNeighbors A: Yeah, it's been tough. But I'm grateful to have a friend like you to talk to about it.\nNeighbors B: Of course, I'm here for you. If you want to talk more about it, we can.",
+      "input": "Of course, I'm here for you. If you want to talk more about it, we can.",
+      "ground_truth": "Thanks, I appreciate that. It's just frustrating because I thought they were my friends."
+    },
+    {
+      "turn_id": 20,
+      "session": "third",
+      "context": "Neighbors B: Of course, I'm here for you. If you want to talk more about it, we can.\nNeighbors A: Thanks, I appreciate that. It's just frustrating because I thought they were my friends.\nNeighbors B: I know how that feels. It's hard when people aren't who we thought they were. But just remember that you don't need people like that in your life.",
+      "input": "I know how that feels. It's hard when people aren't who we thought they were. But just remember that you don't need people like that in your life.",
+      "ground_truth": "You're right. I just need to focus on the people who are there for me and who truly care about me."
+    }
+  ]
+}

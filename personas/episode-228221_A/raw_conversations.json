@@ -1,0 +1,76 @@
+{
+  "persona_id": "episode-228221_A",
+  "num_sessions": 5,
+  "sessions": [
+    {
+      "persona_id": "episode-228221_A",
+      "session_idx": 1,
+      "pair_id": "episode-228221",
+      "session_name": "first",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "Start",
+      "session_summary": "Classmate A expresses concern about Classmate B's latest designer dress costing them a fortune. Classmate B expresses jealousy towards Classmate A's wealth and wants Classmate B to feel better about themselves. Classmate A agrees to volunteer at the new downtown nightclub, but Classmate B expresses sadness about not caring enough for Classmate B's feelings.",
+      "session_text": "Hey Classmates B, did you see my new designer dress? It's the latest trend.\nJust nice? I thought you would be more impressed. It cost me a fortune.\nThat's easy for you to say when you don't have them. I love showing off what I have. It's good to feel beautiful and rich.\nWell, maybe you don't need those things, but I do. And I love how it makes other people jealous of me.\nBecause it means that they wish they were me. And with you, it means that you want me even more.\nWhatever. It's not like you're going to change my mind. So, did you hear about the new nightclub opening downtown?\nYeah, it's supposed to be the hottest spot in town. I'm definitely going to check it out this weekend. Maybe I'll see you there.\nWhy would you want to spend your weekend doing something like that? It sounds boring.\nWell, if that's what makes you happy. But I'll be having fun at the club. Maybe I'll meet someone better than you there.",
+      "num_turns": 9
+    },
+    {
+      "persona_id": "episode-228221_A",
+      "session_idx": 2,
+      "pair_id": "episode-228221",
+      "session_name": "second",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "A couple of years after",
+      "session_summary": "Classmate A helped Classmate B turn them in, but Classmate B was surprised and blamed Classmate A for their actions. Classmate A apologized and Classmate B assured Classmate A that they were friends but Classmate A was happy that everything turned out okay and no one was hurt.",
+      "session_text": "Can you believe it? I actually helped the authorities capture Classmates B!\nDon't act so surprised. You knew what you were doing was wrong and you should have known better.\nYou should have thought about that before you got involved in that shady business.\nWe are friends, but that doesn't mean I can condone illegal activities. Plus, you were putting yourself and others in danger.\nI'm just happy that everything turned out okay and no one was hurt.\nHa, I wouldn't go that far. But I did do the right thing.",
+      "num_turns": 6
+    },
+    {
+      "persona_id": "episode-228221_A",
+      "session_idx": 3,
+      "pair_id": "episode-228221",
+      "session_name": "third",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "A few weeks after",
+      "session_summary": "Classmate A confesses to helping a friend out, but Classmate B brushes it off. Classmate A expresses concern about how someone can be cruel, but Classmate B reminds them that kindness and generosity are important.",
+      "session_text": "I just can't believe that my good will was withdrawn like that.\nYes, I helped a friend out with something, and when it was all said and done, they just stopped talking to me. It really hurt my feelings.\nI have, but they just brushed it off like it was nothing. I don't understand how someone can be so cruel.\nMaybe, but it still doesn't excuse their behavior. I just feel like I wasted my time and energy helping someone who didn't appreciate it.\nThank you, that means a lot coming from you.\n(pauses) Speaking of heroism, remember when I helped the authorities capture you?\n(laughs) I guess I have a knack for helping people, even if they don't always deserve it.",
+      "num_turns": 7
+    },
+    {
+      "persona_id": "episode-228221_A",
+      "session_idx": 4,
+      "pair_id": "episode-228221",
+      "session_name": "fourth",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "A couple of years after",
+      "session_summary": "Classmate A expresses desire to make peace between them based on past conflicts and regrets holding grudges. Classmate B agrees to work together to achieve their goals, but Classmate A expresses concern about past mistakes Classmate B made.",
+      "session_text": "Hi there. I wanted to talk to you about something important.\nI wanted to offer an olive branch and make peace between us. I know we had our differences in the past, but I think it's time to bury the hatchet and move on.\nHonestly, I've been reflecting on things lately and I realized that holding a grudge is not productive. I want to focus on positive things and let go of the negativity that has been weighing me down.\nNot exactly. I think we need to address the issues that caused our conflict in the first place. Maybe we can have an honest conversation and air out our grievances. Then, we can work together to find a solution that benefits both of us.\nI know, and I'm sorry for that. I realize that I have my flaws, and I'm working to improve myself every day. I hope you can give me a chance to prove that I've changed.\nThat's fair. I'm willing to put in the effort if you are. Let's start by discussing what we want to achieve and how we can work together to make it happen.\n(surprised) What do you mean?\n(sighs) I understand why you would feel that way. But I promise you, my intentions are genuine this time around. I truly want to make peace and move forward. Can we focus on the present and not dwell on the past?\nAgreed. Let's work together to make things right.",
+      "num_turns": 9
+    },
+    {
+      "persona_id": "episode-228221_A",
+      "session_idx": 5,
+      "pair_id": "episode-228221",
+      "session_name": "fifth",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "A few months after",
+      "session_summary": "Classmate A finds perfect size desk for Classmate B's apartment, but Classmate B offers delivery service. Classmate A expresses appreciation for Classmate B's help and Classmate B expresses appreciation for Classmate A's past mistakes.",
+      "session_text": "Oh, finally! This desk is exactly what I'm looking for.\nYeah, I've been searching for weeks now, but couldn't find anything that fits properly. \nNo, it's fine. I'll call for delivery service. \nWell, I try to be very particular about it. It's important to make your home comfortable and stylish, you know?\nHa! Don't remind me. That was crazy. But aren't we past that already?\nAnd do you remember when I felt hurt by our common friend after I helped her?\nThank you for understanding. But now, I'm determined to make peace with her. \nExactly. I have learned to put my energy into positive things, like finding the perfect desk for my apartment. \nThanks for being such a good friend, as always.",
+      "num_turns": 9
+    }
+  ]
+}

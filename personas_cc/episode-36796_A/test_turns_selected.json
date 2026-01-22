@@ -1,0 +1,159 @@
+{
+  "persona_id": "episode-36796_A",
+  "selection_criteria": "total_score >= 10",
+  "total_original": 22,
+  "total_selected": 10,
+  "avg_quality_score": 13.0,
+  "turns": [
+    {
+      "turn_id": 34,
+      "session": "fifth",
+      "context": "Patient:  Thank you, Doctor. I appreciate your understanding.\nPatient:  Doctor, I recently started two wars and now I feel incredibly guilty.\nDoctor:  That's a serious matter. Can you tell me more about what happened?",
+      "input": " That's a serious matter. Can you tell me more about what happened?",
+      "ground_truth": " I thought going to war would be the right thing to do, but now I feel like I made a mistake. I feel guilty about the innocent lives lost.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 5,
+        "persona_expression": 5,
+        "total": 15,
+        "include": true,
+        "reason": "The response is a natural continuation, provides substantial content, and clearly expresses the patient's persona."
+      }
+    },
+    {
+      "turn_id": 38,
+      "session": "fifth",
+      "context": "Patient:  That sounds like a good idea.\nPatient:  Doctor, I lost my best friend and I feel so lonely without him.\nDoctor:  Losing someone close to you is always difficult. Can you tell me more about your friend?",
+      "input": " Losing someone close to you is always difficult. Can you tell me more about your friend?",
+      "ground_truth": " He was my best friend since we were kids. We did everything together, and now I feel lost without him.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 5,
+        "persona_expression": 5,
+        "total": 15,
+        "include": true,
+        "reason": "The response is a natural continuation of the conversation, provides detailed information about the patient's feelings and relationship with their friend, and clearly expresses the patient's persona."
+      }
+    },
+    {
+      "turn_id": 24,
+      "session": "fifth",
+      "context": "Doctor:  Take a deep breath and try to tell me what's been going on.\nPatient:  It's just been a lot of stress lately. Work is overwhelming, and I feel like I can't catch a break.\nDoctor:  Is there anything specific that's been causing the most stress?",
+      "input": " Is there anything specific that's been causing the most stress?",
+      "ground_truth": " I have this big project at work, and I feel like I'm constantly screwing things up. I'm worried that I'm going to get fired.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 5,
+        "persona_expression": 4,
+        "total": 14,
+        "include": true,
+        "reason": "The response is a natural continuation of the conversation, provides detailed information about the stressor, and reflects the patient's concerns, fitting the persona well."
+      }
+    },
+    {
+      "turn_id": 29,
+      "session": "fifth",
+      "context": "Patient:  Thanks, Doctor. I really appreciate your help.\nPatient:  Doctor, I have been avoiding making eye contact with you during our sessions.\nDoctor:  Why is that?",
+      "input": " Why is that?",
+      "ground_truth": " I find you really attractive, and I don't want to be tempted.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 3,
+        "persona_expression": 5,
+        "total": 13,
+        "include": true,
+        "reason": "The response is a natural continuation of the conversation, provides a meaningful explanation, and clearly expresses the patient's personal feelings."
+      }
+    },
+    {
+      "turn_id": 35,
+      "session": "fifth",
+      "context": "Doctor:  That's a serious matter. Can you tell me more about what happened?\nPatient:  I thought going to war would be the right thing to do, but now I feel like I made a mistake. I feel guilty about the innocent lives lost.\nDoctor:  It's understandable to feel guilty about the consequences of your actions. But it's important to remember that you made those decisions with the best intentions at the time.",
+      "input": " It's understandable to feel guilty about the consequences of your actions. But it's important to remember that you made those decisions with the best intentions at the time.",
+      "ground_truth": " I know that logically, but I still feel like I did something wrong.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 3,
+        "persona_expression": 5,
+        "total": 13,
+        "include": true,
+        "reason": "The response logically follows the context and partner's message, provides a brief but meaningful insight into the patient's feelings, and clearly expresses the patient's persona as someone struggling with guilt."
+      }
+    },
+    {
+      "turn_id": 23,
+      "session": "fifth",
+      "context": "Doctor: Of course, anytime. And if you ever need anything, don't hesitate to reach out to me or someone else you trust. We're here to support you.\nPatient:  I am just so angry right now. I don't even know why.\nDoctor:  Take a deep breath and try to tell me what's been going on.",
+      "input": " Take a deep breath and try to tell me what's been going on.",
+      "ground_truth": " It's just been a lot of stress lately. Work is overwhelming, and I feel like I can't catch a break.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 3,
+        "persona_expression": 4,
+        "total": 12,
+        "include": true,
+        "reason": "The response logically follows the context and provides a meaningful insight into the patient's stress, showing some personality."
+      }
+    },
+    {
+      "turn_id": 25,
+      "session": "fifth",
+      "context": "Doctor:  Is there anything specific that's been causing the most stress?\nPatient:  I have this big project at work, and I feel like I'm constantly screwing things up. I'm worried that I'm going to get fired.\nDoctor:  It sounds like you're putting a lot of pressure on yourself to be perfect. No one is perfect, and it's okay to make mistakes.",
+      "input": " It sounds like you're putting a lot of pressure on yourself to be perfect. No one is perfect, and it's okay to make mistakes.",
+      "ground_truth": " I know that logically, but it's hard to put into practice.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 3,
+        "persona_expression": 4,
+        "total": 12,
+        "include": true,
+        "reason": "The response logically follows the context and partner's message, is brief but meaningful, and shows the patient's struggle with applying logical understanding to emotional practice."
+      }
+    },
+    {
+      "turn_id": 26,
+      "session": "fifth",
+      "context": "Doctor:  It sounds like you're putting a lot of pressure on yourself to be perfect. No one is perfect, and it's okay to make mistakes.\nPatient:  I know that logically, but it's hard to put into practice.\nDoctor:  Let's work on some relaxation techniques to help you manage your stress. We can also explore some strategies for coping with the fear of making mistakes.",
+      "input": " Let's work on some relaxation techniques to help you manage your stress. We can also explore some strategies for coping with the fear of making mistakes.",
+      "ground_truth": " That sounds good. I just feel like I'm always on edge.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 3,
+        "persona_expression": 4,
+        "total": 12,
+        "include": true,
+        "reason": "The response logically follows the context and partner's message, provides a brief but meaningful addition, and reflects the patient's ongoing struggle with stress and anxiety."
+      }
+    },
+    {
+      "turn_id": 27,
+      "session": "fifth",
+      "context": "Doctor:  Let's work on some relaxation techniques to help you manage your stress. We can also explore some strategies for coping with the fear of making mistakes.\nPatient:  That sounds good. I just feel like I'm always on edge.\nDoctor:  It's important to take care of yourself and manage your stress. And remember, you are doing the best you can. Don't be too hard on yourself.",
+      "input": " It's important to take care of yourself and manage your stress. And remember, you are doing the best you can. Don't be too hard on yourself.",
+      "ground_truth": " Thanks, Doctor. I really appreciate your help.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 3,
+        "persona_expression": 4,
+        "total": 12,
+        "include": true,
+        "reason": "The response is a natural continuation of the conversation, acknowledges the doctor's advice, and shows appreciation, which is fitting for a patient."
+      }
+    },
+    {
+      "turn_id": 30,
+      "session": "fifth",
+      "context": "Doctor:  Why is that?\nPatient:  I find you really attractive, and I don't want to be tempted.\nDoctor:  That's a normal feeling, but we need to be able to communicate effectively during our sessions. Is there anything specific that's triggering these feelings?",
+      "input": " That's a normal feeling, but we need to be able to communicate effectively during our sessions. Is there anything specific that's triggering these feelings?",
+      "ground_truth": " I think it's just your personality. You're very kind and understanding, and that makes me feel attracted to you.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 3,
+        "persona_expression": 4,
+        "total": 12,
+        "include": true,
+        "reason": "The response logically follows the context and provides a meaningful explanation of the patient's feelings, showing some personality."
+      }
+    }
+  ]
+}

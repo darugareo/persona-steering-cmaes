@@ -1,0 +1,76 @@
+{
+  "persona_id": "episode-173843_A",
+  "num_sessions": 5,
+  "sessions": [
+    {
+      "persona_id": "episode-173843_A",
+      "session_idx": 1,
+      "pair_id": "episode-173843",
+      "session_name": "first",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "Start",
+      "session_summary": "Two classmates discuss their accomplishments at the track meet and discuss Classmate A's gold medal win. Classmate A expresses their desire to continue improving their athletic abilities and compete in future races together. Classmate B expresses interest in continuing their relay teamwork and Classmate A suggests a plan to train for the next relay race together.",
+      "session_text": "Hey, did you hear the news? I won a gold medal at the track meet for the 100 meter dash!\nThank you! I finished the race in just 12 seconds.\nYes, I did. I dedicated a lot of time and effort to practicing and improving my speed.\nThank you, I feel really proud of myself.\nDefinitely, I want to continue improving my athletic abilities and see where it takes me. \nThanks, I appreciate it. Do you remember that time we competed in a relay race together?\nThat was so much fun. We should definitely do it again sometime.\nSounds like a plan! Let's do it.",
+      "num_turns": 8
+    },
+    {
+      "persona_id": "episode-173843_A",
+      "session_idx": 2,
+      "pair_id": "episode-173843",
+      "session_name": "second",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "A few hours after",
+      "session_summary": "Two classmates discuss their feelings about not getting enough attention lately. One expresses concern about attention seeking behavior and suggests trying to be humble and not always seek attention.",
+      "session_text": ", can you please listen to me for a minute? I have something important to say.\nI feel like people are not giving me enough attention lately. I mean, I won a gold medal at the track meet and nobody even congratulated me properly.\nOf course, go ahead.\nWhat? I don't think I do that.\nWell, I just feel like people should recognize my achievements.\nHmm, I see your point. I'll try to be more mindful of that in the future.\nSpeaking of achievements, do you remember when I won the gold medal for the 100 meter dash?\nOh right, sorry. I was just thinking about how hard I worked to win that race. It wasn't easy, but I never gave up and it paid off.\nExactly! That's why I think it's important to celebrate your achievements and not be afraid to share them with others.",
+      "num_turns": 9
+    },
+    {
+      "persona_id": "episode-173843_A",
+      "session_idx": 3,
+      "pair_id": "episode-173843",
+      "session_name": "third",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "A few weeks after",
+      "session_summary": "Classmate A feels violated after seeing their entire house empty and missing furniture. Classmate B suggests calling the police and reminds Classmate A to focus on their own goals instead of relying on others for validation.",
+      "session_text": " I can't believe it. The whole house is empty. Where is all the furniture?\n No, I don't think so. It looks like everything was taken out on purpose.\n I'm the only one home right now. I don't know what to do. I feel so violated.\n I didn't see anything else missing, but it's hard to tell with everything gone. I just don't understand why someone would do this.\n I don't think it was a mistake. And I don't have anything valuable enough to steal. This is just crazy.\n Thank you, that's really kind of you. I just hope we can figure out what happened soon. \n I hate feeling like this. It's like everything is always going wrong.\n It's just that I always seem to attract negative attention. Like you said before, I'm always seeking attention but it just backfires on me.\n I guess you're right. I just need to find my own path and not worry about what others think.",
+      "num_turns": 9
+    },
+    {
+      "persona_id": "episode-173843_A",
+      "session_idx": 4,
+      "pair_id": "episode-173843",
+      "session_name": "fourth",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "A few weeks after",
+      "session_summary": "Two classmates discuss the possibility of seeing UFOs and how they believe they can be explained by natural phenomena. They also discuss how people can get caught up in the idea of seeing things like a UFO and how they can feel bad about themselves.",
+      "session_text": " Did you hear about the woman who saw a UFO?\n She claims that she saw a UFO and the man didn't believe her.\n Not really. I think that most of the sightings can be explained by natural phenomena or other things.\n It's funny how people can get so caught up in these things. I mean, if someone saw something like a UFO, it would be a huge deal, right?\n Yeah, I know what you mean. Like that time when I won the gold medal and everyone congratulated me, but there were a few people who tried to downplay my achievement.\n Thanks, I am proud of it. But sometimes it's hard when people don't believe in you or try to bring you down.\n Yeah, I remember when we talked about that. It's sad when people feel like they need attention to feel good about themselves.\n Ugh, don't remind me. It was such a terrible experience.\n Ha, I highly doubt that. But thanks for trying to cheer me up.",
+      "num_turns": 9
+    },
+    {
+      "persona_id": "episode-173843_A",
+      "session_idx": 5,
+      "pair_id": "episode-173843",
+      "session_name": "fifth",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "A few months after",
+      "session_summary": "Two classmates talk about their common interests and hobbies. They also discuss their love for nature hikes and possibility of taking their dogs along.",
+      "session_text": ", isn't it crazy how much we have in common?\nDefinitely. I'm so grateful that we met and became friends.\nSpeaking of which, have you gone on any nature hikes lately?\nThat sounds amazing! I love being outdoors and exploring new places.\nYes! My dog loves going on hikes. What kind of dog do you have?\nI have a Border Collie. They're both such great breeds.\nDefinitely. I can't wait for our next adventure.",
+      "num_turns": 7
+    }
+  ]
+}

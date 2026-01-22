@@ -1,0 +1,169 @@
+{
+  "persona_id": "episode-24275_A",
+  "speaker_role": "Parent",
+  "relationship": "Parent and Child",
+  "total_turns": 23,
+  "turns": [
+    {
+      "turn_id": 24,
+      "session": "fourth",
+      "context": "Child: No, I don't. How big is it?\nParent: I asked my teacher and she said it's huge! There are so many planets in it.\nChild: Really? How many planets are there?",
+      "input": "Really? How many planets are there?",
+      "ground_truth": "Well, there used to be nine, but now there are only eight since Pluto was demoted to a dwarf planet."
+    },
+    {
+      "turn_id": 25,
+      "session": "fourth",
+      "context": "Child: Really? How many planets are there?\nParent: Well, there used to be nine, but now there are only eight since Pluto was demoted to a dwarf planet.\nChild: That's interesting. What are the planets made of?",
+      "input": "That's interesting. What are the planets made of?",
+      "ground_truth": "According to my teacher, they're mostly made up of gas and dust."
+    },
+    {
+      "turn_id": 26,
+      "session": "fourth",
+      "context": "Child: That's interesting. What are the planets made of?\nParent: According to my teacher, they're mostly made up of gas and dust.\nChild: Gas and dust? That sounds weird.",
+      "input": "Gas and dust? That sounds weird.",
+      "ground_truth": "Yes, it does. But apparently, there are some planets that are made mostly of rock and metal as well."
+    },
+    {
+      "turn_id": 27,
+      "session": "fourth",
+      "context": "Child: Gas and dust? That sounds weird.\nParent: Yes, it does. But apparently, there are some planets that are made mostly of rock and metal as well.\nChild: That makes more sense. Hey, remember when you set fire to all my pictures a few weeks ago?",
+      "input": "That makes more sense. Hey, remember when you set fire to all my pictures a few weeks ago?",
+      "ground_truth": "Yes, I do. But let's stick to the topic at hand, shall we?"
+    },
+    {
+      "turn_id": 28,
+      "session": "fourth",
+      "context": "Child: That makes more sense. Hey, remember when you set fire to all my pictures a few weeks ago?\nParent: Yes, I do. But let's stick to the topic at hand, shall we?\nChild: Okay, okay. So, have you ever seen the peak of a mountain before?",
+      "input": "Okay, okay. So, have you ever seen the peak of a mountain before?",
+      "ground_truth": "No, I haven't. But I once looked at a mountain for a long time, hoping to see the top of it."
+    },
+    {
+      "turn_id": 29,
+      "session": "fourth",
+      "context": "Child: Okay, okay. So, have you ever seen the peak of a mountain before?\nParent: No, I haven't. But I once looked at a mountain for a long time, hoping to see the top of it.\nChild: That's cool. I once used a hammer to drive nails into a piece of wood. It was really hard!",
+      "input": "That's cool. I once used a hammer to drive nails into a piece of wood. It was really hard!",
+      "ground_truth": "Yes, it can be. But it's a useful tool to have around the house."
+    },
+    {
+      "turn_id": 30,
+      "session": "fourth",
+      "context": "Child: That's cool. I once used a hammer to drive nails into a piece of wood. It was really hard!\nParent: Yes, it can be. But it's a useful tool to have around the house.\nChild: Speaking of tools, I remember seeing you use a match to burn all my pictures. That was really mean.",
+      "input": "Speaking of tools, I remember seeing you use a match to burn all my pictures. That was really mean.",
+      "ground_truth": "Child, I already told you we're not talking about that anymore. Let's focus on the solar system, okay?"
+    },
+    {
+      "turn_id": 31,
+      "session": "fifth",
+      "context": "Parent: Yes, it can be. But it's a useful tool to have around the house.\nChild: Speaking of tools, I remember seeing you use a match to burn all my pictures. That was really mean.\nParent: Child, I already told you we're not talking about that anymore. Let's focus on the solar system, okay?",
+      "input": "Child, I already told you we're not talking about that anymore. Let's focus on the solar system, okay?",
+      "ground_truth": "Dad, can you just go? I really want to be left alone right now. "
+    },
+    {
+      "turn_id": 32,
+      "session": "fifth",
+      "context": "Parent: Child, I already told you we're not talking about that anymore. Let's focus on the solar system, okay?\nParent: Dad, can you just go? I really want to be left alone right now. \nChild: What's wrong, Mom? ",
+      "input": "What's wrong, Mom? ",
+      "ground_truth": "I'm just really sick of him always being around. I just need some time to myself. "
+    },
+    {
+      "turn_id": 33,
+      "session": "fifth",
+      "context": "Child: What's wrong, Mom? \nParent: I'm just really sick of him always being around. I just need some time to myself. \nChild: Is everything okay? ",
+      "input": "Is everything okay? ",
+      "ground_truth": "Yeah, everything's fine. I just want some peace and quiet. "
+    },
+    {
+      "turn_id": 34,
+      "session": "fifth",
+      "context": "Child: Is everything okay? \nParent: Yeah, everything's fine. I just want some peace and quiet. \nChild: Are you sure there's nothing I can do to help? ",
+      "input": "Are you sure there's nothing I can do to help? ",
+      "ground_truth": "No, it's okay. You've already done enough by always being here for me. "
+    },
+    {
+      "turn_id": 35,
+      "session": "fifth",
+      "context": "Child: Are you sure there's nothing I can do to help? \nParent: No, it's okay. You've already done enough by always being here for me. \nChild: Well, if you need anything, just let me know. ",
+      "input": "Well, if you need anything, just let me know. ",
+      "ground_truth": "Thanks, sweetie. I love you so much. "
+    },
+    {
+      "turn_id": 36,
+      "session": "fifth",
+      "context": "Child: Well, if you need anything, just let me know. \nParent: Thanks, sweetie. I love you so much. \nChild: I love you too, Mom. ",
+      "input": "I love you too, Mom. ",
+      "ground_truth": "Do you remember when I destroyed all of your pictures? "
+    },
+    {
+      "turn_id": 37,
+      "session": "fifth",
+      "context": "Child: I love you too, Mom. \nParent: Do you remember when I destroyed all of your pictures? \nChild: Of course, how could I forget? ",
+      "input": "Of course, how could I forget? ",
+      "ground_truth": "I still can't believe you did that. It was unforgivable. "
+    },
+    {
+      "turn_id": 38,
+      "session": "fifth",
+      "context": "Child: Of course, how could I forget? \nParent: I still can't believe you did that. It was unforgivable. \nChild: I'm sorry, Mom. I didn't mean to upset you. ",
+      "input": "I'm sorry, Mom. I didn't mean to upset you. ",
+      "ground_truth": "I know, but it still hurt. "
+    },
+    {
+      "turn_id": 39,
+      "session": "fifth",
+      "context": "Child: I'm sorry, Mom. I didn't mean to upset you. \nParent: I know, but it still hurt. \nChild: Can we change the topic? I don't like thinking about that. ",
+      "input": "Can we change the topic? I don't like thinking about that. ",
+      "ground_truth": "Sure, how about that time I was looking at the mountain? "
+    },
+    {
+      "turn_id": 40,
+      "session": "fifth",
+      "context": "Child: Can we change the topic? I don't like thinking about that. \nParent: Sure, how about that time I was looking at the mountain? \nChild: Did you ever end up seeing the top? ",
+      "input": "Did you ever end up seeing the top? ",
+      "ground_truth": "No, but I still enjoyed the view. "
+    },
+    {
+      "turn_id": 41,
+      "session": "fifth",
+      "context": "Child: Did you ever end up seeing the top? \nParent: No, but I still enjoyed the view. \nChild: That's really cool. ",
+      "input": "That's really cool. ",
+      "ground_truth": "Do you remember when I asked my teacher about the solar system? "
+    },
+    {
+      "turn_id": 42,
+      "session": "fifth",
+      "context": "Child: That's really cool. \nParent: Do you remember when I asked my teacher about the solar system? \nChild: Yeah, she said it's mostly made up of gas and dust, right? ",
+      "input": "Yeah, she said it's mostly made up of gas and dust, right? ",
+      "ground_truth": "Yes, that's right. It's amazing how big it is. "
+    },
+    {
+      "turn_id": 43,
+      "session": "fifth",
+      "context": "Child: Yeah, she said it's mostly made up of gas and dust, right? \nParent: Yes, that's right. It's amazing how big it is. \nChild: It's mind-boggling to think about. ",
+      "input": "It's mind-boggling to think about. ",
+      "ground_truth": "It is, but it's important to keep exploring and learning about our universe. "
+    },
+    {
+      "turn_id": 44,
+      "session": "fifth",
+      "context": "Child: It's mind-boggling to think about. \nParent: It is, but it's important to keep exploring and learning about our universe. \nChild: I agree, there's still so much we don't know. ",
+      "input": "I agree, there's still so much we don't know. ",
+      "ground_truth": "And that's why it's so important to keep asking questions and seeking answers. "
+    },
+    {
+      "turn_id": 45,
+      "session": "fifth",
+      "context": "Child: I agree, there's still so much we don't know. \nParent: And that's why it's so important to keep asking questions and seeking answers. \nChild: Definitely. Hey, Mom, are you feeling any better now? ",
+      "input": "Definitely. Hey, Mom, are you feeling any better now? ",
+      "ground_truth": "Yeah, actually, I do feel a little better. Thanks for talking with me, it really helped. "
+    },
+    {
+      "turn_id": 46,
+      "session": "fifth",
+      "context": "Child: Definitely. Hey, Mom, are you feeling any better now? \nParent: Yeah, actually, I do feel a little better. Thanks for talking with me, it really helped. \nChild: Anytime, Mom. I love you. ",
+      "input": "Anytime, Mom. I love you. ",
+      "ground_truth": "I love you too, sweetie."
+    }
+  ]
+}

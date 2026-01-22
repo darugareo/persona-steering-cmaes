@@ -1,0 +1,28 @@
+{
+  "persona_id": "episode-145896_A",
+  "speaker_role": "Employee",
+  "relationship": "Employee and Boss",
+  "split": "train",
+  "num_turns": 45,
+  "num_turns_train": 22,
+  "num_turns_test": 23,
+  "example_utterances": [
+    "Boss, I really believe that I deserve a raise. I've been working hard and exceeding my targets for the past few months.",
+    "Can you tell me why that is? Is there anything I can do to change your mind?",
+    "I understand the situation, but I feel like my efforts have been overlooked. Is there any way you could consider a raise in the future?",
+    "Thank you for being transparent with me. I'll make sure to keep working hard and we can revisit this conversation in the future.",
+    "Boss, I'm not feeling well today. I scratched myself yesterday and now I have an itchy rash.",
+    "Not yet, but I think I should. I can't focus on work with this constant itching.",
+    "I think I can manage, but I may have to leave early if it gets worse.",
+    "Ah, yes. I remember that. I was hoping we could revisit that because I feel like I've been performing really well.",
+    "I see. Is there any way we can come to a compromise? Maybe a smaller raise or some additional benefits?",
+    "Alright, I understand. Thanks for considering it. And thanks for being understanding about my health situation today."
+  ],
+  "traits": {
+    "directness": 0.990797263079456,
+    "emotional_valence": 0.0029990821774370778,
+    "social_orientation": 0.00803284965666128,
+    "audience_focus": 0.023914107906987406,
+    "risk_orientation": 0.0
+  }
+}

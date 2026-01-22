@@ -1,0 +1,148 @@
+{
+  "persona_id": "episode-38144_A",
+  "speaker_role": "Neighbors",
+  "relationship": "Neighbors",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "session": "first",
+      "context": "Neighbors A: Hi, sorry I missed your call earlier. I was in a meeting and couldn't answer.\nNeighbors B: No worries! I just wanted to check in and see how you were doing.",
+      "input": "No worries! I just wanted to check in and see how you were doing.",
+      "ground_truth": "I'm doing alright, thanks for asking. How about you?"
+    },
+    {
+      "turn_id": 2,
+      "session": "first",
+      "context": "Neighbors B: No worries! I just wanted to check in and see how you were doing.\nNeighbors A: I'm doing alright, thanks for asking. How about you?\nNeighbors B: I'm doing okay. Just busy with work and trying to stay on top of things.",
+      "input": "I'm doing okay. Just busy with work and trying to stay on top of things.",
+      "ground_truth": "Yeah, I know how that feels. Speaking of work, did you ever hear back from that job you applied for?"
+    },
+    {
+      "turn_id": 3,
+      "session": "first",
+      "context": "Neighbors B: I'm doing okay. Just busy with work and trying to stay on top of things.\nNeighbors A: Yeah, I know how that feels. Speaking of work, did you ever hear back from that job you applied for?\nNeighbors B: Not yet, but I'm hoping to hear back soon. Fingers crossed!",
+      "input": "Not yet, but I'm hoping to hear back soon. Fingers crossed!",
+      "ground_truth": "Definitely! I'll keep my fingers crossed for you too. But anyways, I'm just glad we finally caught up. It's been a while since we've had a chance to chat."
+    },
+    {
+      "turn_id": 4,
+      "session": "first",
+      "context": "Neighbors B: Not yet, but I'm hoping to hear back soon. Fingers crossed!\nNeighbors A: Definitely! I'll keep my fingers crossed for you too. But anyways, I'm just glad we finally caught up. It's been a while since we've had a chance to chat.\nNeighbors B: Same here! We should plan on grabbing lunch or something soon.",
+      "input": "Same here! We should plan on grabbing lunch or something soon.",
+      "ground_truth": "Yes, that would be great. Let's make plans for next week. I'll text you so we can figure out a time and place."
+    },
+    {
+      "turn_id": 5,
+      "session": "second",
+      "context": "Neighbors B: Same here! We should plan on grabbing lunch or something soon.\nNeighbors A: Yes, that would be great. Let's make plans for next week. I'll text you so we can figure out a time and place.\nNeighbors B: Sounds good to me. Looking forward to it!",
+      "input": "Sounds good to me. Looking forward to it!",
+      "ground_truth": "Hey, sorry I missed your call the other day. It was really busy at work."
+    },
+    {
+      "turn_id": 6,
+      "session": "second",
+      "context": "Neighbors B: Sounds good to me. Looking forward to it!\nNeighbors A: Hey, sorry I missed your call the other day. It was really busy at work.\nNeighbors B: No worries, I left a message. How are things going with you?",
+      "input": "No worries, I left a message. How are things going with you?",
+      "ground_truth": "Things are good, just trying to stay focused on work and staying busy. Trying not to think about certain things."
+    },
+    {
+      "turn_id": 7,
+      "session": "second",
+      "context": "Neighbors B: No worries, I left a message. How are things going with you?\nNeighbors A: Things are good, just trying to stay focused on work and staying busy. Trying not to think about certain things.\nNeighbors B: What kinds of things?",
+      "input": "What kinds of things?",
+      "ground_truth": "Oh, just some past relationships that I want to forget about. You know how it is."
+    },
+    {
+      "turn_id": 8,
+      "session": "second",
+      "context": "Neighbors B: What kinds of things?\nNeighbors A: Oh, just some past relationships that I want to forget about. You know how it is.\nNeighbors B: Yeah, I can relate. Sometimes it's best to just move on and let go of the past.",
+      "input": "Yeah, I can relate. Sometimes it's best to just move on and let go of the past.",
+      "ground_truth": "Exactly. It's been a struggle, but I'm trying to stay positive and keep moving forward."
+    },
+    {
+      "turn_id": 9,
+      "session": "second",
+      "context": "Neighbors B: Yeah, I can relate. Sometimes it's best to just move on and let go of the past.\nNeighbors A: Exactly. It's been a struggle, but I'm trying to stay positive and keep moving forward.\nNeighbors B: Well, that's a good attitude to have. Speaking of moving forward, have you thought about making any plans for the future?",
+      "input": "Well, that's a good attitude to have. Speaking of moving forward, have you thought about making any plans for the future?",
+      "ground_truth": "Actually, I have. I'm thinking about taking a trip somewhere soon."
+    },
+    {
+      "turn_id": 10,
+      "session": "second",
+      "context": "Neighbors B: Well, that's a good attitude to have. Speaking of moving forward, have you thought about making any plans for the future?\nNeighbors A: Actually, I have. I'm thinking about taking a trip somewhere soon.\nNeighbors B: Oh, that sounds like fun. Where are you thinking about going?",
+      "input": "Oh, that sounds like fun. Where are you thinking about going?",
+      "ground_truth": "I haven't decided yet, but maybe somewhere I've never been before. It would be nice to have a change of scenery."
+    },
+    {
+      "turn_id": 11,
+      "session": "second",
+      "context": "Neighbors B: Oh, that sounds like fun. Where are you thinking about going?\nNeighbors A: I haven't decided yet, but maybe somewhere I've never been before. It would be nice to have a change of scenery.\nNeighbors B: Definitely. You deserve a break and some time to relax. You should do it.",
+      "input": "Definitely. You deserve a break and some time to relax. You should do it.",
+      "ground_truth": "Thanks, I think I will. It's good to have something to look forward to. "
+    },
+    {
+      "turn_id": 12,
+      "session": "second",
+      "context": "Neighbors B: Definitely. You deserve a break and some time to relax. You should do it.\nNeighbors A: Thanks, I think I will. It's good to have something to look forward to. \nNeighbors B: Absolutely. And if you ever need someone to talk to about the past or anything else, you know you can always call me.",
+      "input": "Absolutely. And if you ever need someone to talk to about the past or anything else, you know you can always call me.",
+      "ground_truth": "I appreciate that, thank you. It's good to know I have someone to count on."
+    },
+    {
+      "turn_id": 13,
+      "session": "third",
+      "context": "Neighbors A: Thanks, I think I will. It's good to have something to look forward to. \nNeighbors B: Absolutely. And if you ever need someone to talk to about the past or anything else, you know you can always call me.\nNeighbors A: I appreciate that, thank you. It's good to know I have someone to count on.",
+      "input": "I appreciate that, thank you. It's good to know I have someone to count on.",
+      "ground_truth": "Hey, Neighbor B! How are you doing?"
+    },
+    {
+      "turn_id": 14,
+      "session": "third",
+      "context": "Neighbors A: I appreciate that, thank you. It's good to know I have someone to count on.\nNeighbors A: Hey, Neighbor B! How are you doing?\nNeighbors B: Hey! I'm good, thanks for asking. How about you?",
+      "input": "Hey! I'm good, thanks for asking. How about you?",
+      "ground_truth": "I'm feeling pretty excited actually. I just quit my club and I'm starting my own."
+    },
+    {
+      "turn_id": 15,
+      "session": "third",
+      "context": "Neighbors B: Hey! I'm good, thanks for asking. How about you?\nNeighbors A: I'm feeling pretty excited actually. I just quit my club and I'm starting my own.\nNeighbors B: Really? That's a big decision. Why did you quit?",
+      "input": "Really? That's a big decision. Why did you quit?",
+      "ground_truth": "Well, I just felt like I could do better. I have a lot of experience and I know what it takes to run a successful club."
+    },
+    {
+      "turn_id": 16,
+      "session": "third",
+      "context": "Neighbors B: Really? That's a big decision. Why did you quit?\nNeighbors A: Well, I just felt like I could do better. I have a lot of experience and I know what it takes to run a successful club.\nNeighbors B: I see. What kind of club are you starting?",
+      "input": "I see. What kind of club are you starting?",
+      "ground_truth": "It's going to be a fitness club. I'm really passionate about health and wellness, and I want to create a space where people can come and work towards their goals."
+    },
+    {
+      "turn_id": 17,
+      "session": "third",
+      "context": "Neighbors B: I see. What kind of club are you starting?\nNeighbors A: It's going to be a fitness club. I'm really passionate about health and wellness, and I want to create a space where people can come and work towards their goals.\nNeighbors B: Wow, that sounds great. Do you have a plan in place?",
+      "input": "Wow, that sounds great. Do you have a plan in place?",
+      "ground_truth": "Yes, I've been working on it for a while now. I have a business plan and I've already started scouting out locations."
+    },
+    {
+      "turn_id": 18,
+      "session": "third",
+      "context": "Neighbors B: Wow, that sounds great. Do you have a plan in place?\nNeighbors A: Yes, I've been working on it for a while now. I have a business plan and I've already started scouting out locations.\nNeighbors B: Impressive. I'm sure it will be successful with all the knowledge you have. ",
+      "input": "Impressive. I'm sure it will be successful with all the knowledge you have. ",
+      "ground_truth": "Thanks, I really appreciate your support. "
+    },
+    {
+      "turn_id": 19,
+      "session": "third",
+      "context": "Neighbors B: Impressive. I'm sure it will be successful with all the knowledge you have. \nNeighbors A: Thanks, I really appreciate your support. \nNeighbors B: Of course! It sounds like a great opportunity for you. ",
+      "input": "Of course! It sounds like a great opportunity for you. ",
+      "ground_truth": "Definitely. It's a big step, but I'm ready for the challenge."
+    },
+    {
+      "turn_id": 20,
+      "session": "third",
+      "context": "Neighbors B: Of course! It sounds like a great opportunity for you. \nNeighbors A: Definitely. It's a big step, but I'm ready for the challenge.\nNeighbors B: You got this. I'm excited to see where your club goes.",
+      "input": "You got this. I'm excited to see where your club goes.",
+      "ground_truth": "Thanks, Neighbor B. I'll definitely keep you updated on my progress. "
+    }
+  ]
+}

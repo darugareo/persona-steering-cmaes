@@ -1,0 +1,28 @@
+{
+  "persona_id": "episode-24275_A",
+  "speaker_role": "Parent",
+  "relationship": "Parent and Child",
+  "split": "train",
+  "num_turns": 47,
+  "num_turns_train": 23,
+  "num_turns_test": 24,
+  "example_utterances": [
+    "Yes, I need to drive these nails in to keep the table from wobbling.",
+    "Of course, but I'll need to supervise you closely. Safety first.",
+    "That's a good idea. Let me grab some work gloves for both of us.",
+    "Yes, I remember. That was a fun project. We should do something like that again soon.",
+    "And it's a good way to learn new skills and teach you important things, like how to handle a hammer safely.",
+    "Exactly. And that's why it's important to always practice safety and work together when using tools like a hammer.",
+    "I couldn't believe you did that, child. It was unforgivable.",
+    "You know exactly what you did. I saw it with my own eyes.",
+    "You broke my favorite vase and didn't even bother to apologize or try to fix it.",
+    "No. That vase was irreplaceable. I can't even look at you right now."
+  ],
+  "traits": {
+    "directness": 0.9989417989417989,
+    "emotional_valence": 0.0026801166988082875,
+    "social_orientation": 0.012133515152206741,
+    "audience_focus": 0.03572632075435814,
+    "risk_orientation": 0.0
+  }
+}

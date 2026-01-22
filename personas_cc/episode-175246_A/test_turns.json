@@ -1,0 +1,155 @@
+{
+  "persona_id": "episode-175246_A",
+  "speaker_role": "Husband",
+  "relationship": "Husband and Wife",
+  "total_turns": 21,
+  "turns": [
+    {
+      "turn_id": 22,
+      "session": "third",
+      "context": "Wife: Of course! That was so much fun.\nHusband: I was thinking we could plan another trip soon. I miss spending that quality time with you.\nWife: I would love that. Let's plan something soon.",
+      "input": "I would love that. Let's plan something soon.",
+      "ground_truth": "Perfect. And who knows, maybe we'll even find some inspiration for my art while we're out there."
+    },
+    {
+      "turn_id": 23,
+      "session": "third",
+      "context": "Wife: I would love that. Let's plan something soon.\nHusband: Perfect. And who knows, maybe we'll even find some inspiration for my art while we're out there.\nWife: That's a great idea! Maybe we can even stop at some art galleries on the way back.",
+      "input": "That's a great idea! Maybe we can even stop at some art galleries on the way back.",
+      "ground_truth": "See, you always know just what to say."
+    },
+    {
+      "turn_id": 24,
+      "session": "third",
+      "context": "Wife: That's a great idea! Maybe we can even stop at some art galleries on the way back.\nHusband: See, you always know just what to say.\nWife: That's why I'm your better half.",
+      "input": "That's why I'm your better half.",
+      "ground_truth": "And I wouldn't want it any other way."
+    },
+    {
+      "turn_id": 25,
+      "session": "fourth",
+      "context": "Husband: See, you always know just what to say.\nWife: That's why I'm your better half.\nHusband: And I wouldn't want it any other way.",
+      "input": "And I wouldn't want it any other way.",
+      "ground_truth": "Hey babe, I brought you something."
+    },
+    {
+      "turn_id": 26,
+      "session": "fourth",
+      "context": "Husband: And I wouldn't want it any other way.\nHusband: Hey babe, I brought you something.\nWife: Oh, what is it?",
+      "input": "Oh, what is it?",
+      "ground_truth": "It's a twenty dollar bill."
+    },
+    {
+      "turn_id": 27,
+      "session": "fourth",
+      "context": "Wife: Oh, what is it?\nHusband: It's a twenty dollar bill.\nWife: Why are you giving me money?",
+      "input": "Why are you giving me money?",
+      "ground_truth": "I want to start paying you for all the things you do around the house."
+    },
+    {
+      "turn_id": 28,
+      "session": "fourth",
+      "context": "Wife: Why are you giving me money?\nHusband: I want to start paying you for all the things you do around the house.\nWife: Wait, what? Why would you do that?",
+      "input": "Wait, what? Why would you do that?",
+      "ground_truth": "Because you work hard taking care of our home and I want to show my appreciation in a tangible way. Plus, I think it's fair that you get compensated for your efforts."
+    },
+    {
+      "turn_id": 29,
+      "session": "fourth",
+      "context": "Wife: Wait, what? Why would you do that?\nHusband: Because you work hard taking care of our home and I want to show my appreciation in a tangible way. Plus, I think it's fair that you get compensated for your efforts.\nWife: I don't need to be paid for doing what needs to be done. I do it out of love for our family.",
+      "input": "I don't need to be paid for doing what needs to be done. I do it out of love for our family.",
+      "ground_truth": "I know, but it's important to recognize and value the work you do. So, from now on, I'll pay you five dollars every week."
+    },
+    {
+      "turn_id": 30,
+      "session": "fourth",
+      "context": "Wife: I don't need to be paid for doing what needs to be done. I do it out of love for our family.\nHusband: I know, but it's important to recognize and value the work you do. So, from now on, I'll pay you five dollars every week.\nWife: I don't know...it just feels weird to get paid for being a homemaker.",
+      "input": "I don't know...it just feels weird to get paid for being a homemaker.",
+      "ground_truth": "Think of it as a way for me to contribute more to our family and for us to show each other love and support."
+    },
+    {
+      "turn_id": 31,
+      "session": "fourth",
+      "context": "Wife: I don't know...it just feels weird to get paid for being a homemaker.\nHusband: Think of it as a way for me to contribute more to our family and for us to show each other love and support.\nWife: Okay, I guess that makes sense. Thank you for your thoughtfulness.",
+      "input": "Okay, I guess that makes sense. Thank you for your thoughtfulness.",
+      "ground_truth": "Of course, I appreciate everything you do for us. "
+    },
+    {
+      "turn_id": 32,
+      "session": "fourth",
+      "context": "Wife: Okay, I guess that makes sense. Thank you for your thoughtfulness.\nHusband: Of course, I appreciate everything you do for us. \nWife: Speaking of appreciating each other, do you remember when we went hunting together a few years ago?",
+      "input": "Speaking of appreciating each other, do you remember when we went hunting together a few years ago?",
+      "ground_truth": "Yes, that was so much fun. I loved spending that time with you."
+    },
+    {
+      "turn_id": 33,
+      "session": "fourth",
+      "context": "Wife: Speaking of appreciating each other, do you remember when we went hunting together a few years ago?\nHusband: Yes, that was so much fun. I loved spending that time with you.\nWife: I did too. And remember when I pursued my passion for art and got my degree?",
+      "input": "I did too. And remember when I pursued my passion for art and got my degree?",
+      "ground_truth": "Absolutely. I'm proud of you for following your dreams and becoming an amazing artist."
+    },
+    {
+      "turn_id": 34,
+      "session": "fourth",
+      "context": "Wife: I did too. And remember when I pursued my passion for art and got my degree?\nHusband: Absolutely. I'm proud of you for following your dreams and becoming an amazing artist.\nWife: Thanks. It's just important to support each other and pursue our passions.",
+      "input": "Thanks. It's just important to support each other and pursue our passions.",
+      "ground_truth": "Agreed. And I'm so grateful for our partnership and all the ways we support each other."
+    },
+    {
+      "turn_id": 35,
+      "session": "fifth",
+      "context": "Husband: Absolutely. I'm proud of you for following your dreams and becoming an amazing artist.\nWife: Thanks. It's just important to support each other and pursue our passions.\nHusband: Agreed. And I'm so grateful for our partnership and all the ways we support each other.",
+      "input": "Agreed. And I'm so grateful for our partnership and all the ways we support each other.",
+      "ground_truth": "Good morning, dear. Did you sleep well?"
+    },
+    {
+      "turn_id": 36,
+      "session": "fifth",
+      "context": "Husband: Agreed. And I'm so grateful for our partnership and all the ways we support each other.\nHusband: Good morning, dear. Did you sleep well?\nWife: Yes, I did. How about you?",
+      "input": "Yes, I did. How about you?",
+      "ground_truth": "I woke up early, as usual. It's already 5:30, and I need to start getting ready for work."
+    },
+    {
+      "turn_id": 37,
+      "session": "fifth",
+      "context": "Wife: Yes, I did. How about you?\nHusband: I woke up early, as usual. It's already 5:30, and I need to start getting ready for work.\nWife: You always wake up so early. What time do you need to leave?",
+      "input": "You always wake up so early. What time do you need to leave?",
+      "ground_truth": "I have to be at work by 7:00. So, I have to leave in about half an hour."
+    },
+    {
+      "turn_id": 38,
+      "session": "fifth",
+      "context": "Wife: You always wake up so early. What time do you need to leave?\nHusband: I have to be at work by 7:00. So, I have to leave in about half an hour.\nWife: Okay. Did you pack your lunch?",
+      "input": "Okay. Did you pack your lunch?",
+      "ground_truth": "Yes, I made a sandwich and prepared some fruits. What are your plans for today?"
+    },
+    {
+      "turn_id": 39,
+      "session": "fifth",
+      "context": "Wife: Okay. Did you pack your lunch?\nHusband: Yes, I made a sandwich and prepared some fruits. What are your plans for today?\nWife: I'm thinking of going grocery shopping and then maybe doing some cleaning around the house.",
+      "input": "I'm thinking of going grocery shopping and then maybe doing some cleaning around the house.",
+      "ground_truth": "Sounds like a busy day. Hey, speaking of work, do you remember when we talked about my desire to be an art major when I was younger?"
+    },
+    {
+      "turn_id": 40,
+      "session": "fifth",
+      "context": "Wife: I'm thinking of going grocery shopping and then maybe doing some cleaning around the house.\nHusband: Sounds like a busy day. Hey, speaking of work, do you remember when we talked about my desire to be an art major when I was younger?\nWife: Yes, I remember. You were really passionate about art, and you wanted to pursue it as your career.",
+      "input": "Yes, I remember. You were really passionate about art, and you wanted to pursue it as your career.",
+      "ground_truth": "Yeah, I still regret not following my dream sometimes. But, I'm grateful for the job I have now, it pays the bills."
+    },
+    {
+      "turn_id": 41,
+      "session": "fifth",
+      "context": "Wife: Yes, I remember. You were really passionate about art, and you wanted to pursue it as your career.\nHusband: Yeah, I still regret not following my dream sometimes. But, I'm grateful for the job I have now, it pays the bills.\nWife: Of course, and I'm proud of you for being responsible. Remember when you asked me to go hunting with you a couple of years ago? I really enjoyed our time together.",
+      "input": "Of course, and I'm proud of you for being responsible. Remember when you asked me to go hunting with you a couple of years ago? I really enjoyed our time together.",
+      "ground_truth": "Me too. It was a great bonding experience. Hey, I almost forgot. I need to give you the five dollars I owe you. Here's a twenty-dollar bill."
+    },
+    {
+      "turn_id": 42,
+      "session": "fifth",
+      "context": "Wife: Of course, and I'm proud of you for being responsible. Remember when you asked me to go hunting with you a couple of years ago? I really enjoyed our time together.\nHusband: Me too. It was a great bonding experience. Hey, I almost forgot. I need to give you the five dollars I owe you. Here's a twenty-dollar bill.\nWife: Thanks! That reminds me, do you remember when you asked me to take you back, and I agreed?",
+      "input": "Thanks! That reminds me, do you remember when you asked me to take you back, and I agreed?",
+      "ground_truth": "Yes, I remember. I'm still grateful that we were able to work things out. Alright, I better start getting ready for work. Have a great day, love."
+    }
+  ]
+}

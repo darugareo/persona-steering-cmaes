@@ -1,0 +1,159 @@
+{
+  "persona_id": "episode-36796_B",
+  "selection_criteria": "total_score >= 10",
+  "total_original": 21,
+  "total_selected": 10,
+  "avg_quality_score": 14.0,
+  "turns": [
+    {
+      "turn_id": 21,
+      "session": "fourth",
+      "context": "Patient: I haven't really thought about that. Do you think it would help?\nDoctor: Absolutely. Sometimes it's easier to talk to someone who isn't directly involved in our life. They can provide a different perspective and help you work through your emotions. And if you want, we can even work together to find a therapist that you feel comfortable with.\nPatient: That sounds like it could help. I just miss my friend so much and it feels like I'll never be able to fill the void he left in my life.",
+      "input": "That sounds like it could help. I just miss my friend so much and it feels like I'll never be able to fill the void he left in my life.",
+      "ground_truth": "I understand how you feel. However, it's important to remember that you don't have to fill that void entirely. It's okay to have a different kind of relationship with different people. And as you continue to heal, you may find that the void becomes less painful over time.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 5,
+        "persona_expression": 5,
+        "total": 15,
+        "include": true,
+        "reason": "The response is a natural continuation of the conversation, provides substantial content, and clearly reflects the persona of a caring doctor."
+      }
+    },
+    {
+      "turn_id": 26,
+      "session": "fifth",
+      "context": "Patient:  I have this big project at work, and I feel like I'm constantly screwing things up. I'm worried that I'm going to get fired.\nDoctor:  It sounds like you're putting a lot of pressure on yourself to be perfect. No one is perfect, and it's okay to make mistakes.\nPatient:  I know that logically, but it's hard to put into practice.",
+      "input": " I know that logically, but it's hard to put into practice.",
+      "ground_truth": " Let's work on some relaxation techniques to help you manage your stress. We can also explore some strategies for coping with the fear of making mistakes.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 5,
+        "persona_expression": 5,
+        "total": 15,
+        "include": true,
+        "reason": "The response is a natural continuation of the conversation, offers substantial content with practical advice, and clearly reflects the persona of a doctor by suggesting relaxation techniques and coping strategies."
+      }
+    },
+    {
+      "turn_id": 22,
+      "session": "fourth",
+      "context": "Patient: That sounds like it could help. I just miss my friend so much and it feels like I'll never be able to fill the void he left in my life.\nDoctor: I understand how you feel. However, it's important to remember that you don't have to fill that void entirely. It's okay to have a different kind of relationship with different people. And as you continue to heal, you may find that the void becomes less painful over time.\nPatient: That gives me hope. Thank you, Doctor.",
+      "input": "That gives me hope. Thank you, Doctor.",
+      "ground_truth": "Of course, anytime. And if you ever need anything, don't hesitate to reach out to me or someone else you trust. We're here to support you.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 4,
+        "persona_expression": 5,
+        "total": 14,
+        "include": true,
+        "reason": "The response is a natural continuation of the conversation, offers meaningful support, and clearly reflects the persona of a caring doctor."
+      }
+    },
+    {
+      "turn_id": 29,
+      "session": "fifth",
+      "context": "Patient:  Doctor, I have been avoiding making eye contact with you during our sessions.\nDoctor:  Why is that?\nPatient:  I find you really attractive, and I don't want to be tempted.",
+      "input": " I find you really attractive, and I don't want to be tempted.",
+      "ground_truth": " That's a normal feeling, but we need to be able to communicate effectively during our sessions. Is there anything specific that's triggering these feelings?",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 4,
+        "persona_expression": 5,
+        "total": 14,
+        "include": true,
+        "reason": "The response is a natural continuation of the conversation, provides meaningful content, and clearly reflects the persona of a doctor maintaining professionalism."
+      }
+    },
+    {
+      "turn_id": 30,
+      "session": "fifth",
+      "context": "Patient:  I find you really attractive, and I don't want to be tempted.\nDoctor:  That's a normal feeling, but we need to be able to communicate effectively during our sessions. Is there anything specific that's triggering these feelings?\nPatient:  I think it's just your personality. You're very kind and understanding, and that makes me feel attracted to you.",
+      "input": " I think it's just your personality. You're very kind and understanding, and that makes me feel attracted to you.",
+      "ground_truth": " It's important to remember that our relationship is strictly professional. However, if you don't feel comfortable talking with me, we can explore other options for your therapy.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 4,
+        "persona_expression": 5,
+        "total": 14,
+        "include": true,
+        "reason": "The response is a natural continuation of the conversation, provides a meaningful and professional reply, and clearly reflects the persona of a doctor maintaining professional boundaries."
+      }
+    },
+    {
+      "turn_id": 34,
+      "session": "fifth",
+      "context": "Patient:  I thought going to war would be the right thing to do, but now I feel like I made a mistake. I feel guilty about the innocent lives lost.\nDoctor:  It's understandable to feel guilty about the consequences of your actions. But it's important to remember that you made those decisions with the best intentions at the time.\nPatient:  I know that logically, but I still feel like I did something wrong.",
+      "input": " I know that logically, but I still feel like I did something wrong.",
+      "ground_truth": " Let's work on some ways for you to make amends and help those affected by the wars.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 4,
+        "persona_expression": 5,
+        "total": 14,
+        "include": true,
+        "reason": "The response is a natural continuation of the conversation, offers a constructive approach, and clearly reflects the persona of a doctor by focusing on healing and making amends."
+      }
+    },
+    {
+      "turn_id": 39,
+      "session": "fifth",
+      "context": "Patient:  I am just so angry right now. I don't even know why.\nDoctor:  Do you remember the last time you felt this way? Is there anything that could be triggering this feeling?\nPatient:  I can't think of anything specific. It's just a constant feeling of frustration and irritation.",
+      "input": " I can't think of anything specific. It's just a constant feeling of frustration and irritation.",
+      "ground_truth": " Sometimes when we bury our feelings, they can come out as anger. Is there something you've been avoiding or not dealing with in your life?",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 4,
+        "persona_expression": 5,
+        "total": 14,
+        "include": true,
+        "reason": "The response is a natural continuation of the conversation, provides meaningful insight, and clearly reflects the persona of a doctor by addressing emotional health."
+      }
+    },
+    {
+      "turn_id": 40,
+      "session": "fifth",
+      "context": "Patient:  I can't think of anything specific. It's just a constant feeling of frustration and irritation.\nDoctor:  Sometimes when we bury our feelings, they can come out as anger. Is there something you've been avoiding or not dealing with in your life?\nPatient:  I don't think so, but maybe there is something deep down that I haven't been willing to face.",
+      "input": " I don't think so, but maybe there is something deep down that I haven't been willing to face.",
+      "ground_truth": " Let's work on some techniques to help you express and address your emotions. It's important to get to the root of why you're feeling this way.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 4,
+        "persona_expression": 5,
+        "total": 14,
+        "include": true,
+        "reason": "The response is a natural continuation of the conversation, offers a meaningful suggestion, and clearly reflects the persona of a doctor."
+      }
+    },
+    {
+      "turn_id": 23,
+      "session": "fifth",
+      "context": "Patient: That gives me hope. Thank you, Doctor.\nDoctor: Of course, anytime. And if you ever need anything, don't hesitate to reach out to me or someone else you trust. We're here to support you.\nPatient:  I am just so angry right now. I don't even know why.",
+      "input": " I am just so angry right now. I don't even know why.",
+      "ground_truth": " Take a deep breath and try to tell me what's been going on.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 3,
+        "persona_expression": 5,
+        "total": 13,
+        "include": true,
+        "reason": "The response is a natural continuation of the conversation, offers a brief but meaningful suggestion, and clearly reflects the persona of a supportive doctor."
+      }
+    },
+    {
+      "turn_id": 24,
+      "session": "fifth",
+      "context": "Patient:  I am just so angry right now. I don't even know why.\nDoctor:  Take a deep breath and try to tell me what's been going on.\nPatient:  It's just been a lot of stress lately. Work is overwhelming, and I feel like I can't catch a break.",
+      "input": " It's just been a lot of stress lately. Work is overwhelming, and I feel like I can't catch a break.",
+      "ground_truth": " Is there anything specific that's been causing the most stress?",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 3,
+        "persona_expression": 5,
+        "total": 13,
+        "include": true,
+        "reason": "The response is a natural continuation of the conversation, is brief but meaningful, and clearly reflects the persona of a doctor by probing for more specific information about the patient's stress."
+      }
+    }
+  ]
+}

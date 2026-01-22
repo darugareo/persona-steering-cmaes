@@ -1,0 +1,28 @@
+{
+  "persona_id": "episode-14330_A",
+  "speaker_role": "Parent",
+  "relationship": "Parent and Child",
+  "split": "train",
+  "num_turns": 47,
+  "num_turns_train": 23,
+  "num_turns_test": 24,
+  "example_utterances": [
+    "It was nice, actually. I went to the park and saw a little grey squirrel running around.",
+    "No, unfortunately I didn't have my phone with me. But it was nice to watch it play.",
+    "Yes, I actually made a new friend there. Her name is Emily, and we had a nice chat while watching the squirrel.",
+    "Yes, we did. I'm thinking about inviting her over for coffee sometime this week.",
+    "Thanks, cutie. It's always nice to make new friends, no matter how old we are.",
+    "I do remember! That was such a lovely sight. I always enjoy spending time with you at the park, honey.",
+    "Absolutely. Looking forward to it already. Good night, love.",
+    "Child, I need to talk to you about something. I found out that you've been lying to me and it really hurt my feelings.",
+    "It's important that you understand that lying is not the way to solve problems. It only makes things worse in the long run. You need to be honest with me from now on.",
+    "Trust is an important part of our relationship. When you lie to me, it makes me feel like I can't trust you anymore. Do you remember when we talked about making new friends at the park?"
+  ],
+  "traits": {
+    "directness": 0.9992882562277581,
+    "emotional_valence": 0.007496979157656481,
+    "social_orientation": 0.017255731692804088,
+    "audience_focus": 0.039392721616730034,
+    "risk_orientation": 0.0
+  }
+}

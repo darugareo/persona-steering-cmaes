@@ -1,0 +1,76 @@
+{
+  "persona_id": "episode-38144_A",
+  "num_sessions": 5,
+  "sessions": [
+    {
+      "persona_id": "episode-38144_A",
+      "session_idx": 1,
+      "pair_id": "episode-38144",
+      "session_name": "first",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Neighbors",
+      "role_name": "Neighbors",
+      "time_interval": "Start",
+      "session_summary": "Neighbors A missed Neighbors B's call earlier due to work commitments. Neighbors B is busy with work and hopes to hear back soon from Neighbors A's job application. They plan on meeting next week and plan on meeting again.",
+      "session_text": "Hi, sorry I missed your call earlier. I was in a meeting and couldn't answer.\nI'm doing alright, thanks for asking. How about you?\nYeah, I know how that feels. Speaking of work, did you ever hear back from that job you applied for?\nDefinitely! I'll keep my fingers crossed for you too. But anyways, I'm just glad we finally caught up. It's been a while since we've had a chance to chat.\nYes, that would be great. Let's make plans for next week. I'll text you so we can figure out a time and place.",
+      "num_turns": 5
+    },
+    {
+      "persona_id": "episode-38144_A",
+      "session_idx": 2,
+      "pair_id": "episode-38144",
+      "session_name": "second",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Neighbors",
+      "role_name": "Neighbors",
+      "time_interval": "A few months after",
+      "session_summary": "Neighbor A missed Neighbor B's busy work call and blamed past relationships for their lack of focus. Neighbor B encouraged them to move on and enjoy their friendship while Neighbor A discussed making plans for the future and Neighbor B offered support and offered to call Neighbor B should they ever need someone to talk to about their past.",
+      "session_text": "Hey, sorry I missed your call the other day. It was really busy at work.\nThings are good, just trying to stay focused on work and staying busy. Trying not to think about certain things.\nOh, just some past relationships that I want to forget about. You know how it is.\nExactly. It's been a struggle, but I'm trying to stay positive and keep moving forward.\nActually, I have. I'm thinking about taking a trip somewhere soon.\nI haven't decided yet, but maybe somewhere I've never been before. It would be nice to have a change of scenery.\nThanks, I think I will. It's good to have something to look forward to. \nI appreciate that, thank you. It's good to know I have someone to count on.",
+      "num_turns": 8
+    },
+    {
+      "persona_id": "episode-38144_A",
+      "session_idx": 3,
+      "pair_id": "episode-38144",
+      "session_name": "third",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Neighbors",
+      "role_name": "Neighbors",
+      "time_interval": "A few days after",
+      "session_summary": "Neighbor A quit their fitness club due to feeling like they could do better. They have a business plan and plan to start a fitness club, which Neighbor B supports and encourages them to keep up their hobby project.",
+      "session_text": "Hey, Neighbor B! How are you doing?\nI'm feeling pretty excited actually. I just quit my club and I'm starting my own.\nWell, I just felt like I could do better. I have a lot of experience and I know what it takes to run a successful club.\nIt's going to be a fitness club. I'm really passionate about health and wellness, and I want to create a space where people can come and work towards their goals.\nYes, I've been working on it for a while now. I have a business plan and I've already started scouting out locations.\nThanks, I really appreciate your support. \nDefinitely. It's a big step, but I'm ready for the challenge.\nThanks, Neighbor B. I'll definitely keep you updated on my progress. \nIt's been going pretty well, actually. I'm still trying to work out the kinks, but I'm really happy with how it's coming along. \nYeah, definitely. It's been really fulfilling. \nHaha, will do. Thanks for looking out for me, Neighbor B. ",
+      "num_turns": 11
+    },
+    {
+      "persona_id": "episode-38144_A",
+      "session_idx": 4,
+      "pair_id": "episode-38144",
+      "session_name": "fourth",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Neighbors",
+      "role_name": "Neighbors",
+      "time_interval": "A few days after",
+      "session_summary": "Neighbors A and B catch up on each other's progress towards their passions and accomplishments. They discuss their passion for history and optimism about potential careers.",
+      "session_text": "Hey, how's it going?\nI'm doing pretty well! Actually, something really exciting happened in class today.\nMy history teacher quizzed us on the Civil War, and I was able to answer a question that no one else knew. The teacher was impressed with my knowledge.\nYeah, I've always been fascinated by it. I remember when we used to talk about the Civil War a lot.\nDefinitely. It makes me think that maybe I should consider pursuing something related to history in the future.\nThanks, that means a lot coming from you. Hey, speaking of pursuing passions, have you made any progress on starting your own club?\nThat's great to hear! I know you have a lot of experience and expertise, so I'm sure you'll be able to make it successful.",
+      "num_turns": 7
+    },
+    {
+      "persona_id": "episode-38144_A",
+      "session_idx": 5,
+      "pair_id": "episode-38144",
+      "session_name": "fifth",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Neighbors",
+      "role_name": "Neighbors",
+      "time_interval": "A few months after",
+      "session_summary": "Neighbors A offers support and advice to Neighbors B, who is struggling with their plans for their startup startup due to stress. They also discuss Neighbors A's passion for their new venture and Neighbors B's current club.",
+      "session_text": "Hey, do you want to grab lunch this weekend?\nThat's okay, how about next weekend?\nIs everything okay? You've been turning down my invitations a lot lately.\nI totally understand, if you ever want to talk about anything, I'm here for you.\nThat's really cool, I think you'd be great at it! Have you thought about what kind of business you want to start?\nThat's awesome, I'm excited for you. If you ever need any help or want to bounce ideas off of someone, I'm here.\nIt's going pretty well, thanks for asking. It's definitely a learning curve but I'm liking the challenge.\nThanks, I appreciate the support. It's funny, I never thought I'd end up in this field, but I'm really enjoying it.\nDefinitely. Hey, I was also thinking about that club you used to be a part of. Do you miss it at all?\nThat makes sense. It's cool to see you pursuing your passions and goals. I'm excited for both of us to keep growing and thriving.",
+      "num_turns": 10
+    }
+  ]
+}

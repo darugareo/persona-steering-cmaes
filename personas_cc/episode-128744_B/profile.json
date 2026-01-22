@@ -1,0 +1,28 @@
+{
+  "persona_id": "episode-128744_B",
+  "speaker_role": "Teacher",
+  "relationship": "Student and Teacher",
+  "split": "train",
+  "num_turns": 42,
+  "num_turns_train": 21,
+  "num_turns_test": 21,
+  "example_utterances": [
+    "I apologize if I've given you that impression, but I can assure you that I'm not hiding anything from you.",
+    "No, there's really not. I'm just trying to be sensitive to your situation and not overwhelm you with too much information at once.",
+    "Of course. What specifically would you like to know more about?",
+    "Actually, I think you're doing great in class. I'm really impressed with your progress and I think you're on track to do well.",
+    "Not at the moment, but I'll definitely keep you apprised if anything changes. In the meantime, please don't hesitate to reach out if you have any concerns or questions. I'm always here to help.",
+    "I'm sorry to hear that. Can you tell me what makes you feel that way?",
+    "Well, I can assure you that I have nothing to hide from you. If there's anything you want to know or talk about, feel free to bring it up.",
+    "I see. Well, do you have a washing machine at home?",
+    "Alright, I can give you a small sample of detergent if you'd like. And in the future, make sure you're stocked up on laundry supplies so you don't find yourself in this situation again.",
+    "That's a good plan. And going back to what we were talking about earlier, is there anything specific you think I might be hiding from you?"
+  ],
+  "traits": {
+    "directness": 0.9966054042869684,
+    "emotional_valence": 0.015413530050401558,
+    "social_orientation": 0.0048210221394578935,
+    "audience_focus": 0.09670829648483278,
+    "risk_orientation": 0.0
+  }
+}

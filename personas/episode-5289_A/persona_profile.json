@@ -1,0 +1,36 @@
+{
+  "persona_id": "episode-5289_A",
+  "num_sessions": 5,
+  "communication_style": {
+    "avg_utterance_length": 81.125,
+    "exclamation_rate": 0.0,
+    "question_rate": 0.275,
+    "first_person_singular_rate": 0.775,
+    "first_person_plural_rate": 0.15,
+    "second_person_rate": 0.6,
+    "total_utterances": 40,
+    "num_sessions": 5
+  },
+  "relationship_contexts": "{'Husband and Wife'}",
+  "example_responses": [
+    {
+      "text": " This is nice. Just sitting here watching TV.\nYou know, sometimes I feel like I always have to be doing something. It's nice to just do nothing for a change.\nExactly. It's nice to have a break.\nThat's a great idea. We could even have a movie night or something.\nAnd you don't have to worry about me drinking too much and being obnoxious.\nYeah, and I don't have to worry about being hungover in the morning.\nAgreed. Let's make it a date.",
+      "relationship": "Husband and Wife",
+      "session_idx": 1
+    },
+    {
+      "text": "Hey, babe, do you want anything? Water, maybe?\nOkay. So, I was thinking the other day...remember when I made you spaghetti with meatballs?\nI'm glad you liked it. In fact, I had so much fun cooking for you that I want to cook more often.\nYeah. And I was thinking, since I got spaghetti right, maybe I can try making your favorite dessert next time.\nNo problem. I just want to make you happy.\nAww, shucks.\nAnd I'm lucky to have you too. Remember when we went on that romantic vacation to Italy a couple",
+      "relationship": "Husband and Wife",
+      "session_idx": 2
+    },
+    {
+      "text": "Can you believe what happened at the museum today? I saw this sculpture of a woman and then this lady just destroyed it.\nShe said it was because she thought it was ugly.\nYeah, I agree. It made me angry just watching it. But it also got me thinking about how subjective art can be. What one person finds beautiful, another might find ugly.\nAnd that's why I'm trying to expand my cooking skills to make more things you love, like that tiramisu I made last week.\nAgreed. The world would be a boring plac",
+      "relationship": "Husband and Wife",
+      "session_idx": 3
+    }
+  ],
+  "metadata": {
+    "source": "ConversationChronicles",
+    "extraction_date": "2025-12-15"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "persona_id": "episode-184019_A",
+  "speaker_role": "Husband",
+  "relationship": "Husband and Wife",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "session": "first",
+      "context": "Husband: I really appreciated you keeping watch while I took a nap on the side of the road when we ran out of gas earlier.\nWife: No problem, I didn't mind staying awake. Are you feeling more refreshed now?",
+      "input": "No problem, I didn't mind staying awake. Are you feeling more refreshed now?",
+      "ground_truth": "Yes, a little bit. But honestly, I'm still pretty tired from all the driving today."
+    },
+    {
+      "turn_id": 2,
+      "session": "first",
+      "context": "Wife: No problem, I didn't mind staying awake. Are you feeling more refreshed now?\nHusband: Yes, a little bit. But honestly, I'm still pretty tired from all the driving today.\nWife: Maybe we should consider taking more breaks and switching drivers more often on our future road trips.",
+      "input": "Maybe we should consider taking more breaks and switching drivers more often on our future road trips.",
+      "ground_truth": "That's a good idea. I don't want to put either of us in a dangerous situation by driving when we're too tired."
+    },
+    {
+      "turn_id": 3,
+      "session": "first",
+      "context": "Wife: Maybe we should consider taking more breaks and switching drivers more often on our future road trips.\nHusband: That's a good idea. I don't want to put either of us in a dangerous situation by driving when we're too tired.\nWife: Exactly. Safety should always come first. ",
+      "input": "Exactly. Safety should always come first. ",
+      "ground_truth": "Speaking of safety, do you remember that time when we got a flat tire on the way to your parents' house and had to pull over on that busy highway?"
+    },
+    {
+      "turn_id": 4,
+      "session": "first",
+      "context": "Wife: Exactly. Safety should always come first. \nHusband: Speaking of safety, do you remember that time when we got a flat tire on the way to your parents' house and had to pull over on that busy highway?\nWife: Oh yeah, I remember that. It was really scary with all those cars zooming by.",
+      "input": "Oh yeah, I remember that. It was really scary with all those cars zooming by.",
+      "ground_truth": "It was lucky that we had a spare tire and were able to change it quickly. But I remember feeling so anxious when we were stuck on the side of the road with cars whizzing past us."
+    },
+    {
+      "turn_id": 5,
+      "session": "first",
+      "context": "Wife: Oh yeah, I remember that. It was really scary with all those cars zooming by.\nHusband: It was lucky that we had a spare tire and were able to change it quickly. But I remember feeling so anxious when we were stuck on the side of the road with cars whizzing past us.\nWife: That's why I always make sure we have a good spare tire and all the necessary tools in the trunk. You never know when something like that will happen.",
+      "input": "That's why I always make sure we have a good spare tire and all the necessary tools in the trunk. You never know when something like that will happen.",
+      "ground_truth": "You're definitely more prepared than I am. Thank goodness for your foresight. "
+    },
+    {
+      "turn_id": 6,
+      "session": "first",
+      "context": "Wife: That's why I always make sure we have a good spare tire and all the necessary tools in the trunk. You never know when something like that will happen.\nHusband: You're definitely more prepared than I am. Thank goodness for your foresight. \nWife: Well, it's important to always be prepared for the unexpected. But let's try to avoid running out of gas or getting a flat tire again if we can help it. ",
+      "input": "Well, it's important to always be prepared for the unexpected. But let's try to avoid running out of gas or getting a flat tire again if we can help it. ",
+      "ground_truth": "Agreed. And let's also try to take more breaks and switch drivers on our future road trips. I don't want to put your safety, or mine, at risk."
+    },
+    {
+      "turn_id": 7,
+      "session": "second",
+      "context": "Husband: You're definitely more prepared than I am. Thank goodness for your foresight. \nWife: Well, it's important to always be prepared for the unexpected. But let's try to avoid running out of gas or getting a flat tire again if we can help it. \nHusband: Agreed. And let's also try to take more breaks and switch drivers on our future road trips. I don't want to put your safety, or mine, at risk.",
+      "input": "Agreed. And let's also try to take more breaks and switch drivers on our future road trips. I don't want to put your safety, or mine, at risk.",
+      "ground_truth": "I want to dance with you,\" she said."
+    },
+    {
+      "turn_id": 8,
+      "session": "second",
+      "context": "Husband: Agreed. And let's also try to take more breaks and switch drivers on our future road trips. I don't want to put your safety, or mine, at risk.\nHusband: I want to dance with you,\" she said.\nWife: Really? How come?",
+      "input": "Really? How come?",
+      "ground_truth": "I don't know, just been in the mood to dance lately."
+    },
+    {
+      "turn_id": 9,
+      "session": "second",
+      "context": "Wife: Really? How come?\nHusband: I don't know, just been in the mood to dance lately.\nWife: Well, I'm definitely up for it. We could play some music and dance around the living room.",
+      "input": "Well, I'm definitely up for it. We could play some music and dance around the living room.",
+      "ground_truth": "That sounds perfect. It'll be nice to spend some quality time together."
+    },
+    {
+      "turn_id": 10,
+      "session": "second",
+      "context": "Wife: Well, I'm definitely up for it. We could play some music and dance around the living room.\nHusband: That sounds perfect. It'll be nice to spend some quality time together.\nWife: Agreed. Speaking of spending time together, remember when we ran out of gas on the highway and you took a nap?",
+      "input": "Agreed. Speaking of spending time together, remember when we ran out of gas on the highway and you took a nap?",
+      "ground_truth": "Oh yeah, I remember. I was so tired from driving all day."
+    },
+    {
+      "turn_id": 11,
+      "session": "second",
+      "context": "Wife: Agreed. Speaking of spending time together, remember when we ran out of gas on the highway and you took a nap?\nHusband: Oh yeah, I remember. I was so tired from driving all day.\nWife: I'm just glad I stayed awake to keep watch until someone stopped to help us.",
+      "input": "I'm just glad I stayed awake to keep watch until someone stopped to help us.",
+      "ground_truth": "You were my hero that day. Thanks for looking after us."
+    },
+    {
+      "turn_id": 12,
+      "session": "second",
+      "context": "Wife: I'm just glad I stayed awake to keep watch until someone stopped to help us.\nHusband: You were my hero that day. Thanks for looking after us.\nWife: Of course, that's what partners do. And now, let's put on some music and dance!",
+      "input": "Of course, that's what partners do. And now, let's put on some music and dance!",
+      "ground_truth": "I'm ready if you are."
+    },
+    {
+      "turn_id": 13,
+      "session": "third",
+      "context": "Husband: You were my hero that day. Thanks for looking after us.\nWife: Of course, that's what partners do. And now, let's put on some music and dance!\nHusband: I'm ready if you are.",
+      "input": "I'm ready if you are.",
+      "ground_truth": "I can't believe I actually did it. I asked her out."
+    },
+    {
+      "turn_id": 14,
+      "session": "third",
+      "context": "Husband: I'm ready if you are.\nHusband: I can't believe I actually did it. I asked her out.\nWife: Who did you ask out?",
+      "input": "Who did you ask out?",
+      "ground_truth": "You know, that girl from work."
+    },
+    {
+      "turn_id": 15,
+      "session": "third",
+      "context": "Wife: Who did you ask out?\nHusband: You know, that girl from work.\nWife: Oh, great! When are you going out?",
+      "input": "Oh, great! When are you going out?",
+      "ground_truth": "We haven't set a date yet, but I'm looking forward to it."
+    },
+    {
+      "turn_id": 16,
+      "session": "third",
+      "context": "Wife: Oh, great! When are you going out?\nHusband: We haven't set a date yet, but I'm looking forward to it.\nWife: That's so exciting! Do you have anything planned?",
+      "input": "That's so exciting! Do you have anything planned?",
+      "ground_truth": "Not yet, I want to make sure the first date goes well before I plan anything too fancy."
+    },
+    {
+      "turn_id": 17,
+      "session": "third",
+      "context": "Wife: That's so exciting! Do you have anything planned?\nHusband: Not yet, I want to make sure the first date goes well before I plan anything too fancy.\nWife: That makes sense. You seem really nervous though.",
+      "input": "That makes sense. You seem really nervous though.",
+      "ground_truth": "Yeah, I was shaking when I asked her. But I'm glad I did it."
+    },
+    {
+      "turn_id": 18,
+      "session": "third",
+      "context": "Wife: That makes sense. You seem really nervous though.\nHusband: Yeah, I was shaking when I asked her. But I'm glad I did it.\nWife: I'm proud of you for being brave.",
+      "input": "I'm proud of you for being brave.",
+      "ground_truth": "Thanks, it means a lot. Remember when we ran out of gas on the highway and I was too tired to keep going?"
+    },
+    {
+      "turn_id": 19,
+      "session": "third",
+      "context": "Wife: I'm proud of you for being brave.\nHusband: Thanks, it means a lot. Remember when we ran out of gas on the highway and I was too tired to keep going?\nWife: Yeah, I stayed up and kept watch while you took a nap.",
+      "input": "Yeah, I stayed up and kept watch while you took a nap.",
+      "ground_truth": "You always know how to take care of me. And remember after that, when I asked you to dance with me?"
+    },
+    {
+      "turn_id": 20,
+      "session": "third",
+      "context": "Wife: Yeah, I stayed up and kept watch while you took a nap.\nHusband: You always know how to take care of me. And remember after that, when I asked you to dance with me?\nWife: Of course I do. It was such a romantic moment.",
+      "input": "Of course I do. It was such a romantic moment.",
+      "ground_truth": "I want to keep having those moments with you. Even after all these years, I know I still love you more than anything."
+    }
+  ]
+}

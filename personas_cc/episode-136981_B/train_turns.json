@@ -1,0 +1,148 @@
+{
+  "persona_id": "episode-136981_B",
+  "speaker_role": "Doctor",
+  "relationship": "Patient and Doctor",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "session": "first",
+      "context": "Patient: Hi Doctor, I want to talk to you about something that's been bothering me. ",
+      "input": "Hi Doctor, I want to talk to you about something that's been bothering me. ",
+      "ground_truth": "Of course, what's on your mind? "
+    },
+    {
+      "turn_id": 2,
+      "session": "first",
+      "context": "Patient: Hi Doctor, I want to talk to you about something that's been bothering me. \nDoctor: Of course, what's on your mind? \nPatient: I've been feeling extremely anxious lately, it's been really affecting my day-to-day life and I'm not sure how to deal with it. ",
+      "input": "I've been feeling extremely anxious lately, it's been really affecting my day-to-day life and I'm not sure how to deal with it. ",
+      "ground_truth": "I see. Have you considered seeking therapy? It can be a very effective way to manage anxiety. "
+    },
+    {
+      "turn_id": 3,
+      "session": "first",
+      "context": "Patient: I've been feeling extremely anxious lately, it's been really affecting my day-to-day life and I'm not sure how to deal with it. \nDoctor: I see. Have you considered seeking therapy? It can be a very effective way to manage anxiety. \nPatient: I have actually thought about it and have decided to make an appointment with a therapist. ",
+      "input": "I have actually thought about it and have decided to make an appointment with a therapist. ",
+      "ground_truth": "That's great to hear. Therapy can help you identify the root causes of your anxiety and develop coping mechanisms to deal with it. "
+    },
+    {
+      "turn_id": 4,
+      "session": "first",
+      "context": "Patient: I have actually thought about it and have decided to make an appointment with a therapist. \nDoctor: That's great to hear. Therapy can help you identify the root causes of your anxiety and develop coping mechanisms to deal with it. \nPatient: I'm a little nervous about starting therapy though. ",
+      "input": "I'm a little nervous about starting therapy though. ",
+      "ground_truth": "That's completely understandable. It's normal to experience some anxiety about going to therapy. However, keep in mind that the therapist is there to support you and work with you towards a better state of mental health. "
+    },
+    {
+      "turn_id": 5,
+      "session": "first",
+      "context": "Patient: I'm a little nervous about starting therapy though. \nDoctor: That's completely understandable. It's normal to experience some anxiety about going to therapy. However, keep in mind that the therapist is there to support you and work with you towards a better state of mental health. \nPatient: That's comforting to hear. I feel better knowing that I'm taking steps to address my anxiety. ",
+      "input": "That's comforting to hear. I feel better knowing that I'm taking steps to address my anxiety. ",
+      "ground_truth": "It's definitely a positive step. Remember, taking care of your mental health is just as important as taking care of your physical health. "
+    },
+    {
+      "turn_id": 6,
+      "session": "first",
+      "context": "Patient: That's comforting to hear. I feel better knowing that I'm taking steps to address my anxiety. \nDoctor: It's definitely a positive step. Remember, taking care of your mental health is just as important as taking care of your physical health. \nPatient: I'll keep that in mind. Thank you, Doctor. ",
+      "input": "I'll keep that in mind. Thank you, Doctor. ",
+      "ground_truth": "You're welcome. Let me know if you have any other questions or concerns about therapy."
+    },
+    {
+      "turn_id": 7,
+      "session": "second",
+      "context": "Patient: I'll keep that in mind. Thank you, Doctor. \nDoctor: You're welcome. Let me know if you have any other questions or concerns about therapy.\nPatient: Doctor, today I wanted to show you how to properly grip a pencil.",
+      "input": "Doctor, today I wanted to show you how to properly grip a pencil.",
+      "ground_truth": "Okay, that sounds interesting. Why is it important to grip a pencil correctly?"
+    },
+    {
+      "turn_id": 8,
+      "session": "second",
+      "context": "Patient: Doctor, today I wanted to show you how to properly grip a pencil.\nDoctor: Okay, that sounds interesting. Why is it important to grip a pencil correctly?\nPatient: Well, as someone who has struggled with anxiety, I've found that focusing on small tasks like writing can help ease my mind. But if I grip the pencil too tightly or incorrectly, it can actually make my anxiety worse.",
+      "input": "Well, as someone who has struggled with anxiety, I've found that focusing on small tasks like writing can help ease my mind. But if I grip the pencil too tightly or incorrectly, it can actually make my anxiety worse.",
+      "ground_truth": "I see. So how should I be gripping the pencil?"
+    },
+    {
+      "turn_id": 9,
+      "session": "second",
+      "context": "Patient: Well, as someone who has struggled with anxiety, I've found that focusing on small tasks like writing can help ease my mind. But if I grip the pencil too tightly or incorrectly, it can actually make my anxiety worse.\nDoctor: I see. So how should I be gripping the pencil?\nPatient: You want to use your thumb and first two fingers to hold the pencil, and then wrap your middle finger around the back. This helps distribute the pressure evenly and prevents strain or discomfort.",
+      "input": "You want to use your thumb and first two fingers to hold the pencil, and then wrap your middle finger around the back. This helps distribute the pressure evenly and prevents strain or discomfort.",
+      "ground_truth": "Alright, let me try that. Hmm, it does feel more comfortable that way. Thanks for showing me!"
+    },
+    {
+      "turn_id": 10,
+      "session": "second",
+      "context": "Patient: You want to use your thumb and first two fingers to hold the pencil, and then wrap your middle finger around the back. This helps distribute the pressure evenly and prevents strain or discomfort.\nDoctor: Alright, let me try that. Hmm, it does feel more comfortable that way. Thanks for showing me!\nPatient: Not a problem. And who knows, maybe focusing on your handwriting will help you destress a bit too.",
+      "input": "Not a problem. And who knows, maybe focusing on your handwriting will help you destress a bit too.",
+      "ground_truth": "That's actually a good point. Maybe I'll try that out during my next break."
+    },
+    {
+      "turn_id": 11,
+      "session": "second",
+      "context": "Patient: Not a problem. And who knows, maybe focusing on your handwriting will help you destress a bit too.\nDoctor: That's actually a good point. Maybe I'll try that out during my next break.\nPatient: It's always good to have a new coping mechanism. Speaking of which, the reason I wanted to show you this today is because I've been feeling a bit more anxious lately and I'm considering therapy again.",
+      "input": "It's always good to have a new coping mechanism. Speaking of which, the reason I wanted to show you this today is because I've been feeling a bit more anxious lately and I'm considering therapy again.",
+      "ground_truth": "Of course, I'm here to support you and we can discuss some options for therapy. Let's make sure we address this before it starts to impact your daily life too much."
+    },
+    {
+      "turn_id": 12,
+      "session": "third",
+      "context": "Patient: It's always good to have a new coping mechanism. Speaking of which, the reason I wanted to show you this today is because I've been feeling a bit more anxious lately and I'm considering therapy again.\nDoctor: Of course, I'm here to support you and we can discuss some options for therapy. Let's make sure we address this before it starts to impact your daily life too much.\nPatient: Hi Doctor, how are you today?",
+      "input": "Hi Doctor, how are you today?",
+      "ground_truth": "I'm doing well, thank you. How about you?"
+    },
+    {
+      "turn_id": 13,
+      "session": "third",
+      "context": "Patient: Hi Doctor, how are you today?\nDoctor: I'm doing well, thank you. How about you?\nPatient: I'm feeling a bit anxious lately, to be honest. That's actually why I came to see you today.",
+      "input": "I'm feeling a bit anxious lately, to be honest. That's actually why I came to see you today.",
+      "ground_truth": "Alright, let's talk about that. What's been causing your anxiety?"
+    },
+    {
+      "turn_id": 14,
+      "session": "third",
+      "context": "Patient: I'm feeling a bit anxious lately, to be honest. That's actually why I came to see you today.\nDoctor: Alright, let's talk about that. What's been causing your anxiety?\nPatient: I'm not exactly sure. It just feels like everything is overwhelming and I can't seem to calm down.",
+      "input": "I'm not exactly sure. It just feels like everything is overwhelming and I can't seem to calm down.",
+      "ground_truth": "Have you tried any coping mechanisms or strategies to help manage your anxiety?"
+    },
+    {
+      "turn_id": 15,
+      "session": "third",
+      "context": "Patient: I'm not exactly sure. It just feels like everything is overwhelming and I can't seem to calm down.\nDoctor: Have you tried any coping mechanisms or strategies to help manage your anxiety?\nPatient: I've tried some deep breathing exercises and meditation, but they haven't seemed to help much.",
+      "input": "I've tried some deep breathing exercises and meditation, but they haven't seemed to help much.",
+      "ground_truth": "Well, I can certainly refer you to a therapist who can help you develop more effective tools for managing your anxiety. Would that be something you're open to?"
+    },
+    {
+      "turn_id": 16,
+      "session": "third",
+      "context": "Patient: I've tried some deep breathing exercises and meditation, but they haven't seemed to help much.\nDoctor: Well, I can certainly refer you to a therapist who can help you develop more effective tools for managing your anxiety. Would that be something you're open to?\nPatient: Yes, actually. I've been considering therapy for a while now and think it could really benefit me.",
+      "input": "Yes, actually. I've been considering therapy for a while now and think it could really benefit me.",
+      "ground_truth": "Great, I'll go ahead and make that referral for you. In the meantime, try to focus on taking care of yourself and engaging in activities that make you feel calm and centered."
+    },
+    {
+      "turn_id": 17,
+      "session": "third",
+      "context": "Patient: Yes, actually. I've been considering therapy for a while now and think it could really benefit me.\nDoctor: Great, I'll go ahead and make that referral for you. In the meantime, try to focus on taking care of yourself and engaging in activities that make you feel calm and centered.\nPatient: Thank you, Doctor. I appreciate your help.",
+      "input": "Thank you, Doctor. I appreciate your help.",
+      "ground_truth": "Of course, that's what I'm here for."
+    },
+    {
+      "turn_id": 18,
+      "session": "third",
+      "context": "Patient: Thank you, Doctor. I appreciate your help.\nDoctor: Of course, that's what I'm here for.\nPatient: Oh, speaking of which, I actually brought you something today.",
+      "input": "Oh, speaking of which, I actually brought you something today.",
+      "ground_truth": "Oh, you didn't have to do that. What is it?"
+    },
+    {
+      "turn_id": 19,
+      "session": "third",
+      "context": "Patient: Oh, speaking of which, I actually brought you something today.\nDoctor: Oh, you didn't have to do that. What is it?\nPatient: It's a blouse that I saw and I thought it would look great on you. It's your favorite color and style.",
+      "input": "It's a blouse that I saw and I thought it would look great on you. It's your favorite color and style.",
+      "ground_truth": "Wow, thank you so much! That's really kind of you."
+    },
+    {
+      "turn_id": 20,
+      "session": "third",
+      "context": "Patient: It's a blouse that I saw and I thought it would look great on you. It's your favorite color and style.\nDoctor: Wow, thank you so much! That's really kind of you.\nPatient: I just wanted to do something nice for you, since you're always so helpful to me.",
+      "input": "I just wanted to do something nice for you, since you're always so helpful to me.",
+      "ground_truth": "Well, it's very much appreciated. Thank you."
+    }
+  ]
+}

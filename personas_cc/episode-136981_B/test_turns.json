@@ -1,0 +1,155 @@
+{
+  "persona_id": "episode-136981_B",
+  "speaker_role": "Doctor",
+  "relationship": "Patient and Doctor",
+  "total_turns": 21,
+  "turns": [
+    {
+      "turn_id": 21,
+      "session": "fourth",
+      "context": "Patient: I just wanted to do something nice for you, since you're always so helpful to me.\nDoctor: Well, it's very much appreciated. Thank you.\nPatient: Doctor, I wanted to talk to you about something very important.",
+      "input": "Doctor, I wanted to talk to you about something very important.",
+      "ground_truth": "Of course, what's on your mind?"
+    },
+    {
+      "turn_id": 22,
+      "session": "fourth",
+      "context": "Patient: Doctor, I wanted to talk to you about something very important.\nDoctor: Of course, what's on your mind?\nPatient: As you know, I've been struggling with anxiety for a while now and it's really been impacting my daily life. I've been thinking about it a lot and I've decided to make an appointment with a therapist.",
+      "input": "As you know, I've been struggling with anxiety for a while now and it's really been impacting my daily life. I've been thinking about it a lot and I've decided to make an appointment with a therapist.",
+      "ground_truth": "That's a great decision, Patient. I'm glad you're taking steps to take care of yourself."
+    },
+    {
+      "turn_id": 23,
+      "session": "fourth",
+      "context": "Patient: As you know, I've been struggling with anxiety for a while now and it's really been impacting my daily life. I've been thinking about it a lot and I've decided to make an appointment with a therapist.\nDoctor: That's a great decision, Patient. I'm glad you're taking steps to take care of yourself.\nPatient: Yeah, I'm a little nervous about it, but I know I need to do it.",
+      "input": "Yeah, I'm a little nervous about it, but I know I need to do it.",
+      "ground_truth": "It's completely normal to feel nervous about starting therapy, but remember that the therapist is there to help you."
+    },
+    {
+      "turn_id": 24,
+      "session": "fourth",
+      "context": "Patient: Yeah, I'm a little nervous about it, but I know I need to do it.\nDoctor: It's completely normal to feel nervous about starting therapy, but remember that the therapist is there to help you.\nPatient: Thank you, Doctor. I appreciate your support.",
+      "input": "Thank you, Doctor. I appreciate your support.",
+      "ground_truth": "Of course, Patient. Is there anything else you wanted to talk about?"
+    },
+    {
+      "turn_id": 25,
+      "session": "fourth",
+      "context": "Patient: Thank you, Doctor. I appreciate your support.\nDoctor: Of course, Patient. Is there anything else you wanted to talk about?\nPatient: Actually, I wanted to remind you about something we talked about a couple of years ago.",
+      "input": "Actually, I wanted to remind you about something we talked about a couple of years ago.",
+      "ground_truth": "What's that?"
+    },
+    {
+      "turn_id": 26,
+      "session": "fourth",
+      "context": "Patient: Actually, I wanted to remind you about something we talked about a couple of years ago.\nDoctor: What's that?\nPatient: It's about how to hold a pencil correctly. You were having some trouble with it, and I showed you how to grip it with your thumb and first two fingers and then wrap your middle finger around the back of the pencil.",
+      "input": "It's about how to hold a pencil correctly. You were having some trouble with it, and I showed you how to grip it with your thumb and first two fingers and then wrap your middle finger around the back of the pencil.",
+      "ground_truth": "Oh, right. Thanks for reminding me. Let me try it again. "
+    },
+    {
+      "turn_id": 27,
+      "session": "fourth",
+      "context": "Doctor: What's that?\nPatient: It's about how to hold a pencil correctly. You were having some trouble with it, and I showed you how to grip it with your thumb and first two fingers and then wrap your middle finger around the back of the pencil.\nDoctor: Oh, right. Thanks for reminding me. Let me try it again. ",
+      "input": "Oh, right. Thanks for reminding me. Let me try it again. ",
+      "ground_truth": "I think I've got it now. Thanks for showing me again, Patient."
+    },
+    {
+      "turn_id": 28,
+      "session": "fourth",
+      "context": "Doctor: Oh, right. Thanks for reminding me. Let me try it again. \nDoctor: I think I've got it now. Thanks for showing me again, Patient.\nPatient: No problem, Doctor. I'm always happy to help.",
+      "input": "No problem, Doctor. I'm always happy to help.",
+      "ground_truth": "Is there anything else on your mind?"
+    },
+    {
+      "turn_id": 29,
+      "session": "fourth",
+      "context": "Patient: No problem, Doctor. I'm always happy to help.\nDoctor: Is there anything else on your mind?\nPatient: Actually, there is. I went to the store the other day and I picked up a new blouse for you. It's your favorite color and style, and I thought it would be a nice surprise.",
+      "input": "Actually, there is. I went to the store the other day and I picked up a new blouse for you. It's your favorite color and style, and I thought it would be a nice surprise.",
+      "ground_truth": "Wow, Patient, that's really thoughtful of you. Thank you so much."
+    },
+    {
+      "turn_id": 30,
+      "session": "fourth",
+      "context": "Patient: Actually, there is. I went to the store the other day and I picked up a new blouse for you. It's your favorite color and style, and I thought it would be a nice surprise.\nDoctor: Wow, Patient, that's really thoughtful of you. Thank you so much.\nPatient: You're welcome, Doctor. I just wanted to do something nice for you.",
+      "input": "You're welcome, Doctor. I just wanted to do something nice for you.",
+      "ground_truth": "I really appreciate it. Is there anything else you wanted to talk about today?"
+    },
+    {
+      "turn_id": 31,
+      "session": "fourth",
+      "context": "Patient: You're welcome, Doctor. I just wanted to do something nice for you.\nDoctor: I really appreciate it. Is there anything else you wanted to talk about today?\nPatient: Actually, yes. I wanted to talk to you about my upcoming hearing. My attorney asked the judge for leniency and said that I was willing to enter a long-term treatment program. The prosecutor, however, argued that I should be treated like any other criminal and be given the maximum sentence.",
+      "input": "Actually, yes. I wanted to talk to you about my upcoming hearing. My attorney asked the judge for leniency and said that I was willing to enter a long-term treatment program. The prosecutor, however, argued that I should be treated like any other criminal and be given the maximum sentence.",
+      "ground_truth": "That sounds like a tough situation, Patient. What do you think about it?"
+    },
+    {
+      "turn_id": 32,
+      "session": "fourth",
+      "context": "Patient: Actually, yes. I wanted to talk to you about my upcoming hearing. My attorney asked the judge for leniency and said that I was willing to enter a long-term treatment program. The prosecutor, however, argued that I should be treated like any other criminal and be given the maximum sentence.\nDoctor: That sounds like a tough situation, Patient. What do you think about it?\nPatient: To be honest, I feel like the treatment program would be more helpful for me than just going to jail. But I'm also worried about what will happen if the judge decides to give me the maximum sentence.",
+      "input": "To be honest, I feel like the treatment program would be more helpful for me than just going to jail. But I'm also worried about what will happen if the judge decides to give me the maximum sentence.",
+      "ground_truth": "It's completely understandable to feel worried. The most important thing is that you continue to take care of yourself, no matter what happens."
+    },
+    {
+      "turn_id": 33,
+      "session": "fifth",
+      "context": "Doctor: It's completely understandable to feel worried. The most important thing is that you continue to take care of yourself, no matter what happens.\nPatient: Thank you, Doctor. I appreciate your support.\nPatient:  Doctor, can I talk to you about something?",
+      "input": " Doctor, can I talk to you about something?",
+      "ground_truth": " Sure, what's on your mind?"
+    },
+    {
+      "turn_id": 34,
+      "session": "fifth",
+      "context": "Patient:  Doctor, can I talk to you about something?\nDoctor:  Sure, what's on your mind?\nPatient:  It's just that I was out late tonight and I think I'm being followed. I don't know what to do.",
+      "input": " It's just that I was out late tonight and I think I'm being followed. I don't know what to do.",
+      "ground_truth": " That sounds really scary. Have you tried calling someone for help?"
+    },
+    {
+      "turn_id": 35,
+      "session": "fifth",
+      "context": "Patient:  It's just that I was out late tonight and I think I'm being followed. I don't know what to do.\nDoctor:  That sounds really scary. Have you tried calling someone for help?\nPatient:  No, not yet. I'm not sure who to call.",
+      "input": " No, not yet. I'm not sure who to call.",
+      "ground_truth": " Well, you could call the police or a friend or family member who lives nearby. It's important to prioritize your safety in situations like this."
+    },
+    {
+      "turn_id": 36,
+      "session": "fifth",
+      "context": "Patient:  No, not yet. I'm not sure who to call.\nDoctor:  Well, you could call the police or a friend or family member who lives nearby. It's important to prioritize your safety in situations like this.\nPatient:  Okay, I'll try that. It just feels like a lot to handle right now.",
+      "input": " Okay, I'll try that. It just feels like a lot to handle right now.",
+      "ground_truth": " I understand. It's important to take care of ourselves in moments of stress and anxiety. Speaking of which, have you been attending therapy sessions regularly?"
+    },
+    {
+      "turn_id": 37,
+      "session": "fifth",
+      "context": "Patient:  Okay, I'll try that. It just feels like a lot to handle right now.\nDoctor:  I understand. It's important to take care of ourselves in moments of stress and anxiety. Speaking of which, have you been attending therapy sessions regularly?\nPatient:  Yes, I have. It's been helpful, but I still get anxious sometimes.",
+      "input": " Yes, I have. It's been helpful, but I still get anxious sometimes.",
+      "ground_truth": " That's understandable. It takes time to work through anxiety and develop coping mechanisms. Just keep putting in the effort and progress will come."
+    },
+    {
+      "turn_id": 38,
+      "session": "fifth",
+      "context": "Patient:  Yes, I have. It's been helpful, but I still get anxious sometimes.\nDoctor:  That's understandable. It takes time to work through anxiety and develop coping mechanisms. Just keep putting in the effort and progress will come.\nPatient:  Thank you for the encouragement. I'm lucky to have you as my doctor.",
+      "input": " Thank you for the encouragement. I'm lucky to have you as my doctor.",
+      "ground_truth": " It's my pleasure. And by the way, I wanted to thank you for showing me how to properly grip a pencil a few years ago. It's made a big difference in my handwriting."
+    },
+    {
+      "turn_id": 39,
+      "session": "fifth",
+      "context": "Patient:  Thank you for the encouragement. I'm lucky to have you as my doctor.\nDoctor:  It's my pleasure. And by the way, I wanted to thank you for showing me how to properly grip a pencil a few years ago. It's made a big difference in my handwriting.\nPatient:  Of course! And speaking of showing appreciation, I wanted to give you this small gift as a thank you for all your help.",
+      "input": " Of course! And speaking of showing appreciation, I wanted to give you this small gift as a thank you for all your help.",
+      "ground_truth": " Wow, that's really kind of you! Thank you so much."
+    },
+    {
+      "turn_id": 40,
+      "session": "fifth",
+      "context": "Patient:  Of course! And speaking of showing appreciation, I wanted to give you this small gift as a thank you for all your help.\nDoctor:  Wow, that's really kind of you! Thank you so much.\nPatient:  No problem. And while we're on the topic of legal issues, do you have any advice for dealing with my ongoing legal situation?",
+      "input": " No problem. And while we're on the topic of legal issues, do you have any advice for dealing with my ongoing legal situation?",
+      "ground_truth": " Well, it's always best to consult with a legal professional about these things. But overall, it's important to take responsibility for your actions and be transparent about your intentions and willingness to seek help."
+    },
+    {
+      "turn_id": 41,
+      "session": "fifth",
+      "context": "Patient:  No problem. And while we're on the topic of legal issues, do you have any advice for dealing with my ongoing legal situation?\nDoctor:  Well, it's always best to consult with a legal professional about these things. But overall, it's important to take responsibility for your actions and be transparent about your intentions and willingness to seek help.\nPatient:  I see. Thank you for your insight. I'll keep that in mind as I navigate this situation. ",
+      "input": " I see. Thank you for your insight. I'll keep that in mind as I navigate this situation. ",
+      "ground_truth": " You're welcome. And don't hesitate to reach out if you need any support in the future."
+    }
+  ]
+}

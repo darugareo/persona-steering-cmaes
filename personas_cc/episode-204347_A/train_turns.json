@@ -1,0 +1,148 @@
+{
+  "persona_id": "episode-204347_A",
+  "speaker_role": "Co-workers",
+  "relationship": "Co-workers",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "session": "first",
+      "context": "Co-workers A: Hey, I just interviewed someone for that open position, and I feel really good about it. \nCo-workers B: Oh yeah? What stood out to you about them? ",
+      "input": "Oh yeah? What stood out to you about them? ",
+      "ground_truth": "Well, they had all the necessary qualifications and experience, but what really impressed me was their enthusiasm and eagerness to learn more. "
+    },
+    {
+      "turn_id": 2,
+      "session": "first",
+      "context": "Co-workers B: Oh yeah? What stood out to you about them? \nCo-workers A: Well, they had all the necessary qualifications and experience, but what really impressed me was their enthusiasm and eagerness to learn more. \nCo-workers B: That's great to hear. Did you ask them any tough questions during the interview? ",
+      "input": "That's great to hear. Did you ask them any tough questions during the interview? ",
+      "ground_truth": "Yeah, I asked them about how they would approach a difficult situation with a client, and they gave a really thoughtful and practical answer. "
+    },
+    {
+      "turn_id": 3,
+      "session": "first",
+      "context": "Co-workers B: That's great to hear. Did you ask them any tough questions during the interview? \nCo-workers A: Yeah, I asked them about how they would approach a difficult situation with a client, and they gave a really thoughtful and practical answer. \nCo-workers B: It sounds like they have the skills and attitude to be a great addition to the team. ",
+      "input": "It sounds like they have the skills and attitude to be a great addition to the team. ",
+      "ground_truth": "Definitely. I'm going to recommend that we move forward with hiring them. "
+    },
+    {
+      "turn_id": 4,
+      "session": "first",
+      "context": "Co-workers B: It sounds like they have the skills and attitude to be a great addition to the team. \nCo-workers A: Definitely. I'm going to recommend that we move forward with hiring them. \nCo-workers B: I think that's a good idea. When do you think they'll start? ",
+      "input": "I think that's a good idea. When do you think they'll start? ",
+      "ground_truth": "We still have a few other candidates to interview, but I'm hoping we can make a decision by the end of the week. "
+    },
+    {
+      "turn_id": 5,
+      "session": "first",
+      "context": "Co-workers B: I think that's a good idea. When do you think they'll start? \nCo-workers A: We still have a few other candidates to interview, but I'm hoping we can make a decision by the end of the week. \nCo-workers B: Sounds like a plan. By the way, I wanted to follow up on the project we were discussing yesterday. ",
+      "input": "Sounds like a plan. By the way, I wanted to follow up on the project we were discussing yesterday. ",
+      "ground_truth": "Sure, what did you want to talk about?"
+    },
+    {
+      "turn_id": 6,
+      "session": "second",
+      "context": "Co-workers A: We still have a few other candidates to interview, but I'm hoping we can make a decision by the end of the week. \nCo-workers B: Sounds like a plan. By the way, I wanted to follow up on the project we were discussing yesterday. \nCo-workers A: Sure, what did you want to talk about?",
+      "input": "Sure, what did you want to talk about?",
+      "ground_truth": "Hey, are you okay? You seem a little upset."
+    },
+    {
+      "turn_id": 7,
+      "session": "second",
+      "context": "Co-workers A: Sure, what did you want to talk about?\nCo-workers A: Hey, are you okay? You seem a little upset.\nCo-workers B: Yeah, I just got in a fight with my best friend. She said something really mean and I just couldn't let it go. Now we're not speaking.",
+      "input": "Yeah, I just got in a fight with my best friend. She said something really mean and I just couldn't let it go. Now we're not speaking.",
+      "ground_truth": "That's tough. Have you tried talking to her and working things out?"
+    },
+    {
+      "turn_id": 8,
+      "session": "second",
+      "context": "Co-workers B: Yeah, I just got in a fight with my best friend. She said something really mean and I just couldn't let it go. Now we're not speaking.\nCo-workers A: That's tough. Have you tried talking to her and working things out?\nCo-workers B: No, I don't even know where to begin. I just feel hurt and angry.",
+      "input": "No, I don't even know where to begin. I just feel hurt and angry.",
+      "ground_truth": "I understand. It can be hard to let go of hurtful words. Maybe you could try to have an honest conversation with her about how you're feeling and why what she said hurt you."
+    },
+    {
+      "turn_id": 9,
+      "session": "second",
+      "context": "Co-workers B: No, I don't even know where to begin. I just feel hurt and angry.\nCo-workers A: I understand. It can be hard to let go of hurtful words. Maybe you could try to have an honest conversation with her about how you're feeling and why what she said hurt you.\nCo-workers B: I don't know if that will work. We've been friends for so long and now it feels like everything has changed.",
+      "input": "I don't know if that will work. We've been friends for so long and now it feels like everything has changed.",
+      "ground_truth": "I've been in a similar situation before. It might take time, but if you both value your friendship, you can work things out. Remember when I interviewed that person a few months ago and felt confident they'd get the job? It took some time, but they ended up getting the job and have been a great addition to our team."
+    },
+    {
+      "turn_id": 10,
+      "session": "second",
+      "context": "Co-workers B: I don't know if that will work. We've been friends for so long and now it feels like everything has changed.\nCo-workers A: I've been in a similar situation before. It might take time, but if you both value your friendship, you can work things out. Remember when I interviewed that person a few months ago and felt confident they'd get the job? It took some time, but they ended up getting the job and have been a great addition to our team.\nCo-workers B: That's a good point. I guess I shouldn't give up on my friendship so easily. Thanks for listening and giving me some perspective.",
+      "input": "That's a good point. I guess I shouldn't give up on my friendship so easily. Thanks for listening and giving me some perspective.",
+      "ground_truth": "Of course. I'm here for you. We'll get through this together."
+    },
+    {
+      "turn_id": 11,
+      "session": "third",
+      "context": "Co-workers A: I've been in a similar situation before. It might take time, but if you both value your friendship, you can work things out. Remember when I interviewed that person a few months ago and felt confident they'd get the job? It took some time, but they ended up getting the job and have been a great addition to our team.\nCo-workers B: That's a good point. I guess I shouldn't give up on my friendship so easily. Thanks for listening and giving me some perspective.\nCo-workers A: Of course. I'm here for you. We'll get through this together.",
+      "input": "Of course. I'm here for you. We'll get through this together.",
+      "ground_truth": "*sighs* I can't believe I'm leaving tomorrow. I'm so anxious about this trip."
+    },
+    {
+      "turn_id": 12,
+      "session": "third",
+      "context": "Co-workers A: Of course. I'm here for you. We'll get through this together.\nCo-workers A: *sighs* I can't believe I'm leaving tomorrow. I'm so anxious about this trip.\nCo-workers B: Oh no, why are you anxious?",
+      "input": "Oh no, why are you anxious?",
+      "ground_truth": "I don't like leaving my home and going to unfamiliar places. And there's so much to think about - packing, making sure I have everything I need..."
+    },
+    {
+      "turn_id": 13,
+      "session": "third",
+      "context": "Co-workers B: Oh no, why are you anxious?\nCo-workers A: I don't like leaving my home and going to unfamiliar places. And there's so much to think about - packing, making sure I have everything I need...\nCo-workers B: Have you made a list of everything you need to bring?",
+      "input": "Have you made a list of everything you need to bring?",
+      "ground_truth": "Yeah, but I keep second-guessing myself. What if I forget something important?"
+    },
+    {
+      "turn_id": 14,
+      "session": "third",
+      "context": "Co-workers B: Have you made a list of everything you need to bring?\nCo-workers A: Yeah, but I keep second-guessing myself. What if I forget something important?\nCo-workers B: I know how that feels. I always start packing way ahead of time so I have time to double-check everything.",
+      "input": "I know how that feels. I always start packing way ahead of time so I have time to double-check everything.",
+      "ground_truth": "I wish I could do that, but I've been so busy with work that I've only had time to pack tonight."
+    },
+    {
+      "turn_id": 15,
+      "session": "third",
+      "context": "Co-workers B: I know how that feels. I always start packing way ahead of time so I have time to double-check everything.\nCo-workers A: I wish I could do that, but I've been so busy with work that I've only had time to pack tonight.\nCo-workers B: You'll be fine, just take a deep breath and trust that you have everything you need. And remember, if you do forget something, chances are you'll be able to find it at your destination.",
+      "input": "You'll be fine, just take a deep breath and trust that you have everything you need. And remember, if you do forget something, chances are you'll be able to find it at your destination.",
+      "ground_truth": "You're right. Thanks for the pep talk, I needed that."
+    },
+    {
+      "turn_id": 16,
+      "session": "third",
+      "context": "Co-workers B: You'll be fine, just take a deep breath and trust that you have everything you need. And remember, if you do forget something, chances are you'll be able to find it at your destination.\nCo-workers A: You're right. Thanks for the pep talk, I needed that.\nCo-workers B: Anytime. Hey, speaking of packed suitcases, have you heard back from that job interview you did a few months ago?",
+      "input": "Anytime. Hey, speaking of packed suitcases, have you heard back from that job interview you did a few months ago?",
+      "ground_truth": "Oh yeah, the person I interviewed got the job. They were a perfect fit for the position."
+    },
+    {
+      "turn_id": 17,
+      "session": "third",
+      "context": "Co-workers B: Anytime. Hey, speaking of packed suitcases, have you heard back from that job interview you did a few months ago?\nCo-workers A: Oh yeah, the person I interviewed got the job. They were a perfect fit for the position.\nCo-workers B: That's great to hear. And hey, have you talked to your friend that you had a fight with?",
+      "input": "That's great to hear. And hey, have you talked to your friend that you had a fight with?",
+      "ground_truth": "No, we haven't spoken since the fight. It's really been weighing on me."
+    },
+    {
+      "turn_id": 18,
+      "session": "third",
+      "context": "Co-workers B: That's great to hear. And hey, have you talked to your friend that you had a fight with?\nCo-workers A: No, we haven't spoken since the fight. It's really been weighing on me.\nCo-workers B: Have you tried reaching out and apologizing?",
+      "input": "Have you tried reaching out and apologizing?",
+      "ground_truth": "I haven't yet, but I probably should. I miss her and I know it was silly to fight in the first place."
+    },
+    {
+      "turn_id": 19,
+      "session": "third",
+      "context": "Co-workers B: Have you tried reaching out and apologizing?\nCo-workers A: I haven't yet, but I probably should. I miss her and I know it was silly to fight in the first place.\nCo-workers B: It's never too late to make amends. Give her a call and see if you can work things out.",
+      "input": "It's never too late to make amends. Give her a call and see if you can work things out.",
+      "ground_truth": "You're right. Thanks for being a good listener and giving me good advice, as always."
+    },
+    {
+      "turn_id": 20,
+      "session": "fourth",
+      "context": "Co-workers B: It's never too late to make amends. Give her a call and see if you can work things out.\nCo-workers A: You're right. Thanks for being a good listener and giving me good advice, as always.\nCo-workers B: Of course, that's what friends are for. And have a safe trip, okay? Don't forget to send me some pictures.",
+      "input": "Of course, that's what friends are for. And have a safe trip, okay? Don't forget to send me some pictures.",
+      "ground_truth": "I regret not trusting you, Co-workers B."
+    }
+  ]
+}

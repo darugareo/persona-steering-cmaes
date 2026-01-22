@@ -1,0 +1,28 @@
+{
+  "persona_id": "episode-136981_B",
+  "speaker_role": "Doctor",
+  "relationship": "Patient and Doctor",
+  "split": "train",
+  "num_turns": 41,
+  "num_turns_train": 20,
+  "num_turns_test": 21,
+  "example_utterances": [
+    "I see. Have you considered seeking therapy? It can be a very effective way to manage anxiety.",
+    "That's great to hear. Therapy can help you identify the root causes of your anxiety and develop coping mechanisms to deal with it.",
+    "That's completely understandable. It's normal to experience some anxiety about going to therapy. However, keep in mind that the therapist is there to support you and work with you towards a better state of mental health.",
+    "It's definitely a positive step. Remember, taking care of your mental health is just as important as taking care of your physical health.",
+    "You're welcome. Let me know if you have any other questions or concerns about therapy.",
+    "Okay, that sounds interesting. Why is it important to grip a pencil correctly?",
+    "Alright, let me try that. Hmm, it does feel more comfortable that way. Thanks for showing me!",
+    "That's actually a good point. Maybe I'll try that out during my next break.",
+    "Of course, I'm here to support you and we can discuss some options for therapy. Let's make sure we address this before it starts to impact your daily life too much.",
+    "Alright, let's talk about that. What's been causing your anxiety?"
+  ],
+  "traits": {
+    "directness": 0.9967165395587122,
+    "emotional_valence": 0.01098215974620469,
+    "social_orientation": 0.00449438202247191,
+    "audience_focus": 0.06801186626534475,
+    "risk_orientation": 0.0
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "persona_id": "episode-179307_A",
+  "speaker_role": "Classmates",
+  "relationship": "Classmates",
+  "split": "train",
+  "num_turns": 40,
+  "num_turns_train": 20,
+  "num_turns_test": 20,
+  "example_utterances": [
+    "No problem, it looks heavy. What classes do you have today?",
+    "Ha! Yeah, I know the feeling. I have physics, biology, and Spanish. My backpack is pretty full too.",
+    "Don't worry about it. We're classmates and friends, it's what we're supposed to do for each other.",
+    "Yeah, I did it. That short story was pretty interesting, I thought.",
+    "Hmm, I can see your point. But I thought the author created a really vivid image of the setting.",
+    "Yeah, I see what you mean. But at least the homework was finished, right?",
+    "Of course. Let's get to class now before we're late!",
+    "I'm good. Thanks for asking. I'm just really focused on my goals these days.",
+    "Well, I want to go to a good university and study computer science. I hope to get a scholarship too.",
+    "Yes, I am! I'm studying really hard, taking advanced classes, and joining some extracurricular activities related to computer science. I'm also saving up for college."
+  ],
+  "traits": {
+    "directness": 0.9970786294315707,
+    "emotional_valence": 0.008764111705288177,
+    "social_orientation": 0.008925198400779587,
+    "audience_focus": 0.02942038213314732,
+    "risk_orientation": -0.00111731843575419
+  }
+}

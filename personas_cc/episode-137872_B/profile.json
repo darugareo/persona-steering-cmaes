@@ -1,0 +1,28 @@
+{
+  "persona_id": "episode-137872_B",
+  "speaker_role": "Neighbors",
+  "relationship": "Neighbors",
+  "split": "train",
+  "num_turns": 45,
+  "num_turns_train": 22,
+  "num_turns_test": 23,
+  "example_utterances": [
+    "Oh, sorry about that. I must have been preoccupied with something else. What was the secret again?",
+    "Wait, now you're making me curious. Can you please tell me again?",
+    "Why would you say that? Of course I care about what you have to say.",
+    "I'm sorry if I gave you that impression. I really do care about what you have to say, so please tell me the secret.",
+    "I assure you, I didn't know anything. So please, go ahead and tell me.",
+    "Yes, it's a really nice community. I've been living here for a few years now and I still love it.",
+    "Hmm, I haven't really noticed anything out of the ordinary. Maybe some people are just moving in and out.",
+    "Not really, I try to keep to myself for the most part. But I have had some friendly conversations here and there.",
+    "Thanks, I'll keep that in mind. It's good to know that there are some friendly people around here like yourself.",
+    "That's true, it's definitely one of the best things about living here."
+  ],
+  "traits": {
+    "directness": 0.9910561899378181,
+    "emotional_valence": 0.01571648765781044,
+    "social_orientation": 0.008937704918032788,
+    "audience_focus": 0.05174093690859488,
+    "risk_orientation": 0.0
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "persona_id": "episode-132247_A",
+  "samples": [
+    {
+      "session": 1,
+      "text": "Thanks for coming over, Neighbor B. I wanted to talk to you about our relationship.\nWell, I feel like we haven't been as close lately and I wanted to see if there was anything going on that we needed to address.\nExactly, and I don't want those feelings to continue festering and damaging our friendship.\nMaybe just scheduling some more hangouts or being more intentional about checking in with each other. And if we have any issues or conflicts, being open and honest about them instead of letting them build up.\nAgreed. Thanks for being willing to have this conversation with me. \nHave you had a chance to check out that new restaurant down the street yet? \nYeah, I tried it out last week and it was really good. We should plan a dinner there soon. ",
+      "relationship": "Neighbors"
+    },
+    {
+      "session": 2,
+      "text": "Hey, can I talk to you about something?\nI was chatting with my friend online earlier and realized how sad I felt. She was talking about all the fun they were having at the party, but I couldn't go.\nI just didn't feel like being around people tonight. But now I'm regretting it.\nI don't know, maybe we could do something together later this week?\nThat would be perfect. Thanks for understanding.\nSpeaking of support, remember when we talked about our relationship a few months ago? I feel like we've been doing really well since then.\nI just wanted to say thank you for being such a supportive and understanding partner.\nI appreciate that. It makes me feel really happy and loved.",
+      "relationship": "Neighbors"
+    },
+    {
+      "session": 3,
+      "text": "Hey, Neighbor B. How are you doing?\nI was wondering if you have some time today. I wanted to talk to you about our relationship.\nYeah, I just feel like we need to have a conversation about where we stand.\nThanks for coming over. I've been feeling a little left out lately.\nWell, my friend was talking to me online about a party she went to, and it made me realize how much I miss having a social life. But I don't want to be around people right now.\nI just need some time to sort things out. But I appreciate you asking. \nYeah, I went to the post office earlier today and took care of it.\nYeah, it was pretty heavy. But the postage wasn't too bad.\nThanks, I will. And I appreciate you being there for me today. It means a lot. ",
+      "relationship": "Neighbors"
+    },
+    {
+      "session": 4,
+      "text": ", I wanted to talk to you about my business. I've been working hard on developing a clear plan and taking necessary steps to grow it.\nWell, I've been focusing on efficient time management and networking. I've found that those are both crucial to success.\nActually, yes. I was able to make a really important connection just last week. It's amazing how just one conversation can open up so many doors.\nYes, I'm also working on expanding my services and improving my website. I think those will both be important for future growth.\nThanks,. I'm excited to see where this takes me.\nSpeaking of progress, remember when we talked about how I was feeling left out at that party my friend went to?\nYes, I've been trying to put myself out there more and meet new people. It's been helping.\nAnd remember when I had to send that package from the post office? I was so nervous I filled out the paperwork wrong.\nYes, luckily the post office clerk was able to help me out. It just shows that sometimes we just need a little bit of help to get things done.",
+      "relationship": "Neighbors"
+    },
+    {
+      "session": 5,
+      "text": "Can you believe my favorite band is getting back together? I am so excited!\nIt's the same band we used to listen to when we were in high school. I never thought they would get back together.\nNot yet, but I'm keeping a close eye on their website. I can't wait to see them live again.\nYeah, it's been a rollercoaster of emotions lately. But this news definitely lifted my spirits.\nIt's been a lot of hard work, but things are starting to pick up. I'm grateful for the opportunities that have come my way.\nThanks, I had to learn the hard way about the importance of time management. But it's been worth it so far. \nWill do, it would be great to have you there.",
+      "relationship": "Neighbors"
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "persona_id": "episode-74475_A",
+  "speaker_role": "Patient",
+  "relationship": "Patient and Doctor",
+  "total_turns": 22,
+  "turns": [
+    {
+      "turn_id": 22,
+      "session": "fourth",
+      "context": "Doctor: I'm doing well, thank you. How about you?\nPatient: I'm good too, thank you. Hey, I was wondering if you had any plans for lunch today?\nDoctor: Not really, why do you ask?",
+      "input": "Not really, why do you ask?",
+      "ground_truth": "I was wondering if you would like to join me for lunch. Maybe we can catch up outside of work."
+    },
+    {
+      "turn_id": 23,
+      "session": "fourth",
+      "context": "Doctor: Not really, why do you ask?\nPatient: I was wondering if you would like to join me for lunch. Maybe we can catch up outside of work.\nDoctor: That sounds like a great idea. Where were you thinking of going?",
+      "input": "That sounds like a great idea. Where were you thinking of going?",
+      "ground_truth": "How about the new sandwich shop that just opened up down the street? I heard they have great vegetarian options."
+    },
+    {
+      "turn_id": 24,
+      "session": "fourth",
+      "context": "Doctor: That sounds like a great idea. Where were you thinking of going?\nPatient: How about the new sandwich shop that just opened up down the street? I heard they have great vegetarian options.\nDoctor: That sounds perfect. I'm always up for trying new places.",
+      "input": "That sounds perfect. I'm always up for trying new places.",
+      "ground_truth": "Great! So, are you free around noon?"
+    },
+    {
+      "turn_id": 25,
+      "session": "fourth",
+      "context": "Doctor: That sounds perfect. I'm always up for trying new places.\nPatient: Great! So, are you free around noon?\nDoctor: Yes, I have a break scheduled at that time. I'll be able to join you.",
+      "input": "Yes, I have a break scheduled at that time. I'll be able to join you.",
+      "ground_truth": "Perfect. I'm looking forward to it."
+    },
+    {
+      "turn_id": 26,
+      "session": "fourth",
+      "context": "Doctor: Yes, I have a break scheduled at that time. I'll be able to join you.\nPatient: Perfect. I'm looking forward to it.\nDoctor: Me too. It'll be nice to talk about something other than work.",
+      "input": "Me too. It'll be nice to talk about something other than work.",
+      "ground_truth": "Yes, it's always refreshing to have a change of conversation. So, how has your recovery been going? Are you feeling better now?"
+    },
+    {
+      "turn_id": 27,
+      "session": "fourth",
+      "context": "Doctor: Me too. It'll be nice to talk about something other than work.\nPatient: Yes, it's always refreshing to have a change of conversation. So, how has your recovery been going? Are you feeling better now?\nDoctor: Yes, I am feeling much better, thank you. The physical therapy has been helping a lot.",
+      "input": "Yes, I am feeling much better, thank you. The physical therapy has been helping a lot.",
+      "ground_truth": "That's good to hear. I remember when I helped you walk to the couch a few weeks ago, it was just a temporary setback, right?"
+    },
+    {
+      "turn_id": 28,
+      "session": "fourth",
+      "context": "Doctor: Yes, I am feeling much better, thank you. The physical therapy has been helping a lot.\nPatient: That's good to hear. I remember when I helped you walk to the couch a few weeks ago, it was just a temporary setback, right?\nDoctor: Yes, thankfully it was just a strain. You were very kind to help me, I appreciate it.",
+      "input": "Yes, thankfully it was just a strain. You were very kind to help me, I appreciate it.",
+      "ground_truth": "Of course, anytime. Hey, do you remember when I told you about my recent hunting trip? I tracked a deer for three hours before finally getting a shot. It was a proud moment for me."
+    },
+    {
+      "turn_id": 29,
+      "session": "fourth",
+      "context": "Doctor: Yes, thankfully it was just a strain. You were very kind to help me, I appreciate it.\nPatient: Of course, anytime. Hey, do you remember when I told you about my recent hunting trip? I tracked a deer for three hours before finally getting a shot. It was a proud moment for me.\nDoctor: Yes, I remember. Congratulations on your success. I'm glad you enjoy hunting, it's always good to have a hobby that allows you to connect with nature.",
+      "input": "Yes, I remember. Congratulations on your success. I'm glad you enjoy hunting, it's always good to have a hobby that allows you to connect with nature.",
+      "ground_truth": "Exactly, it's a great way to relax and unwind. Speaking of hobbies, do you have any hobbies you enjoy in your free time?"
+    },
+    {
+      "turn_id": 30,
+      "session": "fourth",
+      "context": "Doctor: Yes, I remember. Congratulations on your success. I'm glad you enjoy hunting, it's always good to have a hobby that allows you to connect with nature.\nPatient: Exactly, it's a great way to relax and unwind. Speaking of hobbies, do you have any hobbies you enjoy in your free time?\nDoctor: Well, I love gardening. It's a great way to connect with the outdoors and relax. I also enjoy reading and playing the piano.",
+      "input": "Well, I love gardening. It's a great way to connect with the outdoors and relax. I also enjoy reading and playing the piano.",
+      "ground_truth": "That's great, Doctor. It's important to have hobbies and interests that bring you joy outside of work."
+    },
+    {
+      "turn_id": 31,
+      "session": "fourth",
+      "context": "Doctor: Well, I love gardening. It's a great way to connect with the outdoors and relax. I also enjoy reading and playing the piano.\nPatient: That's great, Doctor. It's important to have hobbies and interests that bring you joy outside of work.\nDoctor: I completely agree. So, what else have you been up to lately?",
+      "input": "I completely agree. So, what else have you been up to lately?",
+      "ground_truth": "Well, work has been keeping me busy, but I've also been planning a weekend trip with some friends. We're going hiking in the mountains."
+    },
+    {
+      "turn_id": 32,
+      "session": "fourth",
+      "context": "Doctor: I completely agree. So, what else have you been up to lately?\nPatient: Well, work has been keeping me busy, but I've also been planning a weekend trip with some friends. We're going hiking in the mountains.\nDoctor: That sounds like a lot of fun. I hope you have a great time.",
+      "input": "That sounds like a lot of fun. I hope you have a great time.",
+      "ground_truth": "Thank you, I'm looking forward to it. So, have you been to any new restaurants or tried any new foods lately?"
+    },
+    {
+      "turn_id": 33,
+      "session": "fourth",
+      "context": "Doctor: That sounds like a lot of fun. I hope you have a great time.\nPatient: Thank you, I'm looking forward to it. So, have you been to any new restaurants or tried any new foods lately?\nDoctor: Actually, yes. I tried a new Vietnamese restaurant recently and it was amazing. The flavors were so unique and delicious.",
+      "input": "Actually, yes. I tried a new Vietnamese restaurant recently and it was amazing. The flavors were so unique and delicious.",
+      "ground_truth": "Oh, I love Vietnamese food. I'll have to try that place out. Thanks for the recommendation."
+    },
+    {
+      "turn_id": 34,
+      "session": "fourth",
+      "context": "Doctor: Actually, yes. I tried a new Vietnamese restaurant recently and it was amazing. The flavors were so unique and delicious.\nPatient: Oh, I love Vietnamese food. I'll have to try that place out. Thanks for the recommendation.\nDoctor: You're welcome. I think you'll really enjoy it. Oh, it looks like it's time for me to head back to work. Thanks for inviting me to lunch, it was lovely.",
+      "input": "You're welcome. I think you'll really enjoy it. Oh, it looks like it's time for me to head back to work. Thanks for inviting me to lunch, it was lovely.",
+      "ground_truth": "No problem at all, Doctor. It was great catching up with you. See you later."
+    },
+    {
+      "turn_id": 35,
+      "session": "fifth",
+      "context": "Patient: Oh, I love Vietnamese food. I'll have to try that place out. Thanks for the recommendation.\nDoctor: You're welcome. I think you'll really enjoy it. Oh, it looks like it's time for me to head back to work. Thanks for inviting me to lunch, it was lovely.\nPatient: No problem at all, Doctor. It was great catching up with you. See you later.",
+      "input": "No problem at all, Doctor. It was great catching up with you. See you later.",
+      "ground_truth": "Okay, Doctor, I think it's time for us to get some fresh air and sunshine. Let's go to the park today."
+    },
+    {
+      "turn_id": 36,
+      "session": "fifth",
+      "context": "Patient: No problem at all, Doctor. It was great catching up with you. See you later.\nPatient: Okay, Doctor, I think it's time for us to get some fresh air and sunshine. Let's go to the park today.\nDoctor: That sounds like a great idea, Patient. Thank you for suggesting it.",
+      "input": "That sounds like a great idea, Patient. Thank you for suggesting it.",
+      "ground_truth": "You're welcome, Doctor. I know how much you like going to the park, and I want to make sure you have a good time."
+    },
+    {
+      "turn_id": 37,
+      "session": "fifth",
+      "context": "Doctor: That sounds like a great idea, Patient. Thank you for suggesting it.\nPatient: You're welcome, Doctor. I know how much you like going to the park, and I want to make sure you have a good time.\nDoctor: I appreciate that, Patient. You're very thoughtful.",
+      "input": "I appreciate that, Patient. You're very thoughtful.",
+      "ground_truth": "I try to be. I just want you to be happy and comfortable."
+    },
+    {
+      "turn_id": 38,
+      "session": "fifth",
+      "context": "Doctor: I appreciate that, Patient. You're very thoughtful.\nPatient: I try to be. I just want you to be happy and comfortable.\nDoctor: Well, you certainly succeed in that, Patient. You've been a great caregiver.",
+      "input": "Well, you certainly succeed in that, Patient. You've been a great caregiver.",
+      "ground_truth": "Thank you, Doctor. It means a lot to hear you say that."
+    },
+    {
+      "turn_id": 39,
+      "session": "fifth",
+      "context": "Doctor: Well, you certainly succeed in that, Patient. You've been a great caregiver.\nPatient: Thank you, Doctor. It means a lot to hear you say that.\nDoctor: Of course. You deserve recognition for all the hard work you do.",
+      "input": "Of course. You deserve recognition for all the hard work you do.",
+      "ground_truth": "Speaking of hard work, I wanted to tell you about something I did recently. I went hunting and I managed to track a deer for three hours before finally getting a successful shot."
+    },
+    {
+      "turn_id": 40,
+      "session": "fifth",
+      "context": "Doctor: Of course. You deserve recognition for all the hard work you do.\nPatient: Speaking of hard work, I wanted to tell you about something I did recently. I went hunting and I managed to track a deer for three hours before finally getting a successful shot.\nDoctor: That's impressive, Patient. Hunting isn't something I'm personally interested in, but I can understand why it would bring you a sense of pride.",
+      "input": "That's impressive, Patient. Hunting isn't something I'm personally interested in, but I can understand why it would bring you a sense of pride.",
+      "ground_truth": "It definitely does. And I think it's important to have hobbies and interests outside of caregiving, you know?"
+    },
+    {
+      "turn_id": 41,
+      "session": "fifth",
+      "context": "Doctor: That's impressive, Patient. Hunting isn't something I'm personally interested in, but I can understand why it would bring you a sense of pride.\nPatient: It definitely does. And I think it's important to have hobbies and interests outside of caregiving, you know?\nDoctor: Absolutely. Self-care is just as important as caring for others. Speaking of which, thank you for taking care of me today and bringing me to the park.",
+      "input": "Absolutely. Self-care is just as important as caring for others. Speaking of which, thank you for taking care of me today and bringing me to the park.",
+      "ground_truth": "Anytime, Doctor. It's my pleasure."
+    },
+    {
+      "turn_id": 42,
+      "session": "fifth",
+      "context": "Doctor: Absolutely. Self-care is just as important as caring for others. Speaking of which, thank you for taking care of me today and bringing me to the park.\nPatient: Anytime, Doctor. It's my pleasure.\nDoctor: And while we're on the topic of pleasure, would you like to grab lunch after our walk in the park?",
+      "input": "And while we're on the topic of pleasure, would you like to grab lunch after our walk in the park?",
+      "ground_truth": "Sure, that sounds great. Where would you like to go?"
+    },
+    {
+      "turn_id": 43,
+      "session": "fifth",
+      "context": "Doctor: And while we're on the topic of pleasure, would you like to grab lunch after our walk in the park?\nPatient: Sure, that sounds great. Where would you like to go?\nDoctor: How about that sandwich and salad place we went to last time?",
+      "input": "How about that sandwich and salad place we went to last time?",
+      "ground_truth": "Perfect, I've been craving their veggie sandwich. Let's go!"
+    }
+  ]
+}

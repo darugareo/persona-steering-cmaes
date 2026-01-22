@@ -1,0 +1,76 @@
+{
+  "persona_id": "episode-134226_A",
+  "num_sessions": 5,
+  "sessions": [
+    {
+      "persona_id": "episode-134226_A",
+      "session_idx": 1,
+      "pair_id": "episode-134226",
+      "session_name": "first",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Husband and Wife",
+      "role_name": "Husband",
+      "time_interval": "Start",
+      "session_summary": "The husband expresses concerns about his wife's relationship, including concerns about moving too fast, but expresses his desire to build a strong foundation for the future while also emphasizing the importance of open communication. The wife expresses support for him and encourages open communication.",
+      "session_text": "Hey, can we talk for a bit?\nI just wanted to check in and see how you're feeling about our relationship. I worry that things may be moving too fast and I want to make sure we're both on the same page.\nI guess it's just that we've been spending a lot of time together and I don't want us to burn out too quickly. I want to make sure we're building a strong foundation for the future.\nI see your point, but at the same time, I don't want to ignore any potential red flags. Can we have open communication about our feelings and concerns?\nNo, I think I just needed to express my thoughts and make sure we're on the same page. Thank you for listening.\nNo, that's it for now. But I appreciate your understanding and willingness to talk things through.",
+      "num_turns": 6
+    },
+    {
+      "persona_id": "episode-134226_A",
+      "session_idx": 2,
+      "pair_id": "episode-134226",
+      "session_name": "second",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Husband and Wife",
+      "role_name": "Husband",
+      "time_interval": "A couple of years after",
+      "session_summary": "The couple expresses concern about their relationship, including the wife's disappointment at being thrown out of a club due to being too drunk. They agree to keep up the conversation openly and agree to regularly check in with each other to ensure they feel comfortable.",
+      "session_text": "Hey, can we talk for a moment?\nI'm just feeling a bit concerned about our relationship. I feel like things are moving too fast and I want to make sure that we're on the same page.\nOkay, that's a relief to hear. So, I wanted to talk to you about last night. I was disappointed when you were thrown out of the club.\nI know you were looking forward to it. But maybe it was for the best. Going home alone was probably safer for you.\nI understand. But I also want you to know that I'm here for you. If you ever need anything, just let me know.\nOf course. And speaking of support, I still want to make sure that we're on the same page with our relationship.\nAgreed. So, can we make a plan to regularly check in with each other and make sure that we're both comfortable with how things are progressing?\nMe too. Communication is key, especially when it comes to relationships.",
+      "num_turns": 8
+    },
+    {
+      "persona_id": "episode-134226_A",
+      "session_idx": 3,
+      "pair_id": "episode-134226",
+      "session_name": "third",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Husband and Wife",
+      "role_name": "Husband",
+      "time_interval": "A few days after",
+      "session_summary": "The husband and wife discuss their relationship and discuss how things are moving fast between them. They also discuss the husband's past embarrassing experiences and the wife expresses appreciation for the couple's willingness to try new things and explore together.",
+      "session_text": "Hey, babe. Can we talk for a minute?\nI just wanted to check in and make sure we're on the same page about our relationship.\nI feel like things are moving really fast between us, and I just want to make sure we're both comfortable with that.\nYeah, I just don't want us to get carried away and end up doing something we're not ready for.\nHey, do you remember when you got kicked out of that club a couple years ago?\nI just wanted to say that I was really disappointed about that. I know how much you were looking forward to dancing and meeting new people.\nYou know, I've been thinking about how much fun we had on our last vacation. It was so great trying new things and exploring together.\nWell, I think life is too short to not try new things and have fun. I always want to make the most of our time together.",
+      "num_turns": 8
+    },
+    {
+      "persona_id": "episode-134226_A",
+      "session_idx": 4,
+      "pair_id": "episode-134226",
+      "session_name": "fourth",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Husband and Wife",
+      "role_name": "Husband",
+      "time_interval": "A few weeks after",
+      "session_summary": "The husband and wife discuss their relationship goals and discuss concerns such as the wife's disappointment at being kicked out of a club and the wife's desire to enjoy quieter evenings. They also discuss the husband's clean house and how much work they put in.",
+      "session_text": "Hey, can we talk for a minute?\nI just wanted to check in and make sure we're on the same page. I feel like things have been moving pretty fast between us lately and I want to make sure we're both comfortable with where we're at in our relationship.\nWell, there was something on my mind from a couple of years ago. When you got kicked out of the club, I was disappointed for you. I know you were hoping to dance and meet new people.\nThat's good to hear. I just want to make sure we're both happy with the ways we spend our time together.\nYou know, I've been thinking about something else. You always say I'm a cool person and I love trying new things, but I don't want you to feel like you have to keep up with me if it's not your thing.\nThanks, that means a lot. Speaking of the house, have you noticed how clean it is?\nYeah, I dusted all the furniture, washed the windows, vacuumed the carpets, and even mopped the floors.\nIt's my pleasure, I'm just happy when things are clean and organized.",
+      "num_turns": 8
+    },
+    {
+      "persona_id": "episode-134226_A",
+      "session_idx": 5,
+      "pair_id": "episode-134226",
+      "session_name": "fifth",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Husband and Wife",
+      "role_name": "Husband",
+      "time_interval": "A few days after",
+      "session_summary": "The husband expresses feelings of being too fast in his relationship and wants to make sure they are comfortable with each other's pace. The wife expresses gratitude for him for his efforts around the house and appreciates his wife's willingness to try new things and enjoys learning from others.",
+      "session_text": "Hey, can I talk to you about something?\nI feel like things between us are moving too fast. I just want to make sure we're on the same page.\nWell, I don't want to feel like we're rushing into things without really knowing each other. I want us to take things slow and make sure we're both comfortable with where we're at in our relationship.\nYou remember when you got thrown out of that club a couple of years ago? I felt really disappointed for you.\nI know. I wish we could have had a better time together that night. Maybe we can plan a fun night out soon?\nYou know what I love about you? You're always willing to try new things and have a good time.\nI couldn't agree more. I love that we can always have a good time together, no matter what we're doing.\nI've been doing some cleaning around the house lately. I feel really happy when everything is clean and organized.\nI'm glad you appreciate it. It gives me a sense of accomplishment to know that I'm contributing to our home in that way.\nI had a really interesting conversation with a stranger today.\nWe talked about a lot of things. Life, work, relationships. They had some really interesting perspectives on things.\nMostly just that there's so much to learn from other people. I love having conversations with people who have different perspectives and experiences than me.\nAnd you're always there to support me in that. I'm so grateful for you.",
+      "num_turns": 13
+    }
+  ]
+}

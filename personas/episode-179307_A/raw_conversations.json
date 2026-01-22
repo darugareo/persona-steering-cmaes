@@ -1,0 +1,76 @@
+{
+  "persona_id": "episode-179307_A",
+  "num_sessions": 5,
+  "sessions": [
+    {
+      "persona_id": "episode-179307_A",
+      "session_idx": 1,
+      "pair_id": "episode-179307",
+      "session_name": "first",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "Start",
+      "session_summary": "Two classmates discuss their heavy backpacks, including math, history, and English. They agree to help each other out and agree to finish homework together.",
+      "session_text": "Hey, do you need any help with your backpack?\nNo problem, it looks heavy. What classes do you have today?\nHa! Yeah, I know the feeling. I have physics, biology, and Spanish. My backpack is pretty full too.\nDon't worry about it. We're classmates and friends, it's what we're supposed to do for each other.\nYeah, I did it. That short story was pretty interesting, I thought.\nReally? What didn't you like about it?\nHmm, I can see your point. But I thought the author created a really vivid image of the setting.\nYeah, I see what you mean. But at least the homework was finished, right?\nOf course. Let's get to class now before we're late!",
+      "num_turns": 9
+    },
+    {
+      "persona_id": "episode-179307_A",
+      "session_idx": 2,
+      "pair_id": "episode-179307",
+      "session_name": "second",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "A few months after",
+      "session_summary": "Classmate A expresses their dedication towards their goals, including computer science and extracurricular activities. Classmate B expresses support for Classmate A's efforts and reminds them that helping others and pursuing their own goals are mutually exclusive.",
+      "session_text": "Hey, B! How's it going?\nI'm good. Thanks for asking. I'm just really focused on my goals these days.\nWell, I want to go to a good university and study computer science. I hope to get a scholarship too.\nYes, I am! I'm studying really hard, taking advanced classes, and joining some extracurricular activities related to computer science. I'm also saving up for college.\nThanks, I really appreciate your support.\nYeah, of course I do. I'm glad I could help you out.\nThanks, B. I believe that helping others and pursuing your own goals are not mutually exclusive. We can do both.",
+      "num_turns": 7
+    },
+    {
+      "persona_id": "episode-179307_A",
+      "session_idx": 3,
+      "pair_id": "episode-179307",
+      "session_name": "third",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "A couple of years after",
+      "session_summary": "Two classmates discuss their difficulties finding books for class. Classmate A offers help and discusses their future goals, including helping others and striving for success. Classmate B agrees and encourages Classmate A to lend a helping hand and ask for help.",
+      "session_text": "Hey, I noticed you were having trouble finding a book. Is everything okay?\nOh, I actually have a book on rabbits that you can borrow. Here you go.\nNo problem. I believe in helping out a friend when they need it.\nIt's going well. I've been working hard to make it a reality. I know that success doesn't come easy, so I'm willing to put in the extra effort to make it happen.\nThanks, I really appreciate that. I like to think that helping others and working hard towards my own goals go hand in hand.\nWill do. And if you ever need help with anything else, don't hesitate to ask. That's what friends are for.",
+      "num_turns": 6
+    },
+    {
+      "persona_id": "episode-179307_A",
+      "session_idx": 4,
+      "pair_id": "episode-179307",
+      "session_name": "fourth",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "A few weeks after",
+      "session_summary": "Classmate A expresses gratitude for Classmate B's support system during prison. Classmate B reminds Classmate A of their past support system and Classmate A expresses gratitude for Classmate B's hard work and dedication to accomplishing their goals.",
+      "session_text": "Hey, thanks for meeting with me today. I wanted to talk about something that's been on my mind.\nWell, I was thinking about my time in prison and how much the other prisoners helped me.\nYeah. They were always there for me, and I felt safe knowing that they had my back.\nIt really was. It made my time in there a lot easier to bear.\nYeah, a few of them. We still talk every now and then.\nAbsolutely. It's important to have people you can rely on, no matter what.\nOh yeah, I remember that. I just wanted to lend a helping hand.\nAnd that's what friends are for, right? To help each other out when we need it.\nYeah, I've been putting in a lot of time and effort, but I know it will pay off in the end.\nThanks for all your support. It means a lot to me.\nAbsolutely. And hey, speaking of books, do you need help finding anything at the library?\nI think I do, let me show you.",
+      "num_turns": 12
+    },
+    {
+      "persona_id": "episode-179307_A",
+      "session_idx": 5,
+      "pair_id": "episode-179307",
+      "session_name": "fifth",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Classmates",
+      "role_name": "Classmates",
+      "time_interval": "A couple of years after",
+      "session_summary": "Classmate A climbs out of a window to escape mean-spirited bullies, but chose not to let them get to them. Classmate B praises them for standing up for themselves and making it home safely. They also discuss Classmate A's future plans, including how supportive friends like Classmate B cheer them on.",
+      "session_text": " Wow, I can't believe I just did that. I climbed out the window to get away from those bullies.\n They were just being their usual mean-spirited selves. But I wasn't going to let them get to me this time.\n Yeah, I ran as fast as I could and didn't stop until I got to my house. It's not like me to do something like that, but I just had to get away.\n It's going well, thanks for asking. I'm still putting in the extra effort to make it a reality. But it's comforting to know that I have supportive friends like you to cheer me on.\n I'm glad you liked it! It's always nice to be helpful and make someone's day a little brighter. Speaking of making friends, do you remember when I told you about the prisoners I met a few weeks ago?\n It definitely taught me about the power of friendship and how much it can mean in tough situations. But I'm glad to be out of there and back to normal life.",
+      "num_turns": 6
+    }
+  ]
+}

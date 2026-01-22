@@ -1,0 +1,76 @@
+{
+  "persona_id": "episode-198972_A",
+  "num_sessions": 5,
+  "sessions": [
+    {
+      "persona_id": "episode-198972_A",
+      "session_idx": 1,
+      "pair_id": "episode-198972",
+      "session_name": "first",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Neighbors",
+      "role_name": "Neighbors",
+      "time_interval": "Start",
+      "session_summary": "Neighbor A tells Neighbor B about their recent trip to Hong Kong, which included trying dim sum, bubble tea, and seafood. They also visited Victoria Peak and bought souvenirs and clothes. They plan to visit Europe next year.",
+      "session_text": "Hey, Neighbor B! I'm so excited to tell you about my recent trip to Hong Kong!\nIt was amazing! I couldn't believe all the tall buildings. It was like a concrete jungle.\nYes! I tried some dim sum, bubble tea, and some seafood.\nYes, I went to a night market and a day market. I bought some souvenirs and clothes.\nYes, I visited Victoria Peak and got to see the city skyline from up high.\nDefinitely! I can't wait to go back and explore more of Asia.\nYes, I'm thinking of visiting Europe next year. Maybe I can get some travel tips from you?",
+      "num_turns": 7
+    },
+    {
+      "persona_id": "episode-198972_A",
+      "session_idx": 2,
+      "pair_id": "episode-198972",
+      "session_name": "second",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Neighbors",
+      "role_name": "Neighbors",
+      "time_interval": "A couple of years after",
+      "session_summary": "Two neighbors talk about traffic jams, speeding, and embarrassing incidents. They also discuss the importance of staying safe and moving forward.",
+      "session_text": "Man, this traffic is heavy today. I hope we don't get stuck here for too long.\nUgh, don't remind me. That was the worst. But speaking of driving, I've been really careful lately. I don't want to get any more tickets.\nSpeeding. I was on the highway and didn't even realize I was going too fast. Now I always make sure to stay at or below the speed limit.\nNo, you didn't. Are you okay? What happened?\nOh man, that's rough. But hey, I remember when I visited Hong Kong, I couldn't get over how tall some of the buildings were. It was crazy.\nOh my god, those were amazing. I wish I could find something like that here.",
+      "num_turns": 6
+    },
+    {
+      "persona_id": "episode-198972_A",
+      "session_idx": 3,
+      "pair_id": "episode-198972",
+      "session_name": "third",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Neighbors",
+      "role_name": "Neighbors",
+      "time_interval": "A few weeks after",
+      "session_summary": "Two neighbors discuss their love story, including their relationship with Steve, who they met at coffee shops and plan to explore Japan together next year. They also briefly briefly discuss their recent trip to Hong Kong, including recommendations for the city's unique markets and silk markets.",
+      "session_text": "I have to tell you something, B. My true love is actually a guy named Steve.\nWe met at a coffee shop a few months ago. He's just so kind and thoughtful, I can't help but fall for him.\nNot yet, I'm waiting for the right time. But I know they'll love him just as much as I do.\nSarah? Why are you bringing her up?\nOh, well we're just not as close as we used to be. But she's doing well, I think.\nNot yet, but we're planning on taking a trip to Japan next year. I can't wait to explore a new country with him.\nOf course! I'll try anything once. Speaking of trying new things, remember when I told you about my trip to Hong Kong a while back?\nIt was absolutely incredible. The buildings were so tall and impressive, and the food was out of this world. And the markets were so unique - you could find anything from silk to electronics.\nYou should! I could give you some recommendations. But for now, I have to run. I'll catch up with you later.",
+      "num_turns": 9
+    },
+    {
+      "persona_id": "episode-198972_A",
+      "session_idx": 4,
+      "pair_id": "episode-198972",
+      "session_name": "fourth",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Neighbors",
+      "role_name": "Neighbors",
+      "time_interval": "A couple of years after",
+      "session_summary": "Neighbors A and B plan to visit their parents' hometowns, visit art museums, and take them out to favorite restaurants. They plan to talk on the phone and Skype while away but have found new restaurants nearby.",
+      "session_text": "I can't wait to see my parents again. It's been so long since we've been together.\nThey're already here, actually. I met them at the airport this morning.\nI want to take them to visit all the sights in town. And I also want to take them out to eat at my favorite restaurants.\nI think we'll start with the art museum. They both love paintings and sculptures.\nYes, we talk on the phone every week and we also Skype sometimes. But it's just not the same as seeing them in person.\nYeah, that was a fun trip. I loved the food there.\nActually, yes! There's a new sushi place that just opened up down the street from my apartment. We should go check it out sometime.\nYou're right, I should go. Thanks for chatting with me, see you later!",
+      "num_turns": 8
+    },
+    {
+      "persona_id": "episode-198972_A",
+      "session_idx": 5,
+      "pair_id": "episode-198972",
+      "session_name": "fifth",
+      "speaker_role": "A",
+      "split": "train",
+      "relationship": "Neighbors",
+      "role_name": "Neighbors",
+      "time_interval": "A couple of years after",
+      "session_summary": "Neighbors A apologizes for their crash into Neighbors B's limo after failing to pay attention to surroundings while driving. They apologize and take responsibility for their mistake, but Neighbors B reminds them of their courage and willingness to work towards a solution together. They plan to explore Hong Kong together one day.",
+      "session_text": "Oh no, I am so sorry about crashing into your limo, Neighbors B. Are you okay?\nI was driving and wasn't paying attention to my surroundings and ended up crashing into your limo.\nYeah, I do. But I also want to apologize and take responsibility for my mistake by paying for the damages out of my own pocket.\nOf course, I feel terrible about what happened. It's the least I can do.\nAbsolutely. And it reminds me of the time I was driving on the highway and making sure to stay in the middle lane and go the speed limit.\nDefinitely. And do you remember when I told you my true love was a guy named Steve, but it was actually a girl named Sarah?\nI was struggling to come to terms with my own sexuality and wasn't ready to be fully open about it yet. But I'm glad I eventually was able to be honest with myself and others.\nThank you, Neighbors B. And speaking of being honest, I'm really glad we were able to have an open and fair conversation about the accident and work towards a solution together.\nDefinitely, safety first. And hey, do you remember when I visited Hong Kong and got to try all the amazing food and shop in the markets?\nIt was! I hope I get to go back one day and explore even more. \nThat sounds like a fantastic idea, Neighbors B. But for now, let's make sure we get everything sorted with the damages and move forward from this accident. ",
+      "num_turns": 11
+    }
+  ]
+}

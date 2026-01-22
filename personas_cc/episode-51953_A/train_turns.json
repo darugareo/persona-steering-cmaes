@@ -1,0 +1,148 @@
+{
+  "persona_id": "episode-51953_A",
+  "speaker_role": "Neighbors",
+  "relationship": "Neighbors",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 1,
+      "session": "first",
+      "context": "Neighbors A: Hey, B. I'm planning to sell my car.\nNeighbors B: Really? Why is that so?",
+      "input": "Really? Why is that so?",
+      "ground_truth": "Well, I want to buy a new car that is more fuel-efficient. The gas prices are going up, and my current car is not very friendly on my wallet."
+    },
+    {
+      "turn_id": 2,
+      "session": "first",
+      "context": "Neighbors B: Really? Why is that so?\nNeighbors A: Well, I want to buy a new car that is more fuel-efficient. The gas prices are going up, and my current car is not very friendly on my wallet.\nNeighbors B: That's a great idea. Have you figured out what kind of car you want to buy?",
+      "input": "That's a great idea. Have you figured out what kind of car you want to buy?",
+      "ground_truth": "I'm thinking of buying a hybrid car. I researched and found that they have excellent fuel efficiency and lower maintenance costs."
+    },
+    {
+      "turn_id": 3,
+      "session": "first",
+      "context": "Neighbors B: That's a great idea. Have you figured out what kind of car you want to buy?\nNeighbors A: I'm thinking of buying a hybrid car. I researched and found that they have excellent fuel efficiency and lower maintenance costs.\nNeighbors B: I have heard that hybrid cars are more expensive to buy though. Have you considered that?",
+      "input": "I have heard that hybrid cars are more expensive to buy though. Have you considered that?",
+      "ground_truth": "Yes, I have. But I'm also planning to sell my current car, which can cover a significant portion of the cost."
+    },
+    {
+      "turn_id": 4,
+      "session": "first",
+      "context": "Neighbors B: I have heard that hybrid cars are more expensive to buy though. Have you considered that?\nNeighbors A: Yes, I have. But I'm also planning to sell my current car, which can cover a significant portion of the cost.\nNeighbors B: That's true. And having a new car with lower maintenance costs can save you a lot of money in the long run.",
+      "input": "That's true. And having a new car with lower maintenance costs can save you a lot of money in the long run.",
+      "ground_truth": "Exactly. That's why I think it's a smart investment. What do you think?"
+    },
+    {
+      "turn_id": 5,
+      "session": "first",
+      "context": "Neighbors B: That's true. And having a new car with lower maintenance costs can save you a lot of money in the long run.\nNeighbors A: Exactly. That's why I think it's a smart investment. What do you think?\nNeighbors B: I completely agree with you. Plus, it's always better to have a car that is environmentally friendly.",
+      "input": "I completely agree with you. Plus, it's always better to have a car that is environmentally friendly.",
+      "ground_truth": "That's another reason why I'm considering buying a hybrid car. It's good for the environment, and I'll be doing my part to reduce my carbon footprint."
+    },
+    {
+      "turn_id": 6,
+      "session": "first",
+      "context": "Neighbors B: I completely agree with you. Plus, it's always better to have a car that is environmentally friendly.\nNeighbors A: That's another reason why I'm considering buying a hybrid car. It's good for the environment, and I'll be doing my part to reduce my carbon footprint.\nNeighbors B: That's a great initiative. I hope you find the perfect car that fits your needs.",
+      "input": "That's a great initiative. I hope you find the perfect car that fits your needs.",
+      "ground_truth": "Thanks a lot, B. I'm excited to start this new chapter with a more efficient and eco-friendly car."
+    },
+    {
+      "turn_id": 7,
+      "session": "second",
+      "context": "Neighbors A: That's another reason why I'm considering buying a hybrid car. It's good for the environment, and I'll be doing my part to reduce my carbon footprint.\nNeighbors B: That's a great initiative. I hope you find the perfect car that fits your needs.\nNeighbors A: Thanks a lot, B. I'm excited to start this new chapter with a more efficient and eco-friendly car.",
+      "input": "Thanks a lot, B. I'm excited to start this new chapter with a more efficient and eco-friendly car.",
+      "ground_truth": "I'm about to perform on stage tonight and I'm so nervous!"
+    },
+    {
+      "turn_id": 8,
+      "session": "second",
+      "context": "Neighbors A: Thanks a lot, B. I'm excited to start this new chapter with a more efficient and eco-friendly car.\nNeighbors A: I'm about to perform on stage tonight and I'm so nervous!\nNeighbors B: That's exciting! What song will you be singing?",
+      "input": "That's exciting! What song will you be singing?",
+      "ground_truth": "I Will Always Love You\" by Whitney Houston."
+    },
+    {
+      "turn_id": 9,
+      "session": "second",
+      "context": "Neighbors B: That's exciting! What song will you be singing?\nNeighbors A: I Will Always Love You\" by Whitney Houston.\nNeighbors B: Wow, that's a powerful song. I'm sure you'll do great!",
+      "input": "Wow, that's a powerful song. I'm sure you'll do great!",
+      "ground_truth": "Thanks, I hope so. I've never been this nervous before."
+    },
+    {
+      "turn_id": 10,
+      "session": "second",
+      "context": "Neighbors B: Wow, that's a powerful song. I'm sure you'll do great!\nNeighbors A: Thanks, I hope so. I've never been this nervous before.\nNeighbors B: Is there anything I can do to help you relax?",
+      "input": "Is there anything I can do to help you relax?",
+      "ground_truth": "Just talking to you is already making me feel better."
+    },
+    {
+      "turn_id": 11,
+      "session": "second",
+      "context": "Neighbors B: Is there anything I can do to help you relax?\nNeighbors A: Just talking to you is already making me feel better.\nNeighbors B: I'm glad to hear that. You know, performing on stage takes a lot of courage and I admire you for going through with it.",
+      "input": "I'm glad to hear that. You know, performing on stage takes a lot of courage and I admire you for going through with it.",
+      "ground_truth": "Thank you. I just have to remember to take deep breaths and focus on the music."
+    },
+    {
+      "turn_id": 12,
+      "session": "second",
+      "context": "Neighbors B: I'm glad to hear that. You know, performing on stage takes a lot of courage and I admire you for going through with it.\nNeighbors A: Thank you. I just have to remember to take deep breaths and focus on the music.\nNeighbors B: That's a good plan. Hey, speaking of music, did you ever find a new car like you were looking for?",
+      "input": "That's a good plan. Hey, speaking of music, did you ever find a new car like you were looking for?",
+      "ground_truth": "Actually, I did. I found a hybrid that gets great gas mileage and has low maintenance costs."
+    },
+    {
+      "turn_id": 13,
+      "session": "second",
+      "context": "Neighbors B: That's a good plan. Hey, speaking of music, did you ever find a new car like you were looking for?\nNeighbors A: Actually, I did. I found a hybrid that gets great gas mileage and has low maintenance costs.\nNeighbors B: That's awesome, congratulations! Maybe you can drive me around and we can jam out to some music in your new car.",
+      "input": "That's awesome, congratulations! Maybe you can drive me around and we can jam out to some music in your new car.",
+      "ground_truth": "I would love that! But first, I have to get through tonight's performance. Wish me luck!"
+    },
+    {
+      "turn_id": 14,
+      "session": "third",
+      "context": "Neighbors B: That's awesome, congratulations! Maybe you can drive me around and we can jam out to some music in your new car.\nNeighbors A: I would love that! But first, I have to get through tonight's performance. Wish me luck!\nNeighbors B: You got this. Break a leg!",
+      "input": "You got this. Break a leg!",
+      "ground_truth": "Hi there, how are you doing?"
+    },
+    {
+      "turn_id": 15,
+      "session": "third",
+      "context": "Neighbors B: You got this. Break a leg!\nNeighbors A: Hi there, how are you doing?\nNeighbors B: I'm okay, thanks. How about you?",
+      "input": "I'm okay, thanks. How about you?",
+      "ground_truth": "I'm a bit tired, to be honest, but I feel good. I was up late last night talking with Taylor."
+    },
+    {
+      "turn_id": 16,
+      "session": "third",
+      "context": "Neighbors B: I'm okay, thanks. How about you?\nNeighbors A: I'm a bit tired, to be honest, but I feel good. I was up late last night talking with Taylor.\nNeighbors B: Oh, really? Is everything okay with her?",
+      "input": "Oh, really? Is everything okay with her?",
+      "ground_truth": "She's had a bit of a rough time lately. Her boyfriend broke up with her, and she's been feeling pretty down about it."
+    },
+    {
+      "turn_id": 17,
+      "session": "third",
+      "context": "Neighbors B: Oh, really? Is everything okay with her?\nNeighbors A: She's had a bit of a rough time lately. Her boyfriend broke up with her, and she's been feeling pretty down about it.\nNeighbors B: That's tough. Did she talk to you about it?",
+      "input": "That's tough. Did she talk to you about it?",
+      "ground_truth": "Yeah, we talked for a while. I just tried to be there for her and listen to what she had to say. I hugged her and told her that everything would be alright."
+    },
+    {
+      "turn_id": 18,
+      "session": "third",
+      "context": "Neighbors B: That's tough. Did she talk to you about it?\nNeighbors A: Yeah, we talked for a while. I just tried to be there for her and listen to what she had to say. I hugged her and told her that everything would be alright.\nNeighbors B: That was really kind of you. I'm sure she appreciated it.",
+      "input": "That was really kind of you. I'm sure she appreciated it.",
+      "ground_truth": "She did. She thanked me for being there for her, and I think it really helped her to know that she had someone to talk to."
+    },
+    {
+      "turn_id": 19,
+      "session": "third",
+      "context": "Neighbors B: That was really kind of you. I'm sure she appreciated it.\nNeighbors A: She did. She thanked me for being there for her, and I think it really helped her to know that she had someone to talk to.\nNeighbors B: Well, I'm glad you were able to provide some comfort. It's important to be there for each other during difficult times.",
+      "input": "Well, I'm glad you were able to provide some comfort. It's important to be there for each other during difficult times.",
+      "ground_truth": "Absolutely. And it reminds me of when I was performing on stage a few years ago. I was so nervous, but you were there to support me."
+    },
+    {
+      "turn_id": 20,
+      "session": "third",
+      "context": "Neighbors B: Well, I'm glad you were able to provide some comfort. It's important to be there for each other during difficult times.\nNeighbors A: Absolutely. And it reminds me of when I was performing on stage a few years ago. I was so nervous, but you were there to support me.\nNeighbors B: Yeah, I remember that. You were amazing, by the way. I'm sure you'll be able to provide the same kind of comfort to Taylor that I provided to you.",
+      "input": "Yeah, I remember that. You were amazing, by the way. I'm sure you'll be able to provide the same kind of comfort to Taylor that I provided to you.",
+      "ground_truth": "I hope so. I just want to be there for her and help her get through this tough time."
+    }
+  ]
+}

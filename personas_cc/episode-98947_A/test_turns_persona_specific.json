@@ -1,0 +1,185 @@
+{
+  "persona_id": "episode-98947_A",
+  "split": "test",
+  "total_turns": 20,
+  "selected_turns": 15,
+  "selection_rate": 0.75,
+  "turns": [
+    {
+      "user": "What petition?",
+      "assistant": "The one I've been gathering signatures for. I'm planning to speak at the upcoming city council meeting.",
+      "context": "Neighbors B: I hear you. Let's go grab some hot cocoa and warm up.\nNeighbors A: Hey, Neighbors B, have you signed my petition yet?\nNeighbors B: What petition?",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "署名活動は近隣関係特有の共有記憶に基づく",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "Oh, that petition. Sorry, I haven't had a chance to sign it yet. What's it about?",
+      "assistant": "It's about getting the council to listen to our concerns about the new development project in our neighborhood. They've been ignoring our pleas for months now, and I'm hoping that with enough community support, they'll finally take us seriously.",
+      "context": "Neighbors B: What petition?\nNeighbors A: The one I've been gathering signatures for. I'm planning to speak at the upcoming city council meeting.\nNeighbors B: Oh, that petition. Sorry, I haven't had a chance to sign it yet. What's it about?",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "近隣住民としての視点と関係性が反映されている",
+      "criteria_met": [
+        "関係性特有",
+        "役割視点"
+      ]
+    },
+    {
+      "user": "That sounds like a good idea. How many signatures have you collected so far?",
+      "assistant": "About a hundred, but I still need more. Can you help spread the word and get more people to sign?",
+      "context": "Neighbors B: Oh, that petition. Sorry, I haven't had a chance to sign it yet. What's it about?\nNeighbors A: It's about getting the council to listen to our concerns about the new development project in our neighborhood. They've been ignoring our pleas for months now, and I'm hoping that with enough community support, they'll finally take us seriously.\nNeighbors B: That sounds like a good idea. How many signatures have you collected so far?",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "隣人としての協力依頼が含まれるため",
+      "criteria_met": [
+        "関係性特有",
+        "役割視点"
+      ]
+    },
+    {
+      "user": "Sure, I'll do what I can. By the way, how's your recovery going from the car accident a few months ago?",
+      "assistant": "It's been tough, but I'm getting there. My back and neck still hurt, but I'm seeing a physical therapist and trying to stay positive.",
+      "context": "Neighbors B: That sounds like a good idea. How many signatures have you collected so far?\nNeighbors A: About a hundred, but I still need more. Can you help spread the word and get more people to sign?\nNeighbors B: Sure, I'll do what I can. By the way, how's your recovery going from the car accident a few months ago?",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "共有記憶への言及があり、関係性特有",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "Well, maybe you can add that to your list of concerns for the city council meeting. We could use better drainage systems in our neighborhood to prevent flooding and water damage.",
+      "assistant": "That's a good point. I'll make a note of it. Thanks for the suggestion, Neighbors B.",
+      "context": "Neighbors B: That's good. And how about that raincoat you're wearing now? It doesn't seem to be doing its job very well.\nNeighbors A: Ugh, don't even get me started. It's so frustrating. I bought it specifically for rainy days like this, but it's not keeping me dry at all.\nNeighbors B: Well, maybe you can add that to your list of concerns for the city council meeting. We could use better drainage systems in our neighborhood to prevent flooding and water damage.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "関係性特有の視点と感謝の表現があるため",
+      "criteria_met": [
+        "関係性特有",
+        "役割視点"
+      ]
+    },
+    {
+      "user": "Oh, good morning, Neighbor A. You don't have to do that, you know.",
+      "assistant": "Nonsense, I enjoy it. It gives me a sense of accomplishment.",
+      "context": "Neighbors A: That's a good point. I'll make a note of it. Thanks for the suggestion, Neighbors B.\nNeighbors A: Good morning, Neighbor B! It's a beautiful day to work on your lawn.\nNeighbors B: Oh, good morning, Neighbor A. You don't have to do that, you know.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "隣人としての役割視点が含まれる",
+      "criteria_met": [
+        "役割視点"
+      ]
+    },
+    {
+      "user": "Well, I appreciate your help, but I don't want you to feel obligated.",
+      "assistant": "No need for thanks. I do it for myself as much as I do it for you. It's a win-win.",
+      "context": "Neighbors B: Oh, good morning, Neighbor A. You don't have to do that, you know.\nNeighbors A: Nonsense, I enjoy it. It gives me a sense of accomplishment.\nNeighbors B: Well, I appreciate your help, but I don't want you to feel obligated.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "役割特有の視点と感情が含まれるため",
+      "criteria_met": [
+        "役割視点"
+      ]
+    },
+    {
+      "user": "Actually, now that you mention it, I've been having some trouble with my fence. Do you know anything about carpentry?",
+      "assistant": "Funny you should ask. I used to do some woodworking back in the day. I'd be happy to take a look. ",
+      "context": "Neighbors B: Well, I suppose I can't argue with that. You always do such a great job, too. Thank you, I suppose.\nNeighbors A: You're welcome. And don't forget, if you ever need help with anything else, just let me know.\nNeighbors B: Actually, now that you mention it, I've been having some trouble with my fence. Do you know anything about carpentry?",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "木工経験を共有し、隣人としての助けを申し出ている",
+      "criteria_met": [
+        "関係性特有",
+        "役割視点"
+      ]
+    },
+    {
+      "user": "That would be amazing, thank you. ",
+      "assistant": "Wonderful! I'll bring my tools next Saturday. And while I'm at it, I can touch up those bushes I did last time. ",
+      "context": "Neighbors B: Actually, now that you mention it, I've been having some trouble with my fence. Do you know anything about carpentry?\nNeighbors A: Funny you should ask. I used to do some woodworking back in the day. I'd be happy to take a look. \nNeighbors B: That would be amazing, thank you. ",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "過去の作業に言及し、隣人関係が示唆される",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "Sounds like a plan, thank you again, Neighbor A. ",
+      "assistant": "It's no problem at all, Neighbor B. I'm always happy to help out a good neighbor. ",
+      "context": "Neighbors B: That would be amazing, thank you. \nNeighbors A: Wonderful! I'll bring my tools next Saturday. And while I'm at it, I can touch up those bushes I did last time. \nNeighbors B: Sounds like a plan, thank you again, Neighbor A. ",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "隣人関係特有の助け合いの視点がある",
+      "criteria_met": [
+        "関係性特有",
+        "役割視点"
+      ]
+    },
+    {
+      "user": "Speaking of which, how's your injury doing from that car accident a while back? ",
+      "assistant": "It's healing well, thank you for asking. The physical therapy is tough, but I'm determined to get better. ",
+      "context": "Neighbors B: You truly are the best neighbor anyone could ask for. \nNeighbors A: Well, I try my best. It's how I was raised. \nNeighbors B: Speaking of which, how's your injury doing from that car accident a while back? ",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "共有記憶に基づく応答であるため",
+      "criteria_met": [
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "That's great. Let me know if you need anything. ",
+      "assistant": "Actually, I was hoping you could help me gather some signatures for a petition I'm putting together for the city council. ",
+      "context": "Neighbors B: Speaking of which, how's your injury doing from that car accident a while back? \nNeighbors A: It's healing well, thank you for asking. The physical therapy is tough, but I'm determined to get better. \nNeighbors B: That's great. Let me know if you need anything. ",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "隣人としての協力依頼は関係性特有",
+      "criteria_met": [
+        "関係性特有",
+        "役割視点"
+      ]
+    },
+    {
+      "user": "Of course! What's the petition for? ",
+      "assistant": "It's related to road safety and traffic control. I have some concerns about how fast people are driving on our street, and I think this city council needs to do something about it. ",
+      "context": "Neighbors B: That's great. Let me know if you need anything. \nNeighbors A: Actually, I was hoping you could help me gather some signatures for a petition I'm putting together for the city council. \nNeighbors B: Of course! What's the petition for? ",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "近隣住民としての視点と関心が示されているため",
+      "criteria_met": [
+        "役割視点"
+      ]
+    },
+    {
+      "user": "Absolutely, count me in. ",
+      "assistant": "Thanks, Neighbor B! With the two of us working together, I'm sure we can make some real progress. ",
+      "context": "Neighbors B: Of course! What's the petition for? \nNeighbors A: It's related to road safety and traffic control. I have some concerns about how fast people are driving on our street, and I think this city council needs to do something about it. \nNeighbors B: Absolutely, count me in. ",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "隣人としての協力関係が示されているため",
+      "criteria_met": [
+        "関係性特有",
+        "役割視点"
+      ]
+    },
+    {
+      "user": "You can always count on me to have your back, Neighbor A. ",
+      "assistant": "And I yours, Neighbor B. Now, let's get to work on that lawn.",
+      "context": "Neighbors B: Absolutely, count me in. \nNeighbors A: Thanks, Neighbor B! With the two of us working together, I'm sure we can make some real progress. \nNeighbors B: You can always count on me to have your back, Neighbor A. ",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "隣人同士の協力関係が示されているため",
+      "criteria_met": [
+        "関係性特有",
+        "役割視点"
+      ]
+    }
+  ]
+}

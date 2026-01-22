@@ -1,0 +1,148 @@
+{
+  "persona_id": "episode-98323_A",
+  "speaker_role": "Classmates",
+  "relationship": "Classmates",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 20,
+      "session": "third",
+      "context": "Classmates B: Oh wow, I had no idea. That's really brave of you to admit,. \nClassmates A: Thanks, it's been weighing on me for a while. But it's okay if you don't feel the same way, I just wanted to be honest with you.\nClassmates B: Honestly, I'm really flattered. I don't have romantic feelings for you, but I'm really glad we can be such close friends. ",
+      "input": "Honestly, I'm really flattered. I don't have romantic feelings for you, but I'm really glad we can be such close friends. ",
+      "ground_truth": "I'm glad too. You mean a lot to me and I don't want anything to change that."
+    },
+    {
+      "turn_id": 21,
+      "session": "third",
+      "context": "Classmates B: Honestly, I'm really flattered. I don't have romantic feelings for you, but I'm really glad we can be such close friends. \nClassmates A: I'm glad too. You mean a lot to me and I don't want anything to change that.\nClassmates B: Same here,. Our friendship is really important to me and I hope we can stay close for a long time. ",
+      "input": "Same here,. Our friendship is really important to me and I hope we can stay close for a long time. ",
+      "ground_truth": "Definitely, I wouldn't have it any other way. And if you ever need anything, don't hesitate to ask. "
+    },
+    {
+      "turn_id": 22,
+      "session": "third",
+      "context": "Classmates B: Same here,. Our friendship is really important to me and I hope we can stay close for a long time. \nClassmates A: Definitely, I wouldn't have it any other way. And if you ever need anything, don't hesitate to ask. \nClassmates B: Same goes for you. Thanks for always being there for me,. ",
+      "input": "Same goes for you. Thanks for always being there for me,. ",
+      "ground_truth": "Anytime,. Let's go see your mom now."
+    },
+    {
+      "turn_id": 23,
+      "session": "fourth",
+      "context": "Classmates A: Definitely, I wouldn't have it any other way. And if you ever need anything, don't hesitate to ask. \nClassmates B: Same goes for you. Thanks for always being there for me,. \nClassmates A: Anytime,. Let's go see your mom now.",
+      "input": "Anytime,. Let's go see your mom now.",
+      "ground_truth": "Hey, guess what? I made the soccer team!"
+    },
+    {
+      "turn_id": 24,
+      "session": "fourth",
+      "context": "Classmates A: Anytime,. Let's go see your mom now.\nClassmates A: Hey, guess what? I made the soccer team!\nClassmates B: That's awesome news! Congratulations!",
+      "input": "That's awesome news! Congratulations!",
+      "ground_truth": "Thanks! The coach said it was because of my leadership qualities and work ethic during tryouts."
+    },
+    {
+      "turn_id": 25,
+      "session": "fourth",
+      "context": "Classmates B: That's awesome news! Congratulations!\nClassmates A: Thanks! The coach said it was because of my leadership qualities and work ethic during tryouts.\nClassmates B: Wow, that's really impressive. I've always known you had a positive attitude and great athleticism.",
+      "input": "Wow, that's really impressive. I've always known you had a positive attitude and great athleticism.",
+      "ground_truth": "It's really exciting to be a part of the team. I remember when we used to play soccer together in the park."
+    },
+    {
+      "turn_id": 26,
+      "session": "fourth",
+      "context": "Classmates B: Wow, that's really impressive. I've always known you had a positive attitude and great athleticism.\nClassmates A: It's really exciting to be a part of the team. I remember when we used to play soccer together in the park.\nClassmates B: Yeah, those were fun times. Speaking of which, do you remember that one time when you found a book and threw it away? You were really upset about it.",
+      "input": "Yeah, those were fun times. Speaking of which, do you remember that one time when you found a book and threw it away? You were really upset about it.",
+      "ground_truth": "Oh man, I remember that. I felt really sad and guilty afterwards. I wish I had just kept it and tried to return it to its owner."
+    },
+    {
+      "turn_id": 27,
+      "session": "fourth",
+      "context": "Classmates B: Yeah, those were fun times. Speaking of which, do you remember that one time when you found a book and threw it away? You were really upset about it.\nClassmates A: Oh man, I remember that. I felt really sad and guilty afterwards. I wish I had just kept it and tried to return it to its owner.\nClassmates B: Well, at least you learned from that experience. It's important to think about our actions and how they affect others.",
+      "input": "Well, at least you learned from that experience. It's important to think about our actions and how they affect others.",
+      "ground_truth": "Yeah, definitely. And speaking of thinking about things, there's something I've been wanting to tell you for a while now."
+    },
+    {
+      "turn_id": 28,
+      "session": "fourth",
+      "context": "Classmates B: Well, at least you learned from that experience. It's important to think about our actions and how they affect others.\nClassmates A: Yeah, definitely. And speaking of thinking about things, there's something I've been wanting to tell you for a while now.\nClassmates B: What is it?",
+      "input": "What is it?",
+      "ground_truth": "Well, I've been afraid to tell you, but I have feelings for you. I didn't want to ruin our friendship, but I couldn't keep it bottled up any longer."
+    },
+    {
+      "turn_id": 29,
+      "session": "fourth",
+      "context": "Classmates B: What is it?\nClassmates A: Well, I've been afraid to tell you, but I have feelings for you. I didn't want to ruin our friendship, but I couldn't keep it bottled up any longer.\nClassmates B: Oh wow, I had no idea. That's really brave of you to tell me. I don't want to ruin our friendship either, but I also don't want to ignore your feelings. Let's talk about this more and figure out what we both want.",
+      "input": "Oh wow, I had no idea. That's really brave of you to tell me. I don't want to ruin our friendship either, but I also don't want to ignore your feelings. Let's talk about this more and figure out what we both want.",
+      "ground_truth": "Thanks for being understanding. And hey, speaking of surprises, remember when I ran into your mom crying on a bench in the park?"
+    },
+    {
+      "turn_id": 30,
+      "session": "fourth",
+      "context": "Classmates B: Oh wow, I had no idea. That's really brave of you to tell me. I don't want to ruin our friendship either, but I also don't want to ignore your feelings. Let's talk about this more and figure out what we both want.\nClassmates A: Thanks for being understanding. And hey, speaking of surprises, remember when I ran into your mom crying on a bench in the park?\nClassmates B: Yeah, I remember that. It was really sweet of you to try and help her.",
+      "input": "Yeah, I remember that. It was really sweet of you to try and help her.",
+      "ground_truth": "It turns out she was going through some tough family issues at the time. I hope things have gotten better for her since then."
+    },
+    {
+      "turn_id": 31,
+      "session": "fourth",
+      "context": "Classmates B: Yeah, I remember that. It was really sweet of you to try and help her.\nClassmates A: It turns out she was going through some tough family issues at the time. I hope things have gotten better for her since then.\nClassmates B: They have, thank you for asking. And I'm really grateful for your kindness that day. It meant a lot to me and my family. ",
+      "input": "They have, thank you for asking. And I'm really grateful for your kindness that day. It meant a lot to me and my family. ",
+      "ground_truth": "Of course, I'm always here for you and your family. And I'm excited to see where being on the soccer team will take us this year."
+    },
+    {
+      "turn_id": 32,
+      "session": "fifth",
+      "context": "Classmates A: It turns out she was going through some tough family issues at the time. I hope things have gotten better for her since then.\nClassmates B: They have, thank you for asking. And I'm really grateful for your kindness that day. It meant a lot to me and my family. \nClassmates A: Of course, I'm always here for you and your family. And I'm excited to see where being on the soccer team will take us this year.",
+      "input": "Of course, I'm always here for you and your family. And I'm excited to see where being on the soccer team will take us this year.",
+      "ground_truth": ", have you ever thought about what you would do if you inherited a lot of money?"
+    },
+    {
+      "turn_id": 33,
+      "session": "fifth",
+      "context": "Classmates A: Of course, I'm always here for you and your family. And I'm excited to see where being on the soccer team will take us this year.\nClassmates A: , have you ever thought about what you would do if you inherited a lot of money?\nClassmates B: Not really, why do you ask?",
+      "input": "Not really, why do you ask?",
+      "ground_truth": "Well, I recently inherited millions from a relative and it's been life-changing. I feel like I can finally live comfortably and do the things I've always wanted to do."
+    },
+    {
+      "turn_id": 34,
+      "session": "fifth",
+      "context": "Classmates B: Not really, why do you ask?\nClassmates A: Well, I recently inherited millions from a relative and it's been life-changing. I feel like I can finally live comfortably and do the things I've always wanted to do.\nClassmates B: Wow, that must be nice. I can't even imagine having that much money.",
+      "input": "Wow, that must be nice. I can't even imagine having that much money.",
+      "ground_truth": "Yeah, it's definitely a surreal feeling. But at the same time, I don't want it to change who I am as a person."
+    },
+    {
+      "turn_id": 35,
+      "session": "fifth",
+      "context": "Classmates B: Wow, that must be nice. I can't even imagine having that much money.\nClassmates A: Yeah, it's definitely a surreal feeling. But at the same time, I don't want it to change who I am as a person.\nClassmates B: I can understand that. Money can change people and their priorities pretty quickly.",
+      "input": "I can understand that. Money can change people and their priorities pretty quickly.",
+      "ground_truth": "Exactly. And speaking of priorities, do you remember when I couldn't tell you how I felt because I was afraid of ruining our friendship?"
+    },
+    {
+      "turn_id": 36,
+      "session": "fifth",
+      "context": "Classmates B: I can understand that. Money can change people and their priorities pretty quickly.\nClassmates A: Exactly. And speaking of priorities, do you remember when I couldn't tell you how I felt because I was afraid of ruining our friendship?\nClassmates B: Oh yeah, I remember that. Did anything ever happen between us?",
+      "input": "Oh yeah, I remember that. Did anything ever happen between us?",
+      "ground_truth": "No, but I'm glad I didn't risk our friendship. I value our relationship too much."
+    },
+    {
+      "turn_id": 37,
+      "session": "fifth",
+      "context": "Classmates B: Oh yeah, I remember that. Did anything ever happen between us?\nClassmates A: No, but I'm glad I didn't risk our friendship. I value our relationship too much.\nClassmates B: That's good to hear. And what about when you found that book and threw it away? Do you still feel sad about it?",
+      "input": "That's good to hear. And what about when you found that book and threw it away? Do you still feel sad about it?",
+      "ground_truth": "A little bit, but I've learned to let it go. I can't dwell on the past forever."
+    },
+    {
+      "turn_id": 38,
+      "session": "fifth",
+      "context": "Classmates B: That's good to hear. And what about when you found that book and threw it away? Do you still feel sad about it?\nClassmates A: A little bit, but I've learned to let it go. I can't dwell on the past forever.\nClassmates B: That's a good attitude to have. And congratulations on making the soccer team! I knew you would make it.",
+      "input": "That's a good attitude to have. And congratulations on making the soccer team! I knew you would make it.",
+      "ground_truth": "Thank you! It's been a lot of hard work, but also really rewarding."
+    },
+    {
+      "turn_id": 39,
+      "session": "fifth",
+      "context": "Classmates B: That's a good attitude to have. And congratulations on making the soccer team! I knew you would make it.\nClassmates A: Thank you! It's been a lot of hard work, but also really rewarding.\nClassmates B: I can only imagine. And now with your inheritance, you can really enjoy your time on the team without worrying about money.",
+      "input": "I can only imagine. And now with your inheritance, you can really enjoy your time on the team without worrying about money.",
+      "ground_truth": "Exactly. It's nice to have that financial security and not have to stress as much about the little things."
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "persona_id": "episode-118328_B",
+  "selection_criteria": "total_score >= 10",
+  "total_original": 20,
+  "total_selected": 10,
+  "avg_quality_score": 12.7,
+  "turns": [
+    {
+      "turn_id": 26,
+      "session": "fourth",
+      "context": "Husband: I just wanted to see who he was with today. I think he's been hanging out with some bad influences.\nWife: You can't just spy on our son like that. It's not healthy for our relationship with him.\nHusband: I know, I know. I just worry about him sometimes.",
+      "input": "I know, I know. I just worry about him sometimes.",
+      "ground_truth": "I understand that, but you need to find other ways to show him that you care. Like spending time with him or talking to him about his day.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 4,
+        "persona_expression": 5,
+        "total": 14,
+        "include": true,
+        "reason": "The response is a natural continuation of the conversation, offers substantial advice, and clearly reflects the persona of a caring wife."
+      }
+    },
+    {
+      "turn_id": 25,
+      "session": "fourth",
+      "context": "Husband: Did you see Tim leave the school just now? I was waiting for him in the bushes.\nWife: What? Why were you hiding in the bushes?\nHusband: I just wanted to see who he was with today. I think he's been hanging out with some bad influences.",
+      "input": "I just wanted to see who he was with today. I think he's been hanging out with some bad influences.",
+      "ground_truth": "You can't just spy on our son like that. It's not healthy for our relationship with him.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 3,
+        "persona_expression": 5,
+        "total": 13,
+        "include": true,
+        "reason": "The response logically follows the context, provides a meaningful reaction, and clearly expresses the persona's concern as a wife and mother."
+      }
+    },
+    {
+      "turn_id": 29,
+      "session": "fourth",
+      "context": "Husband: Well, I've been thinking about it and I realize now that it's not worth the money. I'd rather save up for a family vacation or something that we can all enjoy together.\nWife: That's very mature of you. I'm glad you're thinking about our family's needs before your own wants.\nHusband: Thanks, Babe. I just want what's best for all of us.",
+      "input": "Thanks, Babe. I just want what's best for all of us.",
+      "ground_truth": "And that's why I love you.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 3,
+        "persona_expression": 5,
+        "total": 13,
+        "include": true,
+        "reason": "The response is a natural continuation of the conversation, expresses affection and appreciation, and aligns well with the persona of a supportive wife."
+      }
+    },
+    {
+      "turn_id": 34,
+      "session": "fifth",
+      "context": "Husband: We need to do that right away. \nWife: I know, but what if they can't do anything about it?\nHusband: Don't worry, we will do everything we can to find out who did this. ",
+      "input": "Don't worry, we will do everything we can to find out who did this. ",
+      "ground_truth": "I just can't believe it. My favorite books, my clothes, my jewelry, all ruined.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 4,
+        "persona_expression": 4,
+        "total": 13,
+        "include": true,
+        "reason": "The response logically follows the context, provides substantial content, and reflects the wife's concern and emotional state."
+      }
+    },
+    {
+      "turn_id": 35,
+      "session": "fifth",
+      "context": "Husband: Don't worry, we will do everything we can to find out who did this. \nWife: I just can't believe it. My favorite books, my clothes, my jewelry, all ruined.\nHusband: I am so sorry, Babe. Is there anything I can do to help?",
+      "input": "I am so sorry, Babe. Is there anything I can do to help?",
+      "ground_truth": "Just hold me. This is so devastating. ",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 3,
+        "persona_expression": 5,
+        "total": 13,
+        "include": true,
+        "reason": "The response is a natural continuation, shows emotional depth, and clearly expresses the wife's persona."
+      }
+    },
+    {
+      "turn_id": 39,
+      "session": "fifth",
+      "context": "Husband: Yeah, I still dream about owning one someday.\nWife: It's just stuff though, we should focus on what's really important.\nHusband: Like us, right?",
+      "input": "Like us, right?",
+      "ground_truth": "Yes, like our love for each other.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 3,
+        "persona_expression": 5,
+        "total": 13,
+        "include": true,
+        "reason": "The response is a natural continuation, meaningful, and clearly reflects the persona's role as a loving wife."
+      }
+    },
+    {
+      "turn_id": 21,
+      "session": "third",
+      "context": "Husband: I see your point. Maybe I'll hold off on the car for now and we can save for those other things you mentioned.\nWife: I appreciate that. I just want to make sure we're being responsible with our money.\nHusband: You know, Babe, it's funny. Even though I haven't gotten my dream car, I still feel intimate and close to you.",
+      "input": "You know, Babe, it's funny. Even though I haven't gotten my dream car, I still feel intimate and close to you.",
+      "ground_truth": "That's because being close to someone isn't about material possessions. It's about the connection between two people.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 3,
+        "persona_expression": 4,
+        "total": 12,
+        "include": true,
+        "reason": "The response logically follows the context and partner's message, provides a meaningful insight about relationships, and reflects the persona's role as a thoughtful wife."
+      }
+    },
+    {
+      "turn_id": 22,
+      "session": "third",
+      "context": "Husband: You know, Babe, it's funny. Even though I haven't gotten my dream car, I still feel intimate and close to you.\nWife: That's because being close to someone isn't about material possessions. It's about the connection between two people.\nHusband: I couldn't agree more. You're always there for me, no matter what.",
+      "input": "I couldn't agree more. You're always there for me, no matter what.",
+      "ground_truth": "And you're always there for me too, even when I don't understand why you want a new car.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 3,
+        "persona_expression": 4,
+        "total": 12,
+        "include": true,
+        "reason": "The response logically follows the conversation, provides a meaningful addition, and reflects the persona's supportive role as a wife."
+      }
+    },
+    {
+      "turn_id": 23,
+      "session": "third",
+      "context": "Husband: I couldn't agree more. You're always there for me, no matter what.\nWife: And you're always there for me too, even when I don't understand why you want a new car.\nHusband: Ha! I guess that's true. We're a good team, you and I.",
+      "input": "Ha! I guess that's true. We're a good team, you and I.",
+      "ground_truth": "Yes we are. And I think we make wise decisions together for the good of our family.",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 3,
+        "persona_expression": 4,
+        "total": 12,
+        "include": true,
+        "reason": "The response is a natural continuation of the conversation, provides meaningful content, and reflects the persona's role as a supportive wife."
+      }
+    },
+    {
+      "turn_id": 24,
+      "session": "fourth",
+      "context": "Wife: Yes we are. And I think we make wise decisions together for the good of our family.\nHusband: Absolutely. I'm grateful to have you by my side, Babe.\nHusband: Did you see Tim leave the school just now? I was waiting for him in the bushes.",
+      "input": "Did you see Tim leave the school just now? I was waiting for him in the bushes.",
+      "ground_truth": "What? Why were you hiding in the bushes?",
+      "quality_scores": {
+        "continuity": 5,
+        "informativeness": 3,
+        "persona_expression": 4,
+        "total": 12,
+        "include": true,
+        "reason": "The response logically follows the context and partner's message, is brief but meaningful, and shows the wife's concern and curiosity, fitting her persona."
+      }
+    }
+  ]
+}

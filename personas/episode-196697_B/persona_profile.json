@@ -1,0 +1,36 @@
+{
+  "persona_id": "episode-196697_B",
+  "num_sessions": 5,
+  "communication_style": {
+    "avg_utterance_length": 71.76744186046511,
+    "exclamation_rate": 0.27906976744186046,
+    "question_rate": 0.3953488372093023,
+    "first_person_singular_rate": 0.46511627906976744,
+    "first_person_plural_rate": 0.046511627906976744,
+    "second_person_rate": 0.5116279069767442,
+    "total_utterances": 43,
+    "num_sessions": 5
+  },
+  "relationship_contexts": "{'Classmates'}",
+  "example_responses": [
+    {
+      "text": "Yes, I did notice! It's a pretty shade of pink. Is it a new dress?\nIt suits you well. The flowy skirt and the sleeveless design make it perfect for a summer party.\nOh, those sandals make the outfit even better! They bring the perfect balance of simplicity and elegance.\nYou definitely made the right choice. By the way, do you remember the party we attended last month?\nExactly! Well, I still can't believe that crazy incident with the cake.\nI can't believe you're still holding on to that picture!\nA",
+      "relationship": "Classmates",
+      "session_idx": 1
+    },
+    {
+      "text": "No, you didn't! When did that happen?\nThat sounds lovely! How did it go?\nAww, that sounds so romantic! I'm happy for you both.\nYeah, I think it's great that you took a chance. You never know what can happen.\nThat's amazing. I hope everything works out for you two.\nOh, yeah. I did. It was really comfortable and I got a lot of compliments on it.\nI did! They were the perfect pair of shoes for that dress.",
+      "relationship": "Classmates",
+      "session_idx": 2
+    },
+    {
+      "text": "What do you mean? Is there something you haven't told me?\nOh wow, I had no idea. That must have been really tough for you.\nThat's really admirable. I'm glad you were able to overcome those challenges.\nOf course! You can always be yourself around me. I value our friendship and want to be there for you no matter what.\nReally? Yes, I would love to go on a date with you.\" \nMe too! Do you have any ideas of where you'd like to go?\" \nSounds perfect. I can't wait!",
+      "relationship": "Classmates",
+      "session_idx": 3
+    }
+  ],
+  "metadata": {
+    "source": "ConversationChronicles",
+    "extraction_date": "2025-12-15"
+  }
+}

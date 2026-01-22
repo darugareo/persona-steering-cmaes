@@ -1,0 +1,28 @@
+{
+  "persona_id": "episode-204347_A",
+  "speaker_role": "Co-workers",
+  "relationship": "Co-workers",
+  "split": "train",
+  "num_turns": 41,
+  "num_turns_train": 20,
+  "num_turns_test": 21,
+  "example_utterances": [
+    "Hey, I just interviewed someone for that open position, and I feel really good about it.",
+    "Well, they had all the necessary qualifications and experience, but what really impressed me was their enthusiasm and eagerness to learn more.",
+    "Yeah, I asked them about how they would approach a difficult situation with a client, and they gave a really thoughtful and practical answer.",
+    "Definitely. I'm going to recommend that we move forward with hiring them.",
+    "We still have a few other candidates to interview, but I'm hoping we can make a decision by the end of the week.",
+    "That's tough. Have you tried talking to her and working things out?",
+    "I understand. It can be hard to let go of hurtful words. Maybe you could try to have an honest conversation with her about how you're feeling and why what she said hurt you.",
+    "I've been in a similar situation before. It might take time, but if you both value your friendship, you can work things out. Remember when I interviewed that person a few months ago and felt confident they'd get the job? It took some time, but they ended up getting the job and have been a great addition to our team.",
+    "Of course. I'm here for you. We'll get through this together.",
+    "*sighs* I can't believe I'm leaving tomorrow. I'm so anxious about this trip."
+  ],
+  "traits": {
+    "directness": 0.991505045426614,
+    "emotional_valence": 0.009768158934367475,
+    "social_orientation": 0.012974800669504719,
+    "audience_focus": 0.03693576257255935,
+    "risk_orientation": 0.0
+  }
+}

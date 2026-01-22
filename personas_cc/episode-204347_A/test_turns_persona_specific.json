@@ -1,0 +1,92 @@
+{
+  "persona_id": "episode-204347_A",
+  "split": "test",
+  "total_turns": 20,
+  "selected_turns": 7,
+  "selection_rate": 0.35,
+  "turns": [
+    {
+      "user": "What do you mean?",
+      "assistant": "We used to be really close, but I pushed you away because I didn't trust you.",
+      "context": "Co-workers B: Of course, that's what friends are for. And have a safe trip, okay? Don't forget to send me some pictures.\nCo-workers A: I regret not trusting you, Co-workers B.\nCo-workers B: What do you mean?",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "関係性と共有記憶に言及しているため",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "I don't remember anything like that happening. What made you not trust me?",
+      "assistant": "I don't know, just various things. But now that I look back on it, I realize that I was wrong not to trust you.",
+      "context": "Co-workers B: What do you mean?\nCo-workers A: We used to be really close, but I pushed you away because I didn't trust you.\nCo-workers B: I don't remember anything like that happening. What made you not trust me?",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "関係性と共有記憶に言及しているため",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "Unfortunately no, we never made up. But it's okay, I learned that sometimes it's better to just let friendships go.",
+      "assistant": "I understand what you mean. Speaking of letting things go, remember when I was packing my suitcase and I was really anxious about my trip?",
+      "context": "Co-workers B: It's okay. We can work on rebuilding our friendship now, if you want.\nCo-workers A: That would be great. Speaking of friendships, do you ever talk to that former friend you had a fight with?\nCo-workers B: Unfortunately no, we never made up. But it's okay, I learned that sometimes it's better to just let friendships go.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "共有記憶への言及があり、関係性特有の応答",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "Speaking of challenges, remember when I had that fight with my best friend a few months ago?",
+      "assistant": "Yes, I remember. How are things now?",
+      "context": "Co-workers B: That's a good goal. I've been trying to do the same thing by spending less time on social media.\nCo-workers A: It's definitely a challenge, but I think it's worth it in the end.\nCo-workers B: Speaking of challenges, remember when I had that fight with my best friend a few months ago?",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "共有記憶への言及があるため",
+      "criteria_met": [
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "I hope so. It's just hard to lose someone who was such a big part of my life.",
+      "assistant": "I understand. Hey, do you remember when I was packing for that trip and I was so anxious about it?",
+      "context": "Co-workers B: I have, but she doesn't seem interested in patching things up. It's really been weighing me down.\nCo-workers A: I'm sorry to hear that. Maybe with time she'll come around.\nCo-workers B: I hope so. It's just hard to lose someone who was such a big part of my life.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "共有記憶への言及があり、関係性特有",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "Yes, I remember. How did it go?",
+      "assistant": "It actually turned out to be a great experience. I'm so glad I pushed myself out of my comfort zone.",
+      "context": "Co-workers B: I hope so. It's just hard to lose someone who was such a big part of my life.\nCo-workers A: I understand. Hey, do you remember when I was packing for that trip and I was so anxious about it?\nCo-workers B: Yes, I remember. How did it go?",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "共有記憶に基づく応答で、関係性特有。",
+      "criteria_met": [
+        "共有記憶",
+        "関係性特有"
+      ]
+    },
+    {
+      "user": "Agreed. By the way, remember when you said you regretted not trusting me a couple of years ago?",
+      "assistant": "Yes, I do. Why do you bring that up?",
+      "context": "Co-workers B: That's wonderful to hear. I've been thinking about taking a trip myself. Maybe I need to push myself out of my comfort zone too.\nCo-workers A: I highly recommend it. You never know what you might discover about yourself. \nCo-workers B: Agreed. By the way, remember when you said you regretted not trusting me a couple of years ago?",
+      "persona_specific": true,
+      "specificity_confidence": 5,
+      "specificity_reason": "共有記憶への言及があり、関係性特有の応答。",
+      "criteria_met": [
+        "関係性特有",
+        "共有記憶"
+      ]
+    }
+  ]
+}

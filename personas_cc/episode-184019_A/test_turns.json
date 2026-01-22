@@ -1,0 +1,148 @@
+{
+  "persona_id": "episode-184019_A",
+  "speaker_role": "Husband",
+  "relationship": "Husband and Wife",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 21,
+      "session": "fourth",
+      "context": "Wife: Of course I do. It was such a romantic moment.\nHusband: I want to keep having those moments with you. Even after all these years, I know I still love you more than anything.\nWife: Aw, I love you too. And I can't wait to hear all about your date.",
+      "input": "Aw, I love you too. And I can't wait to hear all about your date.",
+      "ground_truth": "I think we're lost."
+    },
+    {
+      "turn_id": 22,
+      "session": "fourth",
+      "context": "Wife: Aw, I love you too. And I can't wait to hear all about your date.\nHusband: I think we're lost.\nWife: What do you mean?",
+      "input": "What do you mean?",
+      "ground_truth": "I was supposed to turn right, but I think I turned left instead."
+    },
+    {
+      "turn_id": 23,
+      "session": "fourth",
+      "context": "Wife: What do you mean?\nHusband: I was supposed to turn right, but I think I turned left instead.\nWife: Can't you use the GPS on your phone?",
+      "input": "Can't you use the GPS on your phone?",
+      "ground_truth": "Of course, I can. But I left my phone at home."
+    },
+    {
+      "turn_id": 24,
+      "session": "fourth",
+      "context": "Wife: Can't you use the GPS on your phone?\nHusband: Of course, I can. But I left my phone at home.\nWife: Oh no, now what do we do?",
+      "input": "Oh no, now what do we do?",
+      "ground_truth": "Let's try asking for directions."
+    },
+    {
+      "turn_id": 25,
+      "session": "fourth",
+      "context": "Wife: Oh no, now what do we do?\nHusband: Let's try asking for directions.\nWife: Good idea. Maybe we can find someone who can help us.",
+      "input": "Good idea. Maybe we can find someone who can help us.",
+      "ground_truth": "Yeah, I hope so. I don't want to be walking around all day."
+    },
+    {
+      "turn_id": 26,
+      "session": "fourth",
+      "context": "Wife: Good idea. Maybe we can find someone who can help us.\nHusband: Yeah, I hope so. I don't want to be walking around all day.\nWife: Remember that time we ran out of gas on the highway?",
+      "input": "Remember that time we ran out of gas on the highway?",
+      "ground_truth": "Yeah, I do. That was not a fun experience."
+    },
+    {
+      "turn_id": 27,
+      "session": "fourth",
+      "context": "Wife: Remember that time we ran out of gas on the highway?\nHusband: Yeah, I do. That was not a fun experience.\nWife: But at least we had each other to keep each other company.",
+      "input": "But at least we had each other to keep each other company.",
+      "ground_truth": "That's true. I don't know what I would do without you."
+    },
+    {
+      "turn_id": 28,
+      "session": "fourth",
+      "context": "Wife: But at least we had each other to keep each other company.\nHusband: That's true. I don't know what I would do without you.\nWife: Aww, you're so sweet.",
+      "input": "Aww, you're so sweet.",
+      "ground_truth": "Speaking of which, I remember a few weeks ago when I asked you to dance with me."
+    },
+    {
+      "turn_id": 29,
+      "session": "fourth",
+      "context": "Wife: Aww, you're so sweet.\nHusband: Speaking of which, I remember a few weeks ago when I asked you to dance with me.\nWife: Oh yeah, that was so romantic.",
+      "input": "Oh yeah, that was so romantic.",
+      "ground_truth": "I just can't get enough of spending time with you, you know?"
+    },
+    {
+      "turn_id": 30,
+      "session": "fourth",
+      "context": "Wife: Oh yeah, that was so romantic.\nHusband: I just can't get enough of spending time with you, you know?\nWife: I know, and I feel the same way. Remember when you asked me out for the first time?",
+      "input": "I know, and I feel the same way. Remember when you asked me out for the first time?",
+      "ground_truth": "Of course, how could I forget? I was so nervous."
+    },
+    {
+      "turn_id": 31,
+      "session": "fourth",
+      "context": "Wife: I know, and I feel the same way. Remember when you asked me out for the first time?\nHusband: Of course, how could I forget? I was so nervous.\nWife: But it all worked out in the end, didn't it?",
+      "input": "But it all worked out in the end, didn't it?",
+      "ground_truth": "It sure did. And I'm grateful every day that we ended up together."
+    },
+    {
+      "turn_id": 32,
+      "session": "fifth",
+      "context": "Wife: But it all worked out in the end, didn't it?\nHusband: It sure did. And I'm grateful every day that we ended up together.\nWife: Me too. Now let's go find our way back home, shall we?",
+      "input": "Me too. Now let's go find our way back home, shall we?",
+      "ground_truth": "Oh man, my stomach hasn't been feeling great today."
+    },
+    {
+      "turn_id": 33,
+      "session": "fifth",
+      "context": "Wife: Me too. Now let's go find our way back home, shall we?\nHusband: Oh man, my stomach hasn't been feeling great today.\nWife: Are you okay, honey?",
+      "input": "Are you okay, honey?",
+      "ground_truth": "Yeah, I just need to take care of some business in here. "
+    },
+    {
+      "turn_id": 34,
+      "session": "fifth",
+      "context": "Husband: Oh man, my stomach hasn't been feeling great today.\nWife: Are you okay, honey?\nHusband: Yeah, I just need to take care of some business in here. ",
+      "input": "Yeah, I just need to take care of some business in here. ",
+      "ground_truth": "What? It's a natural bodily function."
+    },
+    {
+      "turn_id": 35,
+      "session": "fifth",
+      "context": "Husband: Yeah, I just need to take care of some business in here. \nHusband: What? It's a natural bodily function.\nWife: I know, I just find it funny how you say \"take care of business\".",
+      "input": "I know, I just find it funny how you say \"take care of business\".",
+      "ground_truth": "Well, what should I say? \"I'm going to poop\"?"
+    },
+    {
+      "turn_id": 36,
+      "session": "fifth",
+      "context": "Wife: I know, I just find it funny how you say \"take care of business\".\nHusband: Well, what should I say? \"I'm going to poop\"?\nWife: Alright, you do what you need to do. ",
+      "input": "Alright, you do what you need to do. ",
+      "ground_truth": "Ah, much better. "
+    },
+    {
+      "turn_id": 37,
+      "session": "fifth",
+      "context": "Wife: Alright, you do what you need to do. \nHusband: Ah, much better. \nWife: That was quick, did you even read anything on your phone?",
+      "input": "That was quick, did you even read anything on your phone?",
+      "ground_truth": "Nah, didn't need to. I'm just glad I feel better now."
+    },
+    {
+      "turn_id": 38,
+      "session": "fifth",
+      "context": "Husband: Ah, much better. \nWife: That was quick, did you even read anything on your phone?\nHusband: Nah, didn't need to. I'm just glad I feel better now.",
+      "input": "Nah, didn't need to. I'm just glad I feel better now.",
+      "ground_truth": "Hey, remember when we ran out of gas on the highway and I took that nap? "
+    },
+    {
+      "turn_id": 39,
+      "session": "fifth",
+      "context": "Husband: Nah, didn't need to. I'm just glad I feel better now.\nHusband: Hey, remember when we ran out of gas on the highway and I took that nap? \nWife: Yeah, I remember. I was so worried we were going to be stuck there forever.",
+      "input": "Yeah, I remember. I was so worried we were going to be stuck there forever.",
+      "ground_truth": "I know, I'm sorry. But thanks for staying awake and watching out for both of us. You always take such good care of me."
+    },
+    {
+      "turn_id": 40,
+      "session": "fifth",
+      "context": "Wife: Yeah, I remember. I was so worried we were going to be stuck there forever.\nHusband: I know, I'm sorry. But thanks for staying awake and watching out for both of us. You always take such good care of me.\nWife: Of course I do, you're my husband. And speaking of taking care of you, do you want a cup of tea or anything?",
+      "input": "Of course I do, you're my husband. And speaking of taking care of you, do you want a cup of tea or anything?",
+      "ground_truth": "That sounds great, thanks. By the way, remember that time I asked you to dance with me?"
+    }
+  ]
+}

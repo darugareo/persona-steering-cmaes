@@ -1,0 +1,148 @@
+{
+  "persona_id": "episode-84804_A",
+  "speaker_role": "Classmates",
+  "relationship": "Classmates",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 20,
+      "session": "fourth",
+      "context": "Classmates A: Definitely! He's a great resource and really knows his stuff. I'm sure he could help you out too.\nClassmates A: Hey, have you ever gone hunting before?\nClassmates B: No, I haven't. Why do you ask?",
+      "input": "No, I haven't. Why do you ask?",
+      "ground_truth": "Well, I just went hunting and got myself an elk."
+    },
+    {
+      "turn_id": 21,
+      "session": "fourth",
+      "context": "Classmates B: No, I haven't. Why do you ask?\nClassmates A: Well, I just went hunting and got myself an elk.\nClassmates B: Wow! That's impressive! How did it go?",
+      "input": "Wow! That's impressive! How did it go?",
+      "ground_truth": "It was a bit of a struggle, but I managed to take down the elk from a blind. I dragged it back to my house to keep it."
+    },
+    {
+      "turn_id": 22,
+      "session": "fourth",
+      "context": "Classmates B: Wow! That's impressive! How did it go?\nClassmates A: It was a bit of a struggle, but I managed to take down the elk from a blind. I dragged it back to my house to keep it.\nClassmates B: That's quite a feat! What did you do with the elk afterwards?",
+      "input": "That's quite a feat! What did you do with the elk afterwards?",
+      "ground_truth": "I skinned and gutted it, and hung it up to prepare it for butchering later."
+    },
+    {
+      "turn_id": 23,
+      "session": "fourth",
+      "context": "Classmates B: That's quite a feat! What did you do with the elk afterwards?\nClassmates A: I skinned and gutted it, and hung it up to prepare it for butchering later.\nClassmates B: Do you know how to butcher an elk?",
+      "input": "Do you know how to butcher an elk?",
+      "ground_truth": "Not really, but I plan on watching some tutorials on YouTube before I get started."
+    },
+    {
+      "turn_id": 24,
+      "session": "fourth",
+      "context": "Classmates B: Do you know how to butcher an elk?\nClassmates A: Not really, but I plan on watching some tutorials on YouTube before I get started.\nClassmates B: That sounds like a good idea. Let me know if you need any help with it.",
+      "input": "That sounds like a good idea. Let me know if you need any help with it.",
+      "ground_truth": "Sure thing, thanks! Have you read the book I sent you for your birthday?"
+    },
+    {
+      "turn_id": 25,
+      "session": "fourth",
+      "context": "Classmates B: That sounds like a good idea. Let me know if you need any help with it.\nClassmates A: Sure thing, thanks! Have you read the book I sent you for your birthday?\nClassmates B: Yes, I have! It was really good. The adventures the girl and her friends went on were so exciting.",
+      "input": "Yes, I have! It was really good. The adventures the girl and her friends went on were so exciting.",
+      "ground_truth": "I'm glad you enjoyed it! By the way, remember when I visited Professor Y to learn about that new topic?"
+    },
+    {
+      "turn_id": 26,
+      "session": "fourth",
+      "context": "Classmates B: Yes, I have! It was really good. The adventures the girl and her friends went on were so exciting.\nClassmates A: I'm glad you enjoyed it! By the way, remember when I visited Professor Y to learn about that new topic?\nClassmates B: Yeah, how did that go?",
+      "input": "Yeah, how did that go?",
+      "ground_truth": "It went really well! Professor Y gave me a lot of valuable information that I've been able to apply to my life."
+    },
+    {
+      "turn_id": 27,
+      "session": "fourth",
+      "context": "Classmates B: Yeah, how did that go?\nClassmates A: It went really well! Professor Y gave me a lot of valuable information that I've been able to apply to my life.\nClassmates B: That's great to hear! What was the topic about?",
+      "input": "That's great to hear! What was the topic about?",
+      "ground_truth": "It was about sustainable energy sources. I've been trying to reduce my carbon footprint lately, so the information was really helpful."
+    },
+    {
+      "turn_id": 28,
+      "session": "fifth",
+      "context": "Classmates A: It went really well! Professor Y gave me a lot of valuable information that I've been able to apply to my life.\nClassmates B: That's great to hear! What was the topic about?\nClassmates A: It was about sustainable energy sources. I've been trying to reduce my carbon footprint lately, so the information was really helpful.",
+      "input": "It was about sustainable energy sources. I've been trying to reduce my carbon footprint lately, so the information was really helpful.",
+      "ground_truth": "Hey there, how are you doing, Classmates B?"
+    },
+    {
+      "turn_id": 29,
+      "session": "fifth",
+      "context": "Classmates A: It was about sustainable energy sources. I've been trying to reduce my carbon footprint lately, so the information was really helpful.\nClassmates A: Hey there, how are you doing, Classmates B?\nClassmates B: I'm doing well, thanks. How about you, Classmates A?",
+      "input": "I'm doing well, thanks. How about you, Classmates A?",
+      "ground_truth": "I'm doing good too. I wanted to talk to you about something. I was thinking of inviting you to my birthday party next week and also wanted to gift you a book."
+    },
+    {
+      "turn_id": 30,
+      "session": "fifth",
+      "context": "Classmates B: I'm doing well, thanks. How about you, Classmates A?\nClassmates A: I'm doing good too. I wanted to talk to you about something. I was thinking of inviting you to my birthday party next week and also wanted to gift you a book.\nClassmates B: Oh really? That's sweet of you, Classmates A. What book is it?",
+      "input": "Oh really? That's sweet of you, Classmates A. What book is it?",
+      "ground_truth": "It's a book about a girl who goes on adventures with her friends. I hope you'll enjoy it and have a lot of fun reading it."
+    },
+    {
+      "turn_id": 31,
+      "session": "fifth",
+      "context": "Classmates B: Oh really? That's sweet of you, Classmates A. What book is it?\nClassmates A: It's a book about a girl who goes on adventures with her friends. I hope you'll enjoy it and have a lot of fun reading it.\nClassmates B: That sounds exciting. Thanks a lot, Classmates A.",
+      "input": "That sounds exciting. Thanks a lot, Classmates A.",
+      "ground_truth": "Also, have I told you about the time when I visited Professor Y to learn about a new topic?"
+    },
+    {
+      "turn_id": 32,
+      "session": "fifth",
+      "context": "Classmates B: That sounds exciting. Thanks a lot, Classmates A.\nClassmates A: Also, have I told you about the time when I visited Professor Y to learn about a new topic?\nClassmates B: No, please tell me more.",
+      "input": "No, please tell me more.",
+      "ground_truth": "Professor Y is an expert on the subject and was able to provide me with valuable information. After the visit, I had a better understanding of the topic and was able to apply it to my life."
+    },
+    {
+      "turn_id": 33,
+      "session": "fifth",
+      "context": "Classmates B: No, please tell me more.\nClassmates A: Professor Y is an expert on the subject and was able to provide me with valuable information. After the visit, I had a better understanding of the topic and was able to apply it to my life.\nClassmates B: That's great, Classmates A. What was the topic that you learned about?",
+      "input": "That's great, Classmates A. What was the topic that you learned about?",
+      "ground_truth": "It was about time management and productivity. I learned some great tips that have been really helpful to me."
+    },
+    {
+      "turn_id": 34,
+      "session": "fifth",
+      "context": "Classmates B: That's great, Classmates A. What was the topic that you learned about?\nClassmates A: It was about time management and productivity. I learned some great tips that have been really helpful to me.\nClassmates B: Oh, that's really interesting. You should share some tips with me sometime.",
+      "input": "Oh, that's really interesting. You should share some tips with me sometime.",
+      "ground_truth": "Sure, I'd be happy to. Hey, do you remember that time when I came over to your house a few months ago?"
+    },
+    {
+      "turn_id": 35,
+      "session": "fifth",
+      "context": "Classmates B: Oh, that's really interesting. You should share some tips with me sometime.\nClassmates A: Sure, I'd be happy to. Hey, do you remember that time when I came over to your house a few months ago?\nClassmates B: Yeah, I remember. What's up?",
+      "input": "Yeah, I remember. What's up?",
+      "ground_truth": "I just wanted to say that I had a great time hanging out with you and your family. Your mom is an amazing cook."
+    },
+    {
+      "turn_id": 36,
+      "session": "fifth",
+      "context": "Classmates B: Yeah, I remember. What's up?\nClassmates A: I just wanted to say that I had a great time hanging out with you and your family. Your mom is an amazing cook.\nClassmates B: Haha, thanks, Classmates A. We're always happy to have you over.",
+      "input": "Haha, thanks, Classmates A. We're always happy to have you over.",
+      "ground_truth": "So, speaking of hunting, do you remember the time when I took down an elk from a blind and dragged it back to my house?"
+    },
+    {
+      "turn_id": 37,
+      "session": "fifth",
+      "context": "Classmates B: Haha, thanks, Classmates A. We're always happy to have you over.\nClassmates A: So, speaking of hunting, do you remember the time when I took down an elk from a blind and dragged it back to my house?\nClassmates B: Yeah, I remember. Did you end up butchering it?",
+      "input": "Yeah, I remember. Did you end up butchering it?",
+      "ground_truth": "Yeah, I did. It was a lot of work, but it was worth it. I now have a lot of elk meat in my freezer."
+    },
+    {
+      "turn_id": 38,
+      "session": "fifth",
+      "context": "Classmates B: Yeah, I remember. Did you end up butchering it?\nClassmates A: Yeah, I did. It was a lot of work, but it was worth it. I now have a lot of elk meat in my freezer.\nClassmates B: That's impressive, Classmates A. I don't think I could ever do something like that.",
+      "input": "That's impressive, Classmates A. I don't think I could ever do something like that.",
+      "ground_truth": "Haha, it's not for everyone. Anyways, I wanted to talk to you about something that happened a few days ago."
+    },
+    {
+      "turn_id": 39,
+      "session": "fifth",
+      "context": "Classmates B: That's impressive, Classmates A. I don't think I could ever do something like that.\nClassmates A: Haha, it's not for everyone. Anyways, I wanted to talk to you about something that happened a few days ago.\nClassmates B: Sure, what's up?",
+      "input": "Sure, what's up?",
+      "ground_truth": "I decided to give you a chance after learning that you're new to the school. And I must say, it was worth it. You've been a great friend, and I'm glad I gave you a chance."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "persona_id": "episode-38144_A",
+  "split": "train",
+  "total_turns": 20,
+  "selected_turns": 2,
+  "selection_rate": 0.1,
+  "turns": [
+    {
+      "user": "I'm doing okay. Just busy with work and trying to stay on top of things.",
+      "assistant": "Yeah, I know how that feels. Speaking of work, did you ever hear back from that job you applied for?",
+      "context": "Neighbors B: No worries! I just wanted to check in and see how you were doing.\nNeighbors A: I'm doing alright, thanks for asking. How about you?\nNeighbors B: I'm doing okay. Just busy with work and trying to stay on top of things.",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "共有記憶への言及があるため",
+      "criteria_met": [
+        "共有記憶"
+      ]
+    },
+    {
+      "user": "Not yet, but I'm hoping to hear back soon. Fingers crossed!",
+      "assistant": "Definitely! I'll keep my fingers crossed for you too. But anyways, I'm just glad we finally caught up. It's been a while since we've had a chance to chat.",
+      "context": "Neighbors B: I'm doing okay. Just busy with work and trying to stay on top of things.\nNeighbors A: Yeah, I know how that feels. Speaking of work, did you ever hear back from that job you applied for?\nNeighbors B: Not yet, but I'm hoping to hear back soon. Fingers crossed!",
+      "persona_specific": true,
+      "specificity_confidence": 4,
+      "specificity_reason": "関係性特有の会話で自然",
+      "criteria_met": [
+        "関係性特有"
+      ]
+    }
+  ]
+}

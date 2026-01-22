@@ -1,0 +1,148 @@
+{
+  "persona_id": "episode-98947_A",
+  "speaker_role": "Neighbors",
+  "relationship": "Neighbors",
+  "total_turns": 20,
+  "turns": [
+    {
+      "turn_id": 20,
+      "session": "fourth",
+      "context": "Neighbors B: Well, there's no point in dwelling on it now. The important thing is that you're okay.\nNeighbors A: I know, I know. But it's still frustrating. Just like this stupid raincoat. I can't wait to go inside and change into something dry.\nNeighbors B: I hear you. Let's go grab some hot cocoa and warm up.",
+      "input": "I hear you. Let's go grab some hot cocoa and warm up.",
+      "ground_truth": "Hey, Neighbors B, have you signed my petition yet?"
+    },
+    {
+      "turn_id": 21,
+      "session": "fourth",
+      "context": "Neighbors B: I hear you. Let's go grab some hot cocoa and warm up.\nNeighbors A: Hey, Neighbors B, have you signed my petition yet?\nNeighbors B: What petition?",
+      "input": "What petition?",
+      "ground_truth": "The one I've been gathering signatures for. I'm planning to speak at the upcoming city council meeting."
+    },
+    {
+      "turn_id": 22,
+      "session": "fourth",
+      "context": "Neighbors B: What petition?\nNeighbors A: The one I've been gathering signatures for. I'm planning to speak at the upcoming city council meeting.\nNeighbors B: Oh, that petition. Sorry, I haven't had a chance to sign it yet. What's it about?",
+      "input": "Oh, that petition. Sorry, I haven't had a chance to sign it yet. What's it about?",
+      "ground_truth": "It's about getting the council to listen to our concerns about the new development project in our neighborhood. They've been ignoring our pleas for months now, and I'm hoping that with enough community support, they'll finally take us seriously."
+    },
+    {
+      "turn_id": 23,
+      "session": "fourth",
+      "context": "Neighbors B: Oh, that petition. Sorry, I haven't had a chance to sign it yet. What's it about?\nNeighbors A: It's about getting the council to listen to our concerns about the new development project in our neighborhood. They've been ignoring our pleas for months now, and I'm hoping that with enough community support, they'll finally take us seriously.\nNeighbors B: That sounds like a good idea. How many signatures have you collected so far?",
+      "input": "That sounds like a good idea. How many signatures have you collected so far?",
+      "ground_truth": "About a hundred, but I still need more. Can you help spread the word and get more people to sign?"
+    },
+    {
+      "turn_id": 24,
+      "session": "fourth",
+      "context": "Neighbors B: That sounds like a good idea. How many signatures have you collected so far?\nNeighbors A: About a hundred, but I still need more. Can you help spread the word and get more people to sign?\nNeighbors B: Sure, I'll do what I can. By the way, how's your recovery going from the car accident a few months ago?",
+      "input": "Sure, I'll do what I can. By the way, how's your recovery going from the car accident a few months ago?",
+      "ground_truth": "It's been tough, but I'm getting there. My back and neck still hurt, but I'm seeing a physical therapist and trying to stay positive."
+    },
+    {
+      "turn_id": 25,
+      "session": "fourth",
+      "context": "Neighbors B: Sure, I'll do what I can. By the way, how's your recovery going from the car accident a few months ago?\nNeighbors A: It's been tough, but I'm getting there. My back and neck still hurt, but I'm seeing a physical therapist and trying to stay positive.\nNeighbors B: That's good. And how about that raincoat you're wearing now? It doesn't seem to be doing its job very well.",
+      "input": "That's good. And how about that raincoat you're wearing now? It doesn't seem to be doing its job very well.",
+      "ground_truth": "Ugh, don't even get me started. It's so frustrating. I bought it specifically for rainy days like this, but it's not keeping me dry at all."
+    },
+    {
+      "turn_id": 26,
+      "session": "fourth",
+      "context": "Neighbors B: That's good. And how about that raincoat you're wearing now? It doesn't seem to be doing its job very well.\nNeighbors A: Ugh, don't even get me started. It's so frustrating. I bought it specifically for rainy days like this, but it's not keeping me dry at all.\nNeighbors B: Well, maybe you can add that to your list of concerns for the city council meeting. We could use better drainage systems in our neighborhood to prevent flooding and water damage.",
+      "input": "Well, maybe you can add that to your list of concerns for the city council meeting. We could use better drainage systems in our neighborhood to prevent flooding and water damage.",
+      "ground_truth": "That's a good point. I'll make a note of it. Thanks for the suggestion, Neighbors B."
+    },
+    {
+      "turn_id": 27,
+      "session": "fifth",
+      "context": "Neighbors A: Ugh, don't even get me started. It's so frustrating. I bought it specifically for rainy days like this, but it's not keeping me dry at all.\nNeighbors B: Well, maybe you can add that to your list of concerns for the city council meeting. We could use better drainage systems in our neighborhood to prevent flooding and water damage.\nNeighbors A: That's a good point. I'll make a note of it. Thanks for the suggestion, Neighbors B.",
+      "input": "That's a good point. I'll make a note of it. Thanks for the suggestion, Neighbors B.",
+      "ground_truth": "Good morning, Neighbor B! It's a beautiful day to work on your lawn."
+    },
+    {
+      "turn_id": 28,
+      "session": "fifth",
+      "context": "Neighbors A: That's a good point. I'll make a note of it. Thanks for the suggestion, Neighbors B.\nNeighbors A: Good morning, Neighbor B! It's a beautiful day to work on your lawn.\nNeighbors B: Oh, good morning, Neighbor A. You don't have to do that, you know.",
+      "input": "Oh, good morning, Neighbor A. You don't have to do that, you know.",
+      "ground_truth": "Nonsense, I enjoy it. It gives me a sense of accomplishment."
+    },
+    {
+      "turn_id": 29,
+      "session": "fifth",
+      "context": "Neighbors B: Oh, good morning, Neighbor A. You don't have to do that, you know.\nNeighbors A: Nonsense, I enjoy it. It gives me a sense of accomplishment.\nNeighbors B: Well, I appreciate your help, but I don't want you to feel obligated.",
+      "input": "Well, I appreciate your help, but I don't want you to feel obligated.",
+      "ground_truth": "No need for thanks. I do it for myself as much as I do it for you. It's a win-win."
+    },
+    {
+      "turn_id": 30,
+      "session": "fifth",
+      "context": "Neighbors B: Well, I appreciate your help, but I don't want you to feel obligated.\nNeighbors A: No need for thanks. I do it for myself as much as I do it for you. It's a win-win.\nNeighbors B: Well, I suppose I can't argue with that. You always do such a great job, too. Thank you, I suppose.",
+      "input": "Well, I suppose I can't argue with that. You always do such a great job, too. Thank you, I suppose.",
+      "ground_truth": "You're welcome. And don't forget, if you ever need help with anything else, just let me know."
+    },
+    {
+      "turn_id": 31,
+      "session": "fifth",
+      "context": "Neighbors B: Well, I suppose I can't argue with that. You always do such a great job, too. Thank you, I suppose.\nNeighbors A: You're welcome. And don't forget, if you ever need help with anything else, just let me know.\nNeighbors B: Actually, now that you mention it, I've been having some trouble with my fence. Do you know anything about carpentry?",
+      "input": "Actually, now that you mention it, I've been having some trouble with my fence. Do you know anything about carpentry?",
+      "ground_truth": "Funny you should ask. I used to do some woodworking back in the day. I'd be happy to take a look. "
+    },
+    {
+      "turn_id": 32,
+      "session": "fifth",
+      "context": "Neighbors B: Actually, now that you mention it, I've been having some trouble with my fence. Do you know anything about carpentry?\nNeighbors A: Funny you should ask. I used to do some woodworking back in the day. I'd be happy to take a look. \nNeighbors B: That would be amazing, thank you. ",
+      "input": "That would be amazing, thank you. ",
+      "ground_truth": "Wonderful! I'll bring my tools next Saturday. And while I'm at it, I can touch up those bushes I did last time. "
+    },
+    {
+      "turn_id": 33,
+      "session": "fifth",
+      "context": "Neighbors B: That would be amazing, thank you. \nNeighbors A: Wonderful! I'll bring my tools next Saturday. And while I'm at it, I can touch up those bushes I did last time. \nNeighbors B: Sounds like a plan, thank you again, Neighbor A. ",
+      "input": "Sounds like a plan, thank you again, Neighbor A. ",
+      "ground_truth": "It's no problem at all, Neighbor B. I'm always happy to help out a good neighbor. "
+    },
+    {
+      "turn_id": 34,
+      "session": "fifth",
+      "context": "Neighbors B: Sounds like a plan, thank you again, Neighbor A. \nNeighbors A: It's no problem at all, Neighbor B. I'm always happy to help out a good neighbor. \nNeighbors B: You truly are the best neighbor anyone could ask for. ",
+      "input": "You truly are the best neighbor anyone could ask for. ",
+      "ground_truth": "Well, I try my best. It's how I was raised. "
+    },
+    {
+      "turn_id": 35,
+      "session": "fifth",
+      "context": "Neighbors B: You truly are the best neighbor anyone could ask for. \nNeighbors A: Well, I try my best. It's how I was raised. \nNeighbors B: Speaking of which, how's your injury doing from that car accident a while back? ",
+      "input": "Speaking of which, how's your injury doing from that car accident a while back? ",
+      "ground_truth": "It's healing well, thank you for asking. The physical therapy is tough, but I'm determined to get better. "
+    },
+    {
+      "turn_id": 36,
+      "session": "fifth",
+      "context": "Neighbors B: Speaking of which, how's your injury doing from that car accident a while back? \nNeighbors A: It's healing well, thank you for asking. The physical therapy is tough, but I'm determined to get better. \nNeighbors B: That's great. Let me know if you need anything. ",
+      "input": "That's great. Let me know if you need anything. ",
+      "ground_truth": "Actually, I was hoping you could help me gather some signatures for a petition I'm putting together for the city council. "
+    },
+    {
+      "turn_id": 37,
+      "session": "fifth",
+      "context": "Neighbors B: That's great. Let me know if you need anything. \nNeighbors A: Actually, I was hoping you could help me gather some signatures for a petition I'm putting together for the city council. \nNeighbors B: Of course! What's the petition for? ",
+      "input": "Of course! What's the petition for? ",
+      "ground_truth": "It's related to road safety and traffic control. I have some concerns about how fast people are driving on our street, and I think this city council needs to do something about it. "
+    },
+    {
+      "turn_id": 38,
+      "session": "fifth",
+      "context": "Neighbors B: Of course! What's the petition for? \nNeighbors A: It's related to road safety and traffic control. I have some concerns about how fast people are driving on our street, and I think this city council needs to do something about it. \nNeighbors B: Absolutely, count me in. ",
+      "input": "Absolutely, count me in. ",
+      "ground_truth": "Thanks, Neighbor B! With the two of us working together, I'm sure we can make some real progress. "
+    },
+    {
+      "turn_id": 39,
+      "session": "fifth",
+      "context": "Neighbors B: Absolutely, count me in. \nNeighbors A: Thanks, Neighbor B! With the two of us working together, I'm sure we can make some real progress. \nNeighbors B: You can always count on me to have your back, Neighbor A. ",
+      "input": "You can always count on me to have your back, Neighbor A. ",
+      "ground_truth": "And I yours, Neighbor B. Now, let's get to work on that lawn."
+    }
+  ]
+}
