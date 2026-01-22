@@ -13,37 +13,67 @@ The framework consists of three main components:
 ## Project Structure
 
 ```
-persona2/
+persona-steering-cmaes/
 ├── persona_opt/          # Core optimization and steering modules
 │   ├── cmaes_persona_optimizer.py    # CMA-ES optimizer
 │   ├── svd_vector_builder.py         # SVD steering vector construction
 │   ├── internal_steering_l3.py       # Llama-3 activation steering
 │   ├── persona_judge_evaluator.py    # Persona-aware judge
+│   ├── evaluator.py                  # General evaluator
+│   ├── judge.py                      # Judge implementation
 │   ├── baselines/                    # Baseline methods
-│   │   ├── proposed.py               # Proposed method
-│   │   ├── meandiff.py              # Mean difference baseline
-│   │   ├── pca_steering.py          # PCA-based steering
-│   │   ├── prompt_persona.py        # Prompt-based persona
-│   │   └── random_search.py         # Random search baseline
-│   └── evaluation/                   # Evaluation modules
+│   │   ├── proposed.py               # Proposed SVD+CMA-ES method
+│   │   ├── meandiff.py               # Mean difference baseline
+│   │   ├── pca_steering.py           # PCA-based steering
+│   │   ├── prompt_persona.py         # Prompt-based persona
+│   │   └── random_search.py          # Random search baseline
+│   ├── evaluation/                   # Advanced evaluation modules
+│   │   ├── multi_judge.py            # Multi-judge evaluation
+│   │   ├── cross_layer.py            # Cross-layer analysis
+│   │   └── human_eval.py             # Human evaluation support
+│   └── utils/                        # Utility functions
 ├── persona_judge/        # Persona profile and judge prompt generation
-│   ├── persona_profile.py            # Profile generation
+│   ├── persona_profile.py            # Profile generation from conversations
 │   ├── feature_extractor.py          # Feature extraction
-│   └── sample_selector.py            # Representative sample selection
-├── scripts/              # Executable scripts
-│   ├── run_build_svd_vectors.py      # Build steering vectors
-│   ├── run_persona_optimization.py   # Run CMA-ES optimization
-│   ├── run_baseline_comparison.py    # Compare with baselines
-│   └── generate_phase1_report.py     # Generate evaluation reports
-├── data/                 # Data and steering vectors
-│   ├── steering_vectors_v2/          # R1-R5 trait vectors
-│   ├── persona_profiles/             # Persona trait scores
-│   └── eval_prompts/                 # Evaluation prompts
-├── personas/             # Persona configurations (13 personas)
-├── results/              # Experimental results
-├── config/               # Configuration files
-├── docs/                 # Documentation
-└── src/                  # Source utilities
+│   ├── sample_selector.py            # Representative sample selection
+│   ├── judge_prompt_builder.py       # Judge prompt construction
+│   └── conversation_loader.py        # Load and parse conversations
+├── scripts/              # Executable scripts (150+ scripts)
+│   ├── run_build_svd_vectors.py      # Build SVD steering vectors
+│   ├── run_persona_optimization.py   # Single persona CMA-ES optimization
+│   ├── run_7personas_optimization.py # Multi-persona optimization
+│   ├── run_baseline_comparison.py    # Compare baselines
+│   ├── generate_phase1_report.py     # Phase 1 evaluation reports
+│   ├── evaluate_all_conditions.py    # Comprehensive evaluation
+│   ├── statistical_analysis.py       # Statistical significance tests
+│   └── ...                           # Many more analysis scripts
+├── personas/             # Persona configurations (35 personas)
+│   ├── episode-184019_A/             # Example persona
+│   │   ├── persona_profile.txt       # Natural language profile
+│   │   ├── persona_features.json     # Extracted features
+│   │   ├── persona_samples.json      # Representative samples
+│   │   ├── final_judge_prompt.txt    # Judge evaluation prompt
+│   │   └── raw_conversations.json    # Source conversations
+│   └── ...
+├── personas_cc/          # ConvAI2 persona train/test splits
+├── persona_profiles/     # Pre-generated persona profiles (JSON)
+├── data/                 # Shared data and configurations
+│   ├── all_persona_profiles.json     # All persona profiles
+│   ├── personas_final_10.txt         # Selected 10 personas
+│   └── report_data_7personas.json    # 7 personas experiment data
+├── docs/                 # Documentation and guides
+│   ├── CMAES_OPTIMIZATION_GUIDE.md   # Optimization guide
+│   ├── EVALUATION_GUIDE.md           # Evaluation instructions
+│   ├── LAMP_EXPERIMENTAL_DESIGN.md   # LaMP experiments
+│   └── ...                           # Implementation summaries
+├── experiments/          # Experiment-specific code
+│   ├── base_vs_steering_analysis/    # Baseline vs steering analysis
+│   ├── adaptive_trait_selection/     # Adaptive trait methods
+│   └── two_trait_steering/           # 2-trait experiments
+├── notebooks/            # Jupyter notebooks for analysis
+├── SETUP_GUIDE.md        # Comprehensive setup instructions
+├── LICENSE               # MIT License
+└── README.md             # This file
 
 ```
 
@@ -173,21 +203,17 @@ python3 scripts/generate_phase1_report.py \
 
 ## Available Personas
 
-The repository includes 13 pre-configured personas from conversational datasets:
+The repository includes 35 pre-configured personas from conversational datasets. Example personas include:
 
 - episode-184019_A
 - episode-239427_A
 - episode-118328_B
-- episode-5289_A
-- episode-132247_A
-- episode-166805_A
-- episode-196697_B
 - episode-225888_A
-- episode-29600_A
-- episode-259424_A
-- episode-105009_A
-- episode-107088_B
-- episode-88279_B
+- episode-134226_A
+- episode-179307_A
+- episode-137872_B
+- episode-158821_B
+- ...and 27 more
 
 Each persona directory contains:
 - `persona_profile.txt` - Natural language profile
