@@ -149,3 +149,4 @@ persona-steering-cmaes/
 
 # macOS
 .DS_Store
+test_openai_api.py
